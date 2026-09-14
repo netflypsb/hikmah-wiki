@@ -107,9 +107,9 @@ Before declaring any phase complete:
 
 ## GitHub / Vercel Integration
 
-- **GitHub repo:** `github.com/hafizhmz/qaradawi-library` (or user-specified)
+- **GitHub repo:** `github.com/netflypsb/hikmah-wiki` (or user-specified)
 - **Vercel project:** linked to GitHub repo, auto-deploy on push to `main`
-- **Tokens:** Use `GITHUB_TOKEN` and `VERCEL_TOKEN` from environment
+- **Tokens:** Use environment variables — never commit tokens to the repo
 - **CI/CD:** GitHub Actions runs `wiki_lint.py` on every PR, builds site on every push
 
 ## Book Registry

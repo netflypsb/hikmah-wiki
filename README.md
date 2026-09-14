@@ -54,27 +54,10 @@ Note: not all source material is currently available on Bayt al-Hikmah. New refe
 - **v2.0** — hikmah-engine (forked from newsroom). Enriches existing content without overwriting. New content goes through automated pipeline.
 - See MANIFEST.json for per-page provenance tracking.
 
-## GitHub Publication
-
-**CRITICAL: Both hikmah-engine and hikmah-wiki MUST be published to the `netflypsb` GitHub account.**
-
-| Repo | URL | Token |
-|------|-----|-------|
-| hikmah-engine | `github.com/netflypsb/hikmah-engine` | `GITHUB_TOKEN_NETFLYPS` |
-| hikmah-wiki | `github.com/netflypsb/hikmah-wiki` | `GITHUB_TOKEN_NETFLYPS` |
-
-**NEVER push to `facelessmagister` for hikmah repos.** The existing Islamic wiki repos on facelessmagister (quran-wiki, fi-zilal-wiki, jeel-mawoud-wiki, qaradawi-library) are the LEGACY repos from before the hikmah project. They will be archived after migration.
-
-The `GITHUB_TOKEN_NETFLYPS` is stored in `~/.hermes/.env`. To use it with git:
-```bash
-source ~/.hermes/.env
-git remote add origin https://netflypsb:${GITHUB_TOKEN_NETFLYPS}@github.com/netflypsb/hikmah-wiki.git
-```
-
 ## Related Projects
 
 - **Bayt al-Hikmah** (`/root/projects/bayt-al-hikmah/`) — Separate project. Human-facing website for Islamic references. No workflow connection to hikmah. Both projects share the same source material (original Islamic references).
-- **Existing wiki repos** (facelessmagister) — Legacy repos being superseded by hikmah-wiki monorepo.
+- **Existing wiki repos** (legacy) — Legacy repos being superseded by hikmah-wiki monorepo.
 
 ## Skills
 

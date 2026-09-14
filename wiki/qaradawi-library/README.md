@@ -130,7 +130,7 @@ git add -A && git commit -m "feat: ingest {book}" && git push
 - **Publisher:** Al-Falah Foundation for Translation, Publication & Distribution
 - **Source texts:** Archive.org open-access PDFs
 - **Library Curation:** Hafiz HMZ + Hermes Agent
-- **Repository:** [github.com/facelessmagister/qaradawi-library](https://github.com/facelessmagister/qaradawi-library)
+- **Repository:** [github.com/netflypsb/hikmah-wiki](https://github.com/netflypsb/hikmah-wiki)
 
 ---
 

@@ -11,24 +11,16 @@ source material and curated wiki content that was previously scattered across /r
 | **Location** | `/root/hikmah/` |
 | **Engine repo** | `github.com/netflypsb/hikmah-engine` (MIT license) |
 | **Content repo** | `github.com/netflypsb/hikmah-wiki` (CC BY-SA 4.0 license) |
-| **GitHub account** | `netflypsb` (email: netflypsb@gmail.com) |
-| **GitHub token** | `GITHUB_TOKEN_NETFLYPS` in `~/.hermes/.env` |
 | **Source material website** | https://bayt-al-hikmah-nine.vercel.app/ (Bayt al-Hikmah) |
 
-## CRITICAL — GitHub Account Rule
+## GitHub Account Rule
 
 **Both hikmah-engine and hikmah-wiki MUST be pushed to the `netflypsb` GitHub account.**
-**NEVER push hikmah repos to `facelessmagister`.**
+**NEVER push hikmah repos to other GitHub accounts.**
 
-The existing wiki repos on facelessmagister (quran-wiki, fi-zilal-wiki, jeel-mawoud-wiki,
+The existing wiki repos on other accounts (quran-wiki, fi-zilal-wiki, jeel-mawoud-wiki,
 qaradawi-library) are LEGACY repos from before the hikmah project. They will be archived
 after the hikmah-wiki monorepo migration is complete.
-
-To push to netflypsb:
-```bash
-source ~/.hermes/.env
-git remote add origin https://netflypsb:${GITHUB_TOKEN_NETFLYPS}@github.com/netflypsb/hikmah-wiki.git
-```
 
 ## Architecture
 
@@ -137,5 +129,5 @@ They will be updated to reference `/root/hikmah/` paths in a follow-up step.
   Both projects share the same source material (original Islamic references). Bayt al-Hikmah is the
   human-facing website; hikmah-wiki is the machine-readable wiki.
 - **NEVER** mix hikmah content with Genesis business data.
-- **NEVER** push hikmah repos to facelessmagister GitHub account.
+- **NEVER** push hikmah repos to any GitHub account other than `netflypsb`.
 - **NEVER** modify sources/ after ingestion — raw sources are immutable.
