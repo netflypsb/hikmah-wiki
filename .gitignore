@@ -1,0 +1,95 @@
+# Hikmah Wiki — Content Repository .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Cache and operational
+.cache/
+.stats/
+.ops/
+.plans/
+
+# Wiki-generated artifacts (auto-generated, not curated)
+wiki/*/wiki-generated/
+wiki/*/.tools/wiki-generated/
+
+# Source binaries — too large for git, referenced by metadata
+# PDFs and OCR page images are NOT stored in the content repo
+sources/**/*.pdf
+sources/**/*.PDF
+sources/fathi-yakan/*/pages/
+sources/fathi-yakan/*/ocr_text/
+
+# Quran API corpus — 12,000+ files, too large for git
+# Metadata stubs and scripts ARE included
+sources/quran/arabic/
+sources/quran/translations/
+sources/quran/tafsir/
+sources/quran/metadata/
+
+# Qaradawi extracted text — stored on Bayt al-Hikmah
+sources/qaradawi/extracted/
+sources/qaradawi/pdfs/
+
+# Jeel Mawoud extracted text
+sources/jeel-mawoud/extracted/
+
+# Fi Zilal raw text (available on Bayt al-Hikmah)
+sources/fi-zilal/
+
+# To Be a Muslim source text (single file — include if small)
+# sources/to-be-a-muslim/
+
+# Notes build artifacts
+notes/*.aux
+notes/*.log
+notes/*.out
+notes/*.toc
+notes/*.synctex.gz
+
+# Git (for sub-wiki repos that were copied with their .git)
+wiki/*/.git/
+wiki/*/.gitignore
+
+# Qaradawi website (not wiki content)
+wiki/qaradawi-library/website/
+wiki/qaradawi-library/*.pdf
+wiki/qaradawi-library/*.pptx
+wiki/qaradawi-library/family-halaqah-course.*
+wiki/qaradawi-library/halaqah-*
+
+# Presentations (binary, not wiki content)
+wiki/jeel-mawoud-wiki/presentations/
+
+# Symlinks (raw/ dirs are symlinks to sources/)
+wiki/*/raw
+
+# Large binary files in notes
+notes/*.pdf
+notes/*.pptx
+notes/slide_images/
+notes/pdf_images/
+notes/pdf_analysis/

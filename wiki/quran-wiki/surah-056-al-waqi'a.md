@@ -1,0 +1,1 @@
+surah-056-al-waqi'ah.md

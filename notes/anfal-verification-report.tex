@@ -1,0 +1,209 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,breakable}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{setspace}
+\setmainfont{Noto Sans}
+\definecolor{bgpage}{HTML}{FAF6F0}
+\definecolor{primary}{HTML}{1B4D3E}
+\definecolor{accent}{HTML}{C9A857}
+\definecolor{red}{HTML}{C45C3E}
+\definecolor{green}{HTML}{4A8060}
+\definecolor{textmain}{HTML}{1C1917}
+\definecolor{textmuted}{HTML}{57534E}
+\definecolor{bgcard}{HTML}{F5EFE3}
+\geometry{top=2.5cm, bottom=2.5cm, left=2.2cm, right=2.2cm}
+\pagecolor{bgpage}
+\color{textmain}
+\hypersetup{colorlinks=true, linkcolor=primary, urlcolor=primary, pdftitle={Verification Report}, pdfauthor={Tarbiyyah Research}}
+\setstretch{1.15}
+\newtcolorbox{passbox}{breakable, colback=bgcard, colframe=green, boxrule=0.8pt, arc=3pt, left=10pt, right=10pt, top=6pt, bottom=6pt}
+\newtcolorbox{failbox}{breakable, colback=bgcard, colframe=red, boxrule=0.8pt, arc=3pt, left=10pt, right=10pt, top=6pt, bottom=6pt}
+\newtcolorbox{infobox}{breakable, colback=bgcard, colframe=primary, boxrule=0.8pt, arc=3pt, left=10pt, right=10pt, top=6pt, bottom=6pt}
+
+\title{\textbf{\color{primary} Verification Report}\\[0.3cm]
+\large Surah Al-Anfal (8) Verses 24-37\\
+\normalsize Research Notes PDF and PowerPoint Presentation}
+\author{Tarbiyyah Research}
+\date{\today}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\section*{Purpose}
+
+This report documents a systematic verification of all content in the research deliverables for Surah Al-Anfal (8) verses 24-37, produced as a PDF (35 pages) and PPTX (29 slides). The verification checks every piece of content against the original source corpus.
+
+\section*{Methodology}
+
+\begin{infobox}
+\textbf{Sources checked against:}
+\begin{itemize}
+\item Arabic text: \texttt{raw/arabic/008-*.md} (dual-sourced from Al Quran Cloud + Quran.com)
+\item Translations: \texttt{raw/translations/surah\_008/ayah\_*.json} (5 editions)
+\item Tafsir: \texttt{raw/tafsir/008.jsonl} (Ibn Kathir + Muyassar)
+\end{itemize}
+
+\textbf{Verification methods:}
+\begin{enumerate}
+\item \textbf{Arabic text}: Exact string match between source corpus and PDF .tex file for all 14 verses
+\item \textbf{Translations}: Key-phrase fingerprint matching (first 80 characters) for all 70 translations (14 verses $\times$ 5 editions)
+\item \textbf{Tafsir Ibn Kathir}: Word-level matching ($\geq$80\% of distinctive words from first 200 chars must appear in the PDF)
+\item \textbf{Tafsir Muyassar}: Exact string match for all 14 Arabic tafsir entries
+\item \textbf{Hadith/historical claims}: Each factual claim in the thematic synthesis checked against the source tafsir text (proper nouns, key events)
+\item \textbf{PPTX tafsir summaries}: Each summary checked against source tafsir for factual accuracy
+\item \textbf{Verse-to-theme assignment}: Each verse's content verified against its assigned theme
+\item \textbf{JSONL ordering check}: Verified that the \texttt{ayah} field in each JSONL line matches the line number (line N = ayah N)
+\end{enumerate}
+\end{infobox}
+
+\section*{Results Summary}
+
+\begin{tabular}{lrl}
+\toprule
+\textbf{Verification Item} & \textbf{Count} & \textbf{Result} \\
+\midrule
+Arabic text (14 verses) & 14/14 & \textcolor{green}{\textbf{PASS}} \\
+Translations (70 entries) & 70/70 & \textcolor{green}{\textbf{PASS}} \\
+Tafsir Ibn Kathir (14 verses) & 12/14 & \textcolor{red}{\textbf{FAIL: 2 swapped}} \\
+Tafsir Muyassar (14 verses) & 12/14 & \textcolor{red}{\textbf{FAIL: 2 swapped}} \\
+Hadith/historical claims & 10/10 & \textcolor{green}{\textbf{PASS}} \\
+PPTX tafsir summaries & 14/14 & \textcolor{green}{\textbf{PASS}} \\
+Verse-to-theme assignment & 14/14 & \textcolor{green}{\textbf{PASS}} \\
+\bottomrule
+\end{tabular}
+
+\section*{Critical Finding: Tafsir Swap (Verses 25 and 26)}
+
+\begin{failbox}
+\textbf{Issue:} The raw tafsir JSONL file (\texttt{008.jsonl}) has the tafsir for verses 25 and 26 in the \textbf{wrong order}.
+
+\textbf{Root cause:} The Al Quran Cloud API returned the tafsir entries for verses 25 and 26 in reversed order. The JSONL file has:
+\begin{itemize}
+\item Line 25: \texttt{ayah=26} (tafsir about ``Reminding Muslims of previous weakness'')
+\item Line 26: \texttt{ayah=25} (tafsir about ``Warning against encompassing Fitnah'')
+\end{itemize}
+
+The extraction code used line number as the ayah number (line N = ayah N), which was correct for all other verses but wrong for these two.
+
+\textbf{Impact on PDF:}
+\begin{itemize}
+\item Verse 8:25 (``fear a trial'') displays tafsir about ``remembering past weakness'' --- \textbf{WRONG}
+\item Verse 8:26 (``remember when you were few'') displays tafsir about ``warning against fitnah'' --- \textbf{WRONG}
+\end{itemize}
+
+\textbf{Impact on PPTX:} \textbf{No impact.} The PPTX tafsir summaries were written based on verse meaning (not the raw tafsir text), so they are correct. The 8:25 summary correctly describes fitnah, and the 8:26 summary correctly describes past weakness.
+
+\textbf{Impact on Arabic text and translations:} \textbf{None.} These come from separate files (\texttt{raw/arabic/} and \texttt{raw/translations/}) which are correctly ordered by filename.
+\end{failbox}
+
+\section*{Detailed Verification Results}
+
+\subsection*{1. Arabic Text --- PASS}
+
+All 14 Arabic verses (8:24 through 8:37) were verified by exact string match between the source corpus (\texttt{raw/arabic/008-*.md}) and the PDF .tex file. All 14 matched exactly. The Arabic text uses Uthmani script, dual-sourced from Al Quran Cloud and Quran.com, with character-level discrepancy analysis performed at corpus build time.
+
+\subsection*{2. Translations --- PASS}
+
+All 70 translations (14 verses $\times$ 5 editions) were verified by key-phrase fingerprint matching. The first 80 characters of each source translation were checked against the .tex file, with all 70 matching. The 5 editions verified:
+\begin{itemize}
+\item Sahih International (English)
+\item Marmaduke Pickthall (English)
+\item Abdullah Yusuf Ali (English)
+\item Muhammad Asad (English)
+\item Abdullah Muhammad Basmeih (Malay)
+\end{itemize}
+
+\subsection*{3. Tafsir Ibn Kathir --- FAIL (2 of 14 swapped)}
+
+12 of 14 tafsir entries are correctly mapped. The tafsir for verses 25 and 26 are swapped due to a JSONL ordering issue in the source API data (see Critical Finding above). The tafsir \textit{content itself} is accurate --- it is the \textit{verse-to-tafsir mapping} that is wrong for these two verses.
+
+For the 12 correctly mapped verses (24, 27-37), the Ibn Kathir text in the PDF matches the source exactly (word-level verification: $\geq$80\% of distinctive words from the first 200 characters present).
+
+\subsection*{4. Tafsir Muyassar --- FAIL (2 of 14 swapped)}
+
+Same issue as Ibn Kathir: the Muyassar tafsir for verses 25 and 26 are swapped. All 14 entries were verified by exact string match; 12 passed, 2 failed (the swapped pair). The Muyassar text itself is accurate --- only the mapping is wrong.
+
+\subsection*{5. Hadith and Historical Claims --- PASS}
+
+10 key factual claims in the thematic synthesis were checked against the source tafsir:
+
+\begin{tabular}{lll}
+\toprule
+\textbf{Verse} & \textbf{Claim} & \textbf{Result} \\
+\midrule
+8:24 & Al-Bukhari: Abu Sa'id bin Al-Mu'alla story & \textcolor{green}{PASS} \\
+8:24 & Prophet taught ``greatest Surah'' (Al-Fatihah) & \textcolor{green}{PASS} \\
+8:25 & Ibn Kathir cites battle of Al-Jamal & \textcolor{green}{PASS} \\
+8:27 & Hatib bin Abi Balta'ah wrote to Quraysh & \textcolor{green}{PASS} \\
+8:27 & Umar sought permission to execute Hatib & \textcolor{green}{PASS} \\
+8:30 & Iblis appeared as old man at Dar An-Nadwah & \textcolor{green}{PASS} \\
+8:31 & An-Nadr bin Al-Harith visited Persia, learned of Rustum & \textcolor{green}{PASS} \\
+8:31 & An-Nadr captured at Badr and executed & \textcolor{green}{PASS} \\
+8:36 & Quraysh spent wealth on Uhud campaign after Badr & \textcolor{green}{PASS} \\
+8:36 & Abu Sufyan returned with caravan intact & \textcolor{green}{PASS} \\
+\bottomrule
+\end{tabular}
+
+\subsection*{6. PPTX Tafsir Summaries --- PASS}
+
+All 14 PPTX tafsir summaries were checked for factual accuracy against the source tafsir. Key proper nouns and events mentioned in each summary were verified to appear in the corresponding source tafsir text. The summaries for verses 25 and 26 are correct (they describe the right verse content), despite the source tafsir being swapped in the raw data.
+
+Note: The PPTX summaries are \textit{curated} (not verbatim), so they naturally contain interpretive language and abbreviations. The verification confirms that all factual claims (names, events, hadith references) in the summaries are grounded in the source tafsir.
+
+\subsection*{7. Verse-to-Theme Assignment --- PASS}
+
+All 14 verses were verified as correctly assigned to their thematic groups:
+\begin{itemize}
+\item Theme 1 (8:24-25): Call to Life and Fitnah --- verified
+\item Theme 2 (8:26-28): Divine Favour and Betrayal --- verified
+\item Theme 3 (8:29): Taqwa and the Criterion --- verified
+\item Theme 4 (8:30-33): Quraysh's Plots and Allah's Protection --- verified
+\item Theme 5 (8:34-37): Deserved Punishment and Futile Spending --- verified
+\end{itemize}
+
+\section*{Recommendations}
+
+\begin{infobox}
+\textbf{Immediate fix required:}
+\begin{enumerate}
+\item \textbf{Fix the tafsir swap for verses 25 and 26 in the PDF.} The extraction code should use the \texttt{ayah} field from the JSONL data rather than the line number. Alternatively, manually swap the tafsir entries for these two verses in the .tex file and recompile.
+\item \textbf{Report the JSONL ordering issue to the Quran Wiki corpus maintainer.} The \texttt{008.jsonl} file should be sorted by the \texttt{ayah} field, not by the API response order.
+\end{enumerate}
+
+\textbf{No fix required:}
+\begin{itemize}
+\item Arabic text, translations, PPTX summaries, thematic analysis, and hadith references are all accurate.
+\item The PPTX presentation is unaffected by the tafsir swap.
+\end{itemize}
+\end{infobox}
+
+\section*{Verification Scope and Limitations}
+
+\begin{itemize}
+\item This verification checked the content \textit{as presented in the deliverables} against the \textit{Quran Wiki raw corpus}. It did not independently verify the corpus against the original API sources (Al Quran Cloud, Quran.com).
+\item The corpus itself was built on 2026-05-10 with dual-source verification for Arabic text. The tafsir was sourced from Al Quran Cloud API only (no cross-reference for tafsir).
+\item Tafsir Ibn Kathir is the \textit{abridged} edition. Full Ibn Kathir contains additional material not included here.
+\item Hadith references within the tafsir were verified as \textit{present in the tafsir text} but were not independently checked against the original hadith collections (Sahih al-Bukhari, Sahih Muslim, etc.).
+\end{itemize}
+
+\section*{Conclusion}
+
+The research deliverables are \textbf{substantially accurate} with one critical exception: the tafsir for verses 25 and 26 are swapped in the PDF due to a source data ordering issue. All other content --- Arabic text, translations, thematic analysis, hadith references, and PPTX summaries --- is verified correct. The tafsir swap should be fixed before the PDF is used for scholarly purposes.
+
+\vspace{1cm}
+\hrule
+\vspace{0.3cm}
+\noindent\small\color{textmuted}
+Report generated: \today\\
+Verification performed by: Hermes Agent (Tarbiyyah Research)\\
+Source corpus: \texttt{/root/tarbiyyah/quran-wiki/}\\
+Deliverables checked: \texttt{anfal-8-24-37-research.pdf}, \texttt{anfal-8-24-37-presentation.pptx}
+
+\end{document}

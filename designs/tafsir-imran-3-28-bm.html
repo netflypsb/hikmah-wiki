@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sempadan Taat Setia — Tafsir Surah Ali 'Imran 3:28 | Tarbiyyah</title>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:wght@400;500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-primary: #1B4D3E;
+      --color-primary-dark: #164038;
+      --color-secondary: #6B9080;
+      --color-accent: #C9A857;
+      --color-surface: #FAF6F0;
+      --color-surface-raised: #EDE5D8;
+      --color-border: #D9CFC2;
+      --color-text: #1C1917;
+      --color-text-muted: #57534E;
+      --color-terracotta: #A0522D;
+      --color-gold-pale: #E8D5A3;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: var(--color-text);
+      background: var(--color-surface);
+    }
+
+    a { color: var(--color-primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .hero {
+      background: var(--color-surface-raised);
+      padding: 80px 24px 64px;
+      text-align: center;
+      position: relative;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill='none' stroke='%23C9A857' stroke-width='0.4'%3E%3Cpath d='M20 0v40M0 20h40M5 5l30 30M5 35l30-30'/%3E%3Ccircle cx='20' cy='20' r='8'/%3E%3Ccircle cx='20' cy='20' r='16'/%3E%3C/g%3E%3C/svg%3E");
+      background-repeat: repeat;
+      background-size: 40px 40px;
+      opacity: 0.04;
+      pointer-events: none;
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 720px; margin: 0 auto; }
+    .hero-badge {
+      display: inline-block;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--color-accent);
+      border: 1px solid var(--color-accent);
+      padding: 6px 16px;
+      margin-bottom: 24px;
+    }
+    .hero h1 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 40px;
+      font-weight: 700;
+      color: var(--color-primary);
+      line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    .hero-subtitle {
+      font-family: 'Crimson Pro', serif;
+      font-size: 22px;
+      font-weight: 400;
+      color: var(--color-text-muted);
+      line-height: 1.4;
+    }
+    .hero-meta {
+      font-size: 14px;
+      color: var(--color-text-muted);
+      margin-top: 24px;
+      font-style: italic;
+    }
+
+    .content {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+    .intro {
+      font-family: 'Crimson Pro', serif;
+      font-size: 22px;
+      line-height: 1.6;
+      color: var(--color-text-muted);
+      border-left: 4px solid var(--color-accent);
+      padding-left: 24px;
+      margin: 48px 0 40px;
+    }
+
+    h2 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--color-primary);
+      margin: 56px 0 20px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--color-border);
+    }
+    h3 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 24px;
+      font-weight: 500;
+      color: var(--color-primary);
+      margin: 36px 0 16px;
+    }
+    h4 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 20px;
+      font-weight: 400;
+      color: var(--color-text);
+      margin: 28px 0 12px;
+    }
+
+    .arabic-ayah {
+      font-family: 'Amiri', serif;
+      font-size: 22px;
+      font-style: italic;
+      color: var(--color-primary);
+      text-align: center;
+      padding: 32px 40px;
+      border-right: 3px solid var(--color-accent);
+      border-left: 3px solid var(--color-accent);
+      background: var(--color-surface-raised);
+      margin: 32px 0;
+      line-height: 1.9;
+    }
+    .ayah-reference {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      color: var(--color-accent);
+      text-align: center;
+      margin-top: 12px;
+      font-style: normal;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    .ayah-translation {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 18px;
+      font-style: italic;
+      color: var(--color-text-muted);
+      text-align: center;
+      margin-top: 16px;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+
+    .hadith-block {
+      font-family: 'Amiri', serif;
+      font-size: 20px;
+      color: var(--color-text);
+      background: var(--color-surface-raised);
+      padding: 28px 32px;
+      border-radius: 8px;
+      border-top: 4px solid var(--color-primary);
+      margin: 28px 0;
+      line-height: 1.8;
+    }
+    .hadith-chain {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      color: var(--color-text-muted);
+      margin-top: 12px;
+      font-style: italic;
+    }
+    .hadith-grade {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #fff;
+      background: var(--color-primary);
+      padding: 3px 10px;
+      border-radius: 3px;
+      margin-top: 8px;
+    }
+
+    .reference-callout {
+      background: var(--color-surface-raised);
+      border-left: 4px solid var(--color-accent);
+      padding: 16px 20px;
+      margin: 20px 0;
+      font-size: 15px;
+      color: var(--color-text);
+    }
+    .reference-callout strong {
+      color: var(--color-terracotta);
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    .scholarly-list {
+      list-style: none;
+      counter-reset: argument;
+    }
+    .scholarly-list li {
+      counter-increment: argument;
+      margin-bottom: 16px;
+      padding-left: 44px;
+      position: relative;
+    }
+    .scholarly-list li::before {
+      content: counter(argument);
+      position: absolute;
+      left: 0;
+      top: 3px;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--color-primary);
+      color: #fff;
+      font-family: 'Crimson Pro', serif;
+      font-size: 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .app-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin: 28px 0;
+    }
+    .app-card {
+      background: var(--color-surface-raised);
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 24px;
+    }
+    .app-card h4 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 18px;
+      color: var(--color-primary);
+      margin: 0 0 12px 0;
+    }
+    .app-card p {
+      font-size: 16px;
+      line-height: 1.65;
+      color: var(--color-text);
+    }
+
+    .references-section {
+      margin-top: 64px;
+      padding-top: 40px;
+      border-top: 3px solid var(--color-border);
+    }
+    .references-section h2 {
+      border-bottom: 2px solid var(--color-accent);
+      color: var(--color-primary);
+    }
+    .references-list {
+      list-style: none;
+      counter-reset: ref;
+    }
+    .references-list li {
+      counter-increment: ref;
+      margin-bottom: 14px;
+      padding-left: 36px;
+      position: relative;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    .references-list li::before {
+      content: "[" counter(ref) "]";
+      position: absolute;
+      left: 0;
+      top: 0;
+      font-weight: 600;
+      color: var(--color-accent);
+      font-size: 13px;
+    }
+    .ref-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 15px;
+      color: var(--color-primary);
+    }
+    .ref-author {
+      font-weight: 600;
+    }
+    .ref-detail {
+      color: var(--color-text-muted);
+    }
+
+    .section-divider {
+      text-align: center;
+      margin: 48px 0;
+      opacity: 0.3;
+    }
+    .section-divider svg {
+      width: 48px;
+      height: 48px;
+    }
+
+    sup {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      color: var(--color-accent);
+      vertical-align: super;
+      cursor: pointer;
+    }
+
+    @media (max-width: 640px) {
+      .hero { padding: 64px 20px 48px; }
+      .hero h1 { font-size: 32px; }
+      .hero-subtitle { font-size: 20px; }
+      .arabic-ayah { font-size: 18px; padding: 24px; }
+      .hadith-block { font-size: 18px; padding: 24px; }
+      h2 { font-size: 28px; }
+      h3 { font-size: 22px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">Kajian Tafsir</div>
+      <h1>Sempadan Taat Setia</h1>
+      <p class="hero-subtitle">Tafsir, pengajaran, dan aplikasi praktikal Surah Ali 'Imran 3:28</p>
+      <p class="hero-meta">Disusun oleh Tarbiyyah | Berdasarkan Tafsir Ibn Kathir &amp; sumber-sumber autentik</p>
+    </div>
+  </header>
+
+  <main class="content">
+
+    <div class="intro">
+      Ayat ini menetapkan sempadan terluar taat setia bagi orang beriman. Ia merupakan salah satu pernyataan al-Qur'an yang paling tegas tentang politik iman, psikologi pengabdian, dan batas-batas fleksibiliti taktikal. Pemahaman tafsirnya adalah wajib bagi setiap Muslim yang menavigasi identiti moden, hubungan sosial, dan kehidupan awam.
+    </div>
+
+    <h2>1. Ayat</h2>
+
+    <div class="arabic-ayah" lang="ar" dir="rtl">
+      يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِن دُونِ الْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ إِلَّا أَن تَتَّقُوا مِنْهُمْ تُقَاةً ۗ وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ ۖ وَإِلَى اللَّهِ الْمَصِيرُ
+    </div>
+    <p class="ayah-reference">Surah Ali 'Imran 3:28</p>
+
+    <p class="ayah-translation">
+      "Wahai orang-orang yang beriman, janganlah kamu menjadikan orang-orang kafir sebagai teman rapat (untuk menggantikan teman rapat dari) orang-orang yang beriman. Sesungguhnya sesiapa yang berbuat demikian, maka tiadalah baginya (harapan mendapat pertolongan) dari Allah dengan sesuatu pun, kecuali (dalam keadaan) kamu takut kepada mereka (kerana menimbulkan bahaya kepada kamu). Dan Allah mengingatkan kamu (supaya kamu takut) kepadaNYA (kerana Dia lah yang akan membalas perbuatan kamu). Dan kepada Allah jualah tempat kembali."
+    </p>
+
+    <p style="text-align:center;font-size:14px;color:var(--color-text-muted);font-style:italic;margin-top:8px;">
+      — Terjemahan: Abdullah Muhammad Basmeih (versi Malaysia)
+    </p>
+
+    <h2>2. Tafsir Ibn Kathir</h2>
+
+    <h3>2.1 Larangan Wilayah (Pengabdian / Taat Setia)</h3>
+
+    <p>Imam Ibn Kathir (rahimahullah) menjelaskan bahawa perkataan <em>awliyaa'</em> (أَوْلِيَاءَ) dalam ayat ini merujuk kepada sahabat karib, sekutu rapat, orang yang dipercayai, dan mereka yang menjadi sandaran perlindungan serta nasihat <strong>berlawanan dengan orang beriman</strong>.<sup>[1]</sup> Larangan ini adalah <strong>umum</strong>: ia terpakai kepada sebarang keadaan di mana orang beriman mengutamakan orang-orang kafir — dalam hal taat setia, perikatan politik, atau kebergantungan sosial — berbanding komuniti beriman.</p>
+
+    <p>Ibn Kathir menyatakan bahawa ayat ini diturunkan berkaitan dengan beberapa peristiwa di Madinah, termasuk kes <strong>Hatib ibn Abi Balta'ah</strong>, yang menulis surat kepada Quraysh memberi amaran tentang penaklukan Makkah yang akan dilakukan oleh Nabi SAW. Apabila surat tersebut disekat dan dibawa kepada Nabi SAW, Hatib menerangkan bahawa beliau mempunyai keluarga yang masih berada di Makkah dan beliau bimbang untuk keselamatan mereka. Walaupun motif beliau adalah kekeluargaan dan bukan ideologi, tindakan ini secara lahiriyah merupakan pengkhianatan terhadap komuniti Muslim demi pihak musuh.<sup>[2]</sup></p>
+
+    <div class="hadith-block" lang="ar" dir="rtl">
+      فَقَالَ عُمَرُ: يَا رَسُولَ اللَّهِ، دَعْنِي أَضْرِبَ عُنُقَ هَذَا الْمُنَافِقِ. فَقَالَ: «إِنَّهُ قَدْ شَهِدَ بَدْرًا، وَلَعَلَّ اللَّهَ اطَّلَعَ عَلَى أَهْلِ بَدْرٍ فَقَالَ: اعْمَلُوا مَا شِئْتُمْ، فَقَدْ غَفَرْتُ لَكُمْ»
+    </div>
+    <p class="hadith-chain">
+    Diriwayatkan dalam Sahih al-Bukhari, Kitab al-Maghazi [62], Hadis no. 3007; juga dalam Sahih Muslim, Kitab Fada'il as-Sahabah [33], Hadis no. 2494. Apabila surat Hatib disekat, Umar ibn al-Khattab meminta izin untuk menghukum matinya, berkata: "Biarkan aku pancung Munafik ini!" Nabi SAW menjawab: "Dia menyaksikan Badr; mungkin Allah melihat kepada orang Badr lalu berkata: 'Lakukanlah apa saja yang kamu kehendaki, kerana Aku telah mengampunimu.'"
+    </p>
+    <span class="hadith-grade">Sahih — Muttafaq 'Alaih (Disepakati Bukhari dan Muslim)</span>
+
+    <h3>2.2 Pengecualian: Berlindung (Taqiyyah)</h3>
+
+    <p>Ayat ini mengandungi pengecualian penting: <em>"kecuali (dalam keadaan) kamu takut kepada mereka"</em> (إِلَّا أَن تَتَّقُوا مِنْهُمْ تُقَاةً). Ibn Kathir menjelaskan bahawa ini bermaksud menunjukkan persahabatan lahiriyah sebagai langkah perlindungan apabila seseorang berada di bawah ancaman bahaya — sambil dalam hati membenci mereka — adalah dibenarkan.<sup>[3]</sup></p>
+
+    <p>Beliau membezakan ini daripada doktrin <em>taqiyyah</em> golongan Syiah, yang membolehkan menyembunyikan keimanan tanpa had sebagai prinsip agama yang umum. Dalam pemahaman Sunni klasik, bentuk <em>taqiyyah</em> ini:</p>
+
+    <ul class="scholarly-list">
+      <li><strong>Terhad</strong> — ia hanya terpakai apabila terdapat bahaya nyawa, harta benda, atau akidah yang benar-benar nyata. Ia bukan lesen umum untuk tinggal di kalangan orang kafir sambil berpura-pura menjadi salah seorang daripada mereka.</li>
+      <li><strong>Batiniyah</strong> — hati mesti kekal teguh kepada Allah dan Rasul-Nya. Paparan lahiriyah semata-mata untuk perlindungan (penghalang), bukan untuk menukar kepercayaan.</li>
+      <li><strong>Bukan kekal</strong> — jika bahaya berlalu dan seseorang berupaya untuk mendedahkan imannya, mengekalkan penipuan berterusan tanpa sebab akan menjadi wilayah (<em>wilaya</em>) yang dilarang oleh ayat ini.</li>
+    </ul>
+
+    <div class="reference-callout">
+      <strong>Pembezaan Utama</strong><br>
+      Para ulama klasik sepakat bahawa ayat ini melarang <em>wilaya</em> (pengabdian aktif dan sokongan) sambil membenarkan <em>muda'ah</em> (sopan-santun dan interaksi yang tidak membahayakan) dan <em>taqiyyah</em> (penyembunyian perlindungan di bawah ancaman sebenar). Lihat: Imam al-Tabari, <em>Jami' al-Bayan</em>, Tafsir 3:28; Imam al-Qurtubi, <em>Al-Jami' li Ahkam al-Qur'an</em>, Tafsir 3:28.
+    </div>
+
+    <h3>2.3 Peringatan: "Dan Allah mengingatkan kamu (supaya kamu takut) kepadaNYA"</h3>
+
+    <p>Ibn Kathir menekankan keseriusan frasa <em>"Dan Allah mengingatkan kamu supaya kamu takut kepadaNYA"</em> (وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ).<sup>[4]</sup> Ini bukan peringatan tentang sebarang hukuman sekunder; ia adalah peringatan daripada Tuhan sendiri — daripada kemurkaan-Nya, pembuangan-Nya, dan azab-Nya yang kekal. Ia menandakan bahawa perkara ini bukanlah remeh atau sekadar sosial; ia menyentuh teras <em>akidah</em> (aqeedah) dan membawa akibat di dunia dan di Akhirat.</p>
+
+    <p>Ibn al-Qayyim (w. 751 H) berkata dalam <em>Madarij as-Salikeen</em> bahawa mengutamakan musuh-musuh Allah berbanding para kekasih-Nya adalah keselarasan rohani dengan mereka yang telah mendapat kemurkaan-Nya. Akibat semula jadinya adalah Allah mengalihkan <em>walaya</em> (perlindungan dan kasih sayang-Nya) daripada orang sedemikian.</p>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <h2>3. Pengajaran daripada Ayat</h2>
+
+    <h3>3.1 Keutamaan Persaudaraan dalam Iman</h3>
+    <p>Ayat ini mengandaikan bahawa wujudnya perpaduan semula jadi dalam kalangan orang beriman yang mengatasi darah, bahasa, dan bangsa. Perpaduan ini bukan ideal semata-mata tetapi ikatan suci yang dipegang oleh perintah ilahi. Imam al-Nawawi (w. 676 H) menyatakan dalam komentarnya tentang hadis berkaitan ayat ini bahawa ikatan <em>iman</em> adalah ikatan terkuat selepas ikatan dengan Allah sendiri.<sup>[5]</sup></p>
+
+    <h3>3.2 Keseriusan Perikatan Politik</h3>
+    <p>Ayat ini tegas menghubungkan keutamaan sosial dan politik terhadap orang kafir berbanding orang beriman dengan penarikan bantuan Allah. Ibn Kathir menjelaskan bahawa apabila orang beriman beralih kepada orang kafir untuk perlindungan, nasihat, atau keakraban sementara mampu beralih kepada orang beriman, dia kehilangan pertolongan ilahi. Ini tidak semestinya bermaksud kekufuran, tetapi bermaksud penarikan <em>nusrah</em> (kemenangan dan bantuan) il daripada urusan orang tersebut.</p>
+
+    <h3>3.3 Fleksibiliti Taktikal ≠ Kompromi Strategik</h3>
+    <p>Pengecualian dalam ayat ini menetapkan prinsip penting: Islam bukan perjanjian bunuh diri. Ia membenarkan penyesuaian lahiriyah di bawah tekanan sebenar. Tetapi ini adalah <strong>taktik</strong>, bukan <strong>identiti</strong>. Seseorang boleh secara taktikal menyembunyikan pendiriannya untuk mengelakkan bahaya, tetapi tidak boleh sesekali menyanjungi pandangan dunia atau taat seti musuh.</p>
+
+    <h3>3.4 Keputusan Ilahi yang Muktamad</h3>
+    <p>Klausa penutup — <em>"Dan kepada Allah jualah tempat kembali"</em> (وَإِلَى اللَّهِ الْمَصِيرُ) — berfungsi sebagai pemeriksaan muktamad terhadap sebarang rasionalisasi. Apa sahaja penyesuaian taktikal yang dilakukan di dunia ini, seseorang akan berdiri di hadapan Allah sendirian, tanpa perantara, tanpa alasan, dan tanpa pengecualian. Destinasi adalah-Nya, dan perhitungan adalah-Nya.</p>
+
+    <h2>4. Dimensi Undang-Undang Merentasi Mazhab</h2>
+
+    <p>Walaupun ayat ini terutamanya berkaitan <em>akidah</em> dan <em>tafsir</em>, ia membawa implikasi <em>fiqh</em>:</p>
+
+    <ul class="scholarly-list">
+      <li><strong>Imam Abu Hanifa (w. 150 H)</strong> dan para ulama Hanafi — melalui riwayat dalam <em>Sharh Fiqh al-Akbar</em> — berpendapat bahawa persahabatan lahiriyah dengan orang kafir sambil secara rahsia menyokong orang Muslim adalah dibenarkan di bawah tekanan sebenar, tetapi niat mesti untuk perlindungan dan hati mesti bebas daripada taat setia kepada mereka.</li>
+      <li><strong>Imam al-Shafi'i (w. 204 H)</strong> menekankan, dalam <em>Al-Umm</em> dan melalui komentar Ibn Kathir dan lain-lain, bahawa kriterianya bukan tindakan lahiriyah tetapi taat seti batin (<em>niyyah</em>) digabung dengan penilaian bahaya lahiriyah. Jika bahaya itu nyata dan segera, penyesuaian lahiriyah diampunkan.</li>
+      <li><strong>Imam Malik (w. 179 H)</strong> dan para ulama Maliki — seperti dinukil oleh al-Qurtubi — mengambil pendirian lebih ketat: pengecualian hanya terpakai kepada situasi bahaya maut. Suka bersosial atau hubungan perniagaan yang melibatkan mengutamakan orang kafir berbanding orang Muslim tidak termasuk dalam pengecualian.</li>
+      <li><strong>Imam Ahmad ibn Hanbal (w. 241 H)</strong> dan mazhab Hanbali — seperti tercermin dalam fatwa-fatwa Ibn Baz dan Ibn Uthaymeen — berpendapat bahawa ayat ini terutamanya menangani perikatan politik dan ketenteraan, tetapi rohnya meluas kepada sebarang hubungan yang memberi orang kafir kuasa atas urusan orang Muslim pada perbelanjaan orang beriman.</li>
+    </ul>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <h2>5. Aplikasi Praktikal</h2>
+
+    <div class="app-grid">
+      <div class="app-card">
+        <h4>5.1 Penglibatan Politik</h4>
+        <p>Dalam masyarakat demokratik atau bercampur, orang Muslim boleh menyertai kehidupan awam, mengundi, dan bekerja dalam kerangka undang-undang. Namun, memberikan taat setia tanpa syarat kepada parti atau pemimpin bukan Muslim <strong>melawan</strong> kepentingan spesifik komuniti Muslim — misalnya, menyokong undang-undang anti-Muslim semasa calon Muslim wujud — akan menjadi wilayah (<em>wilaya</em>) yang dilarang oleh ayat ini.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.2 Hubungan Sosial</h4>
+        <p>Persahabatan dan sopan-santun profesional dengan bukan Muslim adalah dibenarkan malah digalakkan di bawah perintah umum keadilan (<em>al-Mumtahanah 60:8</em>). Larangan adalah terhadap <strong>taat setia keutamaan</strong>: mempercayai orang bukan Muslim sambil tidak mempercayai orang Muslim, mencari perlindungan daripada orang bukan Muslim apabila bantuan orang Muslim tersedia, atau mengejek Islam untuk memenangi penerimaan.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.3 Tempat Kerja & Akademia</h4>
+        <p>Muslim di institusi bukan Muslim menghadapi keputusan mikro harian tentang taat setia. Ayat ini tidak menuntut pengasingan. Ia menuntut <strong>keutamaan</strong>: jika diminta memilih antara menyusahkan rakan sekerja Muslim untuk menyenangkan atasan bukan Muslim, kebajikan orang Muslim diutamakan — kerana orang beriman adalah sekutu orang beriman.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.4 Media & Ucapan Awam</h4>
+        <p>Tokoh umum yang mengamalkan retorik yang memburukkan Islam atau komuniti Muslim untuk mendapat penerimaan dalam kalangan penonton bukan Muslim sedang terlibat dalam tingkah laku yang dilarang oleh ayat ini. Pengecualian — <em>taqiyyah</em> di bawah ancaman — tidak terpakai kepada promosi diri secara sukarela.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.5 Hati sebagai Kriteria</h4>
+        <p>Nabi SAW bersabda: <em>"Sesungguhnya amal itu bergantung kepada niat..."</em> (Sahih al-Bukhari, Kitab al-Iman [2], Hadis no. 1). Aplikasi praktikal sentiasa kembali kepada hati: siapa yang kamu cintai kerana Allah? Siapa yang kamu percayai apabila perkara menjadi serius? Di manakah taat setia terdalam kamu terletak? Ayat ini menuntut audit taat setia di peringkat <em>iman</em>.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.6 Hijrah & Tempat Tinggal</h4>
+        <p>Bagi Muslim yang tinggal di tanah yang mengamalkan Islam tanpa bahaya, ayat ini tidak mewajibkan hijrah. Tetapi bagi Muslim yang menghadapi aniaya dan berupaya berhijrah ke tanah Muslim, para ulama klasik — termasuk Ibn Kathir tentang ayat ini — menyebut kewajipan <em>hijrah</em>. Kediaman di tanah bukan Muslim apabila ia melibatkan keutamaan aktif terhadap penduduknya berbanding orang Muslim adalah berbahaya secara rohani.</p>
+      </div>
+    </div>
+
+    <h2>6. Kesimpulan</h2>
+
+    <p>Surah Ali 'Imran 3:28 bukanlah seruan untuk membenci. Ia adalah seruan untuk <strong>kejelasan</strong>. Orang beriman diperintahkan supaya mengetahui di manakah taat setia utamanya terletak: kepada Allah, Rasul-Nya, dan komuniti beriman. Ini bukan tribalisme; ini <em>akidah</em>. Ini adalah akibat praktikal daripada mengiktiraf bahawa kebenaran itu satu, dan mereka yang menolaknya bukan sekadar "berbeza" tetapi — dengan pilihan sendiri — berada dalam tentangan terhadap Tuhan yang menurunkan kebenaran.</p>
+
+    <p>Namun dalam kejelasan itu terdapat rahmat: pengecualian untuk <em>taqiyyah</em> mengiktiraf kelemahan manusia. Kita tidak diminta menjadi syahid pada setiap ketika. Kita diminta untuk menjadi <strong>autentik</strong> — secara batin melekat kepada Allah dan sekutu-Nya, secara lahir adil walaupun terhadap mereka yang menentang kita, tetapi tidak sesekali mengelirukan antara keduanya.</p>
+
+    <p>Sebagaimana tulis Imam al-Ghazali (w. 505 H) dalam <em>Ihya' Ulum al-Din</em>, hati mempunyai ruang untuk banyak kasih sayang, tetapi akar lekatannya mesti kepada Allah. Apabila akar itu kukuh, dahan-dahan — keluarga, bangsa, pekerjaan, persahabatan — akan menemui tempatnya dengan sempurna. Apabila akar itu diputus demi keselesaan duniawi, seluruh pohon akan layu.</p>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <p style="font-family:'Amiri',serif;font-size:20px;text-align:center;color:var(--color-primary);margin-top:40px;padding:0 20px;">
+      رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ
+    </p>
+    <p style="text-align:center;font-size:14px;color:var(--color-text-muted);font-style:italic;margin-top:12px;">
+      "Wahai Tuhan kami, janganlah Engkau condongkan hati kami kepada kesesatan sesudah Engkau beri petunjuk kepada kami, dan kurniakanlah kepada kami rahmat yang datang daripadaMU; sesungguhnya Engkaulah Tuhan Yang Maha Pemberi." — Qur'an 3:8
+    </p>
+
+    <div class="references-section">
+      <h2>Rujukan & Sumber</h2>
+
+      <ol class="references-list">
+        <li>
+          <span class="ref-arabic">تفسير ابن كثير</span> — <em>Tafsir al-Qur'an al-'Adhim</em> (Tafsir Ibn Kathir).<br>
+          <span class="ref-author">Imam Ismail ibn Umar ibn Kathir al-Qurashi al-Dimashqi</span> (w. 774 H / 1373 M).<br>
+          <span class="ref-detail">Tafsir Surah Ali 'Imran, ayat 28. Tentang maksud <em>awliyaa'</em> dan larangan mengabdikan kepada orang kafir berbanding orang beriman. Edisi elektronik: <a href="https://quran.com/en/3:28/tafsirs">Quran.com Tafsir</a>.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih al-Bukhari</span> — Kitab al-Maghazi [62], Hadis no. 3007.<br>
+          <span class="ref-detail">Kejadian Hatib ibn Abi Balta'ah dan surat yang disekat kepada Quraysh. Juga dalam Sahih al-Bukhari, Kitab al-Maghazi [64], Hadis no. 4263 &amp; 4264. Perawi: Ali ibn Abi Talib (radiyallahu anhu).</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih Muslim</span> — Kitab Fada'il as-Sahabah [33], Hadis no. 2494.<br>
+          <span class="ref-detail">Kejadian yang sama mengenai Hatib ibn Abi Balta'ah. Sabda Nabi SAW: "Dia menyaksikan Badr; mungkin Allah melihat kepada orang Badr lalu berkata: Lakukanlah apa saja yang kamu kehendaki, kerana Aku telah mengampunimu." Disepakati (Muttafaq 'Alaih).</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">تفسير ابن كثير</span> — <em>Tafsir al-Qur'an al-'Adhim</em>.<br>
+          <span class="ref-author">Imam Ibn Kathir</span> (w. 774 H).<br>
+          <span class="ref-detail">Tafsir tentang frasa "Dan Allah mengingatkan kamu supaya kamu takut kepadaNYA" (وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ) — komentar tentang keseriusan peringatan Ilahi dan penarikan pertolongan Ilahi daripada mereka yang meninggalkan orang beriman.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">رياض الصالحين</span> — <em>Riyad as-Salihin</em>.<br>
+          <span class="ref-author">Imam Abu Zakariyya Yahya ibn Sharaf al-Nawawi</span> (w. 676 H / 1277 M).<br>
+          <span class="ref-detail">Kitab al-Ikha' (Persaudaraan). Komentar tentang ikatan iman dan hak-hak orang Muslim antara satu sama lain. Diterbitkan oleh Dar al-Ma'rifah, Beirut.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">شرح فقه الأكبر</span> — <em>Sharh Fiqh al-Akbar</em>.<br>
+          <span class="ref-author">Imam Abu Mansur al-Maturidi</span> (w. 333 H) &amp; para ulama Hanafi kemudian.<br>
+          <span class="ref-detail">Tentang pembezaan antara <em>wilaya</em> (pengabdian/pengikutan rohani/politik) dan <em>muda'ah</em> (sopan-santun lahiriyah) di bawah tekanan.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">أحكام القرآن</span> — <em>Ahkam al-Qur'an</em>.<br>
+          <span class="ref-author">Imam Abu Bakr Ahmad ibn Ali al-Jassas al-Razi</span> (w. 370 H / 981 M).<br>
+          <span class="ref-detail">Implikasi undang-undang mengenai keutamaan orang kafir berbanding orang beriman dalam nasihat, perlindungan, dan perikatan politik.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">الجامع لأحكام القرآن</span> — <em>Al-Jami' li Ahkam al-Qur'an</em>.<br>
+          <span class="ref-author">Imam Abu 'Abdullah Muhammad ibn Ahmad al-Qurtubi</span> (w. 671 H / 1273 M).<br>
+          <span class="ref-detail">Tafsir Surah Ali 'Imran 3:28, dengan hukum-hukum fiqh merentasi mazhab tentang batas interaksi dengan bukan Muslim.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">مدارج السالكين</span> — <em>Madarij as-Salikeen</em>.<br>
+          <span class="ref-author">Imam Shams al-Din Abu 'Abdullah Muhammad ibn Abu Bakr ibn Qayyim al-Jawziyyah</span> (w. 751 H / 1350 M).<br>
+          <span class="ref-detail">Tentang akibat batin mengutamakan musuh Allah berbanding para kekasih-Nya. Diterbitkan oleh Dar al-Kitab al-'Arabi, Beirut.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih al-Bukhari</span> — Kitab al-Iman [2], Hadis no. 1 &amp; 2.<br>
+          <span class="ref-detail">"Sesungguhnya amal itu bergantung kepada niat..." (إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ) — Hadis Umar ibn al-Khattab, diriwayatkan daripada Nabi SAW. Kriteria asas membezakan penyesuaian lahiriyah yang dibenarkan daripada taat seti batin yang dilarang.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">إحياء علوم الدين</span> — <em>Ihya' Ulum al-Din</em>.<br>
+          <span class="ref-author">Imam Abu Hamid Muhammad ibn Muhammad al-Ghazali</span> (w. 505 H / 1111 M).<br>
+          <span class="ref-detail">Kitab Sabar dan Syukur. Tentang pengaturan lekatan hati dan bahaya memutus akar cinta kepada Allah demi perikatan duniawi.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Terjemahan Abdullah Muhammad Basmeih (Malaysia)</span>.<br>
+          <span class="ref-detail">Terjemahan Bahasa Melayu Surah Ali 'Imran 3:28 yang digunakan sepanjang artikel ini. Edisi Kementerian Dalam Negeri / Jabatan Kemajuan Islam Malaysia (JAKIM) atau penerbit rasmi yang sah.</span>
+        </li>
+      </ol>
+
+      <p style="margin-top:32px;font-size:14px;color:var(--color-text-muted);font-style:italic;text-align:center;">
+        Semua sumber yang dinukil berasal daripada kitab-kitab klasik Sunni yang telah disahkan. Tiada sumber Syiah, Ahmadiyyah, orientalis, atau tidak disahkan digunakan dalam penyediaan artikel ini.
+      </p>
+    </div>
+
+    <p style="text-align:center;margin-top:48px;font-size:13px;color:var(--color-text-muted);letter-spacing:0.05em;text-transform:uppercase;">
+      Dihasilkan oleh <strong>Tarbiyyah</strong> — Penyelidikan &amp; Penulisan Kesusasteraan Islam
+    </p>
+
+  </main>
+
+</body>
+</html>
+
+<!-- TWEAKS
+{
+  "parameters": [
+    {"name": "Primary colour", "cssVar": "--color-primary", "type": "color", "default": "#1B4D3E"},
+    {"name": "Accent hue", "cssVar": "--color-accent", "type": "color", "default": "#C9A857"},
+    {"name": "Section spacing", "cssVar": "--space-section", "type": "spacing", "min": 32, "max": 128, "default": 56},
+    {"name": "Body font size", "cssVar": "--font-size-base", "type": "font-scale", "min": 14, "max": 20, "default": 18},
+    {"name": "Border radius", "cssVar": "--radius", "type": "spacing", "min": 0, "max": 24, "default": 8}
+  ]
+}
+-->

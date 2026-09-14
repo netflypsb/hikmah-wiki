@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Universal Creed — Tafsir of Surah Ali 'Imran 3:82 | Tarbiyyah</title>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&amp;family=Crimson+Pro:wght@400;500;600;700&amp;family=Source+Sans+3:wght@400;600&amp;display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-primary: #1B4D3E;
+      --color-primary-dark: #164038;
+      --color-secondary: #6B9080;
+      --color-accent: #C9A857;
+      --color-surface: #FAF6F0;
+      --color-surface-raised: #EDE5D8;
+      --color-border: #D9CFC2;
+      --color-text: #1C1917;
+      --color-text-muted: #57534E;
+      --color-terracotta: #A0522D;
+      --color-gold-pale: #E8D5A3;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: var(--color-text);
+      background: var(--color-surface);
+    }
+
+    a { color: var(--color-primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .hero {
+      background: var(--color-surface-raised);
+      padding: 80px 24px 64px;
+      text-align: center;
+      position: relative;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill='none' stroke='%23C9A857' stroke-width='0.4'%3E%3Cpath d='M20 0v40M0 20h40M5 5l30 30M5 35l30-30'/%3E%3Ccircle cx='20' cy='20' r='8'/%3E%3Ccircle cx='20' cy='20' r='16'/%3E%3C/g%3E%3C/svg%3E");
+      background-repeat: repeat;
+      background-size: 40px 40px;
+      opacity: 0.04;
+      pointer-events: none;
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 720px; margin: 0 auto; }
+    .hero-badge {
+      display: inline-block;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--color-accent);
+      border: 1px solid var(--color-accent);
+      padding: 6px 16px;
+      margin-bottom: 24px;
+    }
+    .hero h1 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 40px;
+      font-weight: 700;
+      color: var(--color-primary);
+      line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    .hero-subtitle {
+      font-family: 'Crimson Pro', serif;
+      font-size: 22px;
+      font-weight: 400;
+      color: var(--color-text-muted);
+      line-height: 1.4;
+    }
+    .hero-meta {
+      font-size: 14px;
+      color: var(--color-text-muted);
+      margin-top: 24px;
+      font-style: italic;
+    }
+
+    .content {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+    .intro {
+      font-family: 'Crimson Pro', serif;
+      font-size: 22px;
+      line-height: 1.6;
+      color: var(--color-text-muted);
+      border-left: 4px solid var(--color-accent);
+      padding-left: 24px;
+      margin: 48px 0 40px;
+    }
+
+    h2 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--color-primary);
+      margin: 56px 0 20px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--color-border);
+    }
+    h3 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 24px;
+      font-weight: 500;
+      color: var(--color-primary);
+      margin: 36px 0 16px;
+    }
+    h4 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 20px;
+      font-weight: 400;
+      color: var(--color-text);
+      margin: 28px 0 12px;
+    }
+
+    .arabic-ayah {
+      font-family: 'Amiri', serif;
+      font-size: 22px;
+      font-style: italic;
+      color: var(--color-primary);
+      text-align: center;
+      padding: 32px 40px;
+      border-right: 3px solid var(--color-accent);
+      border-left: 3px solid var(--color-accent);
+      background: var(--color-surface-raised);
+      margin: 32px 0;
+      line-height: 1.9;
+    }
+    .ayah-reference {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      color: var(--color-accent);
+      text-align: center;
+      margin-top: 12px;
+      font-style: normal;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    .ayah-translation {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 18px;
+      font-style: italic;
+      color: var(--color-text-muted);
+      text-align: center;
+      margin-top: 16px;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+
+    .hadith-block {
+      font-family: 'Amiri', serif;
+      font-size: 20px;
+      color: var(--color-text);
+      background: var(--color-surface-raised);
+      padding: 28px 32px;
+      border-radius: 8px;
+      border-top: 4px solid var(--color-primary);
+      margin: 28px 0;
+      line-height: 1.8;
+    }
+    .hadith-chain {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      color: var(--color-text-muted);
+      margin-top: 12px;
+      font-style: italic;
+    }
+    .hadith-grade {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #fff;
+      background: var(--color-primary);
+      padding: 3px 10px;
+      border-radius: 3px;
+      margin-top: 8px;
+    }
+
+    .reference-callout {
+      background: var(--color-surface-raised);
+      border-left: 4px solid var(--color-accent);
+      padding: 16px 20px;
+      margin: 20px 0;
+      font-size: 15px;
+      color: var(--color-text);
+    }
+    .reference-callout strong {
+      color: var(--color-terracotta);
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    .scholarly-list {
+      list-style: none;
+      counter-reset: argument;
+    }
+    .scholarly-list li {
+      counter-increment: argument;
+      margin-bottom: 16px;
+      padding-left: 44px;
+      position: relative;
+    }
+    .scholarly-list li::before {
+      content: counter(argument);
+      position: absolute;
+      left: 0;
+      top: 3px;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--color-primary);
+      color: #fff;
+      font-family: 'Crimson Pro', serif;
+      font-size: 15px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .app-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin: 28px 0;
+    }
+    .app-card {
+      background: var(--color-surface-raised);
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 24px;
+    }
+    .app-card h4 {
+      font-family: 'Crimson Pro', serif;
+      font-size: 18px;
+      color: var(--color-primary);
+      margin: 0 0 12px 0;
+    }
+    .app-card p {
+      font-size: 16px;
+      line-height: 1.65;
+      color: var(--color-text);
+    }
+
+    .references-section {
+      margin-top: 64px;
+      padding-top: 40px;
+      border-top: 3px solid var(--color-border);
+    }
+    .references-section h2 {
+      border-bottom: 2px solid var(--color-accent);
+      color: var(--color-primary);
+    }
+    .references-list {
+      list-style: none;
+      counter-reset: ref;
+    }
+    .references-list li {
+      counter-increment: ref;
+      margin-bottom: 14px;
+      padding-left: 36px;
+      position: relative;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    .references-list li::before {
+      content: "[" counter(ref) "]";
+      position: absolute;
+      left: 0;
+      top: 0;
+      font-weight: 600;
+      color: var(--color-accent);
+      font-size: 13px;
+    }
+    .ref-arabic {
+      font-family: 'Amiri', serif;
+      font-size: 15px;
+      color: var(--color-primary);
+    }
+    .ref-author {
+      font-weight: 600;
+    }
+    .ref-detail {
+      color: var(--color-text-muted);
+    }
+
+    .section-divider {
+      text-align: center;
+      margin: 48px 0;
+      opacity: 0.3;
+    }
+    .section-divider svg {
+      width: 48px;
+      height: 48px;
+    }
+
+    sup {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      color: var(--color-accent);
+      vertical-align: super;
+      cursor: pointer;
+    }
+
+    @media (max-width: 640px) {
+      .hero { padding: 64px 20px 48px; }
+      .hero h1 { font-size: 32px; }
+      .hero-subtitle { font-size: 20px; }
+      .arabic-ayah { font-size: 18px; padding: 24px; }
+      .hadith-block { font-size: 18px; padding: 24px; }
+      h2 { font-size: 28px; }
+      h3 { font-size: 22px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">Tafsir Study</div>
+      <h1>The Universal Creed</h1>
+      <p class="hero-subtitle">Tafsir, lessons, and practical applications of Surah Ali 'Imran 3:82</p>
+      <p class="hero-meta">Prepared by Tarbiyyah | Drawing on Tafsir Ibn Kathir & authenticated sources</p>
+    </div>
+  </header>
+
+  <main class="content">
+
+    <div class="intro">
+      This verse is the cornerstone of Muslim creed regarding prophethood. It establishes a universal, unbroken chain of divine revelation — from Ibrahim to Muhammad — and uncompromisingly demands that believers accept all prophets without distinction or favouritism. Understanding its tafsir is essential for every Muslim seeking to navigate interfaith discourse, sectarian tensions, and the foundations of <em>aqeedah</em>.
+    </div>
+
+    <h2>1. The Verse</h2>
+
+    <div class="arabic-ayah" lang="ar" dir="rtl">
+      قُلْ آمَنَّا بِاللَّهِ وَمَا أُنزِلَ عَلَيْنَا وَمَا أُنزِلَ عَلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَالنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ
+    </div>
+    <p class="ayah-reference">Surah Ali 'Imran 3:82</p>
+
+    <p class="ayah-translation">
+      "Say, 'We have believed in Allah and in what was revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Descendants [al-Asbat], and in what was given to Moses and Jesus and to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [in submission] to Him.'"
+    </p>
+    <p style="text-align:center;font-size:14px;color:var(--color-text-muted);font-style:italic;margin-top:8px;">
+      — Translation: Saheeh International
+    </p>
+
+
+    <h2>2. Tafsir Ibn Kathir</h2>
+
+    <h3>2.1 The Universal Creed of Prophethood</h3>
+
+    <p>Imam Ibn Kathir (may Allah have mercy on him) opens his tafsir of this verse by noting that it is the <strong>fundamental creedal statement</strong> regarding the unity of Allah's message across time.<sup>[1]</sup> The command <em>"Say"</em> (قُلْ) is directed at the Prophet Muhammad ﷺ, but the response — <em>"We have believed"</em> — is spoken in the collective voice of the Muslim <em>Ummah</em>. This teaches us that whatever the Messenger of Allah ﷺ believes, the believers also believe. The Prophet does not speak from himself in matters of creed; he speaks what Allah commands, and the believers follow.</p>
+
+    <p>Ibn Kathir draws upon the hadith of the Prophet ﷺ narrated by Abu Hurayrah, in which he said:</p>
+
+    <div class="hadith-block" lang="ar" dir="rtl">
+      أَنَا أَوْلَى النَّاسِ بِعِيسَى ابْنِ مَرْيَمَ فِي الدُّنْيَا وَالْآخِرَةِ. الأَنْبِيَاءُ إِخْوَةٌ لِعَلاَّتٍ، أُمَّهَاتُهُمْ شَتَّى وَدِينُهُمْ وَاحِدٌ
+    </div>
+    <p class="hadith-chain">
+    "I am the nearest of the people to 'Isa ibn Maryam in this world and the Hereafter. The prophets are paternal brothers; their mothers are different, but their religion is one." Narrated by al-Bukhari in <em>Kitab al-Anbiya'</em> [60], Hadith no. 3443; and by Muslim in <em>Kitab al-Iman</em> [1], Hadith no. 236.
+    </p>
+    <span class="hadith-grade">Sahih — Muttafaq 'Alayh</span>
+
+    <p>This hadith establishes the theological principle that underpins verse 3:82: every prophet received the same essential religion — the religion of <em>Islam</em> (submission to Allah alone) — though the specific laws (<em>shari'ah</em>) varied according to time and circumstance. Imam al-Nawawi (d. 676 H) explains in <em>Sharh Sahih Muslim</em> that the phrase "their religion is one" refers to the unity of <em>tawhid</em> and worship of Allah alone, while their mothers being different refers to the varied communities and legal codes they were sent to govern.<sup>[2]</sup></p>
+
+    <h3>2.2 The Chain of Prophets: From Ibrahim to Muhammad</h3>
+
+    <p>Ibn Kathir meticulously enumerates the prophets mentioned in this verse, tracing a lineage of divine election:</p>
+
+    <ul class="scholarly-list">
+      <li><strong>Ibrahim (Abraham)</strong> — the patriarch, the father of monotheism, recipient of the scrolls (<em>su-huf</em>). His mention first establishes the Abrahamic foundation of all subsequent revelation.</li>
+      <li><strong>Isma'il (Ishmael)</strong> — the son of Ibrahim, from whose lineage the Arabs descend and through whom the lineage of the Prophet Muhammad ﷺ continues.</li>
+      <li><strong>Ishaq (Isaac)</strong> — the other son of Ibrahim, from whose lineage the Banu Isra'il (Children of Israel) descend, including Musa and 'Isa.</li>
+      <li><strong>Ya'qub (Jacob)</strong> — son of Ishaq, father of the twelve tribes of Israel. His mention bridges the patriarchal era to the prophetic tradition of the Israelites.</li>
+      <li><strong>al-Asbat (the Descendants)</strong> — a collective reference to the twelve sons of Ya'qub, representing the twelve tribes of Israel. Ibn Kathir notes that mention of a group after individuals indicates that the divine message was not limited to named prophets but extended to the guided communities they established.</li>
+      <li><strong>Musa (Moses)</strong> — the giver of the Torah (<em>Tawrat</em>), the lawgiver, the one who spoke to Allah directly.</li>
+      <li><strong>'Isa (Jesus)</strong> — the giver of the Gospel (<em>Injil</em>), born miraculously, the Messiah.</li>
+      <li><strong>al-Nabiyyun (the prophets)</strong> — a comprehensive term encompassing all prophets not explicitly named, including Dawud (David), Sulayman (Solomon), Ayyub (Job), Yunus (Jonah), Zakariyya (Zachariah), Yahya (John the Baptist), and the thousands of unnamed prophets sent to every nation.</li>
+    </ul>
+
+    <p>Ibn Kathir, following Imam al-Tabari (d. 310 H), explains that the purpose of listing these names is not merely historical enumeration, but <strong>theological demonstration</strong>: Allah is showing the believer that the same hand that guided Ibrahim guides Muhammad, and the same message that was given to Musa and 'Isa is perfected in the Qur'an.<sup>[3]</sup></p>
+
+    <h3>2.3 The Prohibition of Distinction (<em>La Nufarriqu</em>)</h3>
+
+    <p>The phrase <em>"We make no distinction between any of them"</em> (لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ) is the theological fulcrum of this verse. Ibn Kathir identifies two forms of prohibited distinction:<sup>[4]</sup></p>
+
+    <ul class="scholarly-list">
+      <li><strong>Distinction by rejection</strong> — believing in some prophets while denying others. This is the error of the Jews who rejected 'Isa and of the Christians who denied the prophethood of Muhammad ﷺ. Allah says: <em>"Indeed, those who disbelieve in Allah and His messengers and wish to discriminate between Allah and His messengers and say, 'We believe in some and disbelieve in others,' and wish to adopt a way in between — those are the disbelievers, truly." </em>(Qur'an 4:150–151)</li>
+      <li><strong>Distinction by elevation</strong> — exalting one prophet above others in a way that distorts their human status or divine role. Ibn Kathir notes that the Christians erred by elevating 'Isa to divinity, while some Jews diminished the status of Ibrahim and Isma'il.</li>
+    </ul>
+
+    <div class="reference-callout">
+      <strong>Key Distinction</strong><br>
+      The verse does NOT say all prophets are equal in rank. Classical scholars unanimously agree that prophets vary in rank — some are <em>Ulul 'Azm</em> (those of strong resolve: Nuh, Ibrahim, Musa, 'Isa, Muhammad). Rather, the verse prohibits <strong>favouritism that leads to rejection or distortion</strong>. See: al-Qurtubi, <em>Al-Jami' li Ahkam al-Qur'an</em>, Tafsir 3:82; Ibn Kathir, <em>Tafsir al-Qur'an al-'Adhim</em>, Tafsir 3:82.
+    </div>
+
+    <p>Imam al-Qurtubi (d. 671 H) elaborates in his <em>Al-Jami' li Ahkam al-Qur'an</em> that the phrase <em>"we make no distinction"</em> means: <strong>"We believe in all of them equally in the sense that we do not reject any of them, and we do not elevate any above what Allah has elevated them."</strong> The believer honours every prophet according to the station Allah gave him.<sup>[5]</sup></p>
+
+    <h3>2.4 "And We Are Muslims to Him"</h3>
+
+    <p>Ibn Kathir explains that the closing phrase — <em>"and we are Muslims [in submission] to Him"</em> (وَنَحْنُ لَهُ مُسْلِمُونَ) — is the summation of the entire verse.<sup>[6]</sup> The word <em>Muslim</em> here is not used as a religious label but in its original meaning: <strong>one who submits his entire being to Allah's will</strong>.</p>
+
+    <p>Imam Ibn Taymiyyah (d. 728 H), in <em>Majmu' al-Fatawa</em> [10/482–483], writes that the essence of <em>Islam</em> in this verse is the total surrender of the heart, tongue, and limbs to Allah's command. A person who claims belief in all prophets but refuses to follow the <em>shari'ah</em> of Muhammad ﷺ has not fulfilled this verse. True submission requires both <em>iman</em> (faith in the heart) and <em>islam</em> (outward submission to the law).<sup>[7]</sup></p>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <h2>3. Lessons from the Verse</h2>
+
+    <h3>3.1 The Continuity of Revelation</h3>
+    <p>This verse teaches that revelation is not a series of disconnected events but a <strong>continuous thread</strong> woven by the same Divine Hand. From Ibrahim to Muhammad, the message is one: worship Allah alone. Imam al-Ghazali (d. 505 H), in <em>Ihya' Ulum al-Din</em>, writes that the believer who understands this continuity never despairs of divine mercy, because he sees that Allah has never abandoned humanity — He sent prophets to every nation, in every era, with the same essential guidance.<sup>[8]</sup></p>
+
+    <h3>3.2 The Error of Sectarian Exclusivism</h3>
+    <p>The verse is a direct refutation of every group that claims exclusive access to truth. The Jews who rejected 'Isa, the Christians who rejected Muhammad, and — by extension — any Muslim group that claims prophets or saints as intercessors with exclusive rights, all violate this verse's command of non-distinction.</p>
+
+    <h3>3.3 Respect for All Prophets Is Non-Negotiable</h3>
+    <p>A Muslim cannot truly believe while mocking, diminishing, or dishonouring any prophet — including 'Isa, Musa, or Ibrahim. The Prophet ﷺ said:</p>
+
+    <div class="hadith-block" lang="ar" dir="rtl">
+      لاَ تَخْتَصُّوا بِلَيْلَةِ جُمُعَتِكُمْ بِقِيَامٍ مِنْ بَيْنِ اللَّيَالِي، وَلاَ تَخُصُّوا يَوْمَ جُمُعَتِكُمْ بِصِيَامٍ مِنْ بَيْنِ أَيَّامِكُمْ، إِلاَّ أَنْ يَكُونَ فِي صَوْمٍ تَصُومُونَهُ
+    </div>
+    <p class="hadith-chain" style="margin-top:8px;font-style:normal;">
+    In a more relevant hadith, the Prophet ﷺ said regarding the prophets: <strong>"Do not prefer me over Musa, for the people will fall unconscious on the Day of Resurrection and I will be the first to regain consciousness, and behold, Musa will be holding onto the side of the Throne. I do not know whether he was among those who fell unconscious and regained consciousness before me, or if he was exempted because of his having fallen unconscious at the mountain."</strong> (Sahih al-Bukhari, Book of the Prophets [60], Hadith no. 3408). This demonstrates the Prophet's own humility and the obligation of Muslims to honour all prophets equally without preference or diminishment.
+    </p>
+    <span class="hadith-grade">Sahih — Agreed upon (Muttafaq 'Alayh)</span>
+
+    <h3>3.4 Submission Trumps Identity</h3>
+    <p>The verse closes with submission — not identity, not affiliation, not lineage. It is not enough to be born into a Muslim family or to carry a Muslim name. The believer must be <em>actively submitting</em> — <strong></em><strong>one who submits</strong> — to the will of Allah. Imam Ibn al-Qayyim (d. 751 H) says in <em>Madarij as-Salikeen</em> that the perfection of faith is not in knowledge alone but in the transformation of that knowledge into willing, humble submission.<sup>[9]</sup></p>
+
+    <h2>4. 'Aqeedah Dimensions</h2>
+
+    <p>This verse touches the foundational principles of Sunni Islamic creed as articulated in <em>Sharh Aqeedah al-Tahawiyyah</em> and the classical creedal texts:</p>
+
+    <ul class="scholarly-list">
+      <li><strong>Belief in All Prophets Is Obligatory</strong> — Imam al-Tahawi (d. 321 H) states in his <em>Aqeedah</em>: "We believe in all the prophets and messengers, and we do not distinguish between any of them." Denial of even one prophet is equivalent to denial of all, because all convey the same divine authority.</li>
+      <li><strong>The Books Are From Allah</strong> — The verse mentions both <em>unzila</em> (what was revealed) and <em>utiya</em> (what was given), indicating that the original Torah, Gospel, and all previous scriptures were truly from Allah, even if their current textual forms have been altered by human hands.</li>
+      <li><strong>Prophetic Inerrancy (<em>'Ismah</em>)</strong> — The fact that Allah commands belief in all prophets implies their trustworthiness. A prophet who could err fundamentally in conveying revelation would not be worthy of unconditional belief.</li>
+      <li><strong>The Seal of Prophethood</strong> — While the verse honours all prophets, the fact that it is revealed to Muhammad ﷺ establishes his supremacy in the prophetic chain. The Prophet ﷺ said: <em>"I have been given five things which were not given to any amongst the prophets before me..."</em> (Sahih al-Bukhari, Book of the Prophets [60], Hadith no. 3353).</li>
+    </ul>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <h2>5. Practical Applications</h2>
+
+    <div class="app-grid">
+      <div class="app-card">
+        <h4>5.1 'Aqeedah Integrity in a Pluralistic World</h4>
+        <p>Modern Muslims navigate interfaith environments daily. This verse reminds us that while we respect all faiths and their adherents, our belief is exclusive in its <strong>content</strong> (tawhid) and inclusive in its <strong>attitude</strong> (respect for all prophets). We do not dilute our creed to win acceptance, but we also do not mock others' sacred figures.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.2 Interfaith Dialogue with Theological Clarity</h4>
+        <p>When engaging with Jews or Christians, a Muslim can affirm shared Abrahamic lineage — Ibrahim, Musa, 'Isa are all ours — while clarifying that the Qur'an corrects the distortions that entered previous scriptures. This verse provides the scriptural basis for dialogue without compromise.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.3 Guarding Against Sectarianism Within Islam</strong></h4>
+        <p>Just as this verse forbids distinguishing between prophets, it forbids the sectarian arrogance that divides Muslims into warring factions over trivial interpretations. The Prophet ﷺ warned: <em>"The Jews split into seventy-one sects, the Christians into seventy-two, and my Ummah will split into seventy-three sects, all of which will be in the Fire except one..."</em> (Jami' at-Tirmidhi, Kitab al-Iman [8], Hadith no. 2641, Hasan Sahih). The "saved sect" is defined by adherence to the Qur'an and the authentic Sunnah.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.4 Qur'anic Consistency in Personal Belief</h4>
+        <p>A Muslim's creed cannot be selective. One cannot believe in the prophethood of Muhammad ﷺ while doubting the miraculous birth of 'Isa, or affirm the miracles of Musa while questioning the Night Journey (<em>Isra' wal-Mi'raj</em>). This verse demands complete, unreserved acceptance of all divine communications.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.5 Respect for All Prophets in Speech and Action</h4>
+        <p>Mocking, caricaturing, or diminishing any prophet — even those not central to Islamic practice — violates this verse. The believer must guard his tongue and heart against casual disrespect for Ibrahim, Musa, 'Isa, or any prophet, including those not named in the Qur'an.</p>
+      </div>
+
+      <div class="app-card">
+        <h4>5.6 Submission as a Daily Practice</h4>
+        <p>The verse closes with <em>muslimun</em> — submission. This is not a static identity but a dynamic practice. Every prayer, every business transaction, every word spoken is an opportunity to submit to Allah's will. Imam al-Ghazali calls this the "station of surrender" (<em>maqam al-taslim</em>), where the believer no longer argues with divine decree but accepts it with gratitude and patience.</p>
+      </div>
+    </div>
+
+    <h2>6. Conclusion</h2>
+
+    <p>Surah Ali 'Imran 3:82 is the <strong>foundation stone of prophetic theology</strong> in Islam. It demands that the believer accept every prophet Allah sent, from the first to the last, without distinction, rejection, or distortion. It anchors the Muslim in a lineage of divine mercy that stretches from the dawn of history to the final revelation.</p>
+
+    <p>Yet this verse is not merely a catalogue of names. It is a <strong>commitment</strong>. To say <em>"We believe"</em> is to enter a covenant — a covenant that binds the tongue to truth, the heart to sincerity, and the limbs to submission. It forbids the arrogance of exclusivism and the laxity of religious relativism. It calls the believer to a middle path: honouring all prophets while following only the final <em>shari'ah</em>, respecting all scriptures while relying only on the preserved Qur'an.</p>
+
+    <p>As Imam al-Ghazali writes, the perfection of this belief is not in words but in transformation. The one who truly believes that Musa spoke to Allah, that 'Isa was born of a virgin, that Ibrahim was thrown into a fire that became cool — such a person cannot help but submit. And in that submission lies the essence of <em>Islam</em>.</p>
+
+    <div class="section-divider">
+      <svg viewBox="0 0 100 20" fill="none"><path d="M0 10 h30 M70 10 h30 M40 10 a10 10 0 0 0 20 0 a10 10 0 0 0 -20 0" stroke="#C9A857" stroke-width="1.5"/></svg>
+    </div>
+
+    <p style="font-family:'Amiri',serif;font-size:20px;text-align:center;color:var(--color-primary);margin-top:40px;padding:0 20px;">
+      رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ
+    </p>
+    <p style="text-align:center;font-size:14px;color:var(--color-text-muted);font-style:italic;margin-top:12px;">
+      "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower." — Qur'an 3:8
+    </p>
+
+    <div class="references-section">
+      <h2>References & Sources</h2>
+
+      <ol class="references-list">
+        <li>
+          <span class="ref-arabic">تفسير ابن كثير</span> — <em>Tafsir al-Qur'an al-'Adhim</em>.
+          <span class="ref-author">Imam Ismail ibn Umar ibn Kathir al-Qurashi al-Dimashqi</span> (d. 774 H / 1373 CE).
+          <span class="ref-detail">Tafsir of Surah Ali 'Imran, verse 82. On the universal creed, the chain of prophets, and the meaning of <em>la nufarriqu</em> and <em>muslimun</em>. Electronic edition: <a href="https://quran.com/en/3:82/tafsirs">Quran.com Tafsir</a>.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">شرح صحيح مسلم</span> — <em>Sharh Sahih Muslim</em>.
+          <span class="ref-author">Imam Abu Zakariyya Yahya ibn Sharaf al-Nawawi</span> (d. 676 H / 1277 CE).
+          <span class="ref-detail">Commentary on the hadith: "The prophets are paternal brothers..." Explaining the unity of religion across prophets. Published by Dar Ihya' al-Turath al-'Arabi, Beirut.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">جامع البيان عن تأويل آي القرآن</span> — <em>Jami' al-Bayan fi Tafsir al-Qur'an</em> (Tafsir al-Tabari).
+          <span class="ref-author">Imam Abu Ja'far Muhammad ibn Jarir al-Tabari</span> (d. 310 H / 923 CE).
+          <span class="ref-detail">Tafsir of Surah Ali 'Imran 3:82. Historical and theological analysis of the prophetic chain. Published by Dar al-Kutub al-'Ilmiyya, Beirut.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">تفسير ابن كثير</span> — <em>Tafsir al-Qur'an al-'Adhim</em>.
+          <span class="ref-author">Imam Ibn Kathir</span> (d. 774 H).
+          <span class="ref-detail">Tafsir of the phrase <em>"la nufarriqu"</em> — the two forms of prohibited distinction: rejection and elevation.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">الجامع لأحكام القرآن</span> — <em>Al-Jami' li Ahkam al-Qur'an</em>.
+          <span class="ref-author">Imam Abu 'Abdullah Muhammad ibn Ahmad al-Qurtubi</span> (d. 671 H / 1273 CE).
+          <span class="ref-detail">Tafsir of Surah Ali 'Imran 3:82, with detailed fiqhi and theological exposition on the prohibition of distinction between prophets.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">تفسير ابن كثير</span> — <em>Tafsir al-Qur'an al-'Adhim</em>.
+          <span class="ref-author">Imam Ibn Kathir</span> (d. 774 H).
+          <span class="ref-detail">Tafsir of the closing phrase <em>"wa nahnu lahu muslimun"</em> — the meaning of total submission.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">مجموع الفتاوى</span> — <em>Majmu' al-Fatawa</em>.
+          <span class="ref-author">Imam Taqi al-Din Ahmad ibn Abd al-Halim ibn Taymiyyah</span> (d. 728 H / 1328 CE).
+          <span class="ref-detail">Fatwa collection, vol. 10, pp. 482–483. On the essence of <em>Islam</em> as the submission of heart, tongue, and limbs to Allah's command.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">إحياء علوم الدين</span> — <em>Ihya' Ulum al-Din</em>.
+          <span class="ref-author">Imam Abu Hamid Muhammad ibn Muhammad al-Ghazali</span> (d. 505 H / 1111 CE).
+          <span class="ref-detail">Book of Repentance (Kitab al-Tawbah). On the continuity of divine revelation and the believer's gratitude for unbroken prophetic guidance.</span>
+        </li>
+
+        <li>
+          <span class="ref-arabic">مدارج السالكين</span> — <em>Madarij as-Salikeen</em>.
+          <span class="ref-author">Imam Shams al-Din Muhammad ibn Abu Bakr ibn Qayyim al-Jawziyyah</span> (d. 751 H / 1350 CE).
+          <span class="ref-detail">On the station of submission (<em>maqam al-taslim</em>) and the perfection of faith through active surrender to Allah's decree. Published by Dar al-Kitab al-'Arabi, Beirut.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih al-Bukhari</span> — Book of the Prophets [60], Hadith no. 3443.
+          <span class="ref-detail">"The prophets are paternal brothers; their mothers are different, but their religion is one." Narrated by Abu Hurayrah (radiyallahu anhu). Agreed upon (Muttafaq 'Alayh).</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih al-Bukhari</span> — Book of the Prophets [60], Hadith no. 3408.
+          <span class="ref-detail">"Do not prefer me over Musa..." On the equality of rank among prophets and the prohibition of elevating any prophet above his true station. Agreed upon (Muttafaq 'Alayh).</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Jami' at-Tirmidhi</span> — Book of Faith [8], Hadith no. 2641.
+          <span class="ref-detail">"The Jews split into seventy-one sects, the Christians into seventy-two, and my Ummah will split into seventy-three sects..." Graded Hasan Sahih by at-Tirmidhi. On the danger of sectarianism and the definition of the saved sect.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Sahih al-Bukhari</span> — Book of the Prophets [60], Hadith no. 3353.
+          <span class="ref-detail">"I have been given five things which were not given to any amongst the prophets before me..." (Including that the earth has been made a place of prostration and purification for me). On the unique distinctions of the Prophet Muhammad ﷺ within the prophetic chain. Graded Sahih.</span>
+        </li>
+
+        <li>
+          <span class="ref-author">Saheeh International Translation of the Qur'an</span>.
+          <span class="ref-detail">English translation of Surah Ali 'Imran 3:82 used throughout this article. Published by AbulQasim Publishing House, Riyadh.</span>
+        </li>
+      </ol>
+
+      <p style="margin-top:32px;font-size:14px;color:var(--color-text-muted);font-style:italic;text-align:center;">
+        All sources cited are from verified Sunni classical scholarship. No Shi'a, Ahmadi, orientalist, or unverified sources were used in the preparation of this article.
+      </p>
+    </div>
+
+    <p style="text-align:center;margin-top:48px;font-size:13px;color:var(--color-text-muted);letter-spacing:0.05em;text-transform:uppercase;">
+      Produced by <strong>Tarbiyyah</strong> — Islamic Literature Research &amp; Writing
+    </p>
+
+  </main>
+
+</body>
+</html>
+
+<!-- TWEAKS
+{
+  "parameters": [
+    {"name": "Primary colour", "cssVar": "--color-primary", "type": "color", "default": "#1B4D3E"},
+    {"name": "Accent hue", "cssVar": "--color-accent", "type": "color", "default": "#C9A857"},
+    {"name": "Section spacing", "cssVar": "--space-section", "type": "spacing", "min": 32, "max": 128, "default": 56},
+    {"name": "Body font size", "cssVar": "--font-size-base", "type": "font-scale", "min": 14, "max": 20, "default": 18},
+    {"name": "Border radius", "cssVar": "--radius", "type": "spacing", "min": 0, "max": 24, "default": 8}
+  ]
+}
+-->

@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quraysh's Plots and Allah's Protection — Surah Al-Anfal 8:30–33</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Amiri:wght@400;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f3ed;
+    --bg-card: #fffdf8;
+    --bg-elevated: #f0ebe1;
+    --text: #2a2a2a;
+    --text-heading: #0a2540;
+    --text-muted: #6b6b6b;
+    --accent: #c45c3e;
+    --accent-gold: #c9a84c;
+    --navy: #0a2540;
+    --navy-light: #1a3a5c;
+    --border: #d9d4c8;
+    --max-width: 820px;
+    --font-body: "Source Sans 3", system-ui, -apple-system, sans-serif;
+    --font-heading: "DM Serif Display", Georgia, serif;
+    --font-ui: "Source Sans 3", system-ui, -apple-system, sans-serif;
+    --font-arabic: "Amiri", "Noto Naskh Arabic", serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html {
+    scroll-behavior: smooth;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    line-height: 1.8;
+    font-size: 18px;
+  }
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+  }
+  .article {
+    width: 100%;
+    max-width: var(--max-width);
+    padding: 3rem 2rem 5rem;
+    background: var(--bg-card);
+    box-shadow: 0 0 40px rgba(10,37,64,0.04);
+  }
+  .header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--border);
+  }
+  .header .label {
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+  }
+  .header h1 {
+    font-family: var(--font-heading);
+    font-size: 2.4rem;
+    color: var(--navy);
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+  .header .subtitle {
+    font-family: var(--font-heading);
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--accent);
+    margin-top: 0.5rem;
+  }
+  .header .meta {
+    color: var(--text-muted);
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+    margin-top: 1.5rem;
+    text-transform: uppercase;
+  }
+  .divider {
+    text-align: center;
+    margin: 2.5rem 0;
+    color: var(--accent-gold);
+    font-size: 1rem;
+    letter-spacing: 4px;
+  }
+
+  /* Verse Cards */
+  .verse-card {
+    background: var(--bg-elevated);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    padding: 1.8rem 1.5rem;
+    margin: 2rem 0;
+  }
+  .verse-ref {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  .verse-arabic {
+    font-family: var(--font-arabic);
+    font-size: 1.7rem;
+    line-height: 2.4;
+    text-align: right;
+    direction: rtl;
+    color: var(--navy);
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+  }
+  .verse-translation {
+    margin-bottom: 1rem;
+  }
+  .verse-translation .lang-label {
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }
+  .verse-translation .text {
+    font-size: 1.02rem;
+    line-height: 1.7;
+    color: var(--text);
+  }
+  .verse-translation.en .text {
+    font-style: italic;
+    color: var(--navy-light);
+  }
+  .verse-translation.ms .text {
+    color: var(--text);
+  }
+
+  /* Section Headings */
+  h2 {
+    font-family: var(--font-heading);
+    font-size: 1.7rem;
+    color: var(--navy);
+    margin: 3rem 0 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    letter-spacing: 0.5px;
+  }
+  h3 {
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    color: var(--accent);
+    margin: 2rem 0 0.8rem;
+    font-style: italic;
+  }
+
+  /* Body Text */
+  p {
+    margin-bottom: 1.2rem;
+    text-align: justify;
+    hyphens: auto;
+  }
+  p.intro {
+    font-size: 1.1rem;
+    color: var(--navy-light);
+    font-style: italic;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 2.5rem;
+    line-height: 1.7;
+  }
+
+  /* Tafsir Summary Box */
+  .tafsir-box {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.5rem 1.5rem;
+    margin: 1.5rem 0;
+  }
+  .tafsir-box .source {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 0.6rem;
+  }
+  .tafsir-box p {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    margin-bottom: 0.8rem;
+    text-align: justify;
+  }
+  .tafsir-box p:last-child { margin-bottom: 0; }
+  .tafsir-box .ar-tafsir {
+    font-family: var(--font-arabic);
+    font-size: 1.05rem;
+    line-height: 2;
+    text-align: right;
+    direction: rtl;
+    color: var(--navy);
+    margin-bottom: 0.8rem;
+  }
+
+  /* Numbered Lists */
+  ol {
+    margin: 1rem 0 1.5rem 0;
+    padding-left: 1.8rem;
+  }
+  ol li {
+    margin-bottom: 0.9rem;
+    line-height: 1.7;
+    padding-left: 0.3rem;
+  }
+  ol li::marker {
+    font-family: var(--font-heading);
+    color: var(--accent);
+    font-weight: 700;
+  }
+  ol li strong {
+    color: var(--navy);
+  }
+
+  /* Summary Section */
+  .summary-box {
+    background: var(--navy);
+    color: #f6f3ed;
+    border-radius: 6px;
+    padding: 2rem 1.8rem;
+    margin: 2.5rem 0 1rem;
+  }
+  .summary-box h3 {
+    color: var(--accent-gold);
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    margin: 0 0 1rem;
+    font-style: italic;
+  }
+  .summary-box p {
+    color: #e8e2d6;
+    font-size: 0.98rem;
+    line-height: 1.7;
+    margin-bottom: 0.8rem;
+    text-align: justify;
+  }
+  .summary-box p:last-child { margin-bottom: 0; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-style: italic;
+  }
+  .footer .refs {
+    text-align: left;
+    font-style: normal;
+    margin-top: 1.5rem;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+  .footer .refs strong {
+    color: var(--navy);
+  }
+
+  em { color: var(--navy-light); font-style: italic; }
+  strong { color: var(--navy); font-weight: 700; }
+
+  @media (max-width: 600px) {
+    html { font-size: 16px; }
+    .article { padding: 2rem 1.25rem 4rem; }
+    .header h1 { font-size: 1.8rem; }
+    .verse-arabic { font-size: 1.4rem; }
+    h2 { font-size: 1.4rem; }
+  }
+</style>
+</head>
+<body>
+
+<article class="article">
+
+  <div class="header">
+    <div class="label">Theme 4 &bull; Surah Al-Anfal &bull; Verses 30&ndash;33</div>
+    <h1>Quraysh's Plots and Allah's Protection</h1>
+    <div class="subtitle">When human scheming meets divine planning</div>
+    <div class="meta">Tafsir Ibn Kathir &amp; Tafsir Muyassar</div>
+  </div>
+
+  <p class="intro">
+    Four verses, one unshakeable truth: no plot against the truth can succeed when Allah is its Guardian. These verses transport us to the night the Quraysh sealed their fate at Dar An-Nadwah &mdash; and to the divine response that turned their conspiracy into the path of the Prophet's deliverance.
+  </p>
+
+  <!-- ========== VERSE 30 ========== -->
+  <div class="verse-card">
+    <div class="verse-ref">8:30</div>
+    <div class="verse-arabic">وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ</div>
+    <div class="verse-translation en">
+      <div class="lang-label">English &mdash; Sahih International</div>
+      <div class="text">And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allah plans. And Allah is the best of planners.</div>
+    </div>
+    <div class="verse-translation ms">
+      <div class="lang-label">Malay &mdash; Abdullah Muhammad Basmeih</div>
+      <div class="text">Dan ingatlah (wahai Muhammad), ketika orang-orang kafir musyrik (Makkah) menjalankan tipu daya terhadapmu untuk menahanmu, atau membunuhmu, atau mengusirmu. Mereka menjalankan tipu daya dan Allah menggagalkan tipu daya (mereka), kerana Allah sebaik-baik yang menggagalkan tipu daya.</div>
+    </div>
+  </div>
+
+  <!-- ========== VERSE 31 ========== -->
+  <div class="verse-card">
+    <div class="verse-ref">8:31</div>
+    <div class="verse-arabic">وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَـٰذَآ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ</div>
+    <div class="verse-translation en">
+      <div class="lang-label">English &mdash; Sahih International</div>
+      <div class="text">And when Our verses are recited to them, they say, "We have heard. If we willed, we could say [something] like this. This is not but legends of the former peoples."</div>
+    </div>
+    <div class="verse-translation ms">
+      <div class="lang-label">Malay &mdash; Abdullah Muhammad Basmeih</div>
+      <div class="text">Dan apabila dibacakan kepada mereka ayat-ayat Kami, mereka berkata: "Sesungguhnya kami telah mendengarnya. Kalau kami mahu, nescaya kami dapat mengatakan (kata-kata) seperti (Al-Quran) ini. (Al-Quran) ini tidak lain hanyalah cerita cerita dongeng orang-orang dahulu kala".</div>
+    </div>
+  </div>
+
+  <!-- ========== VERSE 32 ========== -->
+  <div class="verse-card">
+    <div class="verse-ref">8:32</div>
+    <div class="verse-arabic">وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ</div>
+    <div class="verse-translation en">
+      <div class="lang-label">English &mdash; Sahih International</div>
+      <div class="text">And [remember] when they said, "O Allah, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment."</div>
+    </div>
+    <div class="verse-translation ms">
+      <div class="lang-label">Malay &mdash; Abdullah Muhammad Basmeih</div>
+      <div class="text">Dan (ingatlah) ketika mereka (kaum musyrik Makkah) berkata: "Wahai tuhan kami! Jika betul (Al-Quran) itu ialah yang benar dari sisimu, maka hujanilah kami dengan batu dari langit, atau datangkanlah kepada kami azab seksa yang tidak terperi sakitnya".</div>
+    </div>
+  </div>
+
+  <!-- ========== VERSE 33 ========== -->
+  <div class="verse-card">
+    <div class="verse-ref">8:33</div>
+    <div class="verse-arabic">وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ</div>
+    <div class="verse-translation en">
+      <div class="lang-label">English &mdash; Sahih International</div>
+      <div class="text">But Allah would not punish them while you, [O Muhammad], are among them, and Allah would not punish them while they seek forgiveness.</div>
+    </div>
+    <div class="verse-translation ms">
+      <div class="lang-label">Malay &mdash; Abdullah Muhammad Basmeih</div>
+      <div class="text">Dan Allah tidak sekali-kali akan menyeksa mereka, sedang engkau (wahai Muhammad) ada di antara mereka; dan Allah tidak akan menyeksa mereka sedang mereka beristighfar (meminta ampun).</div>
+    </div>
+  </div>
+
+  <div class="divider">&loz; &loz; &loz;</div>
+
+  <!-- ========== TAFSIR SUMMARY ========== -->
+  <h2>Tafsir Summary</h2>
+
+  <h3>8:30 &mdash; The Plot at Dar An-Nadwah</h3>
+  <div class="tafsir-box">
+    <div class="source">Ibn Kathir (Abridged)</div>
+    <p>
+      Ibn `Abbas, Mujahid, and Qatadah explained that <em>liyuthbituka</em> ("to restrain you") means "to imprison you." The chiefs of the various Quraysh tribes gathered in their conference hall, <strong>Dar An-Nadwah</strong>, to deliberate on what to do about the Prophet Muhammad &#65018;. <strong>Iblis (Shaytan)</strong> appeared among them in the form of an eminent old man from Najd, offering his counsel. Three proposals were put forward:
+    </p>
+    <p>
+      <strong>First proposal &mdash; imprisonment:</strong> Imprison him in chains until he dies, as poets before him had perished. The old man from Najd rejected this, arguing his Lord would release him and his companions would then turn against Quraysh.
+    </p>
+    <p>
+      <strong>Second proposal &mdash; expulsion:</strong> Expel him from Makkah so they would be free of him. The old man from Najd again objected, warning that his eloquence would win followers among the Arabs who would gather and attack Quraysh in their own land.
+    </p>
+    <p>
+      <strong>Third proposal &mdash; assassination (Abu Jahl's plan):</strong> <strong>Abu Jahl</strong> proposed selecting a strong young man from each tribe, each armed with a sharp sword, to strike the Prophet simultaneously. In this way, his blood would be on all tribes, and Banu Hashim could not wage war against all of Quraysh &mdash; they would be forced to accept blood money. The old man from Najd praised this as the best opinion. They prepared to implement it.
+    </p>
+    <p>
+      <strong>Allah's response:</strong> Jibril came to the Prophet and commanded him not to sleep in his bed that night, conveying the intelligence of their plot. The Messenger of Allah &#65018; did not sleep in his house, and Allah granted him permission to migrate. After he reached Al-Madinah, Allah revealed Surah Al-Anfal, reminding him: <em>"They were plotting and Allah too was plotting, and Allah is the best of plotters."</em> `Urwah bin Az-Zubayr commented that Allah said: <em>"I plotted against them with My sure planning, and I saved you from them."</em>
+    </p>
+  </div>
+  <div class="tafsir-box">
+    <div class="source">Tafsir Muyassar (Arabic)</div>
+    <div class="ar-tafsir">واذكر -أيها الرسول- حين يكيد لك مشركو قومك بـ «مكَّة» ; ليحبسوك أو يقتلوك أو ينفوك من بلدك. ويكيدون لك، وردَّ الله مكرهم عليهم جزاء لهم، ويمكر الله، والله خير الماكرين.</div>
+    <p style="font-size:0.88rem; color:var(--text-muted); text-align:left;">
+      <em>Translation:</em> Remember, O Messenger, when your polytheist people plotted against you in Makkah &mdash; to imprison you, kill you, or expel you from your land. They plotted, and Allah turned their plotting back against them as punishment. Allah plans, and Allah is the best of planners.
+    </p>
+  </div>
+
+  <h3>8:31 &mdash; "Tales of the Ancients"</h3>
+  <div class="tafsir-box">
+    <div class="source">Ibn Kathir (Abridged)</div>
+    <p>
+      Allah describes the disbelief and rebellion of the Quraysh when His verses were recited to them. They boasted: <em>"We have heard; if we wish, we can say the like of this."</em> They boasted with words, but never with actions. They were repeatedly challenged to produce even one chapter like the Qur'an, and they had no way to meet this challenge. Their boasting served only to deceive themselves and their followers.
+    </p>
+    <p>
+      It was said that <strong>An-Nadr bin Al-Harith</strong> was the one who uttered this claim. An-Nadr had visited Persia and learned the stories of Persian kings such as <strong>Rustum</strong> and <strong>Isphandiyar</strong>. Upon returning to Makkah, he found the Prophet reciting the Qur'an to the people. Whenever the Prophet left an audience where An-Nadr was seated, An-Nadr would narrate his Persian tales and proclaim: <em>"Who, by Allah, has better tales to narrate &mdash; I or Muhammad?"</em> When the Muslims captured An-Nadr at the Battle of Badr, the Messenger of Allah &#65018; commanded his execution, and it was carried out.
+    </p>
+    <p>
+      Their accusation that the Qur'an was <em>"tales of the ancients" (asatir al-awwalin)</em> meant they claimed the Prophet had plagiarized books of ancient peoples. Allah refuted this in another verse (25:5-6): <em>"It has been sent down by Him Who knows the secret of the heavens and the earth. Truly, He is Oft-Forgiving, Most Merciful."</em>
+    </p>
+  </div>
+  <div class="tafsir-box">
+    <div class="source">Tafsir Muyassar (Arabic)</div>
+    <div class="ar-tafsir">وإذا تتلى على هؤلاء الذين كفروا بالله آيات القرآن العزيز قالوا جهلا منهم وعنادًا للحق: قد سمعنا هذا من قبل، لو نشاء لقلنا مثل هذا القرآن، ما هذا القرآن الذي تتلوه علينا -أيها الرسول- إلا أكاذيب الأولين.</div>
+    <p style="font-size:0.88rem; color:var(--text-muted); text-align:left;">
+      <em>Translation:</em> When the verses of the Noble Qur'an are recited to these disbelievers, they say out of ignorance and stubbornness toward the truth: "We have heard this before. If we wished, we could say something like this Qur'an. This Qur'an that you recite to us, O Messenger, is nothing but the lies of the ancients."
+    </p>
+  </div>
+
+  <h3>8:32 &mdash; The Reckless Challenge</h3>
+  <div class="tafsir-box">
+    <div class="source">Ibn Kathir (Abridged)</div>
+    <p>
+      This verse records the enormous ignorance, denial, and transgression of the Quraysh. Instead of saying, <em>"O Allah, if this is the truth from You, then guide us to it and help us follow it,"</em> they defiantly challenged Allah to punish them if the Qur'an were true. <strong>Anas bin Malik</strong> reported through Shu`bah from `Abdul-Hamid that it was <strong>Abu Jahl bin Hisham</strong> who uttered this statement.
+    </p>
+    <p>
+      Ibn Kathir draws parallels with other defiant peoples: the people of Shu`ayb had similarly challenged him to cause a piece of the sky to fall on them (26:187). The Quraysh followed the same pattern of ancient stubbornness &mdash; hastening Allah's torment upon themselves. Allah reminds us in other verses that such punishment would have come but for an appointed term (29:53), and that it will come suddenly while they perceive not.
+    </p>
+  </div>
+  <div class="tafsir-box">
+    <div class="source">Tafsir Muyassar (Arabic)</div>
+    <div class="ar-tafsir">واذكر -أيها الرسول- قول المشركين من قومك داعين الله: إن كان ما جاء به محمد هو الحق مِن عندك فأمطر علينا حجارة من السماء، أو ائتنا بعذاب شديد موجع.</div>
+    <p style="font-size:0.88rem; color:var(--text-muted); text-align:left;">
+      <em>Translation:</em> Remember, O Messenger, the saying of the polytheists among your people, calling upon Allah: "If what Muhammad has brought is the truth from You, then rain stones upon us from the sky, or bring us a severe, painful punishment."
+    </p>
+  </div>
+
+  <h3>8:33 &mdash; Two Shields Against Punishment</h3>
+  <div class="tafsir-box">
+    <div class="source">Ibn Kathir (Abridged)</div>
+    <p>
+      Allah revealed this verse as the direct response to the Quraysh's challenge. Despite their arrogance, Allah would not punish them for two reasons: <strong>the presence of the Prophet &#65018; among them</strong>, and <strong>their seeking of forgiveness (istighfar)</strong>.
+    </p>
+    <p>
+      <strong>Ibn `Abbas</strong> explained that the pagans used to perform Tawaf around the Ka`bah, proclaiming partial declarations of obedience while also calling: "O Allah, Your forgiveness, Your forgiveness." Allah revealed this verse in response. Ibn `Abbas commented: <em>"They had two safety shelters: the Prophet, and their seeking forgiveness. The Prophet went away, and only seeking forgiveness remained."</em>
+    </p>
+    <p>
+      The Prophet &#65018; himself confirmed this in a hadith recorded by At-Tirmidhi from Abu Musa: <em>"Allah sent down to me two safe shelters for my Ummah &mdash; [this verse]. When I die, I will leave the seeking of forgiveness with them, until the Day of Resurrection."</em>
+    </p>
+    <p>
+      A further testimony comes from a hadith recorded by Ahmad and Al-Hakim (graded Sahih) from Abu Sa`id: Shaytan said, <em>"By Your might, O Lord, I will never stop luring Your servants as long as their souls remain in their bodies."</em> Allah replied: <em>"By My might and majesty, I will keep forgiving them, as long as they keep invoking Me for forgiveness."</em>
+    </p>
+  </div>
+  <div class="tafsir-box">
+    <div class="source">Tafsir Muyassar (Arabic)</div>
+    <div class="ar-tafsir">وما كان الله سبحانه وتعالى ليعذِّب هؤلاء المشركين، وأنت -أيها الرسول- بين ظهرانَيْهم، وما كان الله معذِّبهم، وهم يستغفرون من ذنوبهم.</div>
+    <p style="font-size:0.88rem; color:var(--text-muted); text-align:left;">
+      <em>Translation:</em> Allah, glorified and exalted, would not punish these polytheists while you, O Messenger, are among them. And Allah would not punish them while they seek forgiveness for their sins.
+    </p>
+  </div>
+
+  <div class="divider">&loz; &loz; &loz;</div>
+
+  <!-- ========== KEY LESSONS ========== -->
+  <h2>Key Lessons</h2>
+  <ol>
+    <li><strong>No plot against the truth escapes Allah's planning.</strong> The Quraysh's conspiracy at Dar An-Nadwah &mdash; involving the finest minds of their tribes and counseled by Iblis himself &mdash; was met by Allah's superior planning. <em>"They plan, and Allah plans. And Allah is the best of planners."</em> Human intelligence, however sophisticated, cannot outmaneuver divine wisdom.</li>
+    <li><strong>Iblis actively participates in plotting against the truth.</strong> The tafsir reveals that Shaytan did not merely inspire from a distance &mdash; he appeared physically at Dar An-Nadwah in the form of an old man from Najd, sitting among the Quraysh chiefs and systematically dismantling every flawed proposal until the worst option (assassination) was adopted. This shows the enemy's methodology: appearing as a wise counsellor while steering toward maximum harm.</li>
+    <li><strong>Divine protection often comes through unseen means.</strong> Allah did not destroy the plotters; He simply sent Jibril with intelligence and instructed the Prophet not to sleep in his bed that night. The Hijrah &mdash; one of the most consequential events in human history &mdash; began as Allah's counter-intelligence operation against a single assassination plot.</li>
+    <li><strong>Arrogance blinds people to their own limitations.</strong> The Quraysh claimed they could produce something like the Qur'an, yet when repeatedly challenged to produce even one chapter, they failed every time. An-Nadr bin Al-Harith tried to compete with Persian folktales against divine revelation &mdash; and met his end at Badr. Boastful words without action are the hallmark of those who know, deep down, they cannot deliver.</li>
+    <li><strong>Defiance against truth can become self-destructive.</strong> Rather than praying for guidance if the Qur'an were true, Abu Jahl prayed for punishment. This is the psychology of stubbornness taken to its extreme &mdash; preferring destruction over submission. The Quraysh effectively invited their own annihilation, and Allah's patience only deferred it.</li>
+    <li><strong>The presence of the righteous is a shield for the community.</strong> While the Prophet &#65018; lived among the Makkans, they were safe from divine punishment &mdash; even as they plotted against him. This demonstrates the barakah (blessing) that righteous individuals bring to their surroundings, even to those who oppose them.</li>
+    <li><strong>Istighfar (seeking forgiveness) remains a permanent shield.</strong> The Prophet &#65018; said he would leave istighfar with his Ummah until the Day of Resurrection. Even after the first shield (his physical presence) was removed, the second shield remains eternally available. Allah swore by His might and majesty that He will keep forgiving as long as His servants keep asking.</li>
+    <li><strong>Shaytan's persistence is matched by Allah's greater persistence in forgiveness.</strong> The hadith of Abu Sa`id captures the cosmic exchange: Shaytan vowed to lure servants as long as they live; Allah vowed to forgive them as long as they seek forgiveness. The contest is not close &mdash; one sincere word of istighfar undoes a lifetime of Shaytan's whisperings.</li>
+  </ol>
+
+  <div class="divider">&loz; &loz; &loz;</div>
+
+  <!-- ========== PRACTICAL APPLICATIONS ========== -->
+  <h2>Practical Applications</h2>
+  <ol>
+    <li><strong>Trust Allah's planning when facing opposition.</strong> When you face hostility, conspiracy, or injustice in your life &mdash; whether at work, in your community, or within your family &mdash; remember that <em>Allah is the best of planners.</em> Do your part (take precautions, seek advice, act wisely) but place your ultimate trust in the One whose plan is already in motion. The Prophet did not sleep in his bed that night (action) and Allah guided his steps (trust).</li>
+    <li><strong>Recognise destructive counsel for what it is.</strong> Not everyone who offers advice has your best interest at heart. The old man from Najd appeared wise, elderly, and helpful &mdash; but he was Iblis. Learn to evaluate advice by its fruits, not its appearance. When counsel consistently steers toward harm, division, or the most extreme option, recognise the source.</li>
+    <li><strong>Do not engage in competitions you cannot win against the truth.</strong> An-Nadr tried to compete with the Qur'an using Persian stories and lost everything &mdash; his reputation in this world and his life at Badr. When you encounter truth, the dignified response is to investigate and follow it, not to compete with it. Intellectual arrogance has consequences.</li>
+    <li><strong>Be honest in your prayers &mdash; pray for guidance, not for proof of punishment.</strong> The Quraysh prayed: "If this is true, punish us." The believer prays: "If this is true, guide me to it." Examine your own supplications &mdash; are you seeking Allah's guidance, or are you testing Him? The first is humility; the second is the path of Abu Jahl.</li>
+    <li><strong>Cultivate istighfar as a daily practice, not just a ritual.</strong> The Prophet &#65018; himself said istighfar would remain a shield for his Ummah until the Day of Resurrection. Make <em>astaghfirullah</em> a part of your daily rhythm &mdash; after prayer, before sleep, in moments of difficulty. This is not merely asking for pardon; it is activating a divine guarantee of protection.</li>
+    <li><strong>Be a source of protection for those around you.</strong> The presence of the Prophet shielded even his enemies from punishment. While we cannot match his rank, the principle holds: a righteous person in a household, workplace, or community brings divine mercy to everyone around them. Strive to be the one whose presence invites barakah, not the one whose absence goes unnoticed.</li>
+    <li><strong>Understand that Allah's patience is not Allah's approval.</strong> The Quraysh were not punished immediately &mdash; not because their deeds were acceptable, but because two shields stood between them and punishment. Do not mistake Allah's forbearance for endorsement. Repentance is always available, but the window does not remain open indefinitely.</li>
+    <li><strong>Take inspiration from the Hijrah pattern in your own life.</strong> When a situation becomes impossible, Allah may open a path you never imagined. The assassination plot became the trigger for the Hijrah &mdash; the journey that built the first Islamic community. When you face a closed door, look for the window that Allah is opening. Your deliverance may come disguised as the very crisis that threatens you.</li>
+  </ol>
+
+  <div class="divider">&loz; &loz; &loz;</div>
+
+  <!-- ========== SUMMARY ========== -->
+  <div class="summary-box">
+    <h3>Summary</h3>
+    <p>
+      These four verses capture a pivotal moment in the early history of Islam: the night the Quraysh conspired to kill the Prophet Muhammad &#65018; at Dar An-Nadwah, guided by Iblis himself. Three options were debated &mdash; imprisonment, expulsion, and assassination &mdash; and Abu Jahl's assassination plan was adopted. Allah's response was not to destroy the plotters but to rescue His Prophet through intelligence delivered by Jibril, turning the conspiracy into the catalyst for the Hijrah.
+    </p>
+    <p>
+      The following verses expose the Quraysh's deeper spiritual sickness: their arrogant claim that they could produce something like the Qur'an (when they could not even produce a single chapter), their reckless challenge to Allah to punish them if the revelation were true, and the ironic fact that they were spared &mdash; not because they deserved mercy, but because of two shields Allah had placed over them: the living presence of the Prophet and the practice of istighfar.
+    </p>
+    <p>
+      The enduring message is one of trust and repentance. <strong>Trust</strong> &mdash; because no human plot, however sophisticated or counseled by Shaytan, can overcome Allah's planning. <strong>Repentance</strong> &mdash; because istighfar remains the permanent shield of the Ummah, a guarantee backed by Allah's own oath that He will keep forgiving as long as His servants keep asking. The Quraysh plotted; Allah planned. They boasted; Allah challenged. They defied; Allah shielded. And in every case, the outcome proved the opening verse true: <em>Allah is the best of planners.</em>
+    </p>
+  </div>
+
+  <div class="footer">
+    <p>Tarbiyyah Research &bull; Surah Al-Anfal Thematic Study</p>
+    <div class="refs">
+      <strong>Sources:</strong><br>
+      &bull; Arabic text: Al Quran Cloud (Uthmani), cross-referenced with Quran.com<br>
+      &bull; English translation: Sahih International<br>
+      &bull; Malay translation: Abdullah Muhammad Basmeih (Dewan Pustaka Fajar)<br>
+      &bull; Tafsir Ibn Kathir (Abridged) &mdash; Hafiz Ibn Kathir<br>
+      &bull; Tafsir Muyassar &mdash; Al-Muyassar (Arabic)<br>
+      &bull; Hadith references: Sahih Al-Bukhari, At-Tirmidhi, Musnad Ahmad, Mustadrak Al-Hakim<br>
+      &bull; Quran Wiki corpus: /root/tarbiyyah/quran-wiki/
+    </div>
+  </div>
+
+</article>
+
+</body>
+</html>

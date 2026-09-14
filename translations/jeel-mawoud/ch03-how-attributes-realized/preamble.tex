@@ -1,0 +1,45 @@
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+
+% Colors
+\definecolor{accent}{HTML}{1a5276}
+\definecolor{accent2}{HTML}{117864}
+\definecolor{deepgreen}{HTML}{0e6655}
+\definecolor{textdark}{HTML}{2c3e50}
+\definecolor{qbg}{HTML}{eaf2f8}
+\definecolor{bgcard}{HTML}{f4f6f7}
+\definecolor{gold}{HTML}{b7950b}
+
+% Main font
+\setmainfont{Noto Sans}
+
+% Page geometry
+\geometry{margin=2.2cm, top=2.5cm, bottom=2cm}
+
+% Section formatting
+\titleformat{\section}{\color{accent}\Large\bfseries}{\thesection}{1em}{}[{}]
+\titleformat{\subsection}{\color{accent2}\large\bfseries}{\thesubsection}{1em}{}[{}]
+\titleformat{\subsubsection}{\color{textdark}\normalsize\bfseries}{\thesubsubsection}{1em}{}[{}]
+
+% Headers and footers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{textdark} Jeel Mawoud --- Ch. 3: How Are the Attributes Achieved?}
+\fancyhead[R]{\small\color{textdark} \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Quranic verses styled as blockquotes
+\renewenvironment{quote}
+  {\begin{tcolorbox}[colback=qbg,colframe=accent,boxrule=0.5pt,arc=3pt,left=8pt,right=8pt]\itshape}
+  {\end{tcolorbox}}
+
+% Hyperref setup
+\AtBeginDocument{
+  \hypersetup{colorlinks=true, linkcolor=accent, urlcolor=accent}
+}

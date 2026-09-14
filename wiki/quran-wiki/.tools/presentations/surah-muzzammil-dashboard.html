@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Surah Al-Muzzammil (73) — Interactive Tafseer Dashboard</title>
+<style>
+  :root {
+    --primary: #1B4D3E;
+    --primary-dark: #164038;
+    --secondary: #6B9080;
+    --accent: #C9A857;
+    --surface: #FAF6F0;
+    --surface-raised: #EDE5D8;
+    --border: #D9CFC2;
+    --text: #1C1917;
+    --text-muted: #57534E;
+    --white: #FFFFFF;
+    --bg-dark: #0F1A14;
+    --card-bg: #162820;
+    --card-border: #1B4D3E;
+    --hover-bg: #1E3A2E;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: var(--bg-dark);
+    color: var(--surface);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  /* Top nav */
+  .topbar {
+    background: var(--primary);
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 3px solid var(--accent);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .topbar .logo {
+    font-family: Georgia, serif;
+    font-size: 1.25rem;
+    color: var(--accent);
+    font-weight: bold;
+  }
+  .topbar .subtitle {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    margin-left: 0.5rem;
+  }
+  .topbar .badge {
+    background: var(--accent);
+    color: var(--primary-dark);
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
+  /* Layout */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem;
+  }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+  .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
+  @media (max-width: 900px) {
+    .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+  }
+  /* Cards */
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(27, 77, 62, 0.3);
+  }
+  .card-title {
+    font-family: Georgia, serif;
+    font-size: 1.1rem;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .card-title .icon {
+    width: 24px; height: 24px;
+    background: var(--accent);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary-dark);
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
+  /* Hero section */
+  .hero {
+    text-align: center;
+    padding: 2.5rem 1rem;
+    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+    border-radius: 16px;
+    margin-bottom: 2rem;
+    border: 1px solid var(--accent);
+  }
+  .hero h1 {
+    font-family: Georgia, serif;
+    font-size: 2.5rem;
+    color: var(--white);
+    margin-bottom: 0.5rem;
+  }
+  .hero .arabic {
+    font-size: 1.75rem;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+  }
+  .hero .meta {
+    color: var(--secondary);
+    font-size: 0.9rem;
+  }
+  /* Stats row */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .stat-box {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+  }
+  .stat-box .num {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--accent);
+    font-family: Georgia, serif;
+  }
+  .stat-box .label {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  /* Verse explorer */
+  .verse-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+  }
+  .verse-tab {
+    background: var(--primary-dark);
+    border: 1px solid var(--card-border);
+    color: var(--surface);
+    padding: 0.4rem 0.7rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+  .verse-tab:hover, .verse-tab.active {
+    background: var(--accent);
+    color: var(--primary-dark);
+    font-weight: bold;
+  }
+  .verse-panel {
+    display: none;
+    animation: fadeIn 0.3s ease;
+  }
+  .verse-panel.active { display: block; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+  .arabic-text {
+    background: var(--primary-dark);
+    border-left: 4px solid var(--accent);
+    border-right: 4px solid var(--accent);
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    text-align: center;
+    color: var(--surface);
+    margin-bottom: 0.75rem;
+    direction: rtl;
+    font-family: 'Times New Roman', serif;
+  }
+  .translation-text {
+    font-style: italic;
+    color: var(--text-muted);
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+  }
+  .tafsir-box {
+    background: var(--hover-bg);
+    border-radius: 8px;
+    padding: 1rem;
+    border-left: 3px solid var(--secondary);
+  }
+  .tafsir-box h4 {
+    color: var(--accent);
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .tafsir-box p {
+    font-size: 0.9rem;
+    color: var(--surface);
+  }
+  /* Timeline / Section navigator */
+  .section-nav {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .section-pill {
+    white-space: nowrap;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    color: var(--secondary);
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .section-pill:hover, .section-pill.active {
+    background: var(--accent);
+    color: var(--primary-dark);
+    border-color: var(--accent);
+    font-weight: bold;
+  }
+  /* Da'ie insights */
+  .insight-card {
+    background: linear-gradient(135deg, var(--primary-dark), var(--card-bg));
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  .insight-card .tag {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--primary-dark);
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+  }
+  .insight-card h4 {
+    color: var(--accent);
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .insight-card p {
+    font-size: 0.9rem;
+    color: var(--surface);
+  }
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--secondary);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--card-border);
+    margin-top: 2rem;
+  }
+  /* Scrollbar styling */
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: var(--bg-dark); }
+  ::-webkit-scrollbar-thumb { background: var(--primary); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+  /* Responsive verse tabs */
+  @media (max-width: 600px) {
+    .verse-tabs { gap: 0.25rem; }
+    .verse-tab { padding: 0.3rem 0.5rem; font-size: 0.75rem; }
+    .hero h1 { font-size: 1.8rem; }
+    .hero .arabic { font-size: 1.3rem; }
+  }
+  /* Table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  th, td {
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid var(--card-border);
+  }
+  th {
+    color: var(--accent);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+  }
+  td { color: var(--surface); }
+  tr:hover td { background: var(--hover-bg); }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div>
+    <span class="logo">📖 Quran Wiki</span>
+    <span class="subtitle">Interactive Tafseer Dashboard</span>
+  </div>
+  <div class="badge">Surah 73 — Al-Muzzammil</div>
+</div>
+
+<div class="container">
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="arabic">سُورَةُ ٱلْمُزَّمِّلِ</div>
+    <h1>Surah Al-Muzzammil</h1>
+    <p style="color:var(--accent); font-size:1.1rem; margin-bottom:0.5rem;">The Enwrapped One</p>
+    <p class="meta">Meccan • 20 Verses • Juz 29 • Pages 574–575 • Tafsir: Ibn Kathir & Muyassar</p>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-row">
+    <div class="stat-box"><div class="num">20</div><div class="label">Verses</div></div>
+    <div class="stat-box"><div class="num">2</div><div class="label">Rukus</div></div>
+    <div class="stat-box"><div class="num">5</div><div class="label">Translations</div></div>
+    <div class="stat-box"><div class="num">2</div><div class="label">Tafsir Sources</div></div>
+    <div class="stat-box"><div class="num">8</div><div class="label">Divine Orders</div></div>
+  </div>
+
+  <!-- Section Navigator -->
+  <div class="section-nav" id="sectionNav">
+    <div class="section-pill active" onclick="showSection('overview')">📋 Overview</div>
+    <div class="section-pill" onclick="showSection('verses')">📜 Verse Explorer</div>
+    <div class="section-pill" onclick="showSection('daie')">🎤 Da'ie Lens</div>
+    <div class="section-pill" onclick="showSection('themes')">🎯 Themes</div>
+    <div class="section-pill" onclick="showSection('crossrefs')">🔗 Cross-Refs</div>
+    <div class="section-pill" onclick="showSection('sources')">📚 Sources</div>
+  </div>
+
+  <!-- OVERVIEW SECTION -->
+  <div id="section-overview" class="verse-panel active">
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-title"><span class="icon">1</span> Context & Revelation</div>
+        <p style="color:var(--surface); font-size:0.95rem;">
+          Revealed in <strong>Makkah</strong> during the early period of Prophethood — before the Hijrah, when opposition from the Quraysh was intensifying.
+          This surah arrived at a moment when the Prophet ﷺ needed spiritual fortification for the mission ahead.
+        </p>
+        <p style="color:var(--secondary); font-size:0.85rem; margin-top:0.75rem;">
+          The first 19 verses form a complete thematic unit; verse 20 (not shown here) abrogates the half-night obligation and transitions to Madinan legislation on charity.
+        </p>
+      </div>
+      <div class="card">
+        <div class="card-title"><span class="icon">2</span> Structure</div>
+        <table>
+          <tr><th>Section</th><th>Verses</th><th>Theme</th></tr>
+          <tr><td>Spiritual Preparation</td><td>1–9</td><td>Night prayer, Quran, devotion</td></tr>
+          <tr><td>Prophetic Conduct</td><td>10–11</td><td>Patience, avoidance, trust</td></tr>
+          <tr><td>Eschatological Warning</td><td>12–19</td><td>Punishment, Pharaoh, Day of Judgment</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:1.5rem;">
+      <div class="card-title"><span class="icon">3</span> Key Statistics from Quran Wiki</div>
+      <div class="grid-4" style="margin-top:1rem;">
+        <div class="stat-box">
+          <div class="num">406</div>
+          <div class="label">Wiki Pages</div>
+        </div>
+        <div class="stat-box">
+          <div class="num">12,711</div>
+          <div class="label">Raw Source Files</div>
+        </div>
+        <div class="stat-box">
+          <div class="num">117</div>
+          <div class="label">Unique Tags</div>
+        </div>
+        <div class="stat-box">
+          <div class="num">0</div>
+          <div class="label">Broken Links</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- VERSE EXPLORER SECTION -->
+  <div id="section-verses" class="verse-panel">
+    <div class="card">
+      <div class="card-title"><span class="icon">📜</span> Verse-by-Verse Explorer</div>
+      <p style="color:var(--secondary); font-size:0.85rem; margin-bottom:1rem;">
+        Select a verse to view Arabic text (Uthmani rasm), English translation (Pickthall), and abridged Tafsir Ibn Kathir.
+        All data extracted from Quran Wiki verified corpus.
+      </p>
+      <div class="verse-tabs" id="verseTabs"></div>
+      <div id="verseContent"></div>
+    </div>
+  </div>
+
+  <!-- DA'IE LENS SECTION -->
+  <div id="section-daie" class="verse-panel">
+    <div class="card" style="margin-bottom:1.5rem;">
+      <div class="card-title"><span class="icon">🎤</span> Through the Eyes of a Da'ie</div>
+      <p style="color:var(--surface); font-size:0.95rem;">
+        This section reframes every verse of Surah Al-Muzzammil as <strong>practical guidance for the caller to Islam</strong>.
+        The da'ie does not merely read tafsir — he extracts <em>operational doctrine</em> for the field of dawah.
+      </p>
+    </div>
+    <div id="daieInsights"></div>
+  </div>
+
+  <!-- THEMES SECTION -->
+  <div id="section-themes" class="verse-panel">
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-title"><span class="icon">🎯</span> Primary Themes</div>
+        <ul style="color:var(--surface); font-size:0.9rem; padding-left:1.2rem;">
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Qiyam al-Lail</strong> — Night prayer as the spiritual foundation of prophetic work</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Tartil</strong> — Measured Quranic recitation for depth, not speed</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Tabattul</strong> — Total, exclusive devotion cutting all rivals to Allah</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Sabr</strong> — Patient endurance of harm without retaliation</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Hijr Jamil</strong> — Gracious, noble avoidance of antagonists</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Tawakkul</strong> — Taking Allah as Wakil, leaving outcomes to Him</li>
+        </ul>
+      </div>
+      <div class="card">
+        <div class="card-title"><span class="icon">📊</span> Rhetorical Devices</div>
+        <table>
+          <tr><th>Device</th><th>Verse</th><th>Effect</th></tr>
+          <tr><td>Command (أمر)</td><td>1–2</td><td>Immediate, urgent tone</td></tr>
+          <tr><td>Gradation (تدرج)</td><td>3</td><td>Half → less → more: flexibility</td></tr>
+          <tr><td>Metonymy</td><td>6</td><td>Night = peak spiritual clarity</td></tr>
+          <tr><td>Historical Parable</td><td>15–16</td><td>Pharaoh as universal archetype</td></tr>
+          <tr><td>Rhetorical Question</td><td>17</td><td>Forces self-reflection on disbelief</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- CROSS-REFS SECTION -->
+  <div id="section-crossrefs" class="verse-panel">
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-title"><span class="icon">🔗</span> Quranic Cross-References</div>
+        <table>
+          <tr><th>Surah Al-Muzzammil</th><th>Linked Verse</th><th>Connection</th></tr>
+          <tr><td>73:2 (night prayer)</td><td>17:79</td><td>Tahajjud command</td></tr>
+          <tr><td>73:2 (forsake beds)</td><td>32:16</td><td>Sides leave beds in fear/hope</td></tr>
+          <tr><td>73:5 (heavy word)</td><td>56:80</td><td>Quran as weighty revelation</td></tr>
+          <tr><td>73:9 (Lord of East/West)</td><td>26:28</td><td>Musa's declaration to Pharaoh</td></tr>
+          <tr><td>73:10 (patience)</td><td>31:24</td><td>Respite then severe torment</td></tr>
+          <tr><td>73:15 (messenger to Pharaoh)</td><td>79:17–26</td><td>Musa sent to Pharaoh</td></tr>
+          <tr><td>73:19 (free will)</td><td>76:30</td><td>You cannot will unless Allah wills</td></tr>
+        </table>
+      </div>
+      <div class="card">
+        <div class="card-title"><span class="icon">🌐</span> Wiki Federation Links</div>
+        <p style="color:var(--surface); font-size:0.9rem; margin-bottom:1rem;">
+          Surah Al-Muzzammil is connected across the Tarbiyyah knowledge federation:
+        </p>
+        <ul style="color:var(--surface); font-size:0.9rem; padding-left:1.2rem;">
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Meta-Wiki</strong> — Domain index: Quranic themes in Islamic thought</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Linguistics</strong> — Deep study of «Muzzammil», «Tartil», «Tabattul»</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Names of Allah</strong> — Al-Sami' (All-Hearing) referenced in 73:20</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Comparisons</strong> — Translation comparison: Pickthall vs. Asad on 73:1-5</li>
+          <li style="margin-bottom:0.5rem;"><strong style="color:var(--accent);">Asbab al-Nuzul</strong> — Night Prayer Prescribed (73:1-8)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- SOURCES SECTION -->
+  <div id="section-sources" class="verse-panel">
+    <div class="card">
+      <div class="card-title"><span class="icon">📚</span> Sources & Provenance</div>
+      <div class="grid-2" style="margin-top:1rem;">
+        <div>
+          <h4 style="color:var(--accent); margin-bottom:0.5rem;">Tier 1 — Quranic Text</h4>
+          <ul style="color:var(--surface); font-size:0.85rem; padding-left:1.2rem;">
+            <li>Arabic (Uthmani rasm): Al Quran Cloud API + Quran.com API</li>
+            <li>Cross-verified: dual-source reconciliation with discrepancy flags</li>
+            <li>Stored immutably in <code>raw/arabic/</code></li>
+          </ul>
+        </div>
+        <div>
+          <h4 style="color:var(--accent); margin-bottom:0.5rem;">Tier 2 — Translations</h4>
+          <ul style="color:var(--surface); font-size:0.85rem; padding-left:1.2rem;">
+            <li>Pickthall, Sahih International, Yusuf Ali, Asad, Basmeih</li>
+            <li>All 5 editions stored in <code>raw/translations/</code></li>
+            <li>Edition keys: <code>en.pickthall</code>, <code>en.sahih</code>, etc.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="grid-2" style="margin-top:1rem;">
+        <div>
+          <h4 style="color:var(--accent); margin-bottom:0.5rem;">Tier 3 — Tafsir</h4>
+          <ul style="color:var(--surface); font-size:0.85rem; padding-left:1.2rem;">
+            <li>Ibn Kathir (Abridged English) — primary classical Sunni source</li>
+            <li>Tafsir Muyassar — simplified Arabic commentary</li>
+            <li>Stored as per-ayah JSONL in <code>raw/tafsir/073.jsonl</code></li>
+          </ul>
+        </div>
+        <div>
+          <h4 style="color:var(--accent); margin-bottom:0.5rem;">Tier 4 — Metadata</h4>
+          <ul style="color:var(--surface); font-size:0.85rem; padding-left:1.2rem;">
+            <li>Surah index: revelation order, page numbers, juz boundaries</li>
+            <li>Juz metadata: structural navigation for 30 juz</li>
+            <li>Asbab al-Nuzul: 30 occasion-of-revelation entries</li>
+          </ul>
+        </div>
+      </div>
+      <p style="color:var(--secondary); font-size:0.8rem; margin-top:1rem; border-top:1px solid var(--card-border); padding-top:0.75rem;">
+        All data verified through Quran Wiki's dual-source pipeline. Discrepancies between Al Quran Cloud and Quran.com are flagged for manual review.
+        This dashboard is generated from the same verified corpus used for scholarly presentations.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  <p style="color:var(--accent); font-size:1rem; margin-bottom:0.5rem;">رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ</p>
+  <p>Quran Wiki — Surah Al-Muzzammil (73) Interactive Dashboard | Tarbiyyah Knowledge Federation</p>
+  <p style="margin-top:0.5rem;">Sources: Al Quran Cloud API • Quran.com API • Tafsir Ibn Kathir (Abridged) • Tafsir Muyassar</p>
+</div>
+
+<script>
+// ── Quran Wiki Data: Surah 73 — Al-Muzzammil ──
+const surahData = {
+  verses: [
+    {n:1, ar:"يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ", tr:"O thou wrapped up in thy raiment!", sahih:"O you who wraps himself [in clothing],", tafsir:"Allah commands His Messenger to cease being wrapped up, and this means to be covered during the night. He commands him to get up and stand in prayer to His Lord. Ibn Abbas, Ad-Dahhak and As-Suddi all said: 'This means, O you who are asleep.' Qatadah said: 'The one who is wrapped up in his garments.' The Prophet did as Allah ordered him, by standing for prayer at night. This was obligatory upon him alone."},
+    {n:2, ar:"قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا", tr:"Keep vigil the night long, save a little -", sahih:"Arise [to pray] the night, except for a little -", tafsir:"Allah explains how much prayer he should perform. Half of it means instead of the whole night. 'A little less than that, or a little more' — We have commanded you to stand in prayer for half of the night, either a little more than it or a little less. There is no hardship on you concerning that slight increase or decrease."},
+    {n:3, ar:"نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا", tr:"A half thereof, or abate a little thereof", sahih:"Half of it - or subtract from it a little", tafsir:"The command allows flexibility: half the night, or reduce it slightly, reaching one-third. This demonstrates the Shariah's balance between discipline and mercy. The Prophet would sometimes pray half, sometimes two-thirds, sometimes one-third — always according to his capacity and circumstances."},
+    {n:4, ar:"أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا", tr:"Or add (a little) thereto - and chant the Qur'an in measure,", sahih:"Or add to it, and recite the Qur'an with measured recitation.", tafsir:"Tartil means to recite slowly, clearly, and with contemplation. A'ishah reported that the Prophet recited with measured, distinct pronunciation, pausing at places where one should pause. The purpose is understanding and reflection, not merely finishing the recitation."},
+    {n:5, ar:"إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا", tr:"For we shall charge thee with a word of weight.", sahih:"Indeed, We will cast upon you a heavy word.", tafsir:"Qawlan thaqilan — a heavy, weighty word: the Quran containing commands, prohibitions, and divine legislation. The revelation is heavy because it demands commitment, transforms character, and confronts falsehood. This weightiness requires spiritual preparation — hence the preceding command to stand at night in prayer."},
+    {n:6, ar:"إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا", tr:"Lo! the vigil of the night is (a time) when impression is more keen and speech more certain.", sahih:"Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words.", tafsir:"Night worship has stronger impact on the heart because worldly distractions are absent. Aqwamu qilan — speech is more upright and accurate because the heart is free from daytime preoccupations. The stillness of night creates the optimal conditions for deep connection with Allah."},
+    {n:7, ar:"إِنَّ لَكَ فِي ٱلنَّهَارِ سَبْحًا طَوِيلًا", tr:"Lo! thou hast by day a chain of business.", sahih:"Indeed, for you by day is prolonged occupation.", tafsir:"Daytime is for worldly duties, propagation, and engagement with people. The Prophet had long hours of work during the day — teaching, guiding, managing community affairs. Night is reserved for exclusive communion with Allah. This establishes the prophetic balance."},
+    {n:8, ar:"وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا", tr:"So remember the name of thy Lord and devote thyself with a complete devotion", sahih:"And remember the name of your Lord and devote yourself to Him with complete devotion.", tafsir:"Tabattul — total, exclusive devotion. Cut all attachments and dedicate worship solely to Allah. This is the state of complete detachment from everything except Allah. It was specifically obligatory upon the Prophet, then recommended for the Ummah in general."},
+    {n:9, ar:"رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا", tr:"Lord of the East and the West; there is no Allah save Him; so choose thou Him alone for thy defender", sahih:"He is the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of your affairs.", tafsir:"Tawhid declaration — Allah is Lord of East and West, the sole deity. Take Him as Wakil (Disposer of Affairs). This verse anchors the entire surah in pure monotheism. All the preceding commands (night prayer, recitation, devotion) derive their meaning and power from this foundation of tawhid."},
+    {n:10, ar:"وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا", tr:"And bear with patience what they utter, and part from them with a fair leave-taking.", sahih:"And be patient over what they say and avoid them with gracious avoidance.", tafsir:"Sabr — patient endurance of mockery, slander, and rejection. Hijran jamilan — gracious avoidance: do not retaliate, do not seek revenge. Maintain dignity and noble character. This is the prophetic model for dealing with opposition — not hatred, not violence, but patient forbearance and dignified distance."},
+    {n:11, ar:"وَذَرْنِي وَٱلْمُكَذِّبِينَ أُو۟لِي ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا", tr:"Leave Me to deal with the deniers, lords of ease and comfort; and do thou respite them awhile.", sahih:"And leave Me with those who deny the truth, those of luxury, and respite them a little.", tafsir:"Watharnee — leave the rejectors to Me. The Prophet's task is delivery (balagh); Allah handles reckoning. Wa mahhilhum qaleelan — grant them brief respite. Worldly enjoyment is temporary; divine justice is certain. The wealthy disbelievers are given more responsibility because they have more capacity — yet they deny."},
+    {n:12, ar:"إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا", tr:"Lo! with Us are heavy fetters and a raging fire,", sahih:"Indeed, with Us are shackles and burning fire", tafsir:"Verily, with Us are Ankal — these are fetters. Ibn Abbas, Ikrimah, Tawus, Muhammad bin Ka'b, and others all said this. Jahim is a blazing fire. These are two of the four punishments awaiting the persistent rejectors."},
+    {n:13, ar:"وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا", tr:"and food which choketh, and a painful doom", sahih:"And food that chokes and a painful punishment", tafsir:"Ta'am dhu ghussah — food that chokes, stuck in the throat, neither entering nor exiting. Ibn Abbas said: 'This means it will get stuck in the throat and it will not enter or settle.' Adhabun aleem — painful torment that combines physical and spiritual suffering."},
+    {n:14, ar:"يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا", tr:"On the day when the earth and the hills rock, and the hills become a heap of running sand.", sahih:"On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.", tafsir:"The Day of Judgment scene: earth and mountains convulse. Mountains become like flowing sand — their solidity dissolves before the power of Allah. This is a cosmic-level event that reduces all earthly permanence to nothingness. The mountains that seemed eternal will crumble like dunes."},
+    {n:15, ar:"إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا", tr:"Lo! We have sent unto you a messenger as witness against you, even as We sent unto Pharaoh a messenger.", sahih:"Indeed, We have sent to you a Messenger as a witness over you, just as We sent to Pharaoh a messenger.", tafsir:"The Prophet Muhammad is a shahid (witness) over his Ummah — his testimony will be presented on Judgment Day. The parallel with Pharaoh is explicit: just as Musa was sent to Pharaoh, Muhammad is sent to the Quraysh. The same choice faces every people: accept the messenger or face the consequence."},
+    {n:16, ar:"فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا", tr:"But Pharaoh rebelled against the messenger, whereupon We seized him with no gentle grip.", sahih:"But Pharaoh disobeyed the messenger, so We seized him with a severe seizure.", tafsir:"Pharaoh was sent Musa as a messenger; he denied, rebelled, and was seized by Allah with crushing punishment. Akhdhan wabeelan — a severe, ruinous seizure. The parallel is explicit: reject the messenger, face the consequence. This is a warning to the Makkan Quraysh: the fate of Pharaoh awaits those who persist in denial."},
+    {n:17, ar:"فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَ ٰ⁠نَ شِيبًا", tr:"Then how, if ye disbelieve, will ye protect yourselves upon the day which will turn children grey,", sahih:"Then how can you fear, if you disbelieve, a Day that will make the children white-haired?", tafsir:"A Day so terrifying that children will turn white-haired from sheer horror and dread. The rhetorical question: if you deny Allah now, what defense will you have on that Day? This is addressed to the disbelievers as a stark warning — no wealth, no tribe, no power will avail on the Day of Judgment."},
+    {n:18, ar:"ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعْدُهُۥ مَفْعُولًا", tr:"the very heaven being then rent asunder. His promise is to be fulfilled.", sahih:"The heaven will break apart therefrom; His promise is ever fulfilled.", tafsir:"The sky itself will be rent asunder — the cosmic order will collapse before the power of Allah. Kana wa'duhu maf'oolan — His promise is certainly fulfilled. The resurrection is not conjecture; it is guaranteed reality. The heaven splitting is a visual representation of the total dissolution of the present order."},
+    {n:19, ar:"إِنَّ هَـٰذِهِۦ تَذْكِرَةٌۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا", tr:"Lo! This is a Reminder. Let him who will, then, choose a way unto his Lord.", sahih:"Indeed, this is a reminder, so whoever wills may take to his Lord a way.", tafsir:"Hadhihi tathkirah — This surah is an admonition, a reminder for those of sound understanding. Faman shaa attakhadha ila rabbihi sabeelan — Whoever wills may take a path to his Lord. The will is ultimately subject to Allah's will: 'But you cannot will, unless Allah wills' (76:30). This balances human responsibility with divine sovereignty — a cornerstone of Ahl al-Sunnah theology."}
+  ]
+};
+
+const daieInsights = [
+  {verse:"1-2", tag:"Spiritual Foundation", title:"Your Night Prayer is Your Engine", text:"Before you call others to Islam, you must first answer Allah's call to stand at night. The da'ie who skips Tahajjud is like a soldier who skips meals before battle — weak, unfocused, and easily defeated. The command 'Qum al-layl' is not optional decoration; it is the spiritual engine that sustains prophetic stamina. Make Qiyam al-Lail your non-negotiable daily drill."},
+  {verse:"3-4", tag:"Operational Flexibility", title:"Dawah Has Room for Human Capacity", text:"Allah commands half the night, then immediately adds: or less, or more. This is the Shariah's operational flexibility. In dawah, we do not burn out our volunteers by demanding perfection. We establish the standard, then accommodate capacity. The goal is sustained engagement, not heroic burnout. Tartil applies to dawah too: speak slowly, clearly, and with contemplation — not rushed, noisy, or superficial."},
+  {verse:"5", tag:"Message Weight", title:"You Carry a Heavy Word", text:"Qawlan thaqilan — the message you carry is not light. It demands your own soul be prepared before you can prepare others. If your personal character contradicts the Quran you preach, the weight crushes your credibility. The da'ie must be the first student of what he teaches. Internalise the weight before you externalise the message."},
+  {verse:"6", tag:"Strategic Timing", title:"Night is Your Secret Weapon", text:"Night prayer is where you recharge, gain clarity, and receive fortitude for the day's challenges. The da'ie who masters the night masters the day. Worldly distractions are absent; the heart is free. If you are struggling with clarity in your dawah strategy, the answer is not more meetings — it is more Tahajjud."},
+  {verse:"7-9", tag:"Life Balance", title:"Day for People, Night for Allah", text:"Verse 7 validates daytime occupation — you do not need to be a monk. Verse 8 demands total devotion when you do worship — no half-measures. Verse 9 anchors everything in tawhid. The da'ie's schedule: serve people by day, serve Allah by night, and let tawhid govern every hour between. Take Allah as your Wakil — delegate outcomes to Him and focus on honest effort."},
+  {verse:"10-11", tag:"Conflict Management", title:"Patience is Your Shield", text:"You will face insults, mockery, and rejection. Your response is patience and dignified distance — never hatred, never retaliation. Hijr jamil means you withdraw without burning bridges, without slander, without bitterness. Watharnee — leave their reckoning to Allah. Your job is balagh (delivery), not qada (judgment). The da'ie who argues every point loses every heart."},
+  {verse:"12-14", tag:"Warning Delivery", title:"Warn with Cosmic Certainty", text:"The rejectors face four punishments: fetters, blazing fire, choking food, and painful doom. The mountains will dissolve like sand. This is not storytelling — it is guaranteed reality. The da'ie must convey this with full conviction, not apologetic hesitation. People need to know the stakes. Gentle delivery does not mean softening the message."},
+  {verse:"15-16", tag:"Historical Precedent", title:"Pharaoh is Your Case Study", text:"Every people who reject their messenger follow the Pharaoh pattern: initial mockery, then hostility, then escalation, then divine seizure. When your community rejects you, remember Musa. He faced the same Pharaoh-archetype. The outcome is guaranteed: truth prevails, falsehood perishes. Use Pharaoh as a teaching tool — not to frighten, but to awaken."},
+  {verse:"17-18", tag:"Eschatological Urgency", title:"The Day Will Come — Guaranteed", text:"Children turning grey, the sky splitting — these are not metaphors. Kana wa'duhu maf'oolan is a contractual guarantee from Allah. The da'ie carries this urgency in his voice. Dawah is not a lifestyle choice; it is rescue work. People are sleepwalking toward a Day that will shatter every illusion. Your voice may be the alarm that wakes them."},
+  {verse:"19", tag:"Invitation Architecture", title:"The Door is Open — But Allah Opens It", text:"Faman shaa attakhadha ila rabbihi sabeelan — this is the very architecture of your invitation. You extend the choice; Allah enables the response. You plant; Allah grows. This protects the da'ie from despair when people reject, and from pride when they accept. The path to Allah is open to whoever wills — may we be among those who choose it, and may we help others choose it too."}
+];
+
+// ── Build Verse Tabs ──
+const tabsContainer = document.getElementById('verseTabs');
+const contentContainer = document.getElementById('verseContent');
+
+surahData.verses.forEach((v, idx) => {
+  const tab = document.createElement('div');
+  tab.className = 'verse-tab' + (idx === 0 ? ' active' : '');
+  tab.textContent = '73:' + v.n;
+  tab.onclick = () => showVerse(idx);
+  tabsContainer.appendChild(tab);
+
+  const panel = document.createElement('div');
+  panel.className = 'verse-panel' + (idx === 0 ? ' active' : '');
+  panel.id = 'verse-panel-' + idx;
+  panel.innerHTML = `
+    <div class="arabic-text">${v.ar}</div>
+    <div class="translation-text">
+      <strong>Pickthall:</strong> "${v.tr}"<br>
+      <strong>Sahih International:</strong> "${v.sahih}"
+    </div>
+    <div class="tafsir-box">
+      <h4>🕌 Tafsir Ibn Kathir (Abridged)</h4>
+      <p>${v.tafsir}</p>
+    </div>
+  `;
+  contentContainer.appendChild(panel);
+});
+
+function showVerse(idx) {
+  document.querySelectorAll('.verse-tab').forEach((t, i) => t.classList.toggle('active', i === idx));
+  document.querySelectorAll('#verseContent > .verse-panel').forEach((p, i) => p.classList.toggle('active', i === idx));
+}
+
+// ── Build Da'ie Insights ──
+const daieContainer = document.getElementById('daieInsights');
+daieInsights.forEach(insight => {
+  const card = document.createElement('div');
+  card.className = 'insight-card';
+  card.innerHTML = `
+    <div class="tag">${insight.tag}</div>
+    <h4>73:${insight.verse} — ${insight.title}</h4>
+    <p>${insight.text}</p>
+  `;
+  daieContainer.appendChild(card);
+});
+
+// ── Section Navigation ──
+function showSection(id) {
+  document.querySelectorAll('.section-pill').forEach(p => p.classList.remove('active'));
+  event.target.classList.add('active');
+  document.querySelectorAll('.verse-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('section-' + id).classList.add('active');
+}
+</script>
+
+</body>
+</html>

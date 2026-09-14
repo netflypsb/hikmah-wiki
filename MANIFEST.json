@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "v1.0",
+  "engine_description": "Manual curation workflow (per-tafsir-wiki-building, islamic-wiki-curation, islamic-literature-wiki-curation skills)",
+  "last_updated": "2026-09-14",
+  "note": "All existing content was created using v1.0 manual curation. v2.0 (hikmah-engine) will enrich without overwriting.",
+  "wikis": {
+    "fi-zilal-wiki": {
+      "path": "wiki/fi-zilal-wiki/",
+      "source_path": "sources/fi-zilal/",
+      "page_count": 32,
+      "v1_pages": 32,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    },
+    "jeel-mawoud-wiki": {
+      "path": "wiki/jeel-mawoud-wiki/",
+      "source_path": "sources/jeel-mawoud/",
+      "page_count": 67,
+      "v1_pages": 67,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    },
+    "meta": {
+      "path": "wiki/meta/",
+      "source_path": null,
+      "page_count": 10,
+      "v1_pages": 10,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    },
+    "qaradawi-library": {
+      "path": "wiki/qaradawi-library/",
+      "source_path": "sources/qaradawi/",
+      "page_count": 168,
+      "v1_pages": 168,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    },
+    "quran-wiki": {
+      "path": "wiki/quran-wiki/",
+      "source_path": "sources/quran/",
+      "page_count": 406,
+      "v1_pages": 406,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    },
+    "to-be-a-muslim": {
+      "path": "wiki/to-be-a-muslim/",
+      "source_path": "sources/to-be-a-muslim/",
+      "page_count": 17,
+      "v1_pages": 17,
+      "v2_pages": 0,
+      "lint_status": "pending",
+      "method": "manual"
+    }
+  },
+  "total_curated_pages": 700
+}

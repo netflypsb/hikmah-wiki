@@ -1,0 +1,98 @@
+# Jeel Mawoud Wiki — Book Registry
+version: "1.0.0"
+last_updated: "2026-06-17"
+
+books:
+  jeel-mawoud:
+    # Primary source — Arabic original
+    title_arabic: "الجيل الموعود بالنصر والتمكين"
+    title_transliteration: "al-Jil al-Maw'ud bi an-Nasr wa at-Tamkin"
+    title_english: "The Generation Promised Victory and Empowerment"
+    title_malay: "Generasi yang Dijanjikan Kemenangan"
+    author_arabic: "مجدي الهلالي"
+    author_transliteration: "Majdi al-Hilali"
+    author_english: "Dr. Majdi al-Hilali"
+    publisher: "Dar al-Andalus al-Jadidah"
+    publisher_location: "Egypt"
+    isbn: "977-6142-96-6"
+    deposit_no: "27133/2007"
+    edition: "First"
+    edition_year_h: 1429
+    edition_year_g: 2008
+    pages: 201
+    chapters: 5
+    # Archive.org source
+    archive_org_id: "ozkorallh_20180412"
+    archive_org_filename: "jil-hilali.pdf"
+    archive_org_url: "https://archive.org/download/ozkorallh_20180412/jil-hilali.pdf"
+    # Malay translation (purchase only)
+    malay_translation:
+      publisher: "Dewan Pustaka Fajar"
+      isbn: "9789678300902"
+      pages: 256
+      available_free: false
+      price_myr: 20
+    # Extraction status
+    pdf_downloaded: true
+    pdf_path: "raw/pdfs/jeel-mawoud-arabic-original.pdf"
+    extracted: true
+    extraction_method: "pymupdf"
+    extraction_path: "raw/extracted/jeel-mawoud-full-raw.txt"
+    extraction_chars: 166687
+    extraction_quality: "good"  # 78.3% Arabic ratio, tashkeel preserved
+    ingested: false
+    # Chapter map (book page numbers)
+    chapter_map:
+      introduction:
+        title_arabic: "المقدمة"
+        pages: "5-7"
+      chapter_1:
+        title_arabic: "لماذا الجيل الموعود؟"
+        pages: "10-23"
+      chapter_2:
+        title_arabic: "مع صفات الجيل الموعود"
+        pages: "24-97"
+      chapter_3:
+        title_arabic: "كيف تحقق صفات الجيل الموعود؟"
+        pages: "98-145"
+      chapter_4:
+        title_arabic: "الجيل الأول وأدوات التغيير"
+        pages: "146-175"
+      chapter_5:
+        title_arabic: "أين نحن من الجيل الموعود؟"
+        pages: "175-191"
+      conclusion:
+        title_arabic: "الخاتمة"
+        pages: "192-193"
+    # 10 Core attributes (Chapter 2)
+    attributes:
+      - arabic: "الإخلاص"
+        transliteration: "al-Ikhlas"
+        english: "Sincerity to Allah"
+      - arabic: "محبة الله"
+        transliteration: "Mahabbatullah"
+        english: "Love of Allah"
+      - arabic: "الخوف من الله"
+        transliteration: "Khawfullah"
+        english: "Fear of Allah"
+      - arabic: "العبادة"
+        transliteration: "al-Ibadah"
+        english: "Worship (Monks of the Night)"
+      - arabic: "التواضع"
+        transliteration: "at-Tawadu'"
+        english: "Humility"
+      - arabic: "الزهد"
+        transliteration: "az-Zuhd"
+        english: "Asceticism / Worldly Detachment"
+      - arabic: "الجهاد"
+        transliteration: "al-Jihad"
+        english: "Striving / Struggle"
+      - arabic: "الصبر والثبات"
+        transliteration: "as-Sabr wa ath-Thabat"
+        english: "Patience & Steadfastness"
+      - arabic: "الاعتدال والتوازن"
+        transliteration: "al-I'tidal wa at-Tawazun"
+        english: "Moderation & Balance"
+      - arabic: "الترابط والأخوة"
+        transliteration: "at-Tarabut wa al-Ukhuwwah"
+        english: "Cohesion & Brotherhood"

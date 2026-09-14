@@ -1,0 +1,1 @@
+surah-096-al-'alaq.md

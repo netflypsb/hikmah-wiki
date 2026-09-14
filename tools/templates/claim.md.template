@@ -1,0 +1,24 @@
+# Claim c-YYYYMMDD-NNN
+
+## Claim
+> Single declarative sentence asserting a verifiable fact.
+
+## Sources
+| Source | Passage Span | Relevance |
+|--------|-------------|-----------|
+| source-file.md:line | text excerpt | direct/supporting |
+
+## Confidence
+- high: multiple independent sources confirm
+- medium: single source or expert opinion
+- low: inferred or preliminary
+
+## Status
+- unresolved: no conflict detected
+- contradicted: see c-YYYYMMDD-NNN
+- resolved: accepted by user review
+
+## Linked From
+- [[page-that-cites-this]]
+
+## Notes

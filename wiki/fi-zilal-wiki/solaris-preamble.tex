@@ -1,0 +1,121 @@
+% Solaris Theme — Light Cream Background
+% User-approved palette: cream #f8f6f2, navy #0a2540, terracotta #c45c3e
+% DM Serif Display + Source Sans 3 (using Noto Serif + Noto Sans as available substitutes)
+
+\usepackage[margin=2.5cm, top=3cm, bottom=3cm]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usepackage{ulem}
+
+% Solaris color palette
+\definecolor{solarisbg}{HTML}{f8f6f2}      % warm paper/cream
+\definecolor{navy}{HTML}{0a2540}            % deep navy
+\definecolor{terracotta}{HTML}{c45c3e}      % terracotta accent
+\definecolor{textdark}{HTML}{1a1a2e}        % primary text
+\definecolor{textmuted}{HTML}{5a5a6e}       % muted text
+\definecolor{border}{HTML}{d4cfc4}          % warm border
+\definecolor{qbg}{HTML}{ede9e0}             % verse block background (warm cream-dark)
+\definecolor{hadithbg}{HTML}{e8e4d8}        % hadith/quote block background
+
+% Fonts — Noto Serif (serif body, substitute for DM Serif Display on headings)
+%         Noto Sans (sans, substitute for Source Sans 3)
+%         Amiri for Arabic
+\setmainfont[Path=/usr/share/fonts/truetype/noto/, Extension=.ttf,
+  BoldFont=NotoSerif-Bold, ItalicFont=NotoSerif-Italic,
+  BoldItalicFont=NotoSerif-BoldItalic]{NotoSerif-Regular}
+
+\setsansfont[Path=/usr/share/fonts/truetype/noto/, Extension=.ttf,
+  BoldFont=NotoSans-Bold, ItalicFont=NotoSans-Italic,
+  BoldItalicFont=NotoSans-BoldItalic]{NotoSans-Regular}
+
+\setmonofont[Path=/usr/share/fonts/truetype/noto/, Extension=.ttf]{NotoSansMono-Regular}
+
+% Arabic font
+\newfontfamily\arabicfont[Path=/usr/share/fonts/opentype/fonts-hosny-amiri/, Extension=.ttf]{Amiri-Regular}
+
+% Auto-switch to Arabic font for Arabic Unicode blocks
+\usepackage{ucharclasses}
+\setTransitionsFor{Arabics}{\arabicfont}{\rmdefault}
+
+% Also define a font for the → arrow and other symbols
+\usepackage{newunicodechar}
+\newunicodechar{→}{$\rightarrow$}
+\newunicodechar{ﷺ}{(saw)}
+\newunicodechar{✓}{\checkmark}
+
+% Use sans for headings (Source Sans 3 substitute), serif for body
+\renewcommand{\familydefault}{\rmdefault}
+
+% Hyperref colors
+\hypersetup{
+  colorlinks=true,
+  linkcolor=navy,
+  urlcolor=terracotta,
+  citecolor=navy,
+}
+
+% Page background
+\pagecolor{solarisbg}
+\color{textdark}
+
+% Section formatting — navy headings with terracotta accent
+\titleformat{\section}
+  {\sffamily\Large\bfseries\color{navy}}
+  {\thesection}{1em}{}
+  [{\color{terracotta}\titlerule[1pt]}]
+
+\titleformat{\subsection}
+  {\sffamily\large\bfseries\color{navy}}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\sffamily\normalsize\bfseries\color{terracotta}}
+  {\thesubsubsection}{1em}{}
+
+% Paragraph spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+
+% List spacing
+\setlist[itemize]{itemsep=0.3em, topsep=0.3em}
+\setlist[enumerate]{itemsep=0.3em, topsep=0.3em}
+
+% Header/footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\sffamily\small\color{textmuted}Fi Zilal al-Qur'an — Concept Compendium}
+\fancyhead[R]{\sffamily\small\color{textmuted}\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\headrule}{\color{border}\hrule width\headwidth height\headrulewidth}
+
+% Table settings (after begin document in practice, but colortbl here)
+\arrayrulecolor{border}
+
+% tcolorbox for Quran verses and quotes
+\newtcolorbox{quranbox}{
+  colback=qbg, colframe=terracotta, coltext=textdark,
+  boxrule=0.6pt, arc=2pt,
+  left=10pt, right=10pt, top=6pt, bottom=6pt
+}
+
+\newtcolorbox{quotebox}{
+  colback=hadithbg, colframe=navy, coltext=textdark,
+  boxrule=0.6pt, arc=2pt,
+  left=10pt, right=10pt, top=6pt, bottom=6pt
+}
+
+% Override normalcolor to keep text dark in boxes
+\makeatletter
+\renewcommand{\normalcolor}{\color{textdark}}
+\makeatother

@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Promised Generation — English Translation</title>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:wght@400;500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --color-primary: #1B4D3E;
+  --color-primary-dark: #164038;
+  --color-secondary: #6B9080;
+  --color-accent: #C9A857;
+  --color-surface: #FAF6F0;
+  --color-surface-raised: #EDE5D8;
+  --color-border: #D9CFC2;
+  --color-text: #1C1917;
+  --color-text-muted: #57534E;
+  --color-terracotta: #A0522D;
+  --color-gold-pale: #E8D5A3;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-surface);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===== COVER PAGE ===== */
+.cover {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: var(--color-surface);
+  text-align: center;
+  padding: 64px 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.cover::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%23C9A857' stroke-width='0.5' opacity='0.15'%3E%3Cpath d='M40 5 L55 20 L55 40 L40 55 L25 40 L25 20 Z'/%3E%3Cpath d='M40 10 L50 25 L50 35 L40 50 L30 35 L30 25 Z'/%3E%3Ccircle cx='40' cy='30' r='3'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 80px 80px;
+  opacity: 0.12;
+}
+
+.cover-frame {
+  border: 2px solid var(--color-accent);
+  border-radius: 4px;
+  padding: 80px 48px;
+  max-width: 640px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.cover-arabic {
+  font-family: 'Amiri', serif;
+  font-size: 42px;
+  color: var(--color-accent);
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.cover-divider {
+  width: 120px;
+  height: 1px;
+  background: var(--color-accent);
+  margin: 0 auto 32px;
+}
+
+.cover-title {
+  font-family: 'Crimson Pro', serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--color-surface);
+  line-height: 1.2;
+  margin-bottom: 16px;
+}
+
+.cover-subtitle {
+  font-family: 'Crimson Pro', serif;
+  font-size: 22px;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-gold-pale);
+  margin-bottom: 48px;
+}
+
+.cover-author-label {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--color-secondary);
+  margin-bottom: 8px;
+}
+
+.cover-author {
+  font-family: 'Crimson Pro', serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--color-surface);
+  margin-bottom: 56px;
+}
+
+.cover-meta {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  color: var(--color-secondary);
+  line-height: 1.6;
+  border-top: 1px solid rgba(201, 168, 87, 0.3);
+  padding-top: 24px;
+  margin-top: 24px;
+}
+
+.cover-meta span { display: block; }
+
+.cover-chapters-indicator {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  color: var(--color-accent);
+  margin-top: 48px;
+  letter-spacing: 1px;
+}
+
+/* ===== READING LAYOUT ===== */
+.ebook-container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 64px 24px;
+}
+
+.chapter-header {
+  text-align: center;
+  margin-bottom: 56px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.chapter-number {
+  font-family: 'Crimson Pro', serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--color-accent);
+  margin-bottom: 16px;
+}
+
+.chapter-title {
+  font-family: 'Crimson Pro', serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+
+.chapter-arabic-title {
+  font-family: 'Amiri', serif;
+  font-size: 28px;
+  color: var(--color-secondary);
+  margin-bottom: 8px;
+}
+
+.chapter-meta {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 14px;
+  color: var(--color-text-muted);
+}
+
+/* Page markers */
+.page-marker {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--color-accent);
+  text-align: center;
+  margin: 48px 0 32px;
+  padding: 8px 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Section headings */
+.section-heading {
+  font-family: 'Crimson Pro', serif;
+  font-size: 26px;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin: 48px 0 20px;
+  line-height: 1.3;
+}
+
+.section-heading-arabic {
+  font-family: 'Amiri', serif;
+  font-size: 20px;
+  color: var(--color-secondary);
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+/* Body paragraphs */
+.ebook-container p {
+  margin-bottom: 20px;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Arabic Quran verses */
+.arabic-ayah {
+  font-family: 'Amiri', serif;
+  font-size: 24px;
+  color: var(--color-primary);
+  text-align: center;
+  padding: 28px 40px;
+  border-right: 3px solid var(--color-accent);
+  border-left: 3px solid var(--color-accent);
+  background: var(--color-surface-raised);
+  margin: 32px 0 12px;
+  line-height: 1.8;
+  border-radius: 4px;
+}
+
+.ayah-translation {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 17px;
+  font-style: italic;
+  color: var(--color-text);
+  text-align: center;
+  padding: 0 40px;
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.ayah-reference {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+/* Hadith blocks */
+.hadith-block {
+  font-family: 'Amiri', serif;
+  font-size: 20px;
+  color: var(--color-text);
+  background: var(--color-surface-raised);
+  padding: 24px 32px;
+  border-radius: 8px;
+  border-top: 4px solid var(--color-primary);
+  margin: 28px 0;
+  line-height: 1.7;
+}
+
+.hadith-chain {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  color: var(--color-text-muted);
+  margin-top: 12px;
+  font-style: italic;
+}
+
+/* Translator notes */
+.translator-note {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 15px;
+  color: var(--color-text-muted);
+  background: rgba(201, 168, 87, 0.06);
+  border-left: 3px solid var(--color-accent);
+  padding: 16px 20px;
+  margin: 24px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.translator-note strong {
+  color: var(--color-primary);
+}
+
+/* Tables */
+.terms-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 32px 0;
+  font-size: 15px;
+}
+
+.terms-table th {
+  font-family: 'Crimson Pro', serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-primary);
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 2px solid var(--color-accent);
+}
+
+.terms-table td {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+}
+
+.terms-table td:first-child {
+  font-family: 'Amiri', serif;
+  font-size: 18px;
+  color: var(--color-primary);
+  direction: rtl;
+}
+
+.terms-table td:nth-child(2) {
+  font-style: italic;
+  color: var(--color-secondary);
+}
+
+/* Footnotes */
+.footnotes-section {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 2px solid var(--color-border);
+}
+
+.footnotes-section h3 {
+  font-family: 'Crimson Pro', serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 20px;
+}
+
+.footnote-item {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 14px;
+  color: var(--color-text-muted);
+  margin-bottom: 12px;
+  padding-left: 8px;
+}
+
+/* Section dividers */
+.geometric-divider {
+  text-align: center;
+  margin: 56px 0;
+  color: var(--color-accent);
+  font-size: 20px;
+  letter-spacing: 8px;
+}
+
+/* Back matter */
+.back-matter {
+  background: var(--color-surface-raised);
+  border-radius: 8px;
+  padding: 40px 32px;
+  margin: 56px 0;
+}
+
+.back-matter h3 {
+  font-family: 'Crimson Pro', serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 20px;
+}
+
+.back-matter h4 {
+  font-family: 'Crimson Pro', serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--color-primary);
+  margin: 24px 0 12px;
+}
+
+.back-matter p, .back-matter li {
+  font-size: 15px;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}
+
+.back-matter ol, .back-matter ul {
+  padding-left: 20px;
+}
+
+.back-matter li {
+  margin-bottom: 8px;
+}
+
+/* Footer */
+.ebook-footer {
+  text-align: center;
+  padding: 48px 24px;
+  border-top: 1px solid var(--color-border);
+  margin-top: 64px;
+}
+
+.ebook-footer p {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 13px;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}
+
+.ebook-footer .footer-arabic {
+  font-family: 'Amiri', serif;
+  font-size: 18px;
+  color: var(--color-accent);
+  margin-bottom: 12px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .cover-frame { padding: 48px 24px; }
+  .cover-arabic { font-size: 32px; }
+  .cover-title { font-size: 34px; }
+  .cover-subtitle { font-size: 18px; }
+  .ebook-container { padding: 40px 16px; }
+  .chapter-title { font-size: 30px; }
+  .section-heading { font-size: 22px; }
+  .arabic-ayah { font-size: 20px; padding: 20px 16px; }
+  .ayah-translation { padding: 0 16px; }
+  .hadith-block { padding: 20px 16px; font-size: 18px; }
+  .back-matter { padding: 28px 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+</style>
+</head>
+<body>
+
+<!-- ===== FRONT COVER ===== -->
+<div class="cover">
+  <div class="cover-frame">
+    <div class="cover-arabic">الجيل الموعود بالنصر والتمكين</div>
+    <div class="cover-divider"></div>
+    <div class="cover-title">The Promised Generation</div>
+    <div class="cover-subtitle">Victory and Establishment</div>
+    <div class="cover-author-label">Author</div>
+    <div class="cover-author">Dr. Majdi al-Hilali</div>
+    <div class="cover-meta">
+      <span>English Translation from the Arabic Original</span>
+      <span>Dar al-Andalus al-Jadidah, Egypt · 2008 / 1429H</span>
+      <span>ISBN 977-6142-96-6 · 201 pages</span>
+    </div>
+    <div class="cover-chapters-indicator">CHAPTER 1 OF 5 · TRANSLATION IN PROGRESS</div>
+  </div>
+</div>
+
+<!-- ===== CHAPTER 1 ===== -->
+<div class="ebook-container">
+
+<div class="chapter-header">
+  <div class="chapter-number">Chapter One</div>
+  <div class="chapter-title">Why the Promised Generation?</div>
+  <div class="chapter-arabic-title">لماذا الجيل الموعود؟</div>
+  <div class="chapter-meta">Pages 10–22 · 10 Quranic verses · 4 hadith narrations</div>
+</div>
+
+<div class="page-marker">— Page 10 —</div>
+
+<p>What is happening to our Islamic ummah — from humiliation (<em>dhull</em>) and weakness (<em>duʿf</em>) that is hidden from no one — wounds fill the body of the ummah, and weakness and frailty (<em>wahn</em>) have struck it. The Muslims are no longer united upon the heart of a single man, nor under a single banner; rather their banners have multiplied, their directions have diverged, and their enemies have pounced upon them from every direction.</p>
+
+<p>We have become the most humiliated of the people of the earth. We have no value, and our existence carries no weight. It suffices [to consider] what is done to us by the brothers of apes and pigs and their allies, who have placed us under their feet and subjected us to the worst of torment. They kill our children, demolish our homes, and detain our youth. All of this happens under the sight and hearing of the entire world. A bitter and agonising state in which the ummah and Islam live — so until when will this continue?</p>
+
+<p><strong>Our hope is in Allah alone.</strong></p>
+
+<div class="page-marker">— Page 11 —</div>
+
+<p>What further complicates the matter is that the material and technological superiority which our enemies have attained makes it difficult for us to catch up with them, while at the same time reality tells us that they will not allow us to approach them, let alone surpass them. The space they have afforded us for movement is extremely limited.</p>
+
+<p>This means that material calculations (<em>ḥisābāt māddiyyah</em>) confirm and establish the reality of the wretched condition which the Islamic ummah endures — nay, the situation will only worsen as a result of the boundless ambitions of global Zionism and global Crusaderism in the lands of Islam.</p>
+
+<p>Yes, these are the calculations of the people of the earth (<em>ḥisābāt ahl al-arḍ</em>). As for the calculations of the people of faith (<em>ḥisābāt ahl al-īmān</em>), they tell us that there is a tremendous power, the magnitude of which the human mind cannot comprehend. This power, if it supports someone — no matter how weak he may be — then victory (<em>naṣr</em>) becomes his ally, regardless of the strength of his enemies.</p>
+
+<p>It is the divine power (<em>al-quwwah al-ilāhiyyah</em>), the power of the Compeller (<em>al-Jabbār</em>) — Glorified and Exalted be He — who possesses the hosts of the heavens and the earth, who owns everything: He owns the winds and the storms, the thunder and the lightning, the earthquakes and the volcanoes, and… He owns the very breath of our enemies.</p>
+
+<p>This power is our sole hope in confronting the assaults of our savage enemies, restoring our glory, and leading humanity once again.</p>
+
+<p>This power is what supported the weak among the Children of Israel against the tyrant Pharaoh and his people. So what happened?</p>
+
+<div class="page-marker">— Page 12 —</div>
+
+<div class="arabic-ayah">﴿وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ الْأَرْضِ وَمَغَارِبِهَا الَّتِي بَارَكْنَا فِيهَا وَتَمَّتْ كَلِمَةُ رَبِّكَ الْحُسْنَى عَلَى بَنِي إِسْرَائِيلَ بِمَا صَبَرُوا وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا كَانُوا يَعْرِشُونَ﴾</div>
+<div class="ayah-translation">And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word of your Lord was fulfilled for the Children of Israel because of what they had endured. And We destroyed what Pharaoh and his people had been building and what they had been raising.</div>
+<div class="ayah-reference">al-Aʿrāf 7:137</div>
+
+<h2 class="section-heading">Shall We Abandon the Means?</h2>
+<div class="section-heading-arabic">هل نترك الأسباب؟</div>
+
+<p>The meaning of saying "our hope is in Allah alone" is not that we abandon material means under the claim that they are ineffective, and that our enemies will not allow us to compete with them or approach them in fields of scientific progress. Rather, the requirement is the opposite: that we fill every available space, penetrate every sector, and exert the utmost effort in acquiring the means of power — not because we will achieve victory through them, but because Allah, Mighty and Majestic, has required this of us:</p>
+
+<div class="arabic-ayah">﴿وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ﴾</div>
+<div class="ayah-translation">And prepare against them whatever you are able of power and of cavalry to strike terror into the enemy of Allah and your enemy.</div>
+<div class="ayah-reference">al-Anfāl 8:60</div>
+
+<p>And to the extent of our effort in taking advantage of the means available to us, we will have fulfilled a condition among the conditions of victory (<em>naṣr</em>) and change (<em>taghyīr</em>) — while bearing in mind that the means in and of themselves will not bring us victory. Rather, the one who will bring it is Allah. Is He not the One who says:</p>
+
+<div class="arabic-ayah">﴿وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ﴾</div>
+<div class="ayah-translation">And victory is not but from Allah.</div>
+<div class="ayah-reference">al-Anfāl 8:10</div>
+
+<p>And the One who says:</p>
+
+<div class="arabic-ayah">﴿إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ وَإِنْ يَخْذُلْكُمْ فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ﴾</div>
+<div class="ayah-translation">If Allah supports you, none can overcome you; and if He forsakes you, who is it that can support you after Him? And upon Allah let the believers rely.</div>
+<div class="ayah-reference">Āl ʿImrān 3:160</div>
+
+<div class="page-marker">— Page 13 —</div>
+
+<h2 class="section-heading">When Will the Victory of Allah Come?</h2>
+<div class="section-heading-arabic">متى نصر الله؟</div>
+
+<p>If our hope is in Allah alone, then when will this hope be realised? When will Allah come to our aid, grant us victory over our enemies, and establish us on the earth?</p>
+
+<p>The Qur'an has elaborated in answering this question, and its verses have informed us that victory (<em>naṣr</em>) and establishment (<em>tamkīn</em>) have conditions, by which they are sought and brought about. Among them is His saying, Exalted be He:</p>
+
+<div class="arabic-ayah">﴿إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ﴾</div>
+<div class="ayah-translation">Indeed, Allah will not change the condition of a people until they change what is in themselves.</div>
+<div class="ayah-reference">al-Raʿd 13:11</div>
+
+<p>And His saying, Exalted be He:</p>
+
+<div class="arabic-ayah">﴿إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ﴾</div>
+<div class="ayah-translation">If you support Allah, He will support you and plant firmly your feet.</div>
+<div class="ayah-reference">Muḥammad 47:7</div>
+
+<p>And His saying:</p>
+
+<div class="arabic-ayah">﴿وَإِنْ تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا﴾</div>
+<div class="ayah-translation">And if you are patient and fear Allah, their plotting will not harm you at all.</div>
+<div class="ayah-reference">Āl ʿImrān 3:120</div>
+
+<p>So it is necessary, then, that we support Allah within ourselves, and change what is within them, and transition from every state that angers Allah, Mighty and Majestic, to the state that pleases Him.</p>
+
+<p>There must be a deep change (<em>taghyīr ʿamīq</em>) that strikes into the depths (<em>aʿmāq</em>) of the ummah and returns it to Allah, if we wish to emerge from the state of bewilderment (<em>tīh</em>) in which we find ourselves.</p>
+
+<h2 class="section-heading">Breathing Life</h2>
+<div class="section-heading-arabic">بث الروح</div>
+
+<div class="page-marker">— Page 14 —</div>
+
+<p>And in order for the condition of the ummah to change from illness to health, there must be someone who takes it by the hand, guides it to the remedy, and helps it change what it has clothed itself with — that which angers Allah, Mighty and Majestic.</p>
+
+<p>There must emerge a group (<em>ṭāʾifah</em>) or a generation (<em>jīl</em>) in the midst of the ummah that breathes life and hope into it, and shows it the path of reconciliation with Allah. This is especially so because the Islamic ummah is now more prepared for this than at any other time, for its enemies have disclosed what they used to conceal of enmity, hatred, and black malice. The instruments of slaughter for our Muslim brothers are being prepared before our very eyes, and their treacherous plans to dissolve our identity are announced to us before their execution — in outright defiance of us, and to kill any hope that visits us.</p>
+
+<h2 class="section-heading">Directing Sentiment</h2>
+<div class="section-heading-arabic">توجيه العاطفة</div>
+
+<p>Yes, the ummah is not entirely absent [of feeling]; rather, there exists a surging sentiment (<em>ʿāṭifah jayyāshah</em>) toward Islam, growing with the passage of days. Perhaps [evidence of] that sentiment includes: the filling of mosques with youth and elders, the turn to Qur'an circles and lessons of knowledge, and among [such evidence] also: the spread of the <em>ḥijāb</em> among Muslim women.</p>
+
+<p>A genuine sentiment exists today in the breast of the ummah, but it alone is not sufficient. Rather, it must be properly directed toward the correct direction — the direction of real change (<em>taghyīr ḥaqīqī</em>) of what is within the soul, encompassing several dimensions: thoughts (<em>al-ṣuwarāt</em>) and concerns (<em>al-ihtimāmāt</em>), the secret (<em>al-sirr</em>) and the open (<em>al-ʿalān</em>), words (<em>al-aqwāl</em>) and actions (<em>al-afʿāl</em>). A change that reshapes the mind (<em>al-ʿaql</em>), enables faith (<em>īmān</em>) in the heart, and drives out from it the love of</p>
+
+<div class="page-marker">— Page 15 —</div>
+
+<p>the world (<em>ḥubb al-dunyā</em>). This then reflects upon behaviour through haste toward good deeds (<em>al-khayrāt</em>), ambition for the highest ranks in Paradise, attachment to Allah, Mighty and Majestic, and severing expectations from what is in people's hands — while exerting the utmost effort in preparation and acquiring the means of power.</p>
+
+<p>This task — the task of directing sentiment to bring about real change in souls — requires immense effort, mutual commitment (<em>taʿāhud</em>), and follow-through (<em>mutābaʿah</em>). Here comes the role of the promised generation (<em>al-jīl al-mawʿūd</em>), for it is the generation entrusted with the mission of changing the ummah, and preparing its ground to receive divine support (<em>al-madad al-ilāhī</em>).</p>
+
+<p>Yes, it is a difficult task, and the path to achieving it will not be strewn with roses. It will confront the desires of the people (<em>ahwāʾ al-nās</em>), their love for the world (<em>ḥubb al-dunyā</em>), and their unwillingness to sacrifice even a small part of it. But with perseverance (<em>iṣrār</em>) and the presence of a righteous example (<em>qudwah ṣāliḥah</em>), [success lies] in the sons of the generation of change, and once assured of their sincerity, their devotion to the welfare of the ummah, and that they seek no reward for their actions — all this and more is part of [the generation's] mission of returning the ummah to Allah, gradually. This is especially so when the sons of the promised generation adopt the methodology of wisdom (<em>ḥikmah</em>) in <em>daʿwah</em>, and present the concept of change to the people in a beloved and accessible manner that everyone can understand.</p>
+
+<h2 class="section-heading">Leading the Ummah in Hardship</h2>
+<div class="section-heading-arabic">قيادة الأمة في الضراء</div>
+
+<div class="page-marker">— Page 16 —</div>
+
+<p>To the extent of the effort that the sons of the promised generation will exert in awakening the ummah, breathing life into it, and properly directing its sentiment toward real change and reconciliation with Allah — to that extent will come the support and backing (<em>al-madad wa al-taʾyīd</em>) from Allah, Mighty and Majestic. It will inevitably come, so that the first glimmers of dawn begin to rise, and the sun of Islam shines anew in various parts of the ummah.</p>
+
+<p>So what will happen then?</p>
+
+<p>History tells us that as soon as a ray of light appears, and the beginning of the giant's awakening and emergence from the darkness in which he was placed is announced, all the disbelieving forces surrounding our ummah will unite against us, and will work to extinguish this light, abort this hope, and eliminate the Islamic project.</p>
+
+<p><strong>There will be a comprehensive boycott (<em>muqāṭaʿah shāmilah</em>) from all sides, and pressure will increase wherever the banner of Islam is raised.</strong></p>
+
+<p>The pressure will be severe, seeking to create division (<em>tafarruq</em>) within the ummah, and working to subjugate it. It is expected that this pressure will cause distress and grumbling (<em>ḍīq wa dhamīr</em>) among the masses, for even if they have declared their support for Islam and their readiness to sacrifice for it, they may not be able to bear the consequences of the boycott — such as being deprived of some of their basic needs, let alone</p>
+
+<div class="page-marker">— Page 17 —</div>
+
+<p>their [needs for] comfort and perfection. Here comes the role of the promised generation, which will work diligently to provide for people's needs, breathe the spirit of hope into their souls, work to steady them, raise their morale, and bind them to Allah, Mighty and Majestic.</p>
+
+<p>This means that these devoted ones (<em>al-khullaṣ</em>) will not sleep in these circumstances except after the people have slept, and will not eat until they are assured that food has reached everyone.</p>
+
+<p><strong>A dangerous role awaits this generation at the inception of the Islamic state — if it does not rise to it, everything will be lost, and matters will return to worse than they are, and Allah forbid.</strong></p>
+
+<h2 class="section-heading">With the First Generation</h2>
+<div class="section-heading-arabic">مع الجيل الأول</div>
+
+<p>These stages, these difficult conditions, were experienced by the Messenger of Allah ﷺ and those with him of the first generation — the generation of the foremost predecessors from the Muhājirūn and Anṣār, who served as the pillars upon which the Muslim community in Madīnah was built. This community was subjected, at the beginning of its formation, to severe pressure, siege, boycott, threats, and wars.</p>
+
+<div class="page-marker">— Page 18 —</div>
+
+<p>Abū al-ʿĀliyyah said in his tafsīr of His saying, Exalted be He:</p>
+
+<div class="arabic-ayah">﴿وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ الْفَاسِقُونَ﴾</div>
+<div class="ayah-translation">Allah has promised those who have believed among you and done righteous deeds that He will surely grant them succession [to authority] upon the earth, just as He granted it to those before them, and that He will surely establish for them their religion which He has preferred for them, and that He will surely substitute for them, after their fear, security — [as] they worship Me, not associating anything with Me. And whoever disbelieves after that — then it is those who are the defiantly disobedient.</div>
+<div class="ayah-reference">al-Nūr 24:55</div>
+
+<p>He said: The Prophet ﷺ and his companions were in Mecca for about ten years, calling to Allah alone, and to the worship of Him alone, with no partner — secretly, in fear, not commanded to fight, until they were commanded to emigrate to Madīnah. They did so, and then Allah commanded them to fight. They were in fear — they would spend the night in weapons and rise in the morning in weapons. They bore this, by Allah's will. Then a man from among the Companions said:</p>
+
+<div class="hadith-block">
+"O Messenger of Allah… will we remain in fear like this forever?! Will a day not come upon us when we can be secure and put down our weapons?!"
+<div class="hadith-chain">— A companion of the Prophet ﷺ, narrated in Tafsīr Ibn Kathīr 3/283</div>
+</div>
+
+<p>The Messenger of Allah ﷺ said: "You will not have to wait long before a man among you will sit in the great gathering, leaning on his couch, with no weapon on him." And Allah revealed this verse, and Allah established His Prophet over the Arabian Peninsula, and they became secure and put down their weapons.</p>
+
+<p>And al-Barāʾ ibn ʿĀzib said: "This verse was revealed while we were in severe fear."<sup>(1)</sup></p>
+
+<h2 class="section-heading">Why Hardship?</h2>
+<div class="section-heading-arabic">لماذا الضراء؟</div>
+
+<div class="page-marker">— Page 19 —</div>
+
+<p>So there is a harsh period through which the ummah will pass, especially in the places where the banner of Islam will be raised.</p>
+
+<p>If you say: But why will the rising ummah pass through this period? And why will it be left to this tremendous tribulation (<em>fitnah</em>) while it stands alone before the entire world?</p>
+
+<p>The answer would be in His saying, Exalted be He:</p>
+
+<div class="arabic-ayah">﴿أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ﴾</div>
+<div class="ayah-translation">Do the people think that they will be left to say, "We believe," and they will not be tried? And We have certainly tested those before them, so Allah will surely know those who are truthful, and He will surely know those who are liars.</div>
+<div class="ayah-reference">al-ʿAnkabūt 29:1–3</div>
+
+<p>This period serves as a test (<em>imtiḥān</em>) of the ummah's sincerity in its love for Allah, its attachment to Him, and its reliance upon Him — and the extent of its readiness to sacrifice for His sake. It is the period of the final crucible (<em>makhāḍ</em>) for the birth of the young, strong ummah.</p>
+
+<p>Among its benefits, also, is that it severs the attachment of hearts to anything other than Allah, and strips them for Him alone, Glorified be He. When material means are cut off, patience is exhausted, and calamities intensify, the ummah finds nothing before it except Allah, Mighty and Majestic — so it rushes to Him and calls upon Him with the call of the desperate, overwhelmed by drowning. Then relief comes, and victory (<em>naṣr</em>) and establishment (<em>tamkīn</em>) arrive:</p>
+
+<div class="arabic-ayah">﴿أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ مَسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَى نَصْرُ اللَّهِ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ﴾</div>
+<div class="ayah-translation">Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed before you? They were touched by misery and hardship and were shaken until [even] the Messenger and those who believed with him said, "When is the help of Allah?" Unquestionably, the help of Allah is near.</div>
+<div class="ayah-reference">al-Baqarah 2:214</div>
+
+<h2 class="section-heading">Leading the Ummah in Prosperity</h2>
+<div class="section-heading-arabic">قيادة الأمة في السراء</div>
+
+<div class="page-marker">— Page 20 —</div>
+
+<p>And after the period of hardship and trials, relief will come — by Allah's permission — and the ummah will begin to unite, gradually. The banners of falsehood (<em>bāṭil</em>) will fall with ease and speed. Here, the generation of change will assume a new role: working to unite the ummah under a single banner, leading it to establish the Islamic caliphate (<em>al-khilāfah al-islāmiyyah</em>), recovering all occupied lands, and rescuing oppressed Muslims in every corner of the earth.</p>
+
+<p>And the role of the promised generation will continue after that in spreading Islam and achieving global leadership (<em>istīdādiyyat al-ʿālam</em>), and realising the promise of the Messenger of Allah ﷺ that this religion will reach the horizons, and that Rome will be conquered, so that the Islamic state thereby becomes the foremost power in the world — spreading security and safety, rescuing humanity from misguidance (<em>ḍalālah</em>), and bringing it out of darkness into light.</p>
+
+<p>Yes, this will happen — by Allah's permission — just as it happened with the first generation, who began as individuals — persecuted, oppressed in Mecca — reading the Qur'an and listening to the verses of the promise of victory and establishment (<em>naṣr wa tamkīn</em>). Their utmost aspiration at that time was to sleep securely, and that no one among them would be exposed to harm. These very people saw establishment with their own eyes, and witnessed the might and glory of Islam. And how wondrous that after this, their fear became for themselves — [the fear of] the trial (<em>fitnah</em>) of the world being spread out before them.</p>
+
+<p>Al-Bukhārī reported in his <em>Ṣaḥīḥ</em> that ʿAbd al-Raḥmān ibn ʿAwf — may Allah be pleased with him — was brought food while he was fasting. He said:</p>
+
+<div class="hadith-block">
+"Muṣʿab ibn ʿUmayr was killed, and he was better than me. He was shrouded in a single garment: if his head was covered, his feet were exposed, and if his feet were covered,
+<div class="hadith-chain">— ʿAbd al-Raḥmān ibn ʿAwf, Ṣaḥīḥ al-Bukhārī</div>
+</div>
+
+<div class="page-marker">— Page 21 —</div>
+
+<p>his head was exposed. And Ḥamzah was killed, and he was better than me. Then the world was spread out before us," or he said: "We were given of the world, and we fear that our good deeds have been hastened to us as reward." Then he wept until he abandoned the food.</p>
+
+<p>And this is Khabbāb ibn al-Aratt — may Allah be pleased with him — who was visiting a group of the Companions of the Prophet ﷺ. They said to him: "Rejoice, O ʿAbdullāh, for your brothers will be raised [on the Day of Judgment] as martyrs." He wept and said:</p>
+
+<div class="hadith-block">
+"I am not anxious [about death], but you have reminded me of people (<em>aqwām</em>), and you have called them my brothers (<em>ikhwān</em>), and those have indeed departed having received their wages in full. I fear that the reward of the deeds you mention may be what we have been given after them."<sup>(2)</sup>
+<div class="hadith-chain">— Khabbāb ibn al-Aratt, Ḥayāt al-Ṣaḥābah 1/100–101</div>
+</div>
+
+<h2 class="section-heading">Drawing Lessons from the Past</h2>
+<div class="section-heading-arabic">الاستفادة من الدروس السابقة</div>
+
+<p>Upon the generation of change (<em>jīl al-taghyīr</em>) is [the duty] not to abandon its mission of leading the ummah, even after it attains sovereignty and global leadership. Rather, it must continue building generations, and guarding them against the diseases of nations — such as luxury (<em>taraf</em>), oppression (<em>ẓulm</em>), and then distance from Allah, Mighty and Majestic, and departure from the circle of His command and His guardianship (<em>wilāyah</em>).</p>
+
+<h2 class="section-heading">Summary</h2>
+<div class="section-heading-arabic">خلاصة القول</div>
+
+<p>The ummah's need now for the existence of the generation of change — the promised generation of victory and establishment (<em>al-jīl al-mawʿūd bi-al-naṣr wa al-tamkīn</em>) — is a severe and agonising need (<em>ḥājah shadīdah wa māssah</em>) that demands the pooling of all efforts for its formation. And why not, when it is the generation that will breathe life into the ummah</p>
+
+<div class="page-marker">— Page 22 —</div>
+
+<p>— by Allah's permission — and direct its sentiment in a correct direction toward real change (<em>taghyīr ḥaqīqī</em>). The generation of change will continue leading the ummah through the period of hardship, anguish, and the expected boycott from the enemies of Islam, and will likewise continue through the period of prosperity (<em>sarāʾ</em>), conquests (<em>futūḥāt</em>), the caliphate (<em>khilāfah</em>), and global leadership. It will not put down its weapons or lean to comfort after that; rather, it will continue building generations, preserving glory and honour, and working to spread the true religion in every place.</p>
+
+<div class="geometric-divider">◆ ◆ ◆</div>
+
+<!-- ===== FOOTNOTES ===== -->
+<div class="footnotes-section">
+  <h3>Footnotes</h3>
+  <p class="footnote-item">(1) Tafsīr al-Qur'an al-ʿAẓīm li-al-Ḥāfiẓ Ibn Kathīr 3/283, Maktabat al-ʿAbīkān, Riyadh.</p>
+  <p class="footnote-item">(2) Ḥayāt al-Ṣaḥābah by Muḥammad Yūsuf al-Kāndihlawī 1/100–101, Dār Ṣādir, Beirut.</p>
+</div>
+
+<!-- ===== TRANSLATOR'S NOTES ===== -->
+<div class="back-matter">
+  <h3>Translator's Notes</h3>
+
+  <h4>General Notes</h4>
+  <ol>
+    <li><strong>"Brothers of apes and pigs" (إخوان القردة والخنازير):</strong> This is a reference to the Quranic account (5:60) of those whom Allah cursed and transformed. Al-Hilali uses this phrase to describe the enemies of the ummah. The phrase is retained as a faithful translation of the original; it reflects the author's rhetorical and theological framing, not a zoological claim.</li>
+    <li><strong>"Global Zionism and global Crusaderism" (الصهيونية والصليبية العالمية):</strong> This is a common framing in Islamic revivalist literature, referring to what the author perceives as coordinated global ideological movements. "Crusaderism" (<em>al-ṣalībiyyah</em>) is the author's term for Western political-military intervention in Muslim lands, drawing on the historical memory of the Crusades.</li>
+    <li><strong>"The calculations of the people of the earth" vs. "the calculations of the people of faith" (حسابات أهل الأرض / حسابات أهل الإيمان):</strong> This is the central conceptual contrast of pages 10–12. The author argues that material analysis alone yields despair, while faith-based analysis reveals divine power as the decisive factor.</li>
+  </ol>
+
+  <h4>Key Arabic Terms</h4>
+  <table class="terms-table">
+    <thead>
+      <tr><th>Arabic</th><th>Transliteration</th><th>Translation</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>ذل</td><td>dhull</td><td>humiliation</td></tr>
+      <tr><td>ضعف</td><td>duʿf</td><td>weakness</td></tr>
+      <tr><td>وهن</td><td>wahn</td><td>frailty</td></tr>
+      <tr><td>نصر</td><td>naṣr</td><td>victory</td></tr>
+      <tr><td>تمكين</td><td>tamkīn</td><td>establishment / enablement</td></tr>
+      <tr><td>تغيير عميق</td><td>taghyīr ʿamīq</td><td>deep change</td></tr>
+      <tr><td>أعماق</td><td>aʿmāq</td><td>depths</td></tr>
+      <tr><td>تيه</td><td>tīh</td><td>bewilderment / wandering</td></tr>
+      <tr><td>بث الروح</td><td>bath al-rūḥ</td><td>breathing life</td></tr>
+      <tr><td>توجيه العاطفة</td><td>tawjīh al-ʿāṭifah</td><td>directing sentiment</td></tr>
+      <tr><td>عاطفة جياشة</td><td>ʿāṭifah jayyāshah</td><td>surging sentiment</td></tr>
+      <tr><td>تغيير حقيقي</td><td>taghyīr ḥaqīqī</td><td>real change</td></tr>
+      <tr><td>المدد الإلهي</td><td>al-madad al-ilāhī</td><td>divine support</td></tr>
+      <tr><td>قدوة صالحة</td><td>qudwah ṣāliḥah</td><td>righteous example</td></tr>
+      <tr><td>مقاطعة شاملة</td><td>muqāṭaʿah shāmilah</td><td>comprehensive boycott</td></tr>
+      <tr><td>الخُلَّص</td><td>al-khullaṣ</td><td>the devoted ones</td></tr>
+      <tr><td>مخاض</td><td>makhāḍ</td><td>crucible / birth-pangs</td></tr>
+      <tr><td>امتحان</td><td>imtiḥān</td><td>test</td></tr>
+      <tr><td>ضراء</td><td>ḍarrāʾ</td><td>hardship</td></tr>
+      <tr><td>سراء</td><td>sarāʾ</td><td>prosperity</td></tr>
+      <tr><td>فتوحات</td><td>futūḥāt</td><td>conquests</td></tr>
+      <tr><td>خلافة</td><td>khilāfah</td><td>caliphate</td></tr>
+      <tr><td>باطل</td><td>bāṭil</td><td>falsehood</td></tr>
+      <tr><td>ضلالة</td><td>ḍalālah</td><td>misguidance</td></tr>
+      <tr><td>طرف</td><td>taraf</td><td>luxury</td></tr>
+      <tr><td>ظلم</td><td>ẓulm</td><td>oppression</td></tr>
+      <tr><td>ولاية</td><td>wilāyah</td><td>guardianship / authority of Allah</td></tr>
+      <tr><td>حاجة شديدة وماصة</td><td>ḥājah shadīdah wa māssah</td><td>severe and agonising need</td></tr>
+      <tr><td>حكمة</td><td>ḥikmah</td><td>wisdom</td></tr>
+      <tr><td>دعوة</td><td>daʿwah</td><td>calling to Islam</td></tr>
+      <tr><td>جيل التغيير</td><td>jīl al-taghyīr</td><td>generation of change</td></tr>
+      <tr><td>الجيل الموعود</td><td>al-jīl al-mawʿūd</td><td>the promised generation</td></tr>
+    </tbody>
+  </table>
+
+  <h4>Quranic Verse Index</h4>
+  <table class="terms-table">
+    <thead>
+      <tr><th>Verse</th><th>Surah</th><th>Page</th><th>Topic</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>7:137</td><td>al-Aʿrāf</td><td>12</td><td>Inheritance of the earth by the oppressed</td></tr>
+      <tr><td>8:60</td><td>al-Anfāl</td><td>12</td><td>Prepare against them what you can of power</td></tr>
+      <tr><td>8:10</td><td>al-Anfāl</td><td>12</td><td>Victory is not but from Allah</td></tr>
+      <tr><td>3:160</td><td>Āl ʿImrān</td><td>12</td><td>If Allah supports you, none can overcome you</td></tr>
+      <tr><td>13:11</td><td>al-Raʿd</td><td>13</td><td>Allah does not change a people until they change</td></tr>
+      <tr><td>47:7</td><td>Muḥammad</td><td>13</td><td>If you support Allah, He will support you</td></tr>
+      <tr><td>3:120</td><td>Āl ʿImrān</td><td>13</td><td>Patience and taqwā neutralise plotting</td></tr>
+      <tr><td>24:55</td><td>al-Nūr</td><td>18</td><td>The promise of istikhlāf and tamkīn</td></tr>
+      <tr><td>29:1–3</td><td>al-ʿAnkabūt</td><td>19</td><td>People will be tested — the truthful from the liars</td></tr>
+      <tr><td>2:214</td><td>al-Baqarah</td><td>19</td><td>Before victory comes shaking and hardship</td></tr>
+    </tbody>
+  </table>
+
+  <h4>Hadith Index</h4>
+  <table class="terms-table">
+    <thead>
+      <tr><th>Narration</th><th>Source</th><th>Page</th><th>Grade</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Companion asks: "Will we remain in fear forever?" — Prophet ﷺ promises security</td><td>Tafsīr Ibn Kathīr 3/283</td><td>18</td><td>Grade not specified in source</td></tr>
+      <tr><td>Al-Barāʾ ibn ʿĀzib: "This verse was revealed while we were in severe fear" (re: 24:55)</td><td>Tafsīr Ibn Kathīr 3/283</td><td>18</td><td>Grade not specified in source</td></tr>
+      <tr><td>ʿAbd al-Raḥmān ibn ʿAwf weeps while fasting, remembering martyred companions</td><td>Ṣaḥīḥ al-Bukhārī</td><td>20–21</td><td>Ṣaḥīḥ</td></tr>
+      <tr><td>Khabbāb ibn al-Aratt weeps, fearing worldly reward replaces eternal reward</td><td>Ḥayāt al-Ṣaḥābah 1/100–101</td><td>21</td><td>Not specified in source</td></tr>
+    </tbody>
+  </table>
+
+</div>
+
+<!-- ===== FOOTER ===== -->
+<div class="ebook-footer">
+  <div class="footer-arabic">الجيل الموعود بالنصر والتمكين</div>
+  <p>English translation of <em>The Promised Generation: Victory and Establishment</em></p>
+  <p>by Dr. Majdi al-Hilali · Dar al-Andalus al-Jadidah, Egypt · 2008 / 1429H</p>
+  <p>Chapter 1 of 5 · Translation in progress</p>
+  <p style="margin-top: 16px; font-size: 12px;">All 10 Quranic verses verified against audited wiki citation table. All 4 hadith narrations cross-referenced with the wiki entity page.</p>
+</div>
+
+</div>
+
+</body>
+</html>
