@@ -1,3 +1,11 @@
+---
+title: "QA Review: Surah Ash-Shams (091) Curated Page"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["review", "fi-zilal"]
+type: page
+---
+
 # QA Review: Surah Ash-Shams (091) Curated Page
 
 **File reviewed:** `surahs/surah-091-ash-shams.md`  

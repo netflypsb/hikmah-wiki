@@ -1,5 +1,6 @@
 ---
 title: Music / Musiqa (مُوسِيقَى)
+tags: ["concept", "qaradawi", "islamic-ethics", "hadith", "ijma", "fiqh"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

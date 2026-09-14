@@ -1,4 +1,12 @@
 ---
+title: "chunk-01-ar-source"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud"]
+type: page
+---
+
+---
 ---
 
 --- PAGE 146 ---

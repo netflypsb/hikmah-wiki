@@ -1,5 +1,6 @@
 ---
 title: Justice / Adalah (عَدْل)
+tags: ["concept", "qaradawi", "islamic-ethics", "iman", "zakat", "fiqh"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

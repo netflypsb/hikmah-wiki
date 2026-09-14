@@ -1,5 +1,6 @@
 ---
 title: 'Expression of Beauty: Poetry and Literature'
+tags: ["chapter", "qaradawi", "sunnah", "hadith", "haram", "fiqh"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

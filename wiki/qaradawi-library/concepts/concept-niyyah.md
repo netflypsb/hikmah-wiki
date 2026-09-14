@@ -1,5 +1,6 @@
 ---
 title: Niyyah (نِيَّة) → Intention
+tags: ["concept", "qaradawi", "fiqh", "zakat", "islamic-ethics", "iman"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

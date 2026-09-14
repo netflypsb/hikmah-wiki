@@ -1,5 +1,6 @@
 ---
 title: Iman and Love
+tags: ["chapter", "qaradawi", "iman", "hadith", "aqeedah", "tazkiyah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

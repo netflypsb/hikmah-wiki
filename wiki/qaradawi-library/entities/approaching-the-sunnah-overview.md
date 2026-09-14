@@ -1,5 +1,6 @@
 ---
 title: 'Approaching the Sunnah: Comprehension and Controversy'
+tags: ["chapter", "qaradawi", "sunnah", "hadith", "salah", "sawm"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: book-overview

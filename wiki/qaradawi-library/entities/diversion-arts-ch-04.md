@@ -1,5 +1,6 @@
 ---
 title: The Judgement of Islam on Singing and Music
+tags: ["chapter", "qaradawi", "hadith", "sunnah", "ijma", "fiqh"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

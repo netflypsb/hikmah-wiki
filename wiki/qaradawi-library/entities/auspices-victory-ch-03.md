@@ -1,5 +1,6 @@
 ---
 title: Auspices From The Sunnah
+tags: ["chapter", "qaradawi", "sunnah", "nasr", "hadith", "sadaqah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

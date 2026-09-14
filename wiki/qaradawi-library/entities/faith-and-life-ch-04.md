@@ -1,5 +1,6 @@
 ---
 title: Iman and Hope
+tags: ["chapter", "qaradawi", "iman", "salah", "tazkiyah", "sahabah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

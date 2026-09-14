@@ -1,5 +1,6 @@
 ---
 title: 'The Lawful and the Prohibited in Islam: The Lawful and Prohibited in Dress, Adornment, and Social Relations'
+tags: ["chapter", "qaradawi", "haram", "halal", "hadith", "riba"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

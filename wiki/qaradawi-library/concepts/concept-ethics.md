@@ -1,5 +1,6 @@
 ---
 title: Ethics / Akhlaq (أَخْلَاق) → Character
+tags: ["concept", "qaradawi", "islamic-ethics", "akhlaq"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

@@ -1,5 +1,6 @@
 ---
 title: Beauty in the Quran and Universe
+tags: ["chapter", "qaradawi", "hadith", "sahabah", "fiqh"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

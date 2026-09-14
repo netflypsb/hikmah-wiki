@@ -1,5 +1,6 @@
 ---
 title: 'The Lawful and the Prohibited in Islam'
+tags: ["chapter", "qaradawi", "haram", "halal", "zakat", "wasatiyyah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: book-overview

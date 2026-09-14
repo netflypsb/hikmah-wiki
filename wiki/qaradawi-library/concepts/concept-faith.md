@@ -1,5 +1,6 @@
 ---
 title: Faith / Iman (إِيمَان)
+tags: ["concept", "qaradawi", "iman", "islamic-ethics", "sunnah", "aqeedah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

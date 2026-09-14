@@ -1,5 +1,6 @@
 ---
 title: Importance of Alms and Generosity in Islam
+tags: ["chapter", "qaradawi", "sunnah", "zakat", "sadaqah", "fiqh"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: chapter

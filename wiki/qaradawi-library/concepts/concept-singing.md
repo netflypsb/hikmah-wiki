@@ -1,5 +1,6 @@
 ---
 title: Singing / Ghina' (غِنَاء)
+tags: ["concept", "qaradawi", "hadith", "islamic-ethics", "ijma", "sunnah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

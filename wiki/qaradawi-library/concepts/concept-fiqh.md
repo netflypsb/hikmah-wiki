@@ -1,5 +1,6 @@
 ---
 title: Fiqh (فِقْه)
+tags: ["concept", "qaradawi", "fiqh", "zakat", "hadith", "sunnah"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

@@ -1,5 +1,6 @@
 ---
 title: Zakah on Minerals and Sea Products
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "ijtihad", "ijma"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

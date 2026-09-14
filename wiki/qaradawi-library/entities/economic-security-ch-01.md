@@ -1,5 +1,6 @@
 ---
 title: Different Views on Want and Poverty
+tags: ["chapter", "qaradawi", "zakat", "sadaqah", "fiqh"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: chapter

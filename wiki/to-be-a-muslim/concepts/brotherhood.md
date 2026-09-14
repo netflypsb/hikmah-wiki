@@ -1,5 +1,6 @@
 ---
 title: Brotherhood
+tags: ["concept", "fathi-yakan", "ukhuwwah", "islamic-movement", "iman", "akhirah"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

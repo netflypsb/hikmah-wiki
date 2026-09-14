@@ -1,5 +1,6 @@
 ---
 title: Zakah on Exploited Assets
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "ijma", "salah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

@@ -1,5 +1,6 @@
 ---
 title: Family Life
+tags: ["concept", "fathi-yakan", "sadaqah", "iman", "hadith", "aqeedah"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

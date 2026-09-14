@@ -1,5 +1,6 @@
 ---
 title: Creed (عَقِيدَة)
+tags: ["concept", "qaradawi", "aqeedah", "iman", "hadith", "sunnah"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

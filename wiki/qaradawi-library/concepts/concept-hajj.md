@@ -1,5 +1,6 @@
 ---
 title: Hajj / Pilgrimage (حَجّ)
+tags: ["concept", "qaradawi", "hajj", "sunnah", "fiqh", "zakat"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

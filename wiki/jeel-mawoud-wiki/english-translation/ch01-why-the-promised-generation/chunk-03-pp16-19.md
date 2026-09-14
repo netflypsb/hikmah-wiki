@@ -1,3 +1,11 @@
+---
+title: "Chunk 3 — Pages 16–19"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "sahabah", "sabr", "nasr", "hadith"]
+type: page
+---
+
 # Chunk 3 — Pages 16–19
 
 ## Translation of: Chapter One — Why the Promised Generation?

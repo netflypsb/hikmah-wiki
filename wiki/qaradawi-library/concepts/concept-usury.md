@@ -1,5 +1,6 @@
 ---
 title: Usury (رِبَا)
+tags: ["concept", "qaradawi", "riba", "zakat", "fiqh", "islamic-ethics"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

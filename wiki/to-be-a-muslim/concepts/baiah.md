@@ -1,5 +1,6 @@
 ---
 title: Bai'ah (Oath of Loyalty)
+tags: ["concept", "fathi-yakan", "ukhuwwah", "jihad", "islamic-movement", "iman"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

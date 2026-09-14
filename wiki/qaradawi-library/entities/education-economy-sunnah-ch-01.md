@@ -1,5 +1,6 @@
 ---
 title: Chapter 1
+tags: ["chapter", "qaradawi", "sunnah", "tarbiyyah", "hadith", "salah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

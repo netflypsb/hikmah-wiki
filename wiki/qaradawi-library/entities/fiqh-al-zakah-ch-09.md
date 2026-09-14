@@ -1,5 +1,6 @@
 ---
 title: Zakah on Earning of Laborers and Professionals
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "ijma", "sunnah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

@@ -1,5 +1,6 @@
 ---
 title: Economic Security in Islam
+tags: ["chapter", "qaradawi", "fiqh", "zakat", "sadaqah", "islamic-ethics"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: book-overview

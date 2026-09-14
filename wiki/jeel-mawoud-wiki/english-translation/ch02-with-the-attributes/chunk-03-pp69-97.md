@@ -1,3 +1,11 @@
+---
+title: "chunk-03-pp69-97"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "tamkin", "sahabah", "akhirah", "sawm"]
+type: page
+---
+
 ## Page 69
 
 **Sixthly: Asceticism in the World (al-zuhd fī al-dunyā)**

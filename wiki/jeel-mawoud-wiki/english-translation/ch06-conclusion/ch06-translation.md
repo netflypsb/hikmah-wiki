@@ -1,5 +1,6 @@
 ---
 title: "Conclusion"
+tags: ["translation", "jeel-mawoud", "nasr", "tamkin", "salah", "sahabah"]
 book: "Al-Jīl al-Mawʿūd bi-l-Naṣr wa-l-Tamkīn"
 author: "Dr. Majdi al-Hilali"
 chapter: 6

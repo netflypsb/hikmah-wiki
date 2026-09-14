@@ -1,5 +1,6 @@
 ---
 title: Islamic Movement
+tags: ["concept", "fathi-yakan", "ukhuwwah", "tarbiyyah", "tamkin", "sunnah"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

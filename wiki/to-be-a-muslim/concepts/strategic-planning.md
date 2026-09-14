@@ -1,5 +1,6 @@
 ---
 title: Strategic Planning
+tags: ["concept", "fathi-yakan", "iman", "islamic-movement", "salah", "jahiliyyah"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

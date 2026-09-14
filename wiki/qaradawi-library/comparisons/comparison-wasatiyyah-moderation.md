@@ -1,5 +1,6 @@
 ---
 title: Wasatiyyah — The Middle Way as Qaradawi's Master Framework
+tags: ["comparison", "qaradawi", "sunnah", "islamic-ethics", "wasatiyyah", "iman"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: comparison

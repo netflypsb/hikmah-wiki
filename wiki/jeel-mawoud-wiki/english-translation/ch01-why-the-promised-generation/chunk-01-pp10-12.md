@@ -1,3 +1,11 @@
+---
+title: "Chunk 1 — Pages 10–12"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "nasr", "iman"]
+type: page
+---
+
 # Chunk 1 — Pages 10–12
 
 ## Translation of: Chapter One — Why the Promised Generation?

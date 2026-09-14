@@ -1,5 +1,6 @@
 ---
 title: Pre-requisites for the Success of Islamic Economic System
+tags: ["chapter", "qaradawi", "zakat", "riba", "sunnah", "salah"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: chapter

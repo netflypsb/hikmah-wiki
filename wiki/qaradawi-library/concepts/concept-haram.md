@@ -1,5 +1,6 @@
 ---
 title: Haram (حَرَام)
+tags: ["concept", "qaradawi", "haram", "hadith", "halal", "fiqh"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

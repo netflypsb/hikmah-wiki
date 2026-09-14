@@ -1,5 +1,6 @@
 ---
 title: Education and Economy in the Sunnah
+tags: ["chapter", "qaradawi", "tarbiyyah", "sunnah", "sahabah", "islamic-ethics"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: book-overview

@@ -34,7 +34,7 @@ confidence: high
 ## Prologue
 
 
-Revealed in Madinah, this sūrah is one of the last, if not actually the last1 Qur'ānic
+Revealed in Madinah, this sūrah is one of the last, if not actually the Qur'ānic
 revelation. Hence, it contains final rulings on relations between the Muslim
 community and other people. It also includes the classification of the Muslim
 community itself, establishing its values together with a full description and outline
@@ -992,76 +992,76 @@ and the ḥadīth quoted before it explain this clear Qur'ānic phenomenon.
 ## The Basis of Inter-Communal Relations
 
 
-Disavowal by God and His Messenger [is t%! n<) zi u!tt/
+Disavowal by God and His Messenger u!tt/
 hereby announced] to those of the idolaters
 with whom you have made a treaty. (1)
 
-[Announce to them:] You may go freely in syt/r& F{
+[Announce to them:] You may go freely F{
 the land for four months, but you must
-realize that you can never escape God's r&u
+realize that you can never escape God's
 judgement, and that God shall bring
 disgrace upon the unbelievers. (2)
 
 
-And a proclamation from God and His n<) sr&u
+And a proclamation from God and His
 Messenger is hereby made to all mankind
-on this day of the greater pilgrimage: God zi t/ r& y92{
+on this day of the greater pilgrimage: God zi t/
 F dkpt: tt
 is free from obligation to the idolaters, and yz us F6? 4 t.9
 so is His Messenger. If you repent, it shall
-be for your own good; and if you turn away, G9us? (
+be for your own good; and if you turn away,
 then know that you can never escape God's
-judgement. Give the unbelievers the news of t%! eo0u 3
+judgement. Give the unbelievers the news
 grievous suffering, (3)
 
 except for those idolaters with whom you
 have made a treaty and who have honoured t.9 zi
-their obligations [under the treaty] in every s9u s9
+their obligations [under the treaty] in every
 detail, and have not aided anyone against
-you. To these fulfil your obligations until 4 yt s9) Ytnr&
+you. To these fulfil your obligations until 4
 their treaties have run their term. God loves
 
 those who are righteous. (4)
 
 
 When these months of grace are over, slay t: F{
-y n=| s*s
+
 the idolaters wherever you find them, and
 take them captive, besiege them, and lie in zu t.9
 wait for them at every conceivable place.
-4 s9 mu
+4
 Yet if they should repent, take to prayer
-and pay the zakt, let them go their way. n4n=9
+and pay the zakt, let them go their way.
 For God is Much-forgiving, Merciful. (5)
-4 n=;y n429
+4
 
 
 If any of the idolaters seeks asylum with
-you, grant him protection, so that he may x8uyftF zi tnr&
+you, grant him protection, so that he may
 hear the word of God, and then convey him
-to his place of safety. That is because the zn=x. yyo
-idolaters are people who lack knowledge. n=t s% r'/ y79s 4 ut'
+to his place of safety. That is because the
+idolaters are people who lack knowledge. ut'
 (6)
 
 How can there be a treaty with God and
-t2=9 y2
+
 His Messenger for the idolaters, unless it be
 those of them with whom you have made a yu
 treaty at the Sacred Mosque? So long as
-they are true to you, be true to them; for ys ( tpt: fy9
+they are true to you, be true to them; for ys ( tpt:
 God loves those who are God-fearing. (7)
 4 m;
 
 How [else could it be] when, should they
 prevail over you, they will respect neither
-agreement made with you, nor obligation of y2
+agreement made with you, nor obligation
 honour towards you? They try to please you
 with what they say, while at heart they ur'/ 4
-remain adamantly hostile. Most of them sY2r&u
+remain adamantly hostile. Most of them
 are transgressors. (8)
 
 They barter away God's revelations for a
-paltry price and debar others from His W=s% YyrO Mtt/
+paltry price and debar others from His Mtt/
 path. Evil indeed is what they do. (9)
 u!y 4
 
@@ -1069,125 +1069,125 @@ u!y 4
 They respect neither agreement nor
 obligation of honour with regard to any
 believer. Those indeed are the aggressors.
-(10) 4 t7%t
+(10) 4
 
 
 Yet, if they repent, take to prayers and pay
 the zakt, they are your brethren in faith.
 Clear do We make Our revelations to
-people of knowledge. (11) n4n=9
+people of knowledge. (11)
 
 3 e!
-n429
+
 
 
 But if they break their pledges after having
 concluded a treaty with you, and revile your
 religion, then fight these archetypes of
-t/ uyr&
+t/
 faithlessness who have no [respect for a]
-binding pledge, so that they may desist. sr&
+binding pledge, so that they may desist.
 (12)
-s9 zyr&
+
 
 
 Will you not fight against people who have
 broken their solemn pledges and set out to
-drive out the Messenger, and who were the uyr& Ys% r&
+drive out the Messenger, and who were the
 first to attack you? Do you fear them? It is
 God alone whom you should fear, if you ltz*/
-are true believers. (13) r& 4 ttrBr& 4 Bt
+are true believers. (13) Bt
 
 
 Fight them: God will punish them at your
 hands, and will bring disgrace upon them;
 and will grant you victory over them and
 will grant heart-felt satisfaction to those
-who are believers, (14) ou n=t tu
+who are believers, (14)
 
 
 removing all angry feelings from their
 hearts. God will turn in His mercy to
 whom He wills. God is All-knowing and 3
-x =
+
 
 
 Wise. (15)
 
 
 Do you think that you will be left alone,
-unless God takes cognizance of those of you n=t s9u r& F6ym r&
-who strive hard for His cause and establish s9u t%!
+unless God takes cognizance of those of you
+who strive hard for His cause and establish
 close association with none other than God,
-His Messenger and the believers? God is t9
+His Messenger and the believers? God
 well aware of what you do. (16)
 
 y
 
-It is not for the idolaters to visit or tend yf|t r& t.=9 t%x.
+It is not for the idolaters to visit or tend
 God's houses of worship; for they are self-
-confessed unbelievers. Vain shall be their y7s9'& 4 r& n?t zx
+confessed unbelievers. Vain shall be their zx
 actions and they shall abide in the fire.
-Ms7ym
+
 (17)
 
 
-If God's houses of worship may be tended tu yf|t y)
+If God's houses of worship may be tended
 only by those who believe in God and the
-Last Day, are constant in prayers, pay tAuu n4n=9 ts%r&u zF u9u
+Last Day, are constant in prayers, pay
 zakt (i.e. the obligatory charity) and fear
-( s9u n4
+(
 none other than God. It is those who are
 likely to be rightly guided. (18)
 
 
 Do you, perchance, consider that the nuyu dl!pt: sts) *
 provision of drinking water to pilgrims and
-tending the Sacred Mosque are equal to tpt: fy9
-u9u ztu yx.
+tending the Sacred Mosque are equal to tpt:
+yx.
 believing in God and the Last Day and
-ttFt 4 yyy_u zF
+yyy_u
 striving for God's cause? These are not
-equal in God's sight. God does not provide t>9 ts)9 3
+equal in God's sight. God does not provide
 guidance for people who are wrongdoers.
 
 
-t%!
+
 Those who believe, and leave their homes
-sr& r&u
+
 and strive hard for God's cause with their
-property and their lives stand higher in t!x9 7
-y s9'&u 4
+property and their lives stand higher
+
 y y_uy
 
 
 rank with God. It is they who shall
 triumph. (20)
 
-et6
+
 Their Lord gives them the happy news of
 
 bestowing on them His grace, and
 acceptance, and of the gardens of eternal
-bliss (21) 4 t/r& yz
+bliss (21) 4
 
 
 where they shall reside for ever. God's
 reward is great indeed. (22)
 pr't
 
-u!u9r&
+
 Believers, do not take your fathers and
-brothers for allies if they choose unbelief in tu 4 yM} n?t t69
+brothers for allies if they choose unbelief in tu 4
 preference to faith. Those of you who take
 
 them for allies are indeed wrongdoers. (23)
 
-t%x.
+
 Say: If your fathers, your sons, your
-ur&u
+
 brothers, your spouses, your clan, and the
-property you have acquired, and the yy|x. ttrB tpgBu yGutI%
+property you have acquired, and the
 business in which you fear a decline, and
 the dwellings in which you take pleasure,
 are dearer to you than God and His
@@ -1198,24 +1198,24 @@ His will. God does not provide guidance to
 the evildoers. (24)
 
 
-zut s)s9
+zut
 God has granted you His support on many
 a battlefield, and also in the Battle of Aum ttu
 unayn, when you took pride in your
-numerical strength, but it availed you Ms%|u n=s
+numerical strength, but it availed you
 
-nothing. For all its vastness, the earth Mt6mu y/ F{
+nothing. For all its vastness, the earth F{
 seemed too narrow for you, and you turned
 
 
-back in flight. (25) G9u
+back in flight. (25)
 
 
-n?tu tGt3y ttr&
+n?tu
 God then bestowed from on high an air of
-inner peace on His Messenger and on the yts? Y_ ttr&u
+inner peace on His Messenger and on the yts? Y_
 believers, and He sent down forces whom
-you could not see, and punished those who 4 z>tu
+you could not see, and punished those who 4
 disbelieved. Such is the reward for the
 
 unbelievers. (26)
@@ -1228,8 +1228,8 @@ y) yr't
 
 Believers, know that the idolaters are pgw
 certainly impure. So, let them not come
-near to the Sacred Mosque after this year is 4 xy yt/ ttys9 yfy9
-ended. If you fear poverty, then in time t|s Fz
+near to the Sacred Mosque after this year is 4 xy yt/
+ended. If you fear poverty, then in time Fz
 God will enrich you with His own bounty,
 if He so wills. Truly, God is All-knowing, 4 u!x
 Wise. (28)
@@ -3277,60 +3277,60 @@ communities.
 
 Fight against those who — despite having been
 given Scriptures — do not truly believe in God
-and the Last Day, and do not treat as forbidden tym thpt zF u9/
+and the Last Day, and do not treat as forbidden tym thpt
 that which God and His Messenger have for-
-d,ys9
+
 bidden, and do not follow the religion of truth, till
 they [agree to] pay the submission tax with a
 willing hand, after they have been humbled. (29)
 
 
-s9s%u u9 Ms9s%u
+
 M
 The Jews say: Ezra is the son of God, while the
-Christians say: The Christ is the son of God. ( xy9 t|9
+Christians say: The Christ is the son of God. (
 Such are the assertions they utter with their
-mouths, echoing assertions made by the un- ts% ( ur'/
+mouths, echoing assertions made by the un- ur'/
 believers of old. May God destroy them! How
-4 n=tGs% 4 t%!
+4
 perverse they are! (30)
 
 
-They make of their rabbis and their monks, and ut6u ut6mr&
+They make of their rabbis and their monks, and
 of the Christ, son of Mary, lords besides God.
-Yet they have been ordered to worship none but ztt yxy9u
+Yet they have been ordered to worship none but ztt
 the One God, other than whom there is no deity.
-s9) ( Ymu Ys9)
+Ymu
 Exalted be He above those to whom they ascribe
-divinity. (31) oys7 4
+divinity. (31)
 
 
-They want to extinguish God's light with their ur'/ r&
+They want to extinguish God's light with their ur'/
 mouths, but God will not allow anything but to
-bring His light to perfection, however hateful this o2 s9u r& H) p1'tu
+bring His light to perfection, however hateful this H)
 may be to the unbelievers. (32)
 
 
-yr&
+
 It is He who has sent His Messenger with
-guidance and the religion of truth, so that He may s9u e! n?t t9 d,ys9
+guidance and the religion of truth, so that He may n?t
 cause it to prevail over all [other] religions,
 
 however hateful this may be to the idolaters. (33)
 
-ZW2 t%! pr't *
+*
 
-Believers, some of the rabbis and monks tur& t=.'us9 t79u t6mF{
-wrongfully devour peoples property and turn 3 tu t69/
+Believers, some of the rabbis and monks
+wrongfully devour peoples property and turn 3
 people away from God's path. To those who
-hoard up gold and silver and do not spend them s9u
+hoard up gold and silver and do not spend them
 in God's cause, give the news of a painful
-et7s pt)
+
 suffering, (34)
 
 
-on the day when it will all be heated in the fire of zyy_ yn=t
-hell, and their foreheads, sides and backs will be t6_ p5
+on the day when it will all be heated in the fire of zyy_
+hell, and their foreheads, sides and backs will
 branded with them. [They will be told]: This is
 what you have hoarded up for yourselves. Taste, xy (
 then, what you have been hoarding. (35)
@@ -4258,7 +4258,7 @@ to do.27 It is added that with inspiration by the Holy Spirit, Ezra re-wrote the
 five books burnt with fire, and he was assisted by five contemporary scribes.
 Therefore, we see St Thertholianus, St Irinaous, St Ironemus, St John the
 Golden, St Basilius and others call Ezra `the one who revived Jewish holy
-books28
+
 
 Shaikh Rashd Ri further:
 
@@ -5014,25 +5014,25 @@ modern history.
 ## A Higher Degree of Unbelief
 
 
-The number of months, in God's sight, is twelve u|t oO
+The number of months, in God's sight, is twelve
 as set by God's decree on the day when He
-created the heavens and the earth. Of these, four Nuy9 t,n=y{ tt
-are sacred, according to the ever-true law [of God]. 4 yt/r& F{u
+created the heavens and the earth. Of these, four
+are sacred, according to the ever-true law [of God]. 4 F{u
 Therefore, do not wrong yourselves by violating
-them. But fight against the idolaters all together as 4 hs)9 e!
+them. But fight against the idolaters all together as 4
 they fight against you all together, and know that
-Z!%x. 4
+
 God is with those who are God- fearing. (36)
-r& 4 Z!2 y2
+Z!2
 
 
 The postponement [of sacred months] is only an
 excess of unbelief, in which the unbelievers are led ( yt y)
-astray. They declare it permissible one year and thptu Y%t t=t
+astray. They declare it permissible one year and thptu
 forbidden another year, so that they may make up
-the number of the months which God has tym Y%t
+the number of the months which God has tym
 sanctified, and thus they make lawful what God
-3 s9 4 tym
+3 tym
 has forbidden. The evil of their deeds thus seems
 fair to them. God does not guide those who are
 unbelievers. (37)
@@ -5253,31 +5253,31 @@ unbelief in which they live in total darkness, far removed from God's guidance.
 
 Believers, what is amiss with you that, when it is s) yr't
 said to you: Go forth to fight in God's cause, you
-cling heavily to the earth? Are you content with n<) F=s%O
-the comforts of this world in preference to the life to u9 Fur& 4 F{
+cling heavily to the earth? Are you content with
+the comforts of this world in preference to the life F{
 come? Paltry indeed are the enjoyments of life in
-this world when compared with those to come. u9 tFt ys 4 tzF
+this world when compared with those to come. 4
 (38)
 
 
-V9r&
+
 If you do not go forth to fight [in God's cause],
-He will punish you severely and replace you by s? s%
+He will punish you severely and replace you by
 other people. You will not harm Him in any
 way, for God has power over all things. (39)
 
 
-y_tzr& t|t s)s s?
+s?
 If you do not help him [the Prophet]; God [will,
-as He] supported him at the time when the oO rO t%!
+as He] supported him at the time when the
 unbelievers drove him away. He was only one of
-ttrB t9
+
 two. When these two were alone in the cave, he
-said to his companion: Do not grieve, for God is n=t tGt6y ttr's ( oyt
+said to his companion: Do not grieve, for God ( oyt
 with us. Thereupon God bestowed on him the
-gift of inner peace, and sent to his aid forces which sy=2 yy_u yts? yr&u
+gift of inner peace, and sent to his aid forces which yts?
 you did not see. He brought the word of the
-y=2u 3
+
 unbelievers utterly low, while the word of God
 remained supreme. God is Mighty, Wise. (40)
 
@@ -5370,7 +5370,7 @@ addition their loss of life and property is far greater than what they will lose
 they fight in support of God's cause. Whenever a community abandons jihd and
 refuses to fight for God's cause, it is bound to suffer humiliation. Its eventual loss is
 much greater than it would need to sacrifice when it fights with the spirit of jihd.
-He will ... replace you by other people, (Verse 39) who will guard their faith and
+He will... replace you by other people, (Verse 39) who will guard their faith and
 who are prepared to make the necessary sacrifices without ever submitting to God's
 enemies. You will not harm Him in any way, (Verse 39) and you can have no effect on
 the outcome. For God has power over all things. (Verse 39) He can easily cause you to
@@ -5484,72 +5484,72 @@ victories ever achieved in the history of mankind.
 ## Manifestations of Hypocrisy
 
 
-Had there been [a prospect of] an immediate Ys% Y7s% Z{t t%x. s9
+Had there been [a prospect of] an immediate Z{t
 gain, and a short journey, they would certainly
-have followed you; but the distance was too far for 4 n=t Nyt/ x8t7?^
-them. Yet they will swear by God: Had we been u_tsm: ostF s9
+have followed you; but the distance was too far for 4 Nyt/
+them. Yet they will swear by God: Had we been u_tsm:
 able, we would surely have joined you. They bring
-ruin upon themselves. God knows indeed that n=t t3=
+ruin upon themselves. God knows indeed that
 they are liars. (42)
 
 
-May God forgive you [Prophet]! Why did you s9 z9 xt
+May God forgive you [Prophet]! Why did you
 grant them permission [to stay behind] before you
-had come to know who were speaking the truth zn=s?u s9 tt6tGt
+had come to know who were speaking the truth
 and who were the liars (43)
 
 
-Those who believe in God and the Last Day will t%! tFo
+Those who believe in God and the Last Day will
 not ask you to exempt them from striving with
-their property and with their lives. God has full r& zF u9u
+their property and with their lives. God has full
 knowledge as to who are the God-fearing. (44)
 
 
-Only those who do not truly believe in God and t%! tFo y)
+Only those who do not truly believe in God and
 the Last Day ask you for exemption. Their
-Mt/s?u zF u9u
+Mt/s?u
 hearts are filled with doubt; and troubled by
 doubt, they do waver. (45)
 
 
 Had they really intended to set out [with you], l
-y s9u *
+
 they would surely have made some preparations
-for that. But God was averse to their going, so He s7sVs rOy7/ o2
+for that. But God was averse to their going, so He
 caused them to hold back; and it was said to
 
 them: Stay behind with those who stay. (46)
 
-Zt6yz s9
+
 Had they set out with you, they would have added
-nothing to you but trouble, and would have suF9
-n=n={
+nothing to you but trouble, and would have
+
 scurried to and fro in your midst, seeking to sow
 discord among you. There are among you some 3 m; ty
 who would have lent them ear. Certainly God
 has full knowledge of the wrongdoers. (47)
 
-s9 suF9 s)s9
+
 They had, even before this time, tried to sow
-discord, and devised plots against you, until the r& tysu u!y_ uW{
+discord, and devised plots against you, until the u!y_
 truth was revealed and the will of God prevailed,
 
 no matter how hateful it is to them. (48)
 
-r& 4 h_Gs? k<
+h_Gs?
 There is among them [many a] one who may say:
-Give me leave to stay behind, and do not expose zyy_ 3 uG9
+Give me leave to stay behind, and do not expose zyy_ 3
 me to temptation. Surely they have succumbed to
 
 temptation. Hell is certain to engulf the
 unbelievers. (49)
-( s? u|ym
-Your good fortune grieves them; but if a disaster ttr& s% t6
+(
+Your good fortune grieves them; but if a disaster
 befalls you, they will say: We are lucky to have
 taken our precautions. Thus they turn away
 rejoicing. (50)
-us9
-Say: Nothing will befall us except what God has n?tu 4 u9s9t
+
+Say: Nothing will befall us except what God has n?tu 4
 decreed. He is our Guardian. In God alone
 should the believers place their trust. (51)
 
@@ -5557,30 +5557,30 @@ should the believers place their trust. (51)
 Say: Are you waiting for something [bad] to
 yn) H)
 happen to us?; but [nothing may happen to us
-except] one of the two best things. On our part we r& twu ( uts9
+except] one of the two best things. On our part (
 are waiting for God to inflict upon you a scourge,
-r&
+
 either directly from Himself or by our hands.
 Wait, then, if you will; we shall also be waiting. ( or'/
 (52)
 
 
 Say: Whether you spend willingly or unwillingly,
-r&
+
 it will not be accepted from you; for you are indeed
 wicked people. (53)
 
 
-What prevents their spending from being accepted H) Gs)xt t6)? r& yut tu
-from them is that they have disbelieved in God t?'t r&
+What prevents their spending from being accepted H) Gs)xt tu
+from them is that they have disbelieved in God t?'t
 and His Messenger, and they only come to prayer
-with reluctance, and never donate anything [for a t) n4n=9
+with reluctance, and never donate anything [for a
 righteous cause] without being resentful. (54)
 
 
-Let neither their riches nor their children rouse y) 4 s9r& Iu y77f?
+Let neither their riches nor their children rouse y) 4 Iu
 your admiration. God only wishes to punish them
-by means of these in this worldly life, and that u9 p5 u5jy9
+by means of these in this worldly life, and that
 their souls perish while they are unbelievers. (55)
 
 
@@ -5590,29 +5590,29 @@ certainly they do not belong to you, but are people
 overwhelmed by fear. (56)
 
 If only they could find a place of shelter, or cavern,
-or any hiding place, they would rush headlong into r& BNttt r& yf=t gs s9
+or any hiding place, they would rush headlong into BNttt
 it. (57)
 
 
-Among them there are those who speak ill of you Ms%y9 x8=t
+Among them there are those who speak ill of you
 concerning the distribution of charity. If they are
 given a share of it, they are pleased, but if no share s) p]
 is given to them, they are enraged. (58)
 
 
-Yet [how much better it would have been for r& s9u
+Yet [how much better it would have been for
 them] had they contented themselves with what
-o?y u6 ym
+o?y
 God and His Messenger have given them, and
-said: God is sufficient for us. God will give us out n<)
+said: God is sufficient for us. God will give us out
 of His bounty, and so too will His Messenger. To
 God alone do we turn in hope. (59)
 
 
-Ms%y9 y) *
+*
 Charitable donations are only for the poor and
-the needy, and those who work in the x9x9u pn=t t,y9u
-administration of such donations, and those whose tt9u
+the needy, and those who work in the
+administration of such donations, and those whose
 hearts are to be won over, for the freeing of people
 in bondage and debtors, and to further God's 3 Zs (
 cause, and for the traveller in need. This is a duty
@@ -5623,133 +5623,133 @@ Wise. (60)
 
 4
 And among them are others who hurt the
-Prophet and say: He is all ear. Say: He is an z%j9 uquu
+Prophet and say: He is all ear. Say: He is
 ear listening to what is good for you. He believes
-in God, trusts the believers and he is a mercy to m; tu t%!u 4
+in God, trusts the believers and he is a mercy to m;
 those of you who are true believers. Those who
 hurt God's Messenger shall have painful
 suffering. (61)
 
 
-r& Yymr&
+
 They swear to you by God in order to please you.
 Yet it is God and His Messenger that they
 should strive to please, if indeed they are believers.
 
 
-(62) pt r& s9r&
+(62)
 
-4 Vyz zyy_ ut s9 r's
+4 Vyz zyy_
 Do they not know that anyone who defies God
 and His Messenger shall have the fire of hell,
-therein to abide? That is the ultimate disgrace. n=t tt? r& xts
+therein to abide? That is the ultimate disgrace.
 (63)
 4 y/ m;u?
 
 The hypocrites dread lest a sūrah be revealed
 about them, making clear to them what is really
-in their hearts. Say: Scoff, if you will; God will y) tF9r'y s9u
+in their hearts. Say: Scoff, if you will; God will
 surely bring to light the very thing you are tuu 4
 dreading. (64)
 
 
 Should you question them, they will say: We
-4 yt/ nxx. s%
+4 yt/ nxx.
 have only been indulging in idle talk and jesting.
 Say: Was it, then, at God, His revelations and Ox!s
 His Messenger that you have been mocking?
 (65)
 
-t/ Ms)o9u t)u9
+t/
 Make no excuses. You have disbelieved after you
-have professed to be believers. Though We may p]tu x69/ 4
+have professed to be believers. Though We may p]tu
 pardon some of you, We shall punish others, on
-account of their being guilty. (66) 4 ur& y9
+account of their being guilty. (66) 4
 
-t)o9 3 uts
+uts
 The hypocrites, both men and women, are all of a
 kind. They enjoin what is wrong and forbid what
 is right, and tighten their fists. They have forgotten
-God and so He has chosen to forget them. Surely Ms)o9u ytu
-the hypocrites are the transgressors. (67) 4 tyz tyy_ ut u39u
+God and so He has chosen to forget them. Surely
+the hypocrites are the transgressors. (67) 4 tyz tyy_
 
-s9u ( uys9u 4
+
 God has promised the hypocrites, both men and
 women, and the unbelievers the fire of hell, where
 
 
-they shall abide. It shall be sufficient for them. xr&
+they shall abide. It shall be sufficient for them.
 God has rejected them, and theirs is a lasting
-torment. (68) Ys9r&u Zur& tsW.r&u Z%
+torment. (68)
 
-y2 tGtGs
 
-Yours is just like the case of those before you. ytFtF
+
+Yours is just like the case of those before you.
 They were more powerful than you and had
-y7s9'& 4 zu
+zu
 greater wealth and more children. They enjoyed
-their share. And you have been enjoying your ( tzFu u9 Ms7ym
+their share. And you have been enjoying your (
 share, just as those who preceded you enjoyed their
 share; and you have been indulging in idle talk
 just like they did. Their works have come to
-nothing in this world and shall come to nothing in s% E't s9r&
-the life to come. They are indeed the losers. (69) tt/) s%u yrOu
+nothing in this world and shall come to nothing E't
+the life to come. They are indeed the losers. (69) tt/)
 
-4 Mx6s?9u tt
-Have they not heard the histories of those who t%2 ys ( Muit79/ Gs?r&
+4
+Have they not heard the histories of those who (
 preceded them, such as Noahs people, and
-Thamd, and Abrahams people, and the folk of t=t y=u9
+Thamd, and Abrahams people, and the folk
 Madyan and the ruined cities? Their messengers
 
 came to them with clear evidence of the truth. It
 was not God who wronged them; it was they who
-t/ Mo9u t9u
+t/
 wronged themselves. (70)
-tytu y9/ 4
+tytu
 
-n4n=9 s39
+
 The believers, men and women, are friends to one
-another: they enjoin what is right and forbid what n4x.9
+another: they enjoin what is right and forbid what
 is wrong; they attend to their prayers, and pay
-3 xqzy y7s9'& 4
+3 xqzy
 their zakt, and obey God and His Messenger.
 It is on these that God will have mercy. Surely,
 God is Almighty, Wise. (71)
-Mo9u ytu
 
-tyz yF{ yGtrB grB
+
+tyz
 God has promised the believers, men and women,
-gardens through which running waters flow, where 4 My_ Zt6hs z3|tu
+gardens through which running waters flow, where 4 My_
 they will abide, and goodly dwellings in the garden
 
 
 of Eden. Yet God's acceptance is the greatest 7
-y 4 t92r& uu
+y 4
 blessing of all. This is indeed the supreme
 triumph. (72)
 
-t)o9u u69 y_ pr't
-Prophet, strive hard against the unbelievers and ( yy_ 4 n=t
+pr't
+Prophet, strive hard against the unbelievers and ( yy_ 4
 the hypocrites, and press hard on them. Their
 ultimate abode is hell, and how vile a journeys
 end. (73)
-s)s9u
+
 They swear by God that they have said nothing
-yt/ sy=x.
+yt/
 [wrong]. Yet they certainly uttered the word of
-unbelief, and disbelieved after they had professed to r& H) tu 4 s9 y/
+unbelief, and disbelieved after they had professed H) tu 4
 submit to God, for they aimed at something which
 they could not attain. They had no reason to be 4
 spiteful, except that God and His Messenger had
 ( Zyz
 enriched them out of His bounty. If they repent, it
-will be for their own good; but if they turn away, tu 4 tzFu u9 V9r&
+will be for their own good; but if they turn away, tu 4
 God will cause them to endure grievous suffering
 both in this world and in the life to come. They
 shall find none on this earth to be their friend or
-to give them support. (74) o9s?u s9 yyt *
+to give them support. (74) *
 
-t3u9s s%os9
+
 Some of them have pledged to God: If He gives
 us of His bounty, we will certainly spend in
 charity, and we will be among the righteous. (75)
@@ -5759,110 +5759,110 @@ grew niggardly and turned away, heedless [of their
 pledges]. (76)
 z:s)r's
 In consequence, He caused hypocrisy to take root
-in their hearts till the Day on which they will meet y/u tu ts)=t
+in their hearts till the Day on which they will meet y/u
 Him, because they have been untrue to the pledges
 they made to God, and because of the lies they
 
 
-s9r&
-n=t r&
+
+
 
 
 used to tell. (77)
 
 Do they not realize that God knows both their
-h9
+
 secret thoughts and what they talk about in
-private, and that God has full knowledge of all Ms%y9 t9
+private, and that God has full knowledge of all
 things that are hidden away? (78)
 tyts y_ tgs
 It is those hypocrites that taunt the believers who
 donate freely, as well as those who have nothing to
 give except what they earn through their toil, and
-deride them all. God derides them, and grievous tGn@ m; tGn@ r& m; tG
+deride them all. God derides them, and grievous
 suffering awaits them. (79)
-y79s 4 m; tt n=s Zs t7y m;
+m; Zs
 
 3 r'/
 You may pray for their forgiveness or may not
 pray for them, [for it will all be the same]. Even if
 you were to pray seventy times for their forgiveness,
-God will not forgive them, for they have denied yn=z y)y/ yys
+God will not forgive them, for they have denied yys
 God and His Messenger. God does not guide
-those who are transgressors. (80) r&
+those who are transgressors. (80)
 
-r&u
 
-4 vym xr& zyy_ 3 hpt:
+
+4 vym 3 hpt:
 Those who were left behind rejoiced at having
 stayed at home after [the departure of] God's
 Messenger, for they were averse to striving with
 their property and their lives in God's cause. They
-said [to one another]: Do not go to war in this L!ty_ ZVx. W=s%
+said [to one another]: Do not go to war in this L!ty_ ZVx.
 heat. Say: The fire of hell is far hotter. Would
 
 that they understood. (81)
 
 yy_
-They shall laugh but a little, and they will weep l=9 x8xtGs
+They shall laugh but a little, and they will weep
 much, in return for what they have earned. (82)
-( zt s9u Yt/r& zt
+(
 
-yt tr& Fu
+Fu
 If God brings you back and you meet some of
 
 
 them, and then they ask leave to go forth with
 you, say: Never shall you go forth with me, nor
 shall you fight an enemy with me. You were
-happy to stay behind on the first occasion, so you Yt/r& n?t e|?
+happy to stay behind on the first occasion, so you
 stay now with those who remain behind. (83)
 (
 
 
 You shall not pray for any of them who dies, and
 you shall not stand by his grave. For they have
-y) 4 s9r&u y77 f?
+y) 4
 denied God and His Messenger and died as
-hardened sinners. (84) t,ys?u u9 p5 u5jy r&
+hardened sinners. (84) t,ys?u
 
 
 Let neither their riches nor their children excite
-your admiration. God only wishes to punish them r& Ms9&
+your admiration. God only wishes to punish them
 by means of these in the life of this world, and that
-their souls perish while they are unbelievers. (85) y7txtG yt
+their souls perish while they are unbelievers. (85)
 
 ts
 
 When a sūrah was revealed from on high calling
 on them to believe in God and to strive alongside
 His Messenger, those of them who were well able
-y7u yt r'/
+r'/
 to do so asked you to give them leave and said to
 you: Allow us to stay with those who remain
 behind. (86)
 
 yt
 They are well-pleased to remain with those who
-s9'&u 4 r&u
+
 are left behind. And their hearts are sealed, so
-that they are unable to understand the truth. (87) ts=9 y7s9'&u ( Vuy9 s9
+that they are unable to understand the truth. (87)
 
 
 But the Messenger and those who have believed
-with him strive hard in God's cause with their pJtrB grB m; tr&
+with him strive hard in God's cause with their
 property and their lives. These shall have all the
-y9 x9 y79s 4 tyz yF{
+tyz
 
 
 good things. These shall certainly prosper. (88)
 
 
-ts9 tjy9 u!%y`u
+
 God has prepared for them gardens through
-which running waters flow, where they shall abide. 4 t%! yys%u m;
+which running waters flow, where they shall abide. 4
 That is the supreme triumph. (89)
-t%!
+
 
 
 Some of the Bedouins who had excuses to offer
@@ -5874,15 +5874,15 @@ gs n?t
 
 s) ltym
 
-s9 n?t 4
+4
 No blame shall be attached to the weak, the sick
 or those who do not have the means, if they are
 sincere towards God and His Messenger. There
 is no cause to reproach those who do good. God is
-Much-forgiving, Merciful. (91) n=stG9 x8s?r& s) n?t
+Much-forgiving, Merciful. (91) n?t
 
 
-r& tym s? r&
+
 
 Nor shall those be blamed who, when they came
 to request you for transport and you said: have
@@ -5890,9 +5890,9 @@ no means of transporting you, turned away with
 their eyes overflowing with tears, sad that they did
 not have the means to cover their expenses. (92) n?t y) *
 
-r'/ 4 ttFo
+r'/ 4
 
-yt7su yt
+
 
 
 But blame shall certainly attach only to those who
@@ -5903,27 +5903,27 @@ ask you for exemption even though they are rich.
 They are well pleased to be with those who are left
 behind. God has sealed their hearts, so that they
 have no knowledge. (93)
-4 s9) Fy_u s) tFt
+4 Fy_u
 
-tr'6t s% s9
+
 
 uzyu 4
 They shall come to you with their excuses when
 you return to them. Say: Do not offer any t?
 excuses, for we shall not believe you. God has
-t=ys? F. y/ yy9u
+F. y/
 already enlightened us about you. God will see
 how you act, and so will His Messenger; and in
 the end you shall be brought before Him who
 knows all that is beyond the reach of human
-perception, and all that is manifest when He will s9) F6n=s) s) t=suy
+perception, and all that is manifest when He will
 tell you what you used to do. (94) ( (
 
 y/ L!ty_ yy_ (
 When you return to them they will swear to you
 by God so that you may let them be. Let them be,
 then: they are unclean. Hell shall be their abode
-in recompense for what they used to do. (95) ( t=ts
+in recompense for what they used to do. (95) (
 
 
 They swear to you trying to make you pleased
@@ -7474,79 +7474,79 @@ A Mosque for the
 Hypocrites
 
 
-The desert Arabs are more tenacious in unbelief y_r&u xr&
+The desert Arabs are more tenacious in unbelief
 and hypocrisy, and more likely to be ignorant of
-the ordinances which God has revealed to His ttr& yn r&
+the ordinances which God has revealed to His
 Messenger. But God is All- knowing, Wise.
 (97)
 Ytt Gt zu
 Some desert Arabs regard what they may spend
-[for God's cause] as a loss, and wait for some t!y n=t 4 t!u!
+[for God's cause] as a loss, and wait for some t!y t!u!
 misfortune to befall you. The evil turn of fortune
 
 will be theirs. God hears all and knows all. (98)
 
 
 till other desert Arabs believe in God and the
-Last Day, and regard what they spend [for BMt/% Gtu zF u9u
+Last Day, and regard what they spend [for Gtu
 God's cause] as a means to bring them closer to
-God and of [their being remembered] in the t/% p) Ir& 4 Nun=|u
+God and of [their being remembered] in the
 Messengers prayers. It shall certainly be for them 3 Fuqu 4
 a means of drawing near to God. God will admit
 them to His grace, for God is Much- forgiving,
 Merciful. (99)
-tfy9 t9F{
+
 As for the first to lead the way, of the Muhājirīn
-t7? t%!u
+
 and the Anşār, as well as those who follow them
-in [the way of] righteousness, God is well-pleased m; tr&u
+in [the way of] righteousness, God is well-pleased
 with them, and well-pleased are they with Him.
-He has prepared for them gardens through which tyz yF{ ytFtrB fs?
+He has prepared for them gardens through which tyz
 running waters flow, where they shall abide for
 
 
 ever. That is the supreme triumph. (100) ( t)o
 
-xi9 n?t ( uy9 r&
+(
 Some desert Arabs around you are hypocrites,
-and so are some of the people from Madinah, who s? 4 n=t tw (
+and so are some of the people from Madinah, who s? 4 (
 are indeed persistent in their hypocrisy. You do
 not know them, but We know them. Twice shall
 We punish them, and then they will be given over
 to a grievous suffering. (101)
 Wyt tyzuu
 
-There are others who have acknowledged their z>Gt r& hy tyzuu
+There are others who have acknowledged their tyzuu
 sins, after having mixed righteous deeds with evil
 
 ones. It may well be that God will accept their
 repentance. God is Much- forgiving, Merciful.
 (102)
-ds? Zs%y|
 
-Take a portion of their money as charity, so that y7s?4n=| ( n=t e|u p5 j.t?u
+
+Take a portion of their money as charity, so that
 you may cleanse and purify them thereby; and
 pray for them: for your prayers are a source of
 comfort for them. God hears all and knows all.
-(103) st/G9 t7)t r& s9r&
+(103)
 
-r&u Ms%y9 t7
+
 Do they not know that it is God alone who
 accepts repentance from His servants, and He is
 truly the One who takes charitable offerings, and
 that God is the only One to accept repentance and
-bestow mercy? (104) uz|s
+bestow mercy? (104)
 
-uIyu ( t9u
+
 Say to them: Do as you will. God will see your
-deeds, and so will His Messenger, and the y/ yp9u
+deeds, and so will His Messenger, and the y/
 believers; and in the end you shall be brought
 
 before Him who knows all that is beyond the
 reach of human perception and all that is manifest
 when He will tell you what you used to do. L{ ty_ yzuu
 (105)
-3 n=t
+3
 And yet there are others who must await God's
 
 
@@ -7557,33 +7557,33 @@ Yu Yft
 And there are those who have established a house
 t/ K)s?u
 of worship out of mischievous motives, to promote
-unbelief and disunity among the believers, and to Uu%tn yj9 Y|)u
+unbelief and disunity among the believers, and
 provide an outpost for those who have already
 been warring against God and His Messenger. ( 4
 They will certainly swear: We have only the best
 of intentions. God bears witness that they
 certainly are liars. (107)
-n?t fy9 4 Yt/r&
+n?t
 
-4 t)s? r& Bt r&
+4 t)s? Bt
 Never set a foot there. Only a house of worship
-that from the very first day has been founded on 4 r&
+that from the very first day has been founded on 4
 piety is worthy of you standing to pray there. In it
 
 are men who love to grow in purity, for God loves
 those who purify themselves. (108)
-uu/ ysr&
+uu/
 
-uu/ r& yz Auu
+uu/ Auu
 Who is better: a man who founds his building
 [motivated by a sense of] being God-fearing and ups xx
 seeking His goodly acceptance, or one who founds
-his building on the edge of a crumbling precipice, ts)9 3 tyy_
+his building on the edge of a crumbling precipice, tyy_
 so that it tumbles with him in the fire of hell?
 God does not guide the wrongdoers. (109)
 
-Zt7 u/ tt
-The structure which they have built will continue 3 ys)s? r& H)
+tt
+The structure which they have built will continue 3 ys)s? H)
 to be a source of disquiet in their hearts, until their
 hearts are torn to pieces. God is All-knowing,
 Wise. (110)
@@ -8426,72 +8426,72 @@ path.
 
 God has bought of the believers their lives and *
 their property, promising them heaven in return:
-they fight for the cause of God, kill and be killed. 4 syf9 s9 r'/ m;ur&u
-This is a true promise which He has made t=G)us
+they fight for the cause of God, kill and be killed. 4
+This is a true promise which He has made
 binding on Himself in the Torah, the Gospel and
-the Qur'ān. Who is more true to his promise y)ym n=t (
+the Qur'ān. Who is more true to his promise y)ym
 than God? Rejoice, then, in the bargain you have
-tu 4 u)9u gM}u
+tu 4
 made with Him. That is the supreme triumph.
 (111) 4 y/
 
-x9 4 tt/
+tt/
 
 [It is a triumph for] those who turn to God in
 repentance, who worship and praise Him, who
 contemplate [God and His creation], who bow pt:
 down and prostrate themselves, who enjoin the
-s9
+
 doing of what is right and forbid the doing of what
-is wrong, and keep within the limits set out by y9/ tF f9
+is wrong, and keep within the limits set out
 God. Give you [Prophet] glad tidings to the
-believers. (112) tys9u x69
+believers. (112)
 
 
-It is not for the Prophet and the believers to pray r& c<=9
+It is not for the Prophet and the believers to pray
 for the forgiveness of those who associate partners
-s9u t2=9
+
 with God, even though they may be their close
-relatives, after it has become clear that they are r& m; t7s? t/
+relatives, after it has become clear that they are
 
 
-destined for the blazing fire. (113) zt/) xG tu
+destined for the blazing fire. (113) zt/)
 
-tt7s? n=s
-Abraham prayed for the forgiveness of his father V{ zt/) 4 r&y9s? At r&
+
+Abraham prayed for the forgiveness of his father V{ zt/) 4 At
 only because of a promise he had made to him.
 But when it became clear to him that he was
 God's enemy, he disowned him; Abraham was
-most tender-hearted, most clement. (114) yt/ Js% tu
+most tender-hearted, most clement. (114) yt/
 
-4 s9 it7
+4
 Never will God let people go astray after He has
 given them guidance until He has made plain to
 them all that they should avoid. God has perfect
-knowledge of all things. (115) ( F{u Nuy9 s9
+knowledge of all things. (115) ( F{u
 
 tu 4 Mu
 
 To God belongs the kingdom of the heavens and
 the earth; He alone gives life and causes death.
 Besides God, you have none to protect or support
-c<9 n?t U? s)9
+U?
 you. (116)
-fy9u
 
-God has assuredly turned in His mercy to the t/ t9 ty t7?
+
+God has assuredly turned in His mercy to the t/
 Prophet, the Muhājirīn and the Anşār, who
-followed him in the hour of hardship, when the z>s? y2
+followed him in the hour of hardship, when the
 hearts of a group of them had almost faltered.
 Then again He turned to them in mercy; for He
 is compassionate towards them, Merciful. (117)
-s) Lym sWn=W9 n?tu
+s) Lym
 
-And [so too] to the three who were left behind: Mt6mu y/ F{ n=t Ms%|
+And [so too] to the three who were left behind: F{
 when the earth, vast as it is, seemed to close in
-r& r& n=t Ms%|u
+
 upon them, and their own souls had become too
-constricted, they realized that there was no refuge n=t z>s? s9) H) r'yf=t
+constricted, they realized that there was no refuge H)
 
 from God except by returning to Him. He then
 turned to them in mercy, so that they might
@@ -8503,35 +8503,35 @@ repentance, the merciful. (118) pr't
 
 Believers, have fear of God and be among those
 who are truthful. (119)
-m;ym tu uy9 L{ t%2
+m;ym L{
 
-r& zi
+
 
 It does not behove the people of Madinah and the 4 r'/
 bedouins who live around them to hold back from r'/
 following God's Messenger, or to care for
 themselves more than for him; for, whenever they st
 endure thirst, stress, or hunger for the sake of
-God, or take any step which would irritate the u69 Yt
-un- believers, or inflict any loss on the enemy, a yt s9
+God, or take any step which would irritate the Yt
+un- believers, or inflict any loss on the enemy, a
 good deed is recorded in their favour. God does not
-suffer the reward of those who do good to be lost. t_r& 4 x=|
+suffer the reward of those who do good to be lost.
 (120)
 
 
-Zu72 Zu| Zs)xt
+Zs)xt
 And whenever they spend anything for the sake of
 God, be it little or much, or traverse a valley [in m; s)t
 support of God's cause], it is recorded for them, so
-that God will give them the best reward for what t=yt z|mr& tfu9
+that God will give them the best reward for what
 they do. (121)
 
 
-4 Z!2 t9 tu *
+4 Z!2 *
 It is not desirable that all the believers should go
-out to fight. From every section of them some x!s e. txt n=s
+out to fight. From every section of them some x!s e. txt
 should go forth, so that they may acquire a deeper
-s) ts% e!
+
 knowledge of the faith and warn their people
 when they return to them, so that they may take
 
@@ -8539,50 +8539,50 @@ when they return to them, so that they may take
 heed. (122)
 
 
-t%! pr't
+
 Believers, fight those of the unbelievers who are
 near you, and let them find you tough; and know
 that God is with those who are God-fearing.
-yt r& 4 Zs=
+
 (123)
 
 
-Whenever a sūrah is revealed, some of them say: Ms9& s)
+Whenever a sūrah is revealed, some of them say:
 Which of you has this strengthened in faith? It r's 4 Yy)
 certainly strengthens the believers in their faith,
 and so they rejoice. (124) Yy)
 
 
-But as for those whose hearts are diseased, it only r&u
+But as for those whose hearts are diseased, it only
 adds wickedness to their wickedness, and so they
 die unbelievers. (125) Eyts
 
 
-Do they not see that they are tested once or twice e2 tF r& ttt ur&
+Do they not see that they are tested once or twice
 every year? Yet they do not repent, and they do
-not take warning. (126) s?t r&
+not take warning. (126) s?t
 
 
-Whenever a sūrah is revealed, they look at one t/ ts Ms9& s)u
+Whenever a sūrah is revealed, they look at one t/
 another [as if to say]: Is anyone watching? Then
 Ct/
 they turn away. God has turned their hearts
 away, for they are people devoid of understanding.
 
 
-(127) s% r'/ u5=% u| 4
+(127)
 
 
 Indeed there has come to you a Messenger from
-s)s9
+
 among yourselves: one who grieves much that you
-should suffer; one who is full of concern for you; ym Gt n=t
+should suffer; one who is full of concern for you; ym Gt
 and who is tender and full of compassion towards
 the believers. (128)
 
 
-Should they turn away, then say to them: God ts9)
-is enough for me! There is no deity other than y9 uu ( M=2us? n=t (
+Should they turn away, then say to them: God
+is enough for me! There is no deity other than (
 Him. In Him have I placed my trust. He is the
 Lord of the Mighty Throne. (129)
 
@@ -9581,7 +9581,7 @@ Prophet's permission to let my wife look after me. I said, am not going to
 ask him that. I do not know what his answer would be, considering that I am
 a young man.
 Another ten nights passed, to complete 50 nights since the Prophet instructed
-the Muslims not to talk to us. At dawn after the 50th night I prayed at the top
+the Muslims not to talk to us. At dawn after the I prayed at the top
 of one of our houses. I was still in that condition which I have described: the
 world seemed to me suffocatingly small and I did not recognize myself any
 more. As I sat down after the dawn prayers, however, I heard a voice from
@@ -10421,9 +10421,9 @@ that community and guide it on its way.
 ## References & Sources
 
 ### Layer 1 — Quran Wiki Raw Corpus
-- **Arabic (Uthmani):** `quran-wiki/raw/arabic/009-*.md` (cross-verified ×2 APIs)
-- **Translations (5 editions):** `quran-wiki/raw/translations/surah_009/ayah_*.json` — Sahih International, Pickthall, Yusuf Ali, Muhammad Asad, Basmeih (Malay)
-- **Tafsir (per-ayah):** `quran-wiki/raw/tafsir/009.jsonl` — Ibn Kathir (Abridged) + Tafsir al-Muyassar
+- **Arabic (Uthmani):** (cross-verified APIs)
+- **Translations (5 editions):** Sahih International, Pickthall, Yusuf Ali, Muhammad Asad, Basmeih (Malay)
+- **Tafsir (per-ayah):** Ibn Kathir (Abridged) + Tafsir al-Muyassar
 - **Metadata:** `quran-wiki/raw/metadata/quran-index.json`
 
 ### Layer 2 — Quran Wiki Curated
@@ -10432,8 +10432,8 @@ that community and guide it on its way.
 - **Concept pages:** concepts/qasam, concepts/makki-vs-madani
 
 ### Layer 3 — Fi Zilal Companion Wiki
-- **This page:** `fi-zilal-wiki/surahs/surah-009-at-tawbah.md`
-- **Raw source:** `fi-zilal-wiki/raw/surah-009-at-tawbah.md` (672K chars, extracted from 252-page PDF via pdftotext -layout)
+- **This page:**
+- **Raw source:** extracted from PDF via pdftotext -layout)
 
 ### Secondary Wikis (Consulted)
 - **Qaradawi Library:** `qaradawi-library/concepts/concept-jihad.md` — jihad as self-purification and defense
@@ -10451,6 +10451,6 @@ that community and guide it on its way.
 
 ---
 
-*This is the longest surah ingested into the Fi Zilal wiki (252 pages, 672K chars raw). The curated page preserves all 7 major thematic sections and 80+ sub-sections from Sayyid Qutb's original commentary. Arabic verse text was not extractable from the PDF (embedded font) — for verified Uthmani Arabic, see quran-wiki/raw/arabic/009-*.md.*
+*This is the longest surah ingested into the Fi Zilal wiki (252 pages, raw). The curated page preserves all 7 major thematic sections and 80+ sub-sections from Sayyid Qutb's original commentary. Arabic verse text was not extractable from the PDF (embedded font) — for verified Uthmani Arabic, see
 
-^[raw/surah-009-at-tawbah.md]
+

@@ -1,5 +1,6 @@
 ---
 title: Chapter 2
+tags: ["chapter", "qaradawi", "sunnah", "hadith", "fiqh", "salah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

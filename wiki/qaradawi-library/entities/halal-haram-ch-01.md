@@ -1,5 +1,6 @@
 ---
 title: 'The Lawful and the Prohibited in Islam: Islamic Principles Pertaining to the Lawful and the Prohibited'
+tags: ["chapter", "qaradawi", "haram", "halal", "shariah", "hadith"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

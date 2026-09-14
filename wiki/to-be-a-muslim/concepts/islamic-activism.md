@@ -1,5 +1,6 @@
 ---
 title: Islamic Activism
+tags: ["concept", "fathi-yakan", "islamic-movement", "iman", "jihad", "hadith"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

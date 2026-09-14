@@ -1,5 +1,6 @@
 ---
 title: Prelude
+tags: ["chapter", "qaradawi", "nasr", "sunnah", "iman", "hadith"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

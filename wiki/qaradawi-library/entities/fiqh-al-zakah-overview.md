@@ -1,5 +1,6 @@
 ---
 title: Fiqh al-Zakah (2 Volumes)
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "ijtihad", "sunnah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: book-overview

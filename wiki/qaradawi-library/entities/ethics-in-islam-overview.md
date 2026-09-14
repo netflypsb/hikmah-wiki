@@ -1,5 +1,6 @@
 ---
 title: Ethics in Islam
+tags: ["chapter", "qaradawi", "islamic-ethics", "iman", "tawhid", "sunnah"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: book-overview

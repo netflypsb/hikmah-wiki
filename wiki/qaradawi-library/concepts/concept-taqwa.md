@@ -1,5 +1,6 @@
 ---
 title: Taqwa / God-consciousness (تَقْوَى)
+tags: ["concept", "qaradawi", "taqwa", "islamic-ethics", "sawm", "tazkiyah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

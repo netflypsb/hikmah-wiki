@@ -1,3 +1,11 @@
+---
+title: "The Generation Promised Victory and Empowerment"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "tamkin", "nasr", "sahabah", "ijtihad"]
+type: page
+---
+
 # The Generation Promised Victory and Empowerment
 
 ## Introduction

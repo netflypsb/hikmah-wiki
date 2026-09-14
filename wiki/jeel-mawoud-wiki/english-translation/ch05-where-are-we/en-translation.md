@@ -1,5 +1,6 @@
 ---
 title: "Chapter 5: Where Are We in Relation to the Promised Generation?"
+tags: ["translation", "jeel-mawoud", "sahabah", "nasr", "hadith", "akhirah"]
 book: "Al-Jīl al-Mawʿūd bi-l-Naṣr wa-l-Tamkīn"
 author: "Dr. Majdi al-Hilali"
 chapter: 5

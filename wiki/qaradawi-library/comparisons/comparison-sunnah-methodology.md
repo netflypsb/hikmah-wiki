@@ -1,5 +1,6 @@
 ---
 title: Sunnah Methodology Across Contexts — Fiqh, Ethics, and Education
+tags: ["comparison", "qaradawi", "sunnah", "fiqh", "zakat", "hadith"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: comparison

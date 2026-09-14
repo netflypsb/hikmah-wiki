@@ -1,5 +1,6 @@
 ---
 title: 'Ethics in Islam: Definition, Philosophy, Status, Objectives, and Methods'
+tags: ["chapter", "qaradawi", "islamic-ethics", "iman", "tarbiyyah", "sunnah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

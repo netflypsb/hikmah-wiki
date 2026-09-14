@@ -1,5 +1,6 @@
 ---
 title: Photography
+tags: ["chapter", "qaradawi", "hadith", "ijma", "shariah", "salah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

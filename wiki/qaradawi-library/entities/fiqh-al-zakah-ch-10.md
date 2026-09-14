@@ -1,5 +1,6 @@
 ---
 title: Zakah on Business Inventory (Continued)
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "hadith", "sunnah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

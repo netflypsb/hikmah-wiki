@@ -1,5 +1,6 @@
 ---
 title: Diversion and Arts in Islam
+tags: ["chapter", "qaradawi", "fiqh"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: book-overview

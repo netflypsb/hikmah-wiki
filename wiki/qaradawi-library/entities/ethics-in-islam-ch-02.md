@@ -1,5 +1,6 @@
 ---
 title: Research on Ethics
+tags: ["chapter", "qaradawi", "islamic-ethics", "hadith", "iman", "sunnah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

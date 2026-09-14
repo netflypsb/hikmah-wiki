@@ -1,5 +1,6 @@
 ---
 title: Art / Fann (فَنّ)
+tags: ["concept", "qaradawi", "islamic-ethics", "haram", "halal", "wasatiyyah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

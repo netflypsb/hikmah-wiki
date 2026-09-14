@@ -1,5 +1,6 @@
 ---
 title: Auspices From The Glorious Quran
+tags: ["chapter", "qaradawi", "nasr", "hadith", "iman", "salah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

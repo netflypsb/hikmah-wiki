@@ -1,5 +1,6 @@
 ---
 title: Auspices From The Divine Laws
+tags: ["chapter", "qaradawi", "nasr", "sunnah", "iman", "islamic-ethics"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

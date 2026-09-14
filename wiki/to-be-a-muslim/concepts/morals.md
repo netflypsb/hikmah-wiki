@@ -1,5 +1,6 @@
 ---
 title: Morals
+tags: ["concept", "fathi-yakan", "islamic-ethics", "ukhuwwah", "sabr", "hadith"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

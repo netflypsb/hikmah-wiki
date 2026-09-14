@@ -1,5 +1,6 @@
 ---
 title: Self-Control
+tags: ["concept", "fathi-yakan", "jihad", "aqeedah", "sawm", "hadith"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

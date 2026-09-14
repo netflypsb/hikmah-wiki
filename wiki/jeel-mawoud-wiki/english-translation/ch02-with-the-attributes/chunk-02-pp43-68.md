@@ -1,3 +1,11 @@
+---
+title: "chunk-02-pp43-68"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "salah", "shukr", "sahabah", "sabr"]
+type: page
+---
+
 ## Page 43
 
 And they are the generation in whom Allah's promise of succession (istikhlāf) and enablement (tamkīn) was fulfilled, and one finds that the manifestations of the attribute of sincerity (al-ikhlāṣ) had clearly appeared in them.

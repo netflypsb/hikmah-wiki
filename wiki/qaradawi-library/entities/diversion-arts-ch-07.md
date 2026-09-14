@@ -1,5 +1,6 @@
 ---
 title: Comedy, Humor, Games and Conclusion
+tags: ["chapter", "qaradawi", "sunnah", "hadith", "sawm", "salah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

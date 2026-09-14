@@ -1,3 +1,11 @@
+---
+title: "Chunk 4 — Pages 20–22"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "sawm", "nasr", "sahabah", "hadith"]
+type: page
+---
+
 # Chunk 4 — Pages 20–22
 
 ## Translation of: Chapter One — Why the Promised Generation?

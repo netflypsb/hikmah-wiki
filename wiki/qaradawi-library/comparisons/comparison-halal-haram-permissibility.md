@@ -1,5 +1,6 @@
 ---
 title: "Halal/Haram and Islamic Permissibility Across Qaradawi's Works"
+tags: ["comparison", "qaradawi", "islamic-ethics", "hadith", "fiqh", "haram"]
 type: comparison
 tags:
 - permissibility

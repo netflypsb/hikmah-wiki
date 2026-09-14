@@ -1,5 +1,6 @@
 ---
 title: A Necessary Pause
+tags: ["chapter", "qaradawi", "nasr", "iman", "salah", "ijma"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

@@ -1,13 +1,9 @@
 ---
 title: Zakatable Assets
-  53
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter
-tags:
-- fiqh-muamalat
-- zakat
-- islamic-economics
+tags: [fiqh-muamalat, zakat, islamic-economics, chapter, qaradawi]
 sources:
 - raw/extracted/fiqh-al-zakah/ch-01.txt
 book: fiqh-al-zakah

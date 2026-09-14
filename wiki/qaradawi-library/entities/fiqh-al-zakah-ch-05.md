@@ -1,5 +1,6 @@
 ---
 title: Zakah on Agriculture
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "sunnah", "salah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

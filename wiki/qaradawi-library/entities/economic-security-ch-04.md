@@ -1,5 +1,6 @@
 ---
 title: The Importance of Zakat in the Islamic Economic System
+tags: ["chapter", "qaradawi", "zakat", "salah", "sunnah", "ijma"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: chapter

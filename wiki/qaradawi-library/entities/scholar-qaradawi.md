@@ -1,5 +1,6 @@
 ---
 title: Shaykh Yusuf al-Qaradawi
+tags: ["chapter", "qaradawi", "fiqh", "sunnah", "islamic-ethics", "zakat"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: scholar

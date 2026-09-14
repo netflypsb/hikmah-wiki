@@ -1,5 +1,6 @@
 ---
 title: 'The Lawful and the Prohibited in Islam: The Lawful and Prohibited in Eating, Drinking, and Economic Life'
+tags: ["chapter", "qaradawi", "haram", "halal", "riba", "hadith"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

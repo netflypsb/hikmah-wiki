@@ -1,5 +1,6 @@
 ---
 title: Capitalism, Communism and Islam
+tags: ["chapter", "qaradawi", "zakat", "sadaqah", "fiqh"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: chapter

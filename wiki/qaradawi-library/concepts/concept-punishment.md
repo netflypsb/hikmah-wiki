@@ -1,5 +1,6 @@
 ---
 title: Punishment / Uqubah (عُقُوبَة)
+tags: ["concept", "qaradawi", "islamic-ethics", "zakat", "fiqh", "tazkiyah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

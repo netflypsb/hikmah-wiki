@@ -1,5 +1,6 @@
 ---
 title: Iman and Happiness
+tags: ["chapter", "qaradawi", "iman", "hadith", "tazkiyah", "tarbiyyah"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

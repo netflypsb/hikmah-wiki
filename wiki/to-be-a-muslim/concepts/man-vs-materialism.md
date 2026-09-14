@@ -1,5 +1,6 @@
 ---
 title: Man vs Materialism
+tags: ["concept", "fathi-yakan", "islamic-movement", "aqeedah", "akhirah", "iman"]
 created: 2026-06-08
 updated: 2026-06-08
 type: concept

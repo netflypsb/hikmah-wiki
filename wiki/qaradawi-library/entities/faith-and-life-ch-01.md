@@ -1,5 +1,6 @@
 ---
 title: Iman and the Dignity of Man
+tags: ["chapter", "qaradawi", "iman", "sawm", "salah", "hadith"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

@@ -1,5 +1,6 @@
 ---
 title: Auspices From The Actual Time
+tags: ["chapter", "qaradawi", "nasr", "salah", "iman", "hadith"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

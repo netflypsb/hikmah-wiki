@@ -1,5 +1,6 @@
 ---
 title: Islam and Sense of Reality
+tags: ["chapter", "qaradawi", "sunnah", "salah", "haram", "islamic-ethics"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

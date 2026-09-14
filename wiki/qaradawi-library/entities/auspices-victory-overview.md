@@ -1,5 +1,6 @@
 ---
 title: Auspices of the Ultimate Victory of Islam
+tags: ["chapter", "qaradawi", "nasr", "fiqh", "dawah", "sunnah"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: book-overview

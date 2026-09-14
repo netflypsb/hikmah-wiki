@@ -1,5 +1,6 @@
 ---
 title: Auspices From History
+tags: ["chapter", "qaradawi", "nasr", "salah", "hadith", "aqeedah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

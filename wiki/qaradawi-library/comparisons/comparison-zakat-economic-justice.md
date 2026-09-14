@@ -1,5 +1,6 @@
 ---
 title: "Zakat and Economic Justice Across Qaradawi's Works"
+tags: ["comparison", "qaradawi", "zakat", "fiqh", "sunnah", "tarbiyyah"]
 type: comparison
 tags:
 - zakat

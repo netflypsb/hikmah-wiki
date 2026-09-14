@@ -1,5 +1,6 @@
 ---
 title: Light Shed on Misconceived Hadiths
+tags: ["chapter", "qaradawi", "hadith", "nasr", "iman", "sunnah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

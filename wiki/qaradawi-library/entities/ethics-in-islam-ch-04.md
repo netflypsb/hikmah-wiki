@@ -1,5 +1,6 @@
 ---
 title: Applied Ethics
+tags: ["chapter", "qaradawi", "islamic-ethics", "iman", "hadith", "zakat"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

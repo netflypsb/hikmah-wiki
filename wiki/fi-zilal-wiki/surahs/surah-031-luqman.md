@@ -74,29 +74,29 @@ These four presentations of the same theme, with their different styles, effects
 
 ## A Sage's Admonition
 
-Alif. Lm Mm (1) These are verses of the divine book, full of wisdom, (2) Mtu y7= providing guidance and mercy for those who excel in doing good, (3) ts=j9 Zuquu attend regularly to prayers, give in charity and are indeed certain of the n4x.9 t?u n4n=9 t% hereafter. (4) t% tzF/ Those are the ones who follow their Lord's guidance, and they are the ones y7s9'&u n/ y7s9'& who will be successful. (5) ts=9 Among people there are some who would pay for idle talk, so as to lead people astray from the path of God, without us9 tIt zu knowledge, and thus they turn it to ridicule. For such people there is t/ shameful suffering in store. (6) y7s9'& 4 yxGtu ^[raw/surah-031-luqman.md]
+Alif. Lm Mm (1) These are verses of the divine book, full of wisdom, (2) Mtu providing guidance and mercy for those who excel in doing good, (3) Zuquu attend regularly to prayers, give in charity and are indeed certain of the hereafter. (4) Those are the ones who follow their Lord's guidance, and they are the ones will be successful. (5) Among people there are some who would pay for idle talk, so as to lead people astray from the path of God, without knowledge, and thus they turn it to ridicule. For such people there shameful suffering in store. (6) ^[raw/surah-031-luqman.md]
 
-When Our revelations are conveyed to such a person, he turns away in his arrogance as though he had not heard Z96tG oGtu n=t s)u them, as though there were heaviness in his ears. Give him, then, the news of t& r(x yyo r(x painful suffering (7) ^[raw/surah-031-luqman.md]
+When Our revelations are conveyed to such a person, he turns away in his arrogance as though he had not heard them, as though there were heaviness in his ears. Give him, then, the news yyo r(x painful suffering (7) ^[raw/surah-031-luqman.md]
 
-Those who believe and do righteous deeds A9r& A>xy/ et6s shall have gardens of bliss (8) ^[raw/surah-031-luqman.md]
+Those who believe and do righteous deeds have gardens of bliss (8) ^[raw/surah-031-luqman.md]
 
-in which to abide in accordance with Mys=9 tu God's true promise. He alone is My_ Almighty, Wise. (9) ^[raw/surah-031-luqman.md]
+in which to abide in accordance with God's true promise. He alone is My_ Almighty, Wise. (9) ^[raw/surah-031-luqman.md]
 
-He has created the skies without any y9 uu y)ym yu tyz supports that you can see, and has placed firm mountains on earth, lest it sway with you, and has scattered through it all manner of living creatures. We send ptts t/ Nuy9 t,=n yz down water from the skies to cause every kind of goodly plant to grow on earth in ys r& zuu F{ pairs. (10) y9 u9tr&u ^[raw/surah-031-luqman.md]
+He has created the skies without any y)ym yu tyz supports that you can see, and has placed firm mountains on earth, lest it sway with you, and has scattered through it all manner of living creatures. We send ptts down water from the skies to cause every kind of goodly plant to grow on earth in F{ pairs. (10) ^[raw/surah-031-luqman.md]
 
-This is all God's creation. Show me, then, Ax e2 oGu;/r's what others might have created! Surely, the wrongdoers are in obvious error. (11) t% t,n=y{ st r's xy ^[raw/surah-031-luqman.md]
+This is all God's creation. Show me, then, Ax others might have created! Surely, the wrongdoers are in obvious error. (11) r's xy ^[raw/surah-031-luqman.md]
 
-t=9 t/ 4 We bestowed wisdom on Luqmn Be grateful to God; for he who is grateful is only grateful for his own benefit. As for the one who is ungrateful; well, God is self-sufficient, ever to be praised. (12) 4 r& sy3t zy)9 os?u s)s9u ^[raw/surah-031-luqman.md]
+We bestowed wisdom on Luqmn Be grateful to God; for he who is grateful is only grateful for his own benefit. As for the one who is ungrateful; well, God is self-sufficient, ever to be praised. (12) 4 s)s9u ^[raw/surah-031-luqman.md]
 
-tu u9 y*s tu Luqmn said to his son, admonishing him: My dear son! Do not associate any ym txx partners with God; for, to associate partners with Him is indeed a great wrong (13) o_6t uu y)9 ts% ^[raw/surah-031-luqman.md]
+tu Luqmn said to his son, admonishing him: My dear son! Do not associate any ym txx partners with God; for, to associate partners with Him is indeed a great wrong (13) o_6t uu y)9 ^[raw/surah-031-luqman.md]
 
-x8e9 ( We have enjoined upon man goodness to his parents: his mother bore him going from weakness to weakness, and his weaning takes place within two years. Be grateful to Me and to your parents. With Fn=uxq y9u/ z|M} uuu Me is the end of all journeys. (14) r& t%t ^[raw/surah-031-luqman.md]
+We have enjoined upon man goodness to his parents: his mother bore him going from weakness to weakness, and his weaning takes place within two years. Be grateful to Me and to your parents. With Me is the end of all journeys. (14) ^[raw/surah-031-luqman.md]
 
-Yet should they endeavour to make you y9 n< 7 y y associate as partner with Me something of which you have no knowledge, do not obey them, but [even then] bear them r& n?t yyy_ company in this worlds life with kindness, and follow the path of those y7s9 who turn towards Me. In the end, it is to u9 y6m|u Me that you shall all return, when I shall inform you about all that you were doing n< 4 n< z>tr& [in life]. (15) t=ys y/ My dear son! If there be something which is no more than the weight of a ts)W o_6t grain of mustard seed, and though it be hidden in a rock, or in the skies, or in the r& Nuy9 r& earth, God will bring it forth. God is Gracious, All-Aware. (16) s9 4 p5 N't F{ ^[raw/surah-031-luqman.md]
+Yet should they endeavour to make you y y associate as partner with Me something of which you have no knowledge, do not obey them, but [even then] bear them yyy_ company in this worlds life with kindness, and follow the path of those turn towards Me. In the end, it is Me that you shall all return, when I shall inform you about all that you were doing life]. (15) My dear son! If there be something which is no more than the weight of a ts)W o_6t grain of mustard seed, and though it be hidden in a rock, or in the skies, or in the God will bring it forth. God is Gracious, All-Aware. (16) N't F{ ^[raw/surah-031-luqman.md]
 
-My dear son! Attend regularly to prayer, and enjoin the doing of what is right and forbid the doing of what is wrong, and tu y9/ n4n=9 o_6t endure with fortitude whatever befalls you. These are matters that require y7t/|r& s39 strong resolve. (17) W{ y79s ^[raw/surah-031-luqman.md]
+My dear son! Attend regularly to prayer, and enjoin the doing of what is right and forbid the doing of what is wrong, and endure with fortitude whatever befalls you. These are matters that require strong resolve. (17) W{ ^[raw/surah-031-luqman.md]
 
-Do not turn your cheek away from people in false pride, nor walk haughtily on s{ i| earth. God does not love anyone who is arrogant, boastful. (18) ( mtt F{ ^[raw/surah-031-luqman.md]
+Do not turn your cheek away from people in false pride, nor walk haughtily on God does not love anyone who is arrogant, boastful. (18) ( mtt F{ ^[raw/surah-031-luqman.md]
 
 Be of modest bearing in your walk, and lower your voice; for the most hideous of voices is the braying of the ass (19) ^[raw/surah-031-luqman.md]
 
@@ -199,37 +199,37 @@ rather it moves towards its goal easily. Luqmns admonition also urges his son to
 
 ## God's Absolute Knowledge
 
-Are you not aware that God has made subservient to you all that is in the ty r& ts s9r& heavens and the earth, and has lavished upon you His blessings, outward and xt7r&u F{ tu Nuy9 inward? Yet some people argue about God without having any knowledge, zu Zut/u Zts yy without guidance, and without any light- giving revelations. (20) t/ pg ^[raw/surah-031-luqman.md]
+Are you not aware that God has made subservient to you all that is in the heavens and the earth, and has lavished upon you His blessings, outward and F{ inward? Yet some people argue about God without having any knowledge, Zts yy without guidance, and without any light- giving revelations. (20) ^[raw/surah-031-luqman.md]
 
-When it is said to them, Follow what ttr& s9 s)u God has revealed they say, No but we will follow only what we found our forefathers believing in Why, even if s9ur& 4 tu!t/u n=t ty`u t/ Satan is beckoning them to the suffering of the blazing fire. (21) s9 t%2 ^[raw/surah-031-luqman.md]
+When it is said to them, Follow what God has revealed they say, No but we will follow only what we found our forefathers believing in Why, even Satan is beckoning them to the suffering of the blazing fire. (21) ^[raw/surah-031-luqman.md]
 
-Whoever submits himself to God and uu n< y_u tu * excels in good deeds has indeed taken hold of a most firm support. With God n<)u u9/ y7|tG s)s rests the final outcome of all events. (22) W{ t7)t ^[raw/surah-031-luqman.md]
+Whoever submits himself to God and tu * excels in good deeds has indeed taken hold of a most firm support. With God rests the final outcome of all events. (22) W{ ^[raw/surah-031-luqman.md]
 
-And whoever disbelieves; let not their unbelief grieve you. To Us they must all us9 4 ts txx tu return, and then We shall inform them about all that they were doing [in life]. 4 y/ m7ts God has full knowledge of what is in peoples hearts. (23) Nx/ ^[raw/surah-031-luqman.md]
+And whoever disbelieves; let not their unbelief grieve you. To Us they must all ts txx tu return, and then We shall inform them about all that they were doing [in life]. 4 God has full knowledge of what is in peoples hearts. (23) ^[raw/surah-031-luqman.md]
 
-We will let them enjoy themselves for a st W=s% nFy short while, but We shall ultimately drive them into severe suffering. (24) ^[raw/surah-031-luqman.md]
+We will let them enjoy themselves for a while, but We shall ultimately drive them into severe suffering. (24) ^[raw/surah-031-luqman.md]
 
-If you were to ask them: Who is it that Nuy9 t,n=y{ tF9r'y s9u has created the heavens and the earth they will be sure to answer: God Say: t/ 4 pt uF{u All praise is due to God alone Yet most of them do not understand. (25) tn=t sY2r& ^[raw/surah-031-luqman.md]
+If you were to ask them: Who is it that created the heavens and the earth they will be sure to answer: God Say: pt uF{u All praise is due to God alone Yet most of them do not understand. (25) ^[raw/surah-031-luqman.md]
 
-To God belongs all that is in the heavens F{u Nuy9 and the earth. Indeed, God is the One who is self- sufficient, worthy of all pt praise. (26) ^[raw/surah-031-luqman.md]
+To God belongs all that is in the heavens F{u the earth. Indeed, God is the One who is self- sufficient, worthy of all pt praise. (26) ^[raw/surah-031-luqman.md]
 
-n=%r& F{ yr& s9u Were all the trees on earth to be made into pens, and the sea ink, with seven y7y t/ st79u more seas yet added to it, the words of God would not be exhausted. God is My=x Nyt indeed Almighty, Wise. (27) ^[raw/surah-031-luqman.md]
+F{ Were all the trees on earth to be made into pens, and the sea ink, with seven seas yet added to it, the words of God would not be exhausted. God Nyt indeed Almighty, Wise. (27) ^[raw/surah-031-luqman.md]
 
-The creation of you all and your resurrection is but like [the creation and resurrection of] a single soul. God hears all and sees all. (28) t/ 3 ^[raw/surah-031-luqman.md]
+The creation of you all and your resurrection is but like [the creation and resurrection of] a single soul. God hears all and sees all. (28) ^[raw/surah-031-luqman.md]
 
-Do you not see that God causes the night to pass into the day, and the day to pass y9 k9 r& ts s9r& into the night, and that He has made the sun and the moon subservient [to His tyu uy9 k9u laws], each running its course for a set term, and that God is fully aware of all w| n< gs tys)9u that you do? (29) t=ys y/ r&u ^[raw/surah-031-luqman.md]
+Do you not see that God causes the night to pass into the day, and the day to pass the night, and that He has made the sun and the moon subservient [to His tyu each running its course for a set term, and that God is fully aware of all you do? (29) ^[raw/surah-031-luqman.md]
 
-Thus it is, because God alone is the Ultimate Truth, and all that people tt r&u ys9 r'/ y79s invoke beside Him is sheer falsehood, and because God alone is Most High, Great. y9 r&u t79 (30) ^[raw/surah-031-luqman.md]
+Thus it is, because God alone is the Ultimate Truth, and all that people invoke beside Him is sheer falsehood, and because God alone is Most High, Great. ^[raw/surah-031-luqman.md]
 
-Do you not see that the ships sail the sea by God's blessing, so that He might show st79 grB y7=9 r& s? s9r& you some of His signs? In this there are clear signs indeed for all who are truly Gtu My/ patient in adversity and deeply grateful to God. (31) e3j9 MtU y79s ^[raw/surah-031-luqman.md]
+Do you not see that the ships sail the sea by God's blessing, so that He might show some of His signs? In this there are clear signs indeed for all who are truly Gtu patient in adversity and deeply grateful to God. (31) ^[raw/surah-031-luqman.md]
 
-When the waves engulf them like ty n=9x l ux s)u shadows, they call to God, sincere in their faith in Him alone; but as soon as He has brought them safe to land, some hy99 n< n=s te t= of them are restrained in their attitude. Yet none could knowingly reject Our uFtt/ ysgs tu tF revelations except those who are utterly perfidious or hardened unbelievers. (32) ^[raw/surah-031-luqman.md]
+When the waves engulf them like ux s)u shadows, they call to God, sincere in their faith in Him alone; but as soon as He has brought them safe to land, some them are restrained in their attitude. Yet none could knowingly reject Our revelations except those who are utterly perfidious or hardened unbelievers. (32) ^[raw/surah-031-luqman.md]
 
-Mankind! Fear your Lord and fear a day when no parent will be of any avail to his Yt tzu pr't child, nor any child will in the least avail his parents! God's promise is most s9u gs certainly true. Let not, then, the life of this world delude you, and let not yu A%y` deceptive thoughts about God delude you. (33) u9 ( A,ym ^[raw/surah-031-luqman.md]
+Mankind! Fear your Lord and fear a day when no parent will be of any avail to his Yt tzu pr't child, nor any child will in the least avail his parents! God's promise is most certainly true. Let not, then, the life of this world delude you, and let not deceptive thoughts about God delude you. (33) A,ym ^[raw/surah-031-luqman.md]
 
-t9 ^[raw/surah-031-luqman.md]
+^[raw/surah-031-luqman.md]
 
-Indeed with God alone rests the t9 knowledge of when the Last Hour will come; and He it is who sends down rain; tu n=tu y]t9 and He knows what the wombs contain; whereas no one knows what they will tu Yx earn tomorrow, and no one knows in what land they will die. God alone is omniscient and takes cognisance of all 4 Ns dr'/ things. (34) ^[raw/surah-031-luqman.md]
+Indeed with God alone rests the knowledge of when the Last Hour will come; and He it is who sends down rain; and He knows what the wombs contain; whereas no one knows what they will tu Yx earn tomorrow, and no one knows in what land they will die. God alone is omniscient and takes cognisance of all 4 Ns things. (34) ^[raw/surah-031-luqman.md]
 
 
 ---

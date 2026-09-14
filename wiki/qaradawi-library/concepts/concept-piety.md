@@ -1,5 +1,6 @@
 ---
 title: Piety (بِرّ) → Taqwa
+tags: ["concept", "qaradawi", "taqwa", "islamic-ethics", "nasr", "tazkiyah"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: concept

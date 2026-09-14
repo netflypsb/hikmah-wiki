@@ -1,3 +1,11 @@
+---
+title: "Chapter 3: How Are the Attributes of the Promised Generation Achieved?"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "tamkin", "nasr", "taqwa", "iman"]
+type: page
+---
+
 # Chapter 3: How Are the Attributes of the Promised Generation Achieved?
 
 **Source:** *al-Jeel al-Maw'ud bi al-Nasr wa al-Tamkeen* by Dr. Majdi al-Hilali

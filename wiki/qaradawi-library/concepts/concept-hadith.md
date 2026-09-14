@@ -1,5 +1,6 @@
 ---
 title: Hadith (حَدِيث)
+tags: ["concept", "qaradawi", "sunnah", "hadith", "fiqh", "zakat"]
 created: '2026-05-16'
 updated: '2026-06-09'
 type: concept

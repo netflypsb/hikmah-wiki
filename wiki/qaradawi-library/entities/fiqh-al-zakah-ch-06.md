@@ -1,5 +1,6 @@
 ---
 title: Zakah on Honey and Animal Products
+tags: ["chapter", "qaradawi", "zakat", "fiqh", "hadith"]
 created: '2026-05-16'
 updated: '2026-05-16'
 type: chapter

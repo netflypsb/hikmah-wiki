@@ -1,5 +1,6 @@
 ---
 title: Painting, Picture-Making and Decoration
+tags: ["chapter", "qaradawi", "hadith", "salah", "sunnah", "iman"]
 created: '2026-06-09'
 updated: '2026-06-09'
 type: chapter

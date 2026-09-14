@@ -1,3 +1,11 @@
+---
+title: "English Translation — Chapter 1: Why the Promised Generation?"
+created: 2026-09-14
+updated: 2026-09-14
+tags: ["translation", "jeel-mawoud", "nasr", "iman", "hadith", "sabr"]
+type: page
+---
+
 # English Translation — Chapter 1: Why the Promised Generation?
 
 **Source:** الجيل الموعود بالنصر والتمكين by Dr. Majdi al-Hilali
