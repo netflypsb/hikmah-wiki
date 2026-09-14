@@ -1,0 +1,1710 @@
+---
+title: Tafsir Ibn Kathir — Surah Abasa (80) Part 1
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 80
+surah_name: Abasa
+ayah_range: [1, 20]
+part: 1
+total_parts: 3
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-080, makki]
+sources: [raw/tafsir/080.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah Abasa (80), Ayat 1-20
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 80, Ayat 1–20 (part 1 of 3)
+
+
+## Ayah 1
+
+
+> عَبَسَ وَتَوَلَّىٰٓ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> ظهر التغير والعبوس في وجه الرسول صلى الله عليه وسلم، وأعرض لأجل أن الأعمى عبد الله بن أم مكتوم جاءه مسترشدا، وكان الرسول صلى الله عليه وسلم منشغلا بدعوة كبار قريش إلى الإسلام.
+
+## Ayah 2
+
+
+> أَن جَآءَهُ ٱلْأَعْمَىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> ظهر التغير والعبوس في وجه الرسول صلى الله عليه وسلم، وأعرض لأجل أن الأعمى عبد الله بن أم مكتوم جاءه مسترشدا، وكان الرسول صلى الله عليه وسلم منشغلا بدعوة كبار قريش إلى الإسلام.
+
+## Ayah 3
+
+
+> وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأيُّ شيء يجعلك عالمًا بحقيقة أمره؟ لعله بسؤاله تزكو نفسه وتطهر، أو يحصل له المزيد من الاعتبار والازدجار.
+
+## Ayah 4
+
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأيُّ شيء يجعلك عالمًا بحقيقة أمره؟ لعله بسؤاله تزكو نفسه وتطهر، أو يحصل له المزيد من الاعتبار والازدجار.
+
+## Ayah 5
+
+
+> أَمَّا مَنِ ٱسْتَغْنَىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> أما مَن استغنى عن هديك، فأنت تتعرض له وتصغي لكلامه، وأي شيء عليك ألا يتطهر من كفره؟
+
+## Ayah 6
+
+
+> فَأَنتَ لَهُۥ تَصَدَّىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> أما مَن استغنى عن هديك، فأنت تتعرض له وتصغي لكلامه، وأي شيء عليك ألا يتطهر من كفره؟
+
+## Ayah 7
+
+
+> وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> أما مَن استغنى عن هديك، فأنت تتعرض له وتصغي لكلامه، وأي شيء عليك ألا يتطهر من كفره؟
+
+## Ayah 8
+
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت -أيها الرسول-، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 9
+
+
+> وَهُوَ يَخْشَىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 10
+
+
+> فَأَنتَ عَنْهُ تَلَهَّىٰ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 11
+
+
+> كَلَّآ إِنَّهَا تَذْكِرَةٌ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 12
+
+
+> فَمَن شَآءَ ذَكَرَهُۥ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 13
+
+
+> فِى صُحُفٍ مُّكَرَّمَةٍ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 14
+
+
+> مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 15
+
+
+> بِأَيْدِى سَفَرَةٍ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 16
+
+
+> كِرَامٍۭ بَرَرَةٍ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Prophet being reprimanded because He frowned at a Weak Man
+
+More than one of the scholars of Tafsir mentioned that one day the Messenger of Allah ﷺ was addressing one of the great leaders of the Quraysh while hoping that he would accept Islam. While he was speaking in direct conversation with him, Ibn Umm Maktum came to him, and he was of those who had accepted Islam in its earliest days. He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. The Prophet hoped that the man would be guided, so he asked Ibn Umm Maktum to wait for a moment so he could complete his conversation. He frowned in the face of Ibn Umm Maktum and turned away from him in order to face the other man. Thus, Allah revealed,
+
+> عَبَسَ وَتَوَلَّى - أَن جَآءَهُ الاٌّعْمَى - وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+(He frowned and turned away. Because there came to him the blind man. And how can you know that he might become pure) meaning, he may attain purification and cleanliness in his soul.
+
+> أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَى
+
+(Or he might receive admonition, and the admonition might profit him) meaning, he may receive admonition and abstain from the forbidden.
+
+> أَمَّا مَنِ اسْتَغْنَى - فَأَنتَ لَهُ تَصَدَّى
+
+(As for him who thinks himself self-sufficient. To him you attend;) meaning, `you face the rich person so that perhaps he may be guided.'
+
+> وَمَا عَلَيْكَ أَلاَّ يَزَّكَّى
+
+(What does it matter to you if he will not become pure) meaning, `you are not responsible for him if he does not attain purification.'
+
+> وَأَمَّا مَن جَآءَكَ يَسْعَى - وَهُوَ يَخْشَى
+
+(But as for him who came to you running. And is afraid.) meaning, `he is seeking you and he comes to you so that he may be guided by what you say to him.'
+
+> فَأَنتَ عَنْهُ تَلَهَّى
+
+(Of him you are neglectful and divert your attention to another.) meaning, `you are too busy.' Here Allah commands His Messenger to not single anyone out with the warning. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old. Then Allah will guide whomever He chooses to a path that is straight. He has the profound wisdom and the decisive proof. Abu Ya`la and Ibn Jarir both recorded from `A'ishah that she said about,
+
+> عَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) was revealed." At-Tirmirdhi recorded this Hadith but he did not mention that it was narrated by `A'ishah. I say it is reported like this in Al-Muwatta' as well.
+
+### The Characteristics of the Qur'an
+
+Allah says,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) meaning, this Surah, or this advice in conveying knowledge equally among people, whether they are of noble or low class. Qatadah and As-Suddi both said,
+
+> كَلاَّ إِنَّهَا تَذْكِرَةٌ
+
+(Nay; indeed it is an admonition.) "This means the Qur'an."
+
+> فَمَن شَآءَ ذَكَرَهُ
+
+(So, whoever wills, let him pay attention to Him (it).) meaning, so whoever wills, he remembers Allah in all of his affairs. The pronoun could also be understood to be referring to the revelation since the conversation is alluding to it. Allah said:
+
+> فَى صُحُفٍ مُّكَرَّمَةٍ - مَّرْفُوعَةٍ مُّطَهَّرَةٍ
+
+(In Records held in honor, exalted, purified.) meaning, this Surah or this admonition. Both meanings are connected to each other. Actually, all of the Qur'an is in honored pages, meaning respected and revered.
+
+> مَّرْفُوعَةٍ
+
+(exalted) meaning, elevated in status.
+
+> مُّطَهَّرَةٍ
+
+(purified) meaning, from impurity, additions and deficiency. Concerning Allah's statement,
+
+> بِأَيْدِى سَفَرَةٍ
+
+(In the hands of ambassadors (Safarah),) Ibn `Abbas, Mujahid, Ad-Dahhak, and Ibn Zayd, all said, "These are the angels." Al-Bukhari said, "Safarah (ambassadors) refers to the angels. They travel around rectifying matters between themselves. The angels when they descend with the revelation of Allah, bringing it like the ambassador who rectifies matters between people." Allah said,
+
+> كِرَامٍ بَرَرَةٍ
+
+(Honorable and obedient.) meaning, they are noble, handsome, and honorable in their creation. Their character and their deeds are righteous, pure and perfect. Here it should be noted that it is necessary for one who carries the Qur'an (i.e., the angel) to be following righteousness and guidance. Imam Ahmad recorded from `A'ishah that the Messenger of Allah ﷺ said,
+
+> «الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ، مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَؤُهُ وَهُوَ عَلَيْهِ شَاقٌّ، لَهُ أَجْرَان»
+
+(He who recites the Qur'an proficiently, will be with the noble, righteous, ambassador angels, and the one who recites it with difficulty will receive two rewards.) This Hadith was reported by the group.
+
+**Tafsir Muyassar (المیسر):**
+
+> وأمَّا من كان حريصا على لقائك، وهو يخشى الله من التقصير في الاسترشاد، فأنت عنه تتشاغل. ليس الأمر كما فعلت أيها الرسول، إن هذه السورة موعظة لك ولكل من شاء الاتعاظ. فمن شاء ذكر الله وَأْتَمَّ بوحيه. هذا الوحي، وهو القرآن في صحف معظمة، موقرة، عالية القدر مطهرة من الدنس والزيادة والنقص، بأيدي ملائكة كتبة، سفراء بين الله وخلقه، كرام الخلق، أخلاقهم وأفعالهم بارة طاهرة.
+
+## Ayah 17
+
+
+> قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ
+
+### The Refutation against Whoever denies Life after Death
+
+Allah rebukes those who deny the Resurrection and the Final Gathering.قُتِلَ الإِنسَـنُ مَآ أَكْفَرَهُ
+
+(Qutila mankind!) Ad-Dahhak reported from Ibn `Abbas that he said,قُتِلَ الإِنسَـنُ
+
+(Qutila mankind!) "May man be cursed." Abu Malik also made a similar statement. He said, "This refers to the rejecting type of man, due to his abundant denial without any supporting argument. Rather he denies simply because he thinks it is farfetched and because he lacks knowledge of it." Ibn Jurayj said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is worse in disbelief than he is." Qatadah said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is more cursed than he is." Then Allah explains how He created him from something despised and that He is able to bring him back to life just as He created him initially. Allah says,مِنْ أَىِّ شَىْءٍ خَلَقَهُ - مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+(From what thing did He create him From a Nutfah He created him, and then set him in due proportion.) meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+(Then He made the path easy for him.) Al-`Awfi reported from Ibn `Abbas, "Then He made his coming out of his mother's belly easy for him." This was also said by `Ikrimah, Ad-Dahhak, Abu Salih, Qatadah, As-Suddi, and it was the explanation preferred by Ibn Jarir. Mujahid said, "This is similar to Allah's statement,إِنَّا هَدَيْنَـهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً
+
+(Verily, We guided him on the path, he is either grateful or ungrateful.) (76:3) meaning, We explained it to him, clarified it, and made it easy for him to act upon." Al-Hasan and Ibn Zayd both said the same. This is the most correct view and Allah knows best. Concerning Allah's statement,ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+(Then He causes him to die and puts him in his grave.) After creating man, Allah causes him to die and makes him the inhabitant of a grave. Allah said;ثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) meaning, He resurrects him after his death and this is called Al-Ba`th (resurrection) and An-Nushur (resuscitation).وَمِنْ ءَايَـتِهِ أَنْ خَلَقَكُمْ مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُمْ بَشَرٌ تَنتَشِرُونَ
+
+(And among His signs is this that He created you from dust, and then behold, you are human beings scattered.) (30:20)وَانظُرْ إِلَى العِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا
+
+(And look at the bones, how We bring them together and clothe them with flesh.) (2:259) In the Two Sahihs it is narrated by way of Al-A`mash from Abu Salih, from Abu Hurayrah that the Prophet said,«كُلُّ ابْنِ آدَمَ يَبْلَى إِلَّا عَجْبَ الذَّنَبِ، مِنْهُ خُلِقَ، وَفِيهِ يُرَكَّب»
+
+(All of the Sons of Adam (men) will decay except for the bone of coccyx (tailbone). From it he (man) was created and by it he will be reconstructed.)" Concerning Allah's statement,كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay, but has not done what He commanded him.) Ibn Jarir said, "Allah is saying, `Nay, the matter is not as this disbelieving man says. He claims that he has fulfilled Allah's right upon him regarding himself and his wealth.لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(But he has not done what He commanded him.) Allah is saying that man has not fulfilled for his Lord the obligations that were imposed upon him." What seems apparent to me of its actual meaning -- and Allah knows best -- is that the Ayahثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) means, He will resurrect him.كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay! But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+### The Growth of the Seed and Other Things is a Proof of Life after Death
+فَلْيَنظُرِ الإِنسَـنُ إِلَى طَعَامِهِ
+
+(Then let man look at his food) This is a call to reflect upon Allah's favor. It also contains an evidence in the vegetation's coming to life from the lifeless earth, that the bodies can be brought to life after being decayed bones and scattered dust.أَنَّا صَبَبْنَا الْمَآءَ صَبّاً
+
+(We pour forth water in abundance.) meaning, `We sent it down from the sky to the earth.'ثُمَّ شَقَقْنَا الاٌّرْضَ شَقّاً
+
+(And We split the earth in clefts.) meaning, `We cause it (the water) to settle in it (the earth), and it enters into its boundaries, and mingles with the parts of the seeds that are left in the earth. From this the seeds grow, rise up and appear on the surface of the earth (in the form of vegetation).'فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً
+
+(And We cause therein Habb to grow. And grapes and Qadb,) Al-Habb refers to all types of seeds (or grains). Grapes are well-known. Al-Qadb are the moist (green) herbal plants that animals graze on. It is also called Al-Qat. Ibn `Abbas, Qatadah, Ad-Dahhak and As-Suddi, all said this. Al-Hasan Al-Basri said, "Al-Qadb is fodder."وَزَيْتُوناً
+
+(And olives) It is well-known, and it is a food just as its juice is a food. It is eaten for breakfast and used as an oil.وَنَخْلاً
+
+(And date palms,) It (i.e., its fruit) is eaten as Balah, Busr, Rutab and Tamr, Niya' and Matbukh, all of which are varieties of dates that range from unripe, ripe and dried in their textures. Its juice is also extracted to make pulpy fruit drinks and vinegar.وَحَدَآئِقَ غُلْباً
+
+(And Ghulb Hada'iq,) meaning, gardens. Al-Hasan and Qatadah both said, "Ghulb are gardens of date palms that are thick and handsome." Ibn `Abbas and Mujahid both said, "It means everything that is gathered and collected." Allah said,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) Fakihah includes every type of fruit. Ibn `Abbas said, "Al-Fakihah is everything that is eaten ripe, and Al-Abb is what the earth grows that is eaten by grazing animals and not people." In one narration reported from him he said, "It is the grass for the livestock animals." Abu `Ubayd Al-Qasim bin Sallam reported from Ibrahim At-Taymi that he said, "Abu Bakr As-Siddiq was asked about Allah's statement,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) and he said, `What sky would shade me and what earth would carry me if I said about the Book of Allah that which I did not have knowledge of.' " hIn reference to what Ibn Jarir recorded from Anas, that he said, "Umar bin Al-Khattab recitedعَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) then when he reached this Ayahوَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) he said, `We already know what Al-Fakihah is, but what is Al-Abb' Then he said, `By your life, O Ibn Al-Khattab, this is something over burdensome (i.e., unnecessary to ask about)."' This report has an authentic chain of narration. More than one person has narrated it from Anas. The meaning of the narration is that `Umar wanted to know how it looks, its type and its exact description, because he (`Umar) and everyone who reads this Ayah knows that it is one of the plants that grows from the earth. This is clear due to the Allah's saying,فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً - وَزَيْتُوناً وَنَخْلاً - وَحَدَآئِقَ غُلْباً - وَفَـكِهَةً وَأَبّاً
+
+(And We cause therein the Habb to grow. And grapes and Qadb, and olives and date palms. And Ghulb Hada'iq. And fruits (Fakihah) and herbage (Abb).) And then He says,مَتَـعاً لَّكُمْ وَلاًّنْعَـمِكُمْ
+
+(A provision and benefit for you and your cattle.) meaning, a means of livelihood for you all and your cattle in this life until the (coming of) the Day of Judgement.
+
+**Tafsir Muyassar (المیسر):**
+
+> لُعِنَ الإنسان الكافر وعُذِّب، ما أشدَّ كفره بربه!! ألم ير مِن أيِّ شيء خلقه الله أول مرة؟ خلقه الله من ماء قليل -وهو المَنِيُّ- فقدَّره أطوارا، ثم بين له طريق الخير والشر، ثم أماته فجعل له مكانًا يُقبر فيه، ثم إذا شاء سبحانه أحياه، وبعثه بعد موته للحساب والجزاء. ليس الأمر كما يقول الكافر ويفعل، فلم يُؤَدِّ ما أمره الله به من الإيمان والعمل بطاعته.
+
+## Ayah 18
+
+
+> مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ
+
+### The Refutation against Whoever denies Life after Death
+
+Allah rebukes those who deny the Resurrection and the Final Gathering.قُتِلَ الإِنسَـنُ مَآ أَكْفَرَهُ
+
+(Qutila mankind!) Ad-Dahhak reported from Ibn `Abbas that he said,قُتِلَ الإِنسَـنُ
+
+(Qutila mankind!) "May man be cursed." Abu Malik also made a similar statement. He said, "This refers to the rejecting type of man, due to his abundant denial without any supporting argument. Rather he denies simply because he thinks it is farfetched and because he lacks knowledge of it." Ibn Jurayj said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is worse in disbelief than he is." Qatadah said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is more cursed than he is." Then Allah explains how He created him from something despised and that He is able to bring him back to life just as He created him initially. Allah says,مِنْ أَىِّ شَىْءٍ خَلَقَهُ - مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+(From what thing did He create him From a Nutfah He created him, and then set him in due proportion.) meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+(Then He made the path easy for him.) Al-`Awfi reported from Ibn `Abbas, "Then He made his coming out of his mother's belly easy for him." This was also said by `Ikrimah, Ad-Dahhak, Abu Salih, Qatadah, As-Suddi, and it was the explanation preferred by Ibn Jarir. Mujahid said, "This is similar to Allah's statement,إِنَّا هَدَيْنَـهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً
+
+(Verily, We guided him on the path, he is either grateful or ungrateful.) (76:3) meaning, We explained it to him, clarified it, and made it easy for him to act upon." Al-Hasan and Ibn Zayd both said the same. This is the most correct view and Allah knows best. Concerning Allah's statement,ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+(Then He causes him to die and puts him in his grave.) After creating man, Allah causes him to die and makes him the inhabitant of a grave. Allah said;ثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) meaning, He resurrects him after his death and this is called Al-Ba`th (resurrection) and An-Nushur (resuscitation).وَمِنْ ءَايَـتِهِ أَنْ خَلَقَكُمْ مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُمْ بَشَرٌ تَنتَشِرُونَ
+
+(And among His signs is this that He created you from dust, and then behold, you are human beings scattered.) (30:20)وَانظُرْ إِلَى العِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا
+
+(And look at the bones, how We bring them together and clothe them with flesh.) (2:259) In the Two Sahihs it is narrated by way of Al-A`mash from Abu Salih, from Abu Hurayrah that the Prophet said,«كُلُّ ابْنِ آدَمَ يَبْلَى إِلَّا عَجْبَ الذَّنَبِ، مِنْهُ خُلِقَ، وَفِيهِ يُرَكَّب»
+
+(All of the Sons of Adam (men) will decay except for the bone of coccyx (tailbone). From it he (man) was created and by it he will be reconstructed.)" Concerning Allah's statement,كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay, but has not done what He commanded him.) Ibn Jarir said, "Allah is saying, `Nay, the matter is not as this disbelieving man says. He claims that he has fulfilled Allah's right upon him regarding himself and his wealth.لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(But he has not done what He commanded him.) Allah is saying that man has not fulfilled for his Lord the obligations that were imposed upon him." What seems apparent to me of its actual meaning -- and Allah knows best -- is that the Ayahثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) means, He will resurrect him.كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay! But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+### The Growth of the Seed and Other Things is a Proof of Life after Death
+فَلْيَنظُرِ الإِنسَـنُ إِلَى طَعَامِهِ
+
+(Then let man look at his food) This is a call to reflect upon Allah's favor. It also contains an evidence in the vegetation's coming to life from the lifeless earth, that the bodies can be brought to life after being decayed bones and scattered dust.أَنَّا صَبَبْنَا الْمَآءَ صَبّاً
+
+(We pour forth water in abundance.) meaning, `We sent it down from the sky to the earth.'ثُمَّ شَقَقْنَا الاٌّرْضَ شَقّاً
+
+(And We split the earth in clefts.) meaning, `We cause it (the water) to settle in it (the earth), and it enters into its boundaries, and mingles with the parts of the seeds that are left in the earth. From this the seeds grow, rise up and appear on the surface of the earth (in the form of vegetation).'فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً
+
+(And We cause therein Habb to grow. And grapes and Qadb,) Al-Habb refers to all types of seeds (or grains). Grapes are well-known. Al-Qadb are the moist (green) herbal plants that animals graze on. It is also called Al-Qat. Ibn `Abbas, Qatadah, Ad-Dahhak and As-Suddi, all said this. Al-Hasan Al-Basri said, "Al-Qadb is fodder."وَزَيْتُوناً
+
+(And olives) It is well-known, and it is a food just as its juice is a food. It is eaten for breakfast and used as an oil.وَنَخْلاً
+
+(And date palms,) It (i.e., its fruit) is eaten as Balah, Busr, Rutab and Tamr, Niya' and Matbukh, all of which are varieties of dates that range from unripe, ripe and dried in their textures. Its juice is also extracted to make pulpy fruit drinks and vinegar.وَحَدَآئِقَ غُلْباً
+
+(And Ghulb Hada'iq,) meaning, gardens. Al-Hasan and Qatadah both said, "Ghulb are gardens of date palms that are thick and handsome." Ibn `Abbas and Mujahid both said, "It means everything that is gathered and collected." Allah said,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) Fakihah includes every type of fruit. Ibn `Abbas said, "Al-Fakihah is everything that is eaten ripe, and Al-Abb is what the earth grows that is eaten by grazing animals and not people." In one narration reported from him he said, "It is the grass for the livestock animals." Abu `Ubayd Al-Qasim bin Sallam reported from Ibrahim At-Taymi that he said, "Abu Bakr As-Siddiq was asked about Allah's statement,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) and he said, `What sky would shade me and what earth would carry me if I said about the Book of Allah that which I did not have knowledge of.' " hIn reference to what Ibn Jarir recorded from Anas, that he said, "Umar bin Al-Khattab recitedعَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) then when he reached this Ayahوَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) he said, `We already know what Al-Fakihah is, but what is Al-Abb' Then he said, `By your life, O Ibn Al-Khattab, this is something over burdensome (i.e., unnecessary to ask about)."' This report has an authentic chain of narration. More than one person has narrated it from Anas. The meaning of the narration is that `Umar wanted to know how it looks, its type and its exact description, because he (`Umar) and everyone who reads this Ayah knows that it is one of the plants that grows from the earth. This is clear due to the Allah's saying,فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً - وَزَيْتُوناً وَنَخْلاً - وَحَدَآئِقَ غُلْباً - وَفَـكِهَةً وَأَبّاً
+
+(And We cause therein the Habb to grow. And grapes and Qadb, and olives and date palms. And Ghulb Hada'iq. And fruits (Fakihah) and herbage (Abb).) And then He says,مَتَـعاً لَّكُمْ وَلاًّنْعَـمِكُمْ
+
+(A provision and benefit for you and your cattle.) meaning, a means of livelihood for you all and your cattle in this life until the (coming of) the Day of Judgement.
+
+**Tafsir Muyassar (المیسر):**
+
+> لُعِنَ الإنسان الكافر وعُذِّب، ما أشدَّ كفره بربه!! ألم ير مِن أيِّ شيء خلقه الله أول مرة؟ خلقه الله من ماء قليل- وهو المَنِيُّ- فقدَّره أطوارا، ثم بين له طريق الخير والشر، ثم أماته فجعل له مكانًا يُقبر فيه، ثم إذا شاء سبحانه أحياه، وبعثه بعد موته للحساب والجزاء. ليس الأمر كما يقول الكافر ويفعل، فلم يُؤَدِّ ما أمره الله به من الإيمان والعمل بطاعته.
+
+## Ayah 19
+
+
+> مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
+
+### The Refutation against Whoever denies Life after Death
+
+Allah rebukes those who deny the Resurrection and the Final Gathering.قُتِلَ الإِنسَـنُ مَآ أَكْفَرَهُ
+
+(Qutila mankind!) Ad-Dahhak reported from Ibn `Abbas that he said,قُتِلَ الإِنسَـنُ
+
+(Qutila mankind!) "May man be cursed." Abu Malik also made a similar statement. He said, "This refers to the rejecting type of man, due to his abundant denial without any supporting argument. Rather he denies simply because he thinks it is farfetched and because he lacks knowledge of it." Ibn Jurayj said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is worse in disbelief than he is." Qatadah said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is more cursed than he is." Then Allah explains how He created him from something despised and that He is able to bring him back to life just as He created him initially. Allah says,مِنْ أَىِّ شَىْءٍ خَلَقَهُ - مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+(From what thing did He create him From a Nutfah He created him, and then set him in due proportion.) meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+(Then He made the path easy for him.) Al-`Awfi reported from Ibn `Abbas, "Then He made his coming out of his mother's belly easy for him." This was also said by `Ikrimah, Ad-Dahhak, Abu Salih, Qatadah, As-Suddi, and it was the explanation preferred by Ibn Jarir. Mujahid said, "This is similar to Allah's statement,إِنَّا هَدَيْنَـهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً
+
+(Verily, We guided him on the path, he is either grateful or ungrateful.) (76:3) meaning, We explained it to him, clarified it, and made it easy for him to act upon." Al-Hasan and Ibn Zayd both said the same. This is the most correct view and Allah knows best. Concerning Allah's statement,ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+(Then He causes him to die and puts him in his grave.) After creating man, Allah causes him to die and makes him the inhabitant of a grave. Allah said;ثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) meaning, He resurrects him after his death and this is called Al-Ba`th (resurrection) and An-Nushur (resuscitation).وَمِنْ ءَايَـتِهِ أَنْ خَلَقَكُمْ مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُمْ بَشَرٌ تَنتَشِرُونَ
+
+(And among His signs is this that He created you from dust, and then behold, you are human beings scattered.) (30:20)وَانظُرْ إِلَى العِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا
+
+(And look at the bones, how We bring them together and clothe them with flesh.) (2:259) In the Two Sahihs it is narrated by way of Al-A`mash from Abu Salih, from Abu Hurayrah that the Prophet said,«كُلُّ ابْنِ آدَمَ يَبْلَى إِلَّا عَجْبَ الذَّنَبِ، مِنْهُ خُلِقَ، وَفِيهِ يُرَكَّب»
+
+(All of the Sons of Adam (men) will decay except for the bone of coccyx (tailbone). From it he (man) was created and by it he will be reconstructed.)" Concerning Allah's statement,كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay, but has not done what He commanded him.) Ibn Jarir said, "Allah is saying, `Nay, the matter is not as this disbelieving man says. He claims that he has fulfilled Allah's right upon him regarding himself and his wealth.لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(But he has not done what He commanded him.) Allah is saying that man has not fulfilled for his Lord the obligations that were imposed upon him." What seems apparent to me of its actual meaning -- and Allah knows best -- is that the Ayahثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) means, He will resurrect him.كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay! But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+### The Growth of the Seed and Other Things is a Proof of Life after Death
+فَلْيَنظُرِ الإِنسَـنُ إِلَى طَعَامِهِ
+
+(Then let man look at his food) This is a call to reflect upon Allah's favor. It also contains an evidence in the vegetation's coming to life from the lifeless earth, that the bodies can be brought to life after being decayed bones and scattered dust.أَنَّا صَبَبْنَا الْمَآءَ صَبّاً
+
+(We pour forth water in abundance.) meaning, `We sent it down from the sky to the earth.'ثُمَّ شَقَقْنَا الاٌّرْضَ شَقّاً
+
+(And We split the earth in clefts.) meaning, `We cause it (the water) to settle in it (the earth), and it enters into its boundaries, and mingles with the parts of the seeds that are left in the earth. From this the seeds grow, rise up and appear on the surface of the earth (in the form of vegetation).'فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً
+
+(And We cause therein Habb to grow. And grapes and Qadb,) Al-Habb refers to all types of seeds (or grains). Grapes are well-known. Al-Qadb are the moist (green) herbal plants that animals graze on. It is also called Al-Qat. Ibn `Abbas, Qatadah, Ad-Dahhak and As-Suddi, all said this. Al-Hasan Al-Basri said, "Al-Qadb is fodder."وَزَيْتُوناً
+
+(And olives) It is well-known, and it is a food just as its juice is a food. It is eaten for breakfast and used as an oil.وَنَخْلاً
+
+(And date palms,) It (i.e., its fruit) is eaten as Balah, Busr, Rutab and Tamr, Niya' and Matbukh, all of which are varieties of dates that range from unripe, ripe and dried in their textures. Its juice is also extracted to make pulpy fruit drinks and vinegar.وَحَدَآئِقَ غُلْباً
+
+(And Ghulb Hada'iq,) meaning, gardens. Al-Hasan and Qatadah both said, "Ghulb are gardens of date palms that are thick and handsome." Ibn `Abbas and Mujahid both said, "It means everything that is gathered and collected." Allah said,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) Fakihah includes every type of fruit. Ibn `Abbas said, "Al-Fakihah is everything that is eaten ripe, and Al-Abb is what the earth grows that is eaten by grazing animals and not people." In one narration reported from him he said, "It is the grass for the livestock animals." Abu `Ubayd Al-Qasim bin Sallam reported from Ibrahim At-Taymi that he said, "Abu Bakr As-Siddiq was asked about Allah's statement,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) and he said, `What sky would shade me and what earth would carry me if I said about the Book of Allah that which I did not have knowledge of.' " hIn reference to what Ibn Jarir recorded from Anas, that he said, "Umar bin Al-Khattab recitedعَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) then when he reached this Ayahوَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) he said, `We already know what Al-Fakihah is, but what is Al-Abb' Then he said, `By your life, O Ibn Al-Khattab, this is something over burdensome (i.e., unnecessary to ask about)."' This report has an authentic chain of narration. More than one person has narrated it from Anas. The meaning of the narration is that `Umar wanted to know how it looks, its type and its exact description, because he (`Umar) and everyone who reads this Ayah knows that it is one of the plants that grows from the earth. This is clear due to the Allah's saying,فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً - وَزَيْتُوناً وَنَخْلاً - وَحَدَآئِقَ غُلْباً - وَفَـكِهَةً وَأَبّاً
+
+(And We cause therein the Habb to grow. And grapes and Qadb, and olives and date palms. And Ghulb Hada'iq. And fruits (Fakihah) and herbage (Abb).) And then He says,مَتَـعاً لَّكُمْ وَلاًّنْعَـمِكُمْ
+
+(A provision and benefit for you and your cattle.) meaning, a means of livelihood for you all and your cattle in this life until the (coming of) the Day of Judgement.
+
+**Tafsir Muyassar (المیسر):**
+
+> لُعِنَ الإنسان الكافر وعُذِّب، ما أشدَّ كفره بربه!! ألم ير مِن أيِّ شيء خلقه الله أول مرة؟ خلقه الله من ماء قليل- وهو المَنِيُّ- فقدَّره أطوارا، ثم بين له طريق الخير والشر، ثم أماته فجعل له مكانًا يُقبر فيه، ثم إذا شاء سبحانه أحياه، وبعثه بعد موته للحساب والجزاء. ليس الأمر كما يقول الكافر ويفعل، فلم يُؤَدِّ ما أمره الله به من الإيمان والعمل بطاعته.
+
+## Ayah 20
+
+
+> ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+
+### The Refutation against Whoever denies Life after Death
+
+Allah rebukes those who deny the Resurrection and the Final Gathering.قُتِلَ الإِنسَـنُ مَآ أَكْفَرَهُ
+
+(Qutila mankind!) Ad-Dahhak reported from Ibn `Abbas that he said,قُتِلَ الإِنسَـنُ
+
+(Qutila mankind!) "May man be cursed." Abu Malik also made a similar statement. He said, "This refers to the rejecting type of man, due to his abundant denial without any supporting argument. Rather he denies simply because he thinks it is farfetched and because he lacks knowledge of it." Ibn Jurayj said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is worse in disbelief than he is." Qatadah said,مَآ أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is more cursed than he is." Then Allah explains how He created him from something despised and that He is able to bring him back to life just as He created him initially. Allah says,مِنْ أَىِّ شَىْءٍ خَلَقَهُ - مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+(From what thing did He create him From a Nutfah He created him, and then set him in due proportion.) meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+(Then He made the path easy for him.) Al-`Awfi reported from Ibn `Abbas, "Then He made his coming out of his mother's belly easy for him." This was also said by `Ikrimah, Ad-Dahhak, Abu Salih, Qatadah, As-Suddi, and it was the explanation preferred by Ibn Jarir. Mujahid said, "This is similar to Allah's statement,إِنَّا هَدَيْنَـهُ السَّبِيلَ إِمَّا شَاكِراً وَإِمَّا كَفُوراً
+
+(Verily, We guided him on the path, he is either grateful or ungrateful.) (76:3) meaning, We explained it to him, clarified it, and made it easy for him to act upon." Al-Hasan and Ibn Zayd both said the same. This is the most correct view and Allah knows best. Concerning Allah's statement,ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+(Then He causes him to die and puts him in his grave.) After creating man, Allah causes him to die and makes him the inhabitant of a grave. Allah said;ثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) meaning, He resurrects him after his death and this is called Al-Ba`th (resurrection) and An-Nushur (resuscitation).وَمِنْ ءَايَـتِهِ أَنْ خَلَقَكُمْ مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُمْ بَشَرٌ تَنتَشِرُونَ
+
+(And among His signs is this that He created you from dust, and then behold, you are human beings scattered.) (30:20)وَانظُرْ إِلَى العِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا
+
+(And look at the bones, how We bring them together and clothe them with flesh.) (2:259) In the Two Sahihs it is narrated by way of Al-A`mash from Abu Salih, from Abu Hurayrah that the Prophet said,«كُلُّ ابْنِ آدَمَ يَبْلَى إِلَّا عَجْبَ الذَّنَبِ، مِنْهُ خُلِقَ، وَفِيهِ يُرَكَّب»
+
+(All of the Sons of Adam (men) will decay except for the bone of coccyx (tailbone). From it he (man) was created and by it he will be reconstructed.)" Concerning Allah's statement,كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay, but has not done what He commanded him.) Ibn Jarir said, "Allah is saying, `Nay, the matter is not as this disbelieving man says. He claims that he has fulfilled Allah's right upon him regarding himself and his wealth.لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(But he has not done what He commanded him.) Allah is saying that man has not fulfilled for his Lord the obligations that were imposed upon him." What seems apparent to me of its actual meaning -- and Allah knows best -- is that the Ayahثُمَّ إِذَا شَآءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) means, He will resurrect him.كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
+
+(Nay! But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+### The Growth of the Seed and Other Things is a Proof of Life after Death
+فَلْيَنظُرِ الإِنسَـنُ إِلَى طَعَامِهِ
+
+(Then let man look at his food) This is a call to reflect upon Allah's favor. It also contains an evidence in the vegetation's coming to life from the lifeless earth, that the bodies can be brought to life after being decayed bones and scattered dust.أَنَّا صَبَبْنَا الْمَآءَ صَبّاً
+
+(We pour forth water in abundance.) meaning, `We sent it down from the sky to the earth.'ثُمَّ شَقَقْنَا الاٌّرْضَ شَقّاً
+
+(And We split the earth in clefts.) meaning, `We cause it (the water) to settle in it (the earth), and it enters into its boundaries, and mingles with the parts of the seeds that are left in the earth. From this the seeds grow, rise up and appear on the surface of the earth (in the form of vegetation).'فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً
+
+(And We cause therein Habb to grow. And grapes and Qadb,) Al-Habb refers to all types of seeds (or grains). Grapes are well-known. Al-Qadb are the moist (green) herbal plants that animals graze on. It is also called Al-Qat. Ibn `Abbas, Qatadah, Ad-Dahhak and As-Suddi, all said this. Al-Hasan Al-Basri said, "Al-Qadb is fodder."وَزَيْتُوناً
+
+(And olives) It is well-known, and it is a food just as its juice is a food. It is eaten for breakfast and used as an oil.وَنَخْلاً
+
+(And date palms,) It (i.e., its fruit) is eaten as Balah, Busr, Rutab and Tamr, Niya' and Matbukh, all of which are varieties of dates that range from unripe, ripe and dried in their textures. Its juice is also extracted to make pulpy fruit drinks and vinegar.وَحَدَآئِقَ غُلْباً
+
+(And Ghulb Hada'iq,) meaning, gardens. Al-Hasan and Qatadah both said, "Ghulb are gardens of date palms that are thick and handsome." Ibn `Abbas and Mujahid both said, "It means everything that is gathered and collected." Allah said,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) Fakihah includes every type of fruit. Ibn `Abbas said, "Al-Fakihah is everything that is eaten ripe, and Al-Abb is what the earth grows that is eaten by grazing animals and not people." In one narration reported from him he said, "It is the grass for the livestock animals." Abu `Ubayd Al-Qasim bin Sallam reported from Ibrahim At-Taymi that he said, "Abu Bakr As-Siddiq was asked about Allah's statement,وَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) and he said, `What sky would shade me and what earth would carry me if I said about the Book of Allah that which I did not have knowledge of.' " hIn reference to what Ibn Jarir recorded from Anas, that he said, "Umar bin Al-Khattab recitedعَبَسَ وَتَوَلَّى
+
+(He frowned and turned away.) then when he reached this Ayahوَفَـكِهَةً وَأَبّاً
+
+(And fruits (Fakihah) and herbage (Abb).) he said, `We already know what Al-Fakihah is, but what is Al-Abb' Then he said, `By your life, O Ibn Al-Khattab, this is something over burdensome (i.e., unnecessary to ask about)."' This report has an authentic chain of narration. More than one person has narrated it from Anas. The meaning of the narration is that `Umar wanted to know how it looks, its type and its exact description, because he (`Umar) and everyone who reads this Ayah knows that it is one of the plants that grows from the earth. This is clear due to the Allah's saying,فَأَنبَتْنَا فِيهَا حَبّاً - وَعِنَباً وَقَضْباً - وَزَيْتُوناً وَنَخْلاً - وَحَدَآئِقَ غُلْباً - وَفَـكِهَةً وَأَبّاً
+
+(And We cause therein the Habb to grow. And grapes and Qadb, and olives and date palms. And Ghulb Hada'iq. And fruits (Fakihah) and herbage (Abb).) And then He says,مَتَـعاً لَّكُمْ وَلاًّنْعَـمِكُمْ
+
+(A provision and benefit for you and your cattle.) meaning, a means of livelihood for you all and your cattle in this life until the (coming of) the Day of Judgement.
+
+**Tafsir Muyassar (المیسر):**
+
+> لُعِنَ الإنسان الكافر وعُذِّب، ما أشدَّ كفره بربه!! ألم ير مِن أيِّ شيء خلقه الله أول مرة؟ خلقه الله من ماء قليل- وهو المَنِيُّ- فقدَّره أطوارا، ثم بين له طريق الخير والشر، ثم أماته فجعل له مكانًا يُقبر فيه، ثم إذا شاء سبحانه أحياه، وبعثه بعد موته للحساب والجزاء. ليس الأمر كما يقول الكافر ويفعل، فلم يُؤَدِّ ما أمره الله به من الإيمان والعمل بطاعته.

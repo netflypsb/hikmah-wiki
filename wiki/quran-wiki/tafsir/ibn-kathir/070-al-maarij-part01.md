@@ -1,0 +1,1096 @@
+---
+title: Tafsir Ibn Kathir — Surah Al-Ma'arij (70) Part 1
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 70
+surah_name: Al-Ma'arij
+ayah_range: [1, 12]
+part: 1
+total_parts: 4
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-070, makki]
+sources: [raw/tafsir/070.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah Al-Ma'arij (70), Ayat 1-12
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 70, Ayat 1–12 (part 1 of 4)
+
+
+## Ayah 1
+
+
+> سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> دعا داع من المشركين على نفسه وقومه بنزول العذاب عليهم، وهو واقع بهم يوم القيامة لا محالة، ليس له مانع يمنعه من الله ذي العلو والجلال، تصعد الملائكة وجبريل إليه تعالى في يوم كان مقداره خمسين ألف سنة من سني الدنيا، وهو على المؤمن مثل صلاة مكتوبة.
+
+## Ayah 2
+
+
+> لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> دعا داع من المشركين على نفسه وقومه بنزول العذاب عليهم، وهو واقع بهم يوم القيامة لا محالة، ليس له مانع يمنعه من الله ذي العلو والجلال، تصعد الملائكة وجبريل إليه تعالى في يوم كان مقداره خمسين ألف سنة من سني الدنيا، وهو على المؤمن مثل صلاة مكتوبة.
+
+## Ayah 3
+
+
+> مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> دعا داع من المشركين على نفسه وقومه بنزول العذاب عليهم، وهو واقع بهم يوم القيامة لا محالة، ليس له مانع يمنعه من الله ذي العلو والجلال، تصعد الملائكة وجبريل إليه تعالى في يوم كان مقداره خمسين ألف سنة من سني الدنيا، وهو على المؤمن مثل صلاة مكتوبة.
+
+## Ayah 4
+
+
+> تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> دعا داع من المشركين على نفسه وقومه بنزول العذاب عليهم، وهو واقع بهم يوم القيامة لا محالة، ليس له مانع يمنعه من الله ذي العلو والجلال، تصعد الملائكة وجبريل إليه تعالى في يوم كان مقداره خمسين ألف سنة من سني الدنيا، وهو على المؤمن مثل صلاة مكتوبة.
+
+## Ayah 5
+
+
+> فَٱصْبِرْ صَبْرًا جَمِيلًا
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> فاصبر -أيها الرسول- على استهزائهم واستعجالهم العذاب، صبرًا لا جزع فيه، ولا شكوى منه لغير الله.
+
+## Ayah 6
+
+
+> إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> إن الكافرين يستبعدون العذاب ويرونه غير واقع، ونحن نراه واقعًا قريبًا لا محالة.
+
+## Ayah 7
+
+
+> وَنَرَىٰهُ قَرِيبًا
+
+### Which was revealed in Makkah
+
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### A Request to hasten the Day of Judgement
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) This Ayah contains an assumed meaning that is alluded to by the letter "Ba". It is as though it is saying, a questioner requested to hasten on the torment that is about to fall. It is similar to Allah's statement,
+
+> وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَن يُخْلِفَ اللَّهُ وَعْدَهُ
+
+(And they ask you to hasten on the torment! And Allah fails not His promise.) (22:47) meaning, that its torment will occur and there is no avoiding it. Al-`Awfi reported from Ibn `Abbas concerning the Ayah,
+
+> سَأَلَ سَآئِلٌ بِعَذَابٍ وَاقِعٍ
+
+(A questioner asked concerning a torment about to befall) "That is the questioning of the disbelievers about the torment of Allah and it will occur to them." Ibn Abi Najih reported from Mujahid that he said concerning Allah's statement
+
+> سَأَلَ سَآئِلٌ
+
+(A questioner asked), "A person called out (requesting) for the torment that will occur in the Hereafter to happen." Then he said, "This is their saying,
+
+> اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(O Allah! If this is indeed the truth from you, then rain down stones on us from the sky or bring on us a painful torment.)" (8:32) Allah's statement,
+
+> وَاقِعٍلِلْكَـفِرِينَ
+
+(about to befall (Waqi`) upon the disbelievers,) means, it is waiting in preparation for the disbelievers. Ibn `Abbas said, "Waqi` means coming."
+
+> لَيْسَ لَهُ دَافِعٌ
+
+(which non can avert) meaning, there is no one who can repel it if Allah wants it to happen. Thus, Allah says,
+
+> مِّنَ اللَّهِ ذِي الْمَعَارِجِ
+
+(From Allah, the Lord of the ways of ascent (Al-Ma`arij).)
+
+### The Tafsir of "Lord of the ways of ascent
+
+`Ali bin Abi Talhah reported from Ibn `Abbas, "Lord of the ways of ascent means loftiness and abundance." Mujahid said, "Lord of the ways of ascent means the ways of ascension into the heavens." Concerning Allah's statement,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ
+
+(The angels and the Ruh Ta`ruju to Him) `Abdur-Razzaq reported from Ma`mar from Qatadah that Ta`ruju means to ascend. In reference to the Ruh, Abu Salih said, "They are creatures from the creation of Allah that resemble humans but they are not humans." It could be that here it means Jibril, and this is a way of connecting the specific to the general (other angels). It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). For verily, when they (the human souls) are taken at death, they are lifted up to the heavens just as the Hadith of Al-Bara' proves.
+
+### The Meaning of "a Day the measure whereof is fifty thousand years
+
+Concerning Allah's statement,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) This refers to the Day of Judgement. Ibn Abi Hatim recorded from Ibn `Abbas that he said concerning the Ayah,
+
+> فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement." The chain of narration of this report (to Ibn `Abbas) is authentic. Ath-Thawri reported from Simak bin Harb from `Ikrimah that he said concerning this verse, "It is the Day of Judgement." Ad-Dahhak and Ibn Zayd both said the same. `Ali bin Abi Talhah reported from Ibn `Abbas concerning the Ayah,
+
+> تَعْرُجُ الْمَلَـئِكَةُ وَالرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+(The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.) "It is the Day of Judgement that Allah has made to be the measure of fifty thousand years for the disbelievers. " Many Hadiths have been reported with this same meaning. Imam Ahmad recorded from Abu `Umar Al-Ghudani that he said, "I was with Abu Hurayrah when a man from Bani `Amir bin Sa`sa`ah passed and it was said: `This man is the wealthiest man of Bani `Amir.' So Abu Hurayrah said, `Bring him back to me.' So they brought the man back to Abu Hurayrah. Then Abu Hurayrah said, `I have been informed that you are a man of great wealth.' The man from Bani `Amir replied, `Yes, by Allah. I have one hundred red-colored camels, one hundred brown-colored camels...' and so on he counted numerous colored camels, the races of the slaves and the types of fetters for his horses that he owned. So Abu Hurayrah said, `Beware of the hooves of the camels and the cloven hooves of the cattle.' He continued repeating that to him until the color of the man began to change. Then the man said, `O Abu Hurayrah what is this' Abu Hurayrah replied, `I heard the Messenger of Allah ﷺ say,
+
+> «مَنْ كَانَتْ لَهُ إِبِلٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا»
+
+(Whoever has camels and does not give their due (Zakah) in their Najdah and their Risl...) We interrupted saying, `O Messenger of Allah! What is their Najdah and Risl' He said,
+
+«فِي عُسْرِهَا وَيُسْرِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ، ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا، فَإِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ بَقَرٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا، فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَكْثَرِهِ وَأَسْمَنِهِ وَآشَرِهِ،ثُمَّ يُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ، فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ، إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَهُ. وَإِذَا كَانَتْ لَهُ غَنَمٌ لَا يُعْطِي حَقَّهَا فِي نَجْدَتِهَا وَرِسْلِهَا فَإِنَّهَا تَأْتِي يَوْمَ الْقِيَامَةِ كَأَغَذِّ مَا كَانَتْ وَأَسْمَنِهِ وَآشَرِهِ حَتْى يُبْطَحَ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ كُلُّ ذَاتِ ظِلْفٍ بِظِلْفِهَا وَتَنْطَحُهُ كُلُّ ذَاتِ قَرْنٍ بِقَرْنِهَا، لَيْسَ فِيهَا عَقْصَاءُ وَلَا عَضْبَاءُ إِذَا جَاوَزَتْهُ أُخْرَاهَا أُعِيدَتْ عَلَيْهِ أُولَاهَا، فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ، حَتْى يُقْضَى بَيْنَ النَّاسِ فَيَرَى سَبِيلَه»
+
+(It is their difficulty and their ease, for verily, they will come on the Day of Resurrection healthier than before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him with their hooves. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he had cows that he did not pay the Zakah in their ease and their difficult times, then they will come on the Day of Judgement healthier than they were before. They will be more in number, fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has cloven hooves will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell). If he has any sheep that he does not pay the due Zakah in their difficulty and their ease, then they will come on the Day of Judgement healthier than they were before. They will be more (in number) fatter and more lively and unruly. Then a soft, level plain will be spread out for them and they will trample him. Every one of them that has a cloven hoof will trample him with its hooves, and every one of them that has a horn will butt him with its horn. There will not be any hornless or bent horned animals among them. When the last of them has passed over him, the first of them will return to trample him again during a day whose measure will be fifty thousand years. This will continue until the case of all the people is decided between them. Then he (the withholder of Zakah) will see his path (i.e., either to Paradise or Hell).) Then, the man from Bani `Amir said, `What is the due of the camel, O Abu Hurayrah' Abu Hurayrah said, `It is that you give (in your Zakah payment) from your most valuable camels, that you lend a milking she-camel, that you lend your mount for riding, that you give the milk (to the people) for drinking, and you lend the male camel for breeding."' This Hadith was also recorded by Abu Dawud and An-Nasa'i.
+
+### A Different Version of this Hadith
+
+Imam Ahmad recorded from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+> «مَا مِنْ صَاحِبِ كَنْزٍ لَا يُؤَدِّي حَقَّهُ إِلَّا جُعِلَ صَفَائِحَ، يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ، فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ، حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْم كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ، ثُمَّ يَرَى سَبِيلَهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّار»
+
+(There is not any owner of treasure who does not pay its due except that it will be made into heated metal plates and branded upon him in the fire of Hell. His forehead, side and back will be scorched with these metal plates. This will continue until Allah judges between His servants on a Day whose measure is fifty thousand years of what you count. Then he will see his path, either to Paradise or to the Fire.) Then he (Abu Hurayrah) mentions the rest of the Hadith about the sheep and camels just as mentioned before. In this narration (of Ahmad) the Prophet also added,
+
+> «الْخَيْلُ لِثَلَاثَةٍ: لِرَجُلٍ أَجْرٌ، وَلِرَجُلٍ سِتْرٌ، وَعَلَى رَجُلٍ وِزْر»
+
+(The horse is for three (on the Day of Judgement): for one man it is a reward, for another man it is a shield (protection), and upon another man it is a burden.) And the Hadith continues. Muslim also recorded this Hadith in its entirety even though Al-Bukhari did not mention it. The intent behind mentioning this here is the Prophet's statement,
+
+> «حَتْى يَحْكُمَ اللهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَة»
+
+(Until Allah judges between His servants on a day whose measurement is fifty thousand years.)
+
+### Instructing the Prophet to have Patience Then
+
+Allah says,
+
+> فَاصْبِرْ صَبْراً جَمِيلاً
+
+(So be patient, with a good patience.) meaning, `be patient, O Muhammad, with your people's rejection and their seeking to hasten the torment since they think it will not occur.' Allah says in another Ayah,
+
+> يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those believe are fearful of it, and know that it is the very truth.) (42:18) Thus, Allah says,
+
+> إِنَّهُمْ يَرَوْنَهُ بَعِيداً
+
+(Verily, they see it (the torment) afar off.) meaning, the happening of the torment and the establishment of the Hour (Day of Judgement). The disbelievers see this as something that is farfetched. The word "Ba`id" here means that which is impossible to occur.
+
+> وَنَرَاهُ قَرِيباً
+
+(But We see it (quite) near.) meaning, the believers believe that its occurrence is near, even though its time of occurrence is unknown and no one knows when it will be except Allah. All of what is approaching then it is near and it will definitely happen.
+
+**Tafsir Muyassar (المیسر):**
+
+> إن الكافرين يستبعدون العذاب ويرونه غير واقع، ونحن نراه واقعًا قريبًا لا محالة.
+
+## Ayah 8
+
+
+> يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ
+
+### Terrors of the Day of Judgement
+
+> Allah says that the torment will befall the disbelievers.يَوْمَ تَكُونُ السَّمَآءُ كَالْمُهْلِ
+
+(The Day that the sky will be like the Al-Muhl.) Ibn `Abbas, Mujahid, `Ata, Sa`id bin Jubayr, `Ikrimah, As-Suddi and others have all said, "Like the residue of oil."وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+(And the mountains will be like `Ihn.) meaning, like fluffed wool. This was said by Mujahid, Qatadah and As-Suddi. This Ayah is similar to Allah's statement,وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+> (And the mountains will be like carded wool.) (101:5) Concerning Allah's statement,وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend, though they shall be made to see one another.) Meaning, no close friend will ask his close friend about his condition while he sees him in the worst of conditions. He will be worried about himself and will not be able to think of others. Al-`Awfi reported from Ibn `Abbas, "Some of them will know others and they will be acquainted with each other. Then, they will flee from each other after that, as Allah says,لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (Every man that Day will have enough to make him careless of others.)" (80:37) This honorable Ayah is similar to Allah's statement,يأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْماً لاَّ يَجْزِى وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ
+
+(O mankind! Have Taqwa of your Lord, and fear a Day when no father can avail aught for his son, and nor a son avail aught for his father. Verily the promise of Allah is true.) (31:33) and He also says,وَإِن تَدْعُ مُثْقَلَةٌ إِلَى حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَى
+
+> (And if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.) (35:18) and He says,فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+> (Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101) and similarly He says,يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ - وَأُمِّهِ وَأَبِيهِ - وَصَـحِبَتِهُ وَبَنِيهِ - لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (That day shall a man flee fom his brother, and from his mother and his father, and from his wife and his children. Every man that Day will have enough to make him careless of others.) (80:34-37) Then Allah's saying hereيُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ - وَصَـحِبَتِهِ وَأَخِيهِ - وَفَصِيلَتِهِ الَّتِى تُـْوِيهِ - وَمَن فِى الاٌّرْضِ جَمِيعاً ثُمَّ يُنجِيهِ كَلاَّ
+
+(the criminal would desire to ransom himself from the punishment of the Day by his children, and his wife and his brother, and his Fasilah (kindred) who sheltered him, and all that are in the earth, so that it might save him. By no means!) means, no ransom will be accepted from him even if he brought all of the people of the earth (as ransom), and the greatest wealth that he could find, even if it was enough gold to fill the entire earth. Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors. However, even this child would not be accepted from him (as a ransom). Mujahid and As-Suddi both said,وَفَصِيلَتِهِ
+
+(and his Fasilah) "This means his tribe and his kin." `Ikrimah said, "This means the subdivision of his tribe that he is from." Ashhab reported from Malik that he said, "His Fasilah is his mother." Allah said,إِنَّهَا لَظَى
+
+(Verily, it will be the fire of Hell,) Here He is describing the Hell- fire and the severity of its heat.نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) Ibn `Abbas and Mujahid both said, "It is the skin of the head." Al-Hasan Al-Basri and Thabit Al-Bunani both said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means respectable parts of the face." Qatadah said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means removing his important organs, and the respectable parts of his face, his creation and his limbs." Ad-Dahhak said, "This means it will scrape the flesh and the skin off of the bone until it leaves nothing of it remaining." Ibn Zayd said, "The Shawa is the marrow of the bones." As for,نَزَّاعَةً
+
+(Nazza`ah) Ibn Zayd said, "It is cutting their bones and transformation of their skins and their form." Concerning Allah's statement,تَدْعُواْ مَنْ أَدْبَرَ وَتَوَلَّى - وَجَمَعَ فَأَوْعَى
+
+(Calling (all) such as turn their backs and turn away their faces. And collect and hide it.) meaning, the Fire will call out to its children whom Allah created for it, determining that they will perform the deeds deserving of it in the worldly life. So it will call them on the Day of Judgement with an eloquent and articulate tongue. Then it will pick them out from the people of the gathering just as birds pick seeds. This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.وَجَمَعَ فَأَوْعَى
+
+(And collect and hide it.) meaning, he gathered wealth piling it up, and he concealed it, meaning he hid it and refused to give the obligatory right of Allah that was due on it of spending and paying the Zakah. It has been recorded in a Hadith that the Prophet said,«لَا تُوعِي فَيُوعِيَ اللهُ عَلَيْك»
+
+(Do not hold back (your wealth) or else Allah will hold back from you.)
+
+**Tafsir Muyassar (المیسر):**
+
+> يوم تكون السماء سائلة مثل حُثالة الزيت، وتكون الجبال كالصوف المصبوغ المنفوش الذي ذَرَتْه الريح.
+
+## Ayah 9
+
+
+> وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ
+
+### Terrors of the Day of Judgement
+
+> Allah says that the torment will befall the disbelievers.يَوْمَ تَكُونُ السَّمَآءُ كَالْمُهْلِ
+
+(The Day that the sky will be like the Al-Muhl.) Ibn `Abbas, Mujahid, `Ata, Sa`id bin Jubayr, `Ikrimah, As-Suddi and others have all said, "Like the residue of oil."وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+(And the mountains will be like `Ihn.) meaning, like fluffed wool. This was said by Mujahid, Qatadah and As-Suddi. This Ayah is similar to Allah's statement,وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+> (And the mountains will be like carded wool.) (101:5) Concerning Allah's statement,وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend, though they shall be made to see one another.) Meaning, no close friend will ask his close friend about his condition while he sees him in the worst of conditions. He will be worried about himself and will not be able to think of others. Al-`Awfi reported from Ibn `Abbas, "Some of them will know others and they will be acquainted with each other. Then, they will flee from each other after that, as Allah says,لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (Every man that Day will have enough to make him careless of others.)" (80:37) This honorable Ayah is similar to Allah's statement,يأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْماً لاَّ يَجْزِى وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ
+
+(O mankind! Have Taqwa of your Lord, and fear a Day when no father can avail aught for his son, and nor a son avail aught for his father. Verily the promise of Allah is true.) (31:33) and He also says,وَإِن تَدْعُ مُثْقَلَةٌ إِلَى حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَى
+
+> (And if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.) (35:18) and He says,فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+> (Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101) and similarly He says,يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ - وَأُمِّهِ وَأَبِيهِ - وَصَـحِبَتِهُ وَبَنِيهِ - لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (That day shall a man flee fom his brother, and from his mother and his father, and from his wife and his children. Every man that Day will have enough to make him careless of others.) (80:34-37) Then Allah's saying hereيُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ - وَصَـحِبَتِهِ وَأَخِيهِ - وَفَصِيلَتِهِ الَّتِى تُـْوِيهِ - وَمَن فِى الاٌّرْضِ جَمِيعاً ثُمَّ يُنجِيهِ كَلاَّ
+
+(the criminal would desire to ransom himself from the punishment of the Day by his children, and his wife and his brother, and his Fasilah (kindred) who sheltered him, and all that are in the earth, so that it might save him. By no means!) means, no ransom will be accepted from him even if he brought all of the people of the earth (as ransom), and the greatest wealth that he could find, even if it was enough gold to fill the entire earth. Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors. However, even this child would not be accepted from him (as a ransom). Mujahid and As-Suddi both said,وَفَصِيلَتِهِ
+
+(and his Fasilah) "This means his tribe and his kin." `Ikrimah said, "This means the subdivision of his tribe that he is from." Ashhab reported from Malik that he said, "His Fasilah is his mother." Allah said,إِنَّهَا لَظَى
+
+(Verily, it will be the fire of Hell,) Here He is describing the Hell- fire and the severity of its heat.نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) Ibn `Abbas and Mujahid both said, "It is the skin of the head." Al-Hasan Al-Basri and Thabit Al-Bunani both said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means respectable parts of the face." Qatadah said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means removing his important organs, and the respectable parts of his face, his creation and his limbs." Ad-Dahhak said, "This means it will scrape the flesh and the skin off of the bone until it leaves nothing of it remaining." Ibn Zayd said, "The Shawa is the marrow of the bones." As for,نَزَّاعَةً
+
+(Nazza`ah) Ibn Zayd said, "It is cutting their bones and transformation of their skins and their form." Concerning Allah's statement,تَدْعُواْ مَنْ أَدْبَرَ وَتَوَلَّى - وَجَمَعَ فَأَوْعَى
+
+(Calling (all) such as turn their backs and turn away their faces. And collect and hide it.) meaning, the Fire will call out to its children whom Allah created for it, determining that they will perform the deeds deserving of it in the worldly life. So it will call them on the Day of Judgement with an eloquent and articulate tongue. Then it will pick them out from the people of the gathering just as birds pick seeds. This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.وَجَمَعَ فَأَوْعَى
+
+(And collect and hide it.) meaning, he gathered wealth piling it up, and he concealed it, meaning he hid it and refused to give the obligatory right of Allah that was due on it of spending and paying the Zakah. It has been recorded in a Hadith that the Prophet said,«لَا تُوعِي فَيُوعِيَ اللهُ عَلَيْك»
+
+(Do not hold back (your wealth) or else Allah will hold back from you.)
+
+**Tafsir Muyassar (المیسر):**
+
+> يوم تكون السماء سائلة مثل حُثالة الزيت، وتكون الجبال كالصوف المصبوغ المنفوش الذي ذَرَتْه الريح.
+
+## Ayah 10
+
+
+> وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا
+
+### Terrors of the Day of Judgement
+
+> Allah says that the torment will befall the disbelievers.يَوْمَ تَكُونُ السَّمَآءُ كَالْمُهْلِ
+
+(The Day that the sky will be like the Al-Muhl.) Ibn `Abbas, Mujahid, `Ata, Sa`id bin Jubayr, `Ikrimah, As-Suddi and others have all said, "Like the residue of oil."وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+(And the mountains will be like `Ihn.) meaning, like fluffed wool. This was said by Mujahid, Qatadah and As-Suddi. This Ayah is similar to Allah's statement,وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+> (And the mountains will be like carded wool.) (101:5) Concerning Allah's statement,وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend, though they shall be made to see one another.) Meaning, no close friend will ask his close friend about his condition while he sees him in the worst of conditions. He will be worried about himself and will not be able to think of others. Al-`Awfi reported from Ibn `Abbas, "Some of them will know others and they will be acquainted with each other. Then, they will flee from each other after that, as Allah says,لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (Every man that Day will have enough to make him careless of others.)" (80:37) This honorable Ayah is similar to Allah's statement,يأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْماً لاَّ يَجْزِى وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ
+
+(O mankind! Have Taqwa of your Lord, and fear a Day when no father can avail aught for his son, and nor a son avail aught for his father. Verily the promise of Allah is true.) (31:33) and He also says,وَإِن تَدْعُ مُثْقَلَةٌ إِلَى حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَى
+
+> (And if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.) (35:18) and He says,فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+> (Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101) and similarly He says,يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ - وَأُمِّهِ وَأَبِيهِ - وَصَـحِبَتِهُ وَبَنِيهِ - لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (That day shall a man flee fom his brother, and from his mother and his father, and from his wife and his children. Every man that Day will have enough to make him careless of others.) (80:34-37) Then Allah's saying hereيُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ - وَصَـحِبَتِهِ وَأَخِيهِ - وَفَصِيلَتِهِ الَّتِى تُـْوِيهِ - وَمَن فِى الاٌّرْضِ جَمِيعاً ثُمَّ يُنجِيهِ كَلاَّ
+
+(the criminal would desire to ransom himself from the punishment of the Day by his children, and his wife and his brother, and his Fasilah (kindred) who sheltered him, and all that are in the earth, so that it might save him. By no means!) means, no ransom will be accepted from him even if he brought all of the people of the earth (as ransom), and the greatest wealth that he could find, even if it was enough gold to fill the entire earth. Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors. However, even this child would not be accepted from him (as a ransom). Mujahid and As-Suddi both said,وَفَصِيلَتِهِ
+
+(and his Fasilah) "This means his tribe and his kin." `Ikrimah said, "This means the subdivision of his tribe that he is from." Ashhab reported from Malik that he said, "His Fasilah is his mother." Allah said,إِنَّهَا لَظَى
+
+(Verily, it will be the fire of Hell,) Here He is describing the Hell- fire and the severity of its heat.نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) Ibn `Abbas and Mujahid both said, "It is the skin of the head." Al-Hasan Al-Basri and Thabit Al-Bunani both said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means respectable parts of the face." Qatadah said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means removing his important organs, and the respectable parts of his face, his creation and his limbs." Ad-Dahhak said, "This means it will scrape the flesh and the skin off of the bone until it leaves nothing of it remaining." Ibn Zayd said, "The Shawa is the marrow of the bones." As for,نَزَّاعَةً
+
+(Nazza`ah) Ibn Zayd said, "It is cutting their bones and transformation of their skins and their form." Concerning Allah's statement,تَدْعُواْ مَنْ أَدْبَرَ وَتَوَلَّى - وَجَمَعَ فَأَوْعَى
+
+(Calling (all) such as turn their backs and turn away their faces. And collect and hide it.) meaning, the Fire will call out to its children whom Allah created for it, determining that they will perform the deeds deserving of it in the worldly life. So it will call them on the Day of Judgement with an eloquent and articulate tongue. Then it will pick them out from the people of the gathering just as birds pick seeds. This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.وَجَمَعَ فَأَوْعَى
+
+(And collect and hide it.) meaning, he gathered wealth piling it up, and he concealed it, meaning he hid it and refused to give the obligatory right of Allah that was due on it of spending and paying the Zakah. It has been recorded in a Hadith that the Prophet said,«لَا تُوعِي فَيُوعِيَ اللهُ عَلَيْك»
+
+(Do not hold back (your wealth) or else Allah will hold back from you.)
+
+**Tafsir Muyassar (المیسر):**
+
+> ولا يسأل قريب قريبه عن شأنه؛ لأن كل واحدٍ منهما مشغول بنفسه.
+
+## Ayah 11
+
+
+> يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ
+
+### Terrors of the Day of Judgement
+
+> Allah says that the torment will befall the disbelievers.يَوْمَ تَكُونُ السَّمَآءُ كَالْمُهْلِ
+
+(The Day that the sky will be like the Al-Muhl.) Ibn `Abbas, Mujahid, `Ata, Sa`id bin Jubayr, `Ikrimah, As-Suddi and others have all said, "Like the residue of oil."وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+(And the mountains will be like `Ihn.) meaning, like fluffed wool. This was said by Mujahid, Qatadah and As-Suddi. This Ayah is similar to Allah's statement,وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+> (And the mountains will be like carded wool.) (101:5) Concerning Allah's statement,وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend, though they shall be made to see one another.) Meaning, no close friend will ask his close friend about his condition while he sees him in the worst of conditions. He will be worried about himself and will not be able to think of others. Al-`Awfi reported from Ibn `Abbas, "Some of them will know others and they will be acquainted with each other. Then, they will flee from each other after that, as Allah says,لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (Every man that Day will have enough to make him careless of others.)" (80:37) This honorable Ayah is similar to Allah's statement,يأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْماً لاَّ يَجْزِى وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ
+
+(O mankind! Have Taqwa of your Lord, and fear a Day when no father can avail aught for his son, and nor a son avail aught for his father. Verily the promise of Allah is true.) (31:33) and He also says,وَإِن تَدْعُ مُثْقَلَةٌ إِلَى حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَى
+
+> (And if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.) (35:18) and He says,فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+> (Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101) and similarly He says,يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ - وَأُمِّهِ وَأَبِيهِ - وَصَـحِبَتِهُ وَبَنِيهِ - لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (That day shall a man flee fom his brother, and from his mother and his father, and from his wife and his children. Every man that Day will have enough to make him careless of others.) (80:34-37) Then Allah's saying hereيُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ - وَصَـحِبَتِهِ وَأَخِيهِ - وَفَصِيلَتِهِ الَّتِى تُـْوِيهِ - وَمَن فِى الاٌّرْضِ جَمِيعاً ثُمَّ يُنجِيهِ كَلاَّ
+
+(the criminal would desire to ransom himself from the punishment of the Day by his children, and his wife and his brother, and his Fasilah (kindred) who sheltered him, and all that are in the earth, so that it might save him. By no means!) means, no ransom will be accepted from him even if he brought all of the people of the earth (as ransom), and the greatest wealth that he could find, even if it was enough gold to fill the entire earth. Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors. However, even this child would not be accepted from him (as a ransom). Mujahid and As-Suddi both said,وَفَصِيلَتِهِ
+
+(and his Fasilah) "This means his tribe and his kin." `Ikrimah said, "This means the subdivision of his tribe that he is from." Ashhab reported from Malik that he said, "His Fasilah is his mother." Allah said,إِنَّهَا لَظَى
+
+(Verily, it will be the fire of Hell,) Here He is describing the Hell- fire and the severity of its heat.نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) Ibn `Abbas and Mujahid both said, "It is the skin of the head." Al-Hasan Al-Basri and Thabit Al-Bunani both said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means respectable parts of the face." Qatadah said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means removing his important organs, and the respectable parts of his face, his creation and his limbs." Ad-Dahhak said, "This means it will scrape the flesh and the skin off of the bone until it leaves nothing of it remaining." Ibn Zayd said, "The Shawa is the marrow of the bones." As for,نَزَّاعَةً
+
+(Nazza`ah) Ibn Zayd said, "It is cutting their bones and transformation of their skins and their form." Concerning Allah's statement,تَدْعُواْ مَنْ أَدْبَرَ وَتَوَلَّى - وَجَمَعَ فَأَوْعَى
+
+(Calling (all) such as turn their backs and turn away their faces. And collect and hide it.) meaning, the Fire will call out to its children whom Allah created for it, determining that they will perform the deeds deserving of it in the worldly life. So it will call them on the Day of Judgement with an eloquent and articulate tongue. Then it will pick them out from the people of the gathering just as birds pick seeds. This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.وَجَمَعَ فَأَوْعَى
+
+(And collect and hide it.) meaning, he gathered wealth piling it up, and he concealed it, meaning he hid it and refused to give the obligatory right of Allah that was due on it of spending and paying the Zakah. It has been recorded in a Hadith that the Prophet said,«لَا تُوعِي فَيُوعِيَ اللهُ عَلَيْك»
+
+(Do not hold back (your wealth) or else Allah will hold back from you.)
+
+**Tafsir Muyassar (المیسر):**
+
+> يرونهم ويعرفونهم، ولا يستطيع أحد أن ينفع أحدًا. يتمنى الكافر لو يفدي نفسه من عذاب يوم القيامة بأبنائه، وزوجه وأخيه، وعشيرته التي تضمه وينتمي إليها في القرابة، وبجميع مَن في الأرض مِنَ البشر وغيرهم، ثم ينجو من عذاب الله.
+
+## Ayah 12
+
+
+> وَصَـٰحِبَتِهِۦ وَأَخِيهِ
+
+### Terrors of the Day of Judgement
+
+> Allah says that the torment will befall the disbelievers.يَوْمَ تَكُونُ السَّمَآءُ كَالْمُهْلِ
+
+(The Day that the sky will be like the Al-Muhl.) Ibn `Abbas, Mujahid, `Ata, Sa`id bin Jubayr, `Ikrimah, As-Suddi and others have all said, "Like the residue of oil."وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+(And the mountains will be like `Ihn.) meaning, like fluffed wool. This was said by Mujahid, Qatadah and As-Suddi. This Ayah is similar to Allah's statement,وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ
+
+> (And the mountains will be like carded wool.) (101:5) Concerning Allah's statement,وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend, though they shall be made to see one another.) Meaning, no close friend will ask his close friend about his condition while he sees him in the worst of conditions. He will be worried about himself and will not be able to think of others. Al-`Awfi reported from Ibn `Abbas, "Some of them will know others and they will be acquainted with each other. Then, they will flee from each other after that, as Allah says,لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (Every man that Day will have enough to make him careless of others.)" (80:37) This honorable Ayah is similar to Allah's statement,يأَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْماً لاَّ يَجْزِى وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئاً إِنَّ وَعْدَ اللَّهِ حَقٌّ
+
+(O mankind! Have Taqwa of your Lord, and fear a Day when no father can avail aught for his son, and nor a son avail aught for his father. Verily the promise of Allah is true.) (31:33) and He also says,وَإِن تَدْعُ مُثْقَلَةٌ إِلَى حِمْلِهَا لاَ يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَى
+
+> (And if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.) (35:18) and He says,فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+> (Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101) and similarly He says,يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ - وَأُمِّهِ وَأَبِيهِ - وَصَـحِبَتِهُ وَبَنِيهِ - لِكُلِّ امْرِىءٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+> (That day shall a man flee fom his brother, and from his mother and his father, and from his wife and his children. Every man that Day will have enough to make him careless of others.) (80:34-37) Then Allah's saying hereيُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ - وَصَـحِبَتِهِ وَأَخِيهِ - وَفَصِيلَتِهِ الَّتِى تُـْوِيهِ - وَمَن فِى الاٌّرْضِ جَمِيعاً ثُمَّ يُنجِيهِ كَلاَّ
+
+(the criminal would desire to ransom himself from the punishment of the Day by his children, and his wife and his brother, and his Fasilah (kindred) who sheltered him, and all that are in the earth, so that it might save him. By no means!) means, no ransom will be accepted from him even if he brought all of the people of the earth (as ransom), and the greatest wealth that he could find, even if it was enough gold to fill the entire earth. Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors. However, even this child would not be accepted from him (as a ransom). Mujahid and As-Suddi both said,وَفَصِيلَتِهِ
+
+(and his Fasilah) "This means his tribe and his kin." `Ikrimah said, "This means the subdivision of his tribe that he is from." Ashhab reported from Malik that he said, "His Fasilah is his mother." Allah said,إِنَّهَا لَظَى
+
+(Verily, it will be the fire of Hell,) Here He is describing the Hell- fire and the severity of its heat.نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) Ibn `Abbas and Mujahid both said, "It is the skin of the head." Al-Hasan Al-Basri and Thabit Al-Bunani both said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means respectable parts of the face." Qatadah said,نَزَّاعَةً لِّلشَّوَى
+
+(Nazza`ah the Shawa!) "This means removing his important organs, and the respectable parts of his face, his creation and his limbs." Ad-Dahhak said, "This means it will scrape the flesh and the skin off of the bone until it leaves nothing of it remaining." Ibn Zayd said, "The Shawa is the marrow of the bones." As for,نَزَّاعَةً
+
+(Nazza`ah) Ibn Zayd said, "It is cutting their bones and transformation of their skins and their form." Concerning Allah's statement,تَدْعُواْ مَنْ أَدْبَرَ وَتَوَلَّى - وَجَمَعَ فَأَوْعَى
+
+(Calling (all) such as turn their backs and turn away their faces. And collect and hide it.) meaning, the Fire will call out to its children whom Allah created for it, determining that they will perform the deeds deserving of it in the worldly life. So it will call them on the Day of Judgement with an eloquent and articulate tongue. Then it will pick them out from the people of the gathering just as birds pick seeds. This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.وَجَمَعَ فَأَوْعَى
+
+(And collect and hide it.) meaning, he gathered wealth piling it up, and he concealed it, meaning he hid it and refused to give the obligatory right of Allah that was due on it of spending and paying the Zakah. It has been recorded in a Hadith that the Prophet said,«لَا تُوعِي فَيُوعِيَ اللهُ عَلَيْك»
+
+(Do not hold back (your wealth) or else Allah will hold back from you.)
+
+**Tafsir Muyassar (المیسر):**
+
+> يرونهم ويعرفونهم، ولا يستطيع أحد أن ينفع أحدًا. يتمنى الكافر لو يفدي نفسه من عذاب يوم القيامة بأبنائه، وزوجه وأخيه، وعشيرته التي تضمه وينتمي إليها في القرابة، وبجميع مَن في الأرض مِنَ البشر وغيرهم، ثم ينجو من عذاب الله.

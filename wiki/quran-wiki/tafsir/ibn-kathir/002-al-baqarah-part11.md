@@ -1,0 +1,1543 @@
+---
+title: Tafsir Ibn Kathir — Surah Al-Baqarah (2) Part 11
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 2
+surah_name: Al-Baqarah
+ayah_range: [162, 180]
+part: 11
+total_parts: 18
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-002, madani]
+sources: [raw/tafsir/002.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah Al-Baqarah (2), Ayat 162-180
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 2, Ayat 162–180 (part 11 of 18)
+
+
+## Ayah 162
+
+
+> خَـٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
+
+### The Eternal Curse for Those Who hide Religious Commandments
+
+These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His servants through the Books that He revealed to His Messengers. Abu Al-`Aliyah said that these Ayat, "were revealed about the People of the Scripture who hid the description of Muhammad ." Allah then states that everything curses such people for this evil act. Certainly, just as everything asks for forgiveness for the scholar, even the fish in the sea and the bird in the air, then those who hide knowledge are cursed by Allah and by the cursers. A Hadith in the Musnad, narrated through several chains of narrators, that strengthens the overall judgment of the Hadith, states that Abu Hurayrah narrated that Allah's Messenger ﷺ said:
+
+> «مَنْ سُئِلَ عَنْ عِلْمٍ فَكَتَمَهُ، أُلْجِمَ يَوْمَ الْقِيَامَةِ بِلِجَامٍ مِنْ نَار»
+
+(Whoever was asked about knowledge that one has, but he hid it, then a bridle made of fire will be tied around his mouth on the Day of Resurrection.)
+
+It is also recorded by Al-Bukhari that Abu Hurayrah said, "If it was not for an Ayah in Allah's Book, I would not have narrated a Hadith for anyone:
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ الْبَيِّنَـتِ وَالْهُدَى
+
+(Verily, those who conceal the clear proofs, evidences and the guidance, which We have sent down,)"
+
+Mujahid said, "When the earth is struck by drought, the animals say, `This is because of the sinners among the Children of Adam. May Allah curse the sinners among the Children of Adam."'
+
+Abu Al-`Aliyah, Ar-Rabi` bin Anas and Qatadah said that
+
+> وَيَلْعَنُهُمُ اللَّـعِنُونَ
+
+(and cursed by the cursers) means that the angels and the believers will curse them. Moreover, a Hadith states that everything, including the fish in the sea, asks for forgiveness for the scholars. The Ayah (2:159 above) states that those who hide the knowledge will be cursed, (in this life and) on the Day of Resurrection, by Allah, the angels, all humanity, and those who curse (including the animals) each in its own distinct way. Allah knows best.
+
+From this punishment, Allah excluded all who repent to Him:
+
+> إِلاَّ الَّذِينَ تَابُواْ وَأَصْلَحُواْ وَبَيَّنُواْ
+
+(Except those who repent and do righteous deeds, and openly declare (the truth which they concealed).)
+
+This Ayah refers to those who regret what they have been doing and correct their behavior and, thus, explain to the people what they have been hiding.
+
+> فَأُوْلَـئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا التَّوَّابُ الرَّحِيمُ
+
+(These, I will accept their repentance. And I am the One Who accepts repentance, the Most Merciful.)
+
+This Ayah also indicates that those who used to call to innovation, or even disbelief, and repent to Allah, then Allah will forgive them. Allah afterwards states that those who disbelieve in Him and remain in this state until they die, then:
+
+> أُولَـئِكَ عَلَيْهِمْ لَعْنَةُ اللَّهِ وَالْمَلـئِكَةِ وَالنَّاسِ أَجْمَعِينَ
+
+> خَـلِدِينَ فِيهَآ
+
+(it is they on whom is the curse of Allah and of the angels and of mankind, combined. They will abide therein (under the curse in Hell).)
+
+Therefore, they will suffer the eternal curse until the Day of Resurrection and after that in the fire of Jahannam, where,
+
+> لاَ يُخَفَّفُ عَنْهُمُ الْعَذَابُ
+
+(their punishment will neither be lightened)
+
+Hence, the torment will not be decreased for them,
+
+> وَلاَ هُمْ يُنظَرُونَ
+
+(nor will they be reprieved.)
+
+The torment will not be changed or tempered for even an hour. Rather, it is continuous and eternal. We seek refuge with Allah from this evil end.
+
+### Cursing the Disbelievers is allowed
+
+There is no disagreement that it is lawful to curse the disbelievers. `Umar bin Al-Khattab and the Imams after him used to curse the disbelievers in their Qunut (a type of supplication) during the prayer and otherwise. As for cursing a specific disbeliever, some scholars stated that it is not allowed to curse him, because we do not know how Allah will make his end. Others said that it is allowed to curse individual disbelievers. For proof, they mention the story about the man who was brought to be punished repeatedly for drinking (alcohol), a man said, "May Allah curse him! He is being brought repeatedly (to be flogged for drinking)." Allah's Messenger ﷺ said:
+
+> «لَا تَلْعَنْهُ فَإِنَّه يُحِبُّ اللهَ وَرَسُولَه»
+
+(Do not curse him, for he loves Allah and His Messenger).
+
+This Hadith indicates that it is allowed to curse those who do not love Allah and His Messenger . Allah knows best.
+
+**Tafsir Muyassar (المیسر):**
+
+> دائمين في اللعنة والنار، لا يخفف عنهم العذاب، ولا هم يمهلون بمعذرة يعتذرون بها.
+
+## Ayah 163
+
+
+> وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ
+
+In this Ayah, Allah mentions that He is the only deity, and that He has no partners or equals. He is Allah, the One and Only, the Sustainer, and there is no deity worthy of worship except Him. He is the Most Gracious ـ Ar-Rahman, the Most Merciful ـ Ar-Rahim. We explained the meanings of these two Names in the beginning of Surat Al-Fatihah. Shahr bin Hawshab reported that Asma' bint Yazid bin As-Sakan narrated that Allah's Messenger ﷺ said:
+
+> «اسْمُ اللهِ الْأَعْظَمُ فِي هَاتَيْنِ الآيَتَيْنِ
+
+(Allah's Greatest Name is contained in these two Ayat):
+
+> وَإِلَـهُكُمْ إِلَـهٌ وَحِدٌ لاَّ إِلَـهَ إِلاَّ هُوَ الرَّحْمَـنُ الرَّحِيمُ
+
+(And your Ilah (God) is One Ilah (God ـ Allah), La ilaha illa Huwa (there is none who has the right to be worshipped but He), the Most Gracious, the Most Merciful.) and:
+
+> الم - ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ
+
+(Alif-Lam-Mim. Allah! La ilaha illa Huwa (none has the right to be worshipped but He), Al-Haiyul-Qaiyum (the Ever Living, the One Who sustains and protects all that exists).) (3:1, 2)"
+
+Then Allah mentions some of the proof that He is alone as the deity, that He is the One who created the heavens and the earth and all of the various creatures between them, all of which testify to His Oneness. Allah said:
+
+**Tafsir Muyassar (المیسر):**
+
+> وإلهكم -أيها الناس- إله واحد متفرد في ذاته وأسمائه وصفاته وأفعاله وعبودية خلقه له، لا معبود بحق إلا هو، الرحمن المتصف بالرحمة في ذاته وأفعاله لجميع الخلق، الرحيم بالمؤمنين.
+
+## Ayah 164
+
+
+> إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+### The Proofs for Tawhid
+
+> Allah said: إِنَّ فِي خَلْقِ السَّمَـوَتِ وَالاٌّرْضِ
+
+(Verily, in the creation of the heavens and the earth...)
+
+Therefore, the sky, with its height, intricate design, vastness, the heavenly objects in orbit, and this earth, with its density, its lowlands, mountains, seas, deserts, valleys, and other structures, and beneficial things that it has. Allah continues: وَاخْتِلَـفِ الَّيْلِ وَالنَّهَارِ
+
+(...and in the alternation of night and day.)
+
+> This (the night) comes and then goes followed by the other (the day) which does not delay for even an instant, just as Allah said: لاَ الشَّمْسُ يَنبَغِى لَهَآ أَن تدْرِكَ القَمَرَ وَلاَ الَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ
+
+(It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.) (36:40)
+
+Sometimes, the day grows shorter and the night longer, and sometimes vice versa, one takes from the length of the other. Similarly Allah said: يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ
+
+(Allah merges the night into the day, and He merges the day into the night) (57:6) meaning, He extends the length of one from the other and vice versa. Allah then continues: وَالْفُلْكِ الَّتِى تَجْرِى فِى الْبَحْرِ بِمَا يَنفَعُ النَّاسَ
+
+(. ..and the ships which sail through the sea with that which is of use to mankind,)
+
+Shaping the sea in this manner, so that it is able to carry ships from one shore to another, so people benefit from what the other region has, and export what they have to them and vice versa.
+
+> Allah then continues: وَمَآ أَنزَلَ اللَّهُ مِنَ السَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ الاٌّرْضَ بَعْدَ مَوْتِهَا
+
+> (...and the water (rain) which Allah sends down from the sky and makes the earth alive therewith after its death), which is similar to Allah's statement: وَءَايَةٌ لَّهُمُ الاٌّرْضُ الْمَيْتَةُ أَحْيَيْنَـهَا وَأَخْرَجْنَا مِنْهَا حَبّاً فَمِنْهُ يَأْكُلُونَ
+
+(And a sign for them is the dead land. We give it life, and We bring forth from it grains, so that they eat thereof.) (36:33), until: وَمِمَّا لاَ يَعْلَمُونَ
+
+(which they know not.) (36:36)
+
+> Allah continues: وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ
+
+(and the moving (living) creatures of all kinds that He has scattered therein,) meaning, in various shapes, colors, uses and sizes, whether small or large. Allah knows all that, sustains it, and nothing is concealed from Him. Similarly, Allah said: وَمَا مِن دَآبَّةٍ فِي الاٌّرْضِ إِلاَّ عَلَى اللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِى كِتَابٍ مُّبِينٍ
+
+(And no moving (living) creature is there on earth but its provision is due from Allah. And He knows its dwelling place and its deposit (in the uterus or grave). All is in a Clear Book (Al-Lawh Al-Mahfuz ـ the Book of Decrees with Allah).) (11:6) وَتَصْرِيفِ الرِّيَـحِ
+
+(...and in the veering of winds...)
+
+Sometimes, the wind brings mercy and sometimes torment. Sometimes it brings the good news of the clouds that follow it, sometimes it leads the clouds, herding them, scattering them or directing them. Sometimes, the wind comes from the north (the northern wind), and sometimes from the south, sometimes from the east, and striking the front of the Ka`bah, sometimes from the west, striking its back. There are many books about the wind rain, stars and the regulations related to them, but here is not the place to elaborate on that, and Allah knows best.
+
+> Allah continues: وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَآءِ وَالأَرْضِ
+
+(...and clouds which are held between the sky and the earth,)
+
+The clouds run between the sky and the earth to wherever Allah wills of lands and areas.
+
+> Allah said next: لآيَـتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+> (...are indeed Ayat for people of understanding,) meaning, all these things are clear signs that testify to Allah's Oneness. Similarly, Allah said: إِنَّ فِى خَلْقِ السَّمَـوَتِ وَالاٌّرْضِ وَاخْتِلَـفِ الَّيْلِ وَالنَّهَارِ لاّيَـتٍ لاٌّوْلِى الاٌّلْبَـبِ - الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَـماً وَقُعُوداً وَعَلَى جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ السَّمَـوَتِ وَالاٌّرْضِ رَبَّنَآ مَا خَلَقْتَ هَذا بَـطِلاً سُبْحَـنَكَ فَقِنَا عَذَابَ النَّارِ
+
+(Verily, in the creation of the heavens and the earth, and in the alternation of night and day, there are indeed signs for men of understanding. Those who remember Allah (always, and in prayers) standing, sitting, and lying down on their sides, and think deeply about the creation of the heavens and the earth, (saying): "Our Lord! You have not created (all) this without purpose, glory to You! (Exalted are You above all that they associate with You as partners). Give us salvation from the torment of the Fire.") (3:190, 191)
+
+**Tafsir Muyassar (المیسر):**
+
+> إن في خلق السماوات بارتفاعها واتساعها، والأرض بجبالها وسهولها وبحارها، وفي اختلاف الليل والنهار من الطول والقصر، والظلمة والنور، وتعاقبهما بأن يخلف كل منهما الآخر، وفي السفن الجارية في البحار، التي تحمل ما ينفع الناس، وما أنزل الله من السماء من ماء المطر، فأحيا به الأرض، فصارت مخضرَّة ذات بهجة بعد أن كانت يابسة لا نبات فيها، وما نشره الله فيها من كل ما دبَّ على وجه الأرض، وما أنعم به عليكم من تقليب الرياح وتوجيهها، والسحاب المُسيَّر بين السماء والأرض، إن في كل الدلائل السابقة لآياتٍ على وحدانية الله، وجليل نعمه، لقوم يعقلون مواضع الحجج، ويفهمون أدلته سبحانه على وحدانيته، واستحقاقه وحده للعبادة.
+
+## Ayah 165
+
+
+> وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
+
+### The Condition of the Polytheists in this Life and the Hereafter
+
+In these Ayat, Allah mentions the condition of the polytheists in this life and their destination in the Hereafter. They appointed equals and rivals with Allah, worshipping them along with Allah and loving them, just as they love Allah. However, Allah is the only deity worthy of worship, Who has neither rival nor opponent nor partner. It is reported in the Sahihayn that `Abdullah bin Mas`ud said: I said, "O Messenger of Allah ﷺ! What is the greatest sin" He said:
+
+> «أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَك»
+
+(To appoint a rival to Allah while He Alone has created you.)
+
+Allah said:
+
+> وَالَّذِينَ ءَامَنُواْ أَشَدُّ حُبًّا لِلَّهِ
+
+(But those who believe, love Allah more (than anything else))
+
+Because these believers love Allah, know His greatness, revere Him, believe in His Oneness, then they do not associate anything or anyone with Him in the worship. Rather, they worship Him Alone, depend on Him and they seek help from Him for each and every need.
+
+Then, Allah warns those who commit Shirk,
+
+> وَلَوْ يَرَى الَّذِينَ ظَلَمُواْ إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا
+
+(If only, those who do wrong could see, when they will see the torment, that all power belongs to Allah.) if these people knew what they will face and the terrible punishment they are to suffer because of their disbelief and Shirk (polytheism), then they would shun the deviation that they live by.
+
+Allah mentions their false beliefs in their idols, and that those they followed will declare their innocence of them. Allah said:
+
+> إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُواْ مِنَ الَّذِينَ اتَّبَعُواْ
+
+(When those who were followed disown (declare themselves innocent of) those who followed (them).) the angels, whom they used to claim that they worshipped, declare their innocence of them in the Hereafter, saying:
+
+> تَبَرَّأْنَآ إِلَيْكَ مَا كَانُواْ إِيَّانَا يَعْبُدُونَ
+
+(We declare our innocence (from them) before You. It was not us they worshipped.) (28:63), and:
+
+> سُبْحَـنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِمْ بَلْ كَانُواْ يَعْبُدُونَ الْجِنَّ أَكْـثَرُهُم بِهِم مُّؤْمِنُونَ
+
+("Glorified be You! You are our Wali (Lord) instead of them. Nay, but they used to worship the Jinn; most of them were believers in them.") (34:4)
+
+The Jinn will also disown the disbelievers who worshipped them, and they will reject that worship. Allah said:
+
+> وَمَنْ أَضَلُّ مِمَّن يَدْعُو مِن دُونِ اللَّهِ مَن لاَّ يَسْتَجِيبُ لَهُ إِلَى يَوْمِ الْقِيَـمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـفِلُونَ - وَإِذَا حُشِرَ النَّاسُ كَانُواْ لَهُمْ أَعْدَآءً وَكَانُواْ بِعِبَادَتِهِمْ كَـفِرِينَ
+
+(And who is more astray than one who calls on (invokes) besides Allah, such as will not answer him till the Day of Resurrection, and who are (even) unaware of their calls (invocations) to them And when mankind are gathered (on the Day of Resurrection), they (false deities) will become their enemies and will deny their worshipping.) (46:5, 6) Allah said:
+
+> وَاتَّخَذُواْ مِن دُونِ اللَّهِ ءالِهَةً لِّيَكُونُواْ لَهُمْ عِزّاً
+
+> كَلاَّ سَيَكْفُرُونَ بِعِبَـدَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدّاً
+
+(And they have taken (for worship) alihah (gods) besides Allah, that they might give them honor, power and glory (and also protect them from Allah' punishment). Nay, but they (the so-called gods) will deny their worship of them, and become opponents to them (on the Day of Resurrection).) (19:81, 82) Prophet Ibrahim said to his people:
+
+> إِنَّمَا اتَّخَذْتُمْ مِّن دُونِ اللَّهِ أَوْثَـناً مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوةِ الدُّنْيَا ثُمَّ يَوْمَ الْقِيَـمَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضاً وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِّن نَّـصِرِينَ
+
+(You have taken (for worship) idols instead of Allah. The love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper.) (29:25) Allah said:
+
+وَلَوْ تَرَى إِذِ الظَّـلِمُونَ مَوْقُوفُونَ عِندَ رَبّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَى بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ لَوْلاَ أَنتُمْ لَكُنَّا مُؤْمِنِينَ قَالَ الَّذِينَ اسْتَكْبَرُواْ لِلَّذِينَ اسْتُضْعِفُواْ أَنَحْنُ صَدَدنَـكُمْ عَنِ الْهُدَى بَعْدَ إِذْ جَآءكُمْ بَلْ كُنتُمْ مُّجْرِمِينَ وَقَالَ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ بَلْ مَكْرُ الَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَاداً وَأَسَرُّواْ النَّدَامَةَ لَمَّا رَأَوُاْ اْلَعَذَابَ وَجَعَلْنَا الاْغْلَـلَ فِى أَعْنَاقِ الَّذِينَ كَفَرُواْ هَلْ يُجْزَوْنَ إِلاَّ مَا كَانُواْ يَعْمَلُونَ
+
+(But if you could see when the Zalimun (polytheists and wrongdoers) will be made to stand before their Lord,how they will cast the (blaming) word one to another! Those who were deemed weak will say to those who were arrogant: "Had it not been for you, we should certainly have been believers!" And those who were arrogant will say to those who were deemed weak: "Did we keep you back from guidance after it had come to you Nay, but you were Mujrimin (polytheists, sinners, disbelievers, criminals)." Those who were deemed weak will say to those who were arrogant: "Nay, but it was your plotting by night and day, when you ordered us to disbelieve in Allah and set up rivals to Him!" And each of them (parties) will conceal their own regrets (for disobeying Allah during this worldly life), when they behold the torment. And We shall put iron collars round the necks of those who disbelieved. Are they requited aught except what they used to do) (34:31-33) Allah said:
+
+> وَقَالَ الشَّيْطَـنُ لَمَّا قُضِىَ الاٌّمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِىَ عَلَيْكُمْ مِّن سُلْطَـنٍ إِلاَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِى فَلاَ تَلُومُونِى وَلُومُواْ أَنفُسَكُمْ مَّآ أَنَاْ بِمُصْرِخِكُمْ وَمَآ أَنتُمْ بِمُصْرِخِىَّ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ الظَّـلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+
+(And Shaytan (Satan) will say when the matter has been decided: "Verily, Allah promised you a promise of truth. And I too promised you, but I betrayed you. I had no authority over you except that I called you, and you responded to me. So blame me not, but blame yourselves. I cannot help you, nor can you help me. I deny your former act in associating me (Satan) as a partner with Allah (by obeying me in the life of the world). Verily, there is a painful torment for the Zalimin (polytheists and wrongdoers).) (14:22)
+
+Allah then said:
+
+> وَرَأَوُاْ الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(...and they see the torment, then all their relations will be cut off from them.) meaning, when they see Allah's torment, their power and means of salvation are all cut off, and they will have no way of making amends, nor will they find a way of escape from the Fire. `Ata' reported that Ibn `Abbas said about:
+
+> وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(then all their relations will be cut off from them.) "meaning the friendship." Mujahid reported a similar statement in another narration by Ibn Abu Najih.
+
+Allah said:
+
+> وَقَالَ الَّذِينَ اتَّبَعُواْ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُواْ مِنَّا
+
+(And those who followed will say: "If only we had one more chance to return (to the worldly life), we would disown (declare ourselves as innocent from) them as they have disowned (declared themselves as innocent from) us.")
+
+This Ayah means: `If we only had a chance to go back to the life so that we could disown them (their idols, leaders, etc.) shun their worship, ignore them and worship Allah Alone instead.' But they utter a lie in this regard, because if they were given the chance to go back, they would only return to what they were prohibited from doing, just as Allah said. This is why Allah said:
+
+> كَذَلِكَ يُرِيهِمُ اللَّهُ أَعْمَـلَهُمْ حَسَرَتٍ عَلَيْهِمْ
+
+(Thus Allah will show them their deeds as regrets for them.) meaning, their works will vanish and disappear. Similarly, Allah said:
+
+> وَقَدِمْنَآ إِلَى مَا عَمِلُواْ مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَآءً مَّنثُوراً
+
+(And We shall turn to whatever deeds they (disbelievers, polytheists, sinners) did, and We shall make such deeds as scattered floating particles of dust.) (25:23)
+
+Allah also said:
+
+> مَّثَلُ الَّذِينَ كَفَرُواْ بِرَبِّهِمْ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ
+
+(The parable of those who disbelieved in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day.) (14:18), and:
+
+> وَالَّذِينَ كَفَرُواْ أَعْمَـلُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَآءً
+
+(As for those who disbelieved, their deeds are like a mirage in a desert. The thirsty one thinks it to be water.) (24:39)
+
+This is why Allah said ـ at the end of the Ayah 2:167 above
+
+> وَمَا هُم بِخَـرِجِينَ مِنَ النَّارِ
+
+(And they will never get out of the Fire.)
+
+**Tafsir Muyassar (المیسر):**
+
+> ومع هذه البراهين القاطعة يتخذ فريق من الناس من دون الله أصنامًا وأوثانًا وأولياء يجعلونهم نظراء لله تعالى، ويعطونهم من المحبة والتعظيم والطاعة، ما لا يليق إلا بالله وحده. والمؤمنون أعظم حبا لله من حب هؤلاء الكفار لله ولآلهتهم; لأن المؤمنين أخلصوا المحبة كلها لله، وأولئك أشركوا في المحبة. ولو يعلم الذين ظلموا أنفسهم بالشرك في الحياة الدنيا، حين يشاهدون عذاب الآخرة، أن الله هو المتفرد بالقوة جميعًا، وأن الله شديد العذاب، لما اتخذوا من دون الله آلهة يعبدونهم من دونه، ويتقربون بهم إليه.
+
+## Ayah 166
+
+
+> إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ
+
+### The Condition of the Polytheists in this Life and the Hereafter
+
+In these Ayat, Allah mentions the condition of the polytheists in this life and their destination in the Hereafter. They appointed equals and rivals with Allah, worshipping them along with Allah and loving them, just as they love Allah. However, Allah is the only deity worthy of worship, Who has neither rival nor opponent nor partner. It is reported in the Sahihayn that `Abdullah bin Mas`ud said: I said, "O Messenger of Allah ﷺ! What is the greatest sin" He said:
+
+> «أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَك»
+
+(To appoint a rival to Allah while He Alone has created you.)
+
+Allah said:
+
+> وَالَّذِينَ ءَامَنُواْ أَشَدُّ حُبًّا لِلَّهِ
+
+(But those who believe, love Allah more (than anything else))
+
+Because these believers love Allah, know His greatness, revere Him, believe in His Oneness, then they do not associate anything or anyone with Him in the worship. Rather, they worship Him Alone, depend on Him and they seek help from Him for each and every need.
+
+Then, Allah warns those who commit Shirk,
+
+> وَلَوْ يَرَى الَّذِينَ ظَلَمُواْ إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا
+
+(If only, those who do wrong could see, when they will see the torment, that all power belongs to Allah.) if these people knew what they will face and the terrible punishment they are to suffer because of their disbelief and Shirk (polytheism), then they would shun the deviation that they live by.
+
+Allah mentions their false beliefs in their idols, and that those they followed will declare their innocence of them. Allah said:
+
+> إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُواْ مِنَ الَّذِينَ اتَّبَعُواْ
+
+(When those who were followed disown (declare themselves innocent of) those who followed (them).) the angels, whom they used to claim that they worshipped, declare their innocence of them in the Hereafter, saying:
+
+> تَبَرَّأْنَآ إِلَيْكَ مَا كَانُواْ إِيَّانَا يَعْبُدُونَ
+
+(We declare our innocence (from them) before You. It was not us they worshipped.) (28:63), and:
+
+> سُبْحَـنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِمْ بَلْ كَانُواْ يَعْبُدُونَ الْجِنَّ أَكْـثَرُهُم بِهِم مُّؤْمِنُونَ
+
+("Glorified be You! You are our Wali (Lord) instead of them. Nay, but they used to worship the Jinn; most of them were believers in them.") (34:4)
+
+The Jinn will also disown the disbelievers who worshipped them, and they will reject that worship. Allah said:
+
+> وَمَنْ أَضَلُّ مِمَّن يَدْعُو مِن دُونِ اللَّهِ مَن لاَّ يَسْتَجِيبُ لَهُ إِلَى يَوْمِ الْقِيَـمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـفِلُونَ - وَإِذَا حُشِرَ النَّاسُ كَانُواْ لَهُمْ أَعْدَآءً وَكَانُواْ بِعِبَادَتِهِمْ كَـفِرِينَ
+
+(And who is more astray than one who calls on (invokes) besides Allah, such as will not answer him till the Day of Resurrection, and who are (even) unaware of their calls (invocations) to them And when mankind are gathered (on the Day of Resurrection), they (false deities) will become their enemies and will deny their worshipping.) (46:5, 6) Allah said:
+
+> وَاتَّخَذُواْ مِن دُونِ اللَّهِ ءالِهَةً لِّيَكُونُواْ لَهُمْ عِزّاً
+
+> كَلاَّ سَيَكْفُرُونَ بِعِبَـدَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدّاً
+
+(And they have taken (for worship) alihah (gods) besides Allah, that they might give them honor, power and glory (and also protect them from Allah' punishment). Nay, but they (the so-called gods) will deny their worship of them, and become opponents to them (on the Day of Resurrection).) (19:81, 82) Prophet Ibrahim said to his people:
+
+> إِنَّمَا اتَّخَذْتُمْ مِّن دُونِ اللَّهِ أَوْثَـناً مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوةِ الدُّنْيَا ثُمَّ يَوْمَ الْقِيَـمَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضاً وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِّن نَّـصِرِينَ
+
+(You have taken (for worship) idols instead of Allah. The love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper.) (29:25) Allah said:
+
+وَلَوْ تَرَى إِذِ الظَّـلِمُونَ مَوْقُوفُونَ عِندَ رَبّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَى بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ لَوْلاَ أَنتُمْ لَكُنَّا مُؤْمِنِينَ قَالَ الَّذِينَ اسْتَكْبَرُواْ لِلَّذِينَ اسْتُضْعِفُواْ أَنَحْنُ صَدَدنَـكُمْ عَنِ الْهُدَى بَعْدَ إِذْ جَآءكُمْ بَلْ كُنتُمْ مُّجْرِمِينَ وَقَالَ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ بَلْ مَكْرُ الَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَاداً وَأَسَرُّواْ النَّدَامَةَ لَمَّا رَأَوُاْ اْلَعَذَابَ وَجَعَلْنَا الاْغْلَـلَ فِى أَعْنَاقِ الَّذِينَ كَفَرُواْ هَلْ يُجْزَوْنَ إِلاَّ مَا كَانُواْ يَعْمَلُونَ
+
+(But if you could see when the Zalimun (polytheists and wrongdoers) will be made to stand before their Lord,how they will cast the (blaming) word one to another! Those who were deemed weak will say to those who were arrogant: "Had it not been for you, we should certainly have been believers!" And those who were arrogant will say to those who were deemed weak: "Did we keep you back from guidance after it had come to you Nay, but you were Mujrimin (polytheists, sinners, disbelievers, criminals)." Those who were deemed weak will say to those who were arrogant: "Nay, but it was your plotting by night and day, when you ordered us to disbelieve in Allah and set up rivals to Him!" And each of them (parties) will conceal their own regrets (for disobeying Allah during this worldly life), when they behold the torment. And We shall put iron collars round the necks of those who disbelieved. Are they requited aught except what they used to do) (34:31-33) Allah said:
+
+> وَقَالَ الشَّيْطَـنُ لَمَّا قُضِىَ الاٌّمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِىَ عَلَيْكُمْ مِّن سُلْطَـنٍ إِلاَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِى فَلاَ تَلُومُونِى وَلُومُواْ أَنفُسَكُمْ مَّآ أَنَاْ بِمُصْرِخِكُمْ وَمَآ أَنتُمْ بِمُصْرِخِىَّ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ الظَّـلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+
+(And Shaytan (Satan) will say when the matter has been decided: "Verily, Allah promised you a promise of truth. And I too promised you, but I betrayed you. I had no authority over you except that I called you, and you responded to me. So blame me not, but blame yourselves. I cannot help you, nor can you help me. I deny your former act in associating me (Satan) as a partner with Allah (by obeying me in the life of the world). Verily, there is a painful torment for the Zalimin (polytheists and wrongdoers).) (14:22)
+
+Allah then said:
+
+> وَرَأَوُاْ الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(...and they see the torment, then all their relations will be cut off from them.) meaning, when they see Allah's torment, their power and means of salvation are all cut off, and they will have no way of making amends, nor will they find a way of escape from the Fire. `Ata' reported that Ibn `Abbas said about:
+
+> وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(then all their relations will be cut off from them.) "meaning the friendship." Mujahid reported a similar statement in another narration by Ibn Abu Najih.
+
+Allah said:
+
+> وَقَالَ الَّذِينَ اتَّبَعُواْ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُواْ مِنَّا
+
+(And those who followed will say: "If only we had one more chance to return (to the worldly life), we would disown (declare ourselves as innocent from) them as they have disowned (declared themselves as innocent from) us.")
+
+This Ayah means: `If we only had a chance to go back to the life so that we could disown them (their idols, leaders, etc.) shun their worship, ignore them and worship Allah Alone instead.' But they utter a lie in this regard, because if they were given the chance to go back, they would only return to what they were prohibited from doing, just as Allah said. This is why Allah said:
+
+> كَذَلِكَ يُرِيهِمُ اللَّهُ أَعْمَـلَهُمْ حَسَرَتٍ عَلَيْهِمْ
+
+(Thus Allah will show them their deeds as regrets for them.) meaning, their works will vanish and disappear. Similarly, Allah said:
+
+> وَقَدِمْنَآ إِلَى مَا عَمِلُواْ مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَآءً مَّنثُوراً
+
+(And We shall turn to whatever deeds they (disbelievers, polytheists, sinners) did, and We shall make such deeds as scattered floating particles of dust.) (25:23)
+
+Allah also said:
+
+> مَّثَلُ الَّذِينَ كَفَرُواْ بِرَبِّهِمْ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ
+
+(The parable of those who disbelieved in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day.) (14:18), and:
+
+> وَالَّذِينَ كَفَرُواْ أَعْمَـلُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَآءً
+
+(As for those who disbelieved, their deeds are like a mirage in a desert. The thirsty one thinks it to be water.) (24:39)
+
+This is why Allah said ـ at the end of the Ayah 2:167 above
+
+> وَمَا هُم بِخَـرِجِينَ مِنَ النَّارِ
+
+(And they will never get out of the Fire.)
+
+**Tafsir Muyassar (المیسر):**
+
+> عند معاينتهم عذاب الآخرة يتبرأ الرؤساء المتبوعون ممن اتبعهم على الشرك، وتنقطع بينهم كل الصلات التي ارتبطوا بها في الدنيا: من القرابة، والاتِّباع، والدين، وغير ذلك.
+
+## Ayah 167
+
+
+> وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَـٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ
+
+### The Condition of the Polytheists in this Life and the Hereafter
+
+In these Ayat, Allah mentions the condition of the polytheists in this life and their destination in the Hereafter. They appointed equals and rivals with Allah, worshipping them along with Allah and loving them, just as they love Allah. However, Allah is the only deity worthy of worship, Who has neither rival nor opponent nor partner. It is reported in the Sahihayn that `Abdullah bin Mas`ud said: I said, "O Messenger of Allah ﷺ! What is the greatest sin" He said:
+
+> «أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَك»
+
+(To appoint a rival to Allah while He Alone has created you.)
+
+Allah said:
+
+> وَالَّذِينَ ءَامَنُواْ أَشَدُّ حُبًّا لِلَّهِ
+
+(But those who believe, love Allah more (than anything else))
+
+Because these believers love Allah, know His greatness, revere Him, believe in His Oneness, then they do not associate anything or anyone with Him in the worship. Rather, they worship Him Alone, depend on Him and they seek help from Him for each and every need.
+
+Then, Allah warns those who commit Shirk,
+
+> وَلَوْ يَرَى الَّذِينَ ظَلَمُواْ إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا
+
+(If only, those who do wrong could see, when they will see the torment, that all power belongs to Allah.) if these people knew what they will face and the terrible punishment they are to suffer because of their disbelief and Shirk (polytheism), then they would shun the deviation that they live by.
+
+Allah mentions their false beliefs in their idols, and that those they followed will declare their innocence of them. Allah said:
+
+> إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُواْ مِنَ الَّذِينَ اتَّبَعُواْ
+
+(When those who were followed disown (declare themselves innocent of) those who followed (them).) the angels, whom they used to claim that they worshipped, declare their innocence of them in the Hereafter, saying:
+
+> تَبَرَّأْنَآ إِلَيْكَ مَا كَانُواْ إِيَّانَا يَعْبُدُونَ
+
+(We declare our innocence (from them) before You. It was not us they worshipped.) (28:63), and:
+
+> سُبْحَـنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِمْ بَلْ كَانُواْ يَعْبُدُونَ الْجِنَّ أَكْـثَرُهُم بِهِم مُّؤْمِنُونَ
+
+("Glorified be You! You are our Wali (Lord) instead of them. Nay, but they used to worship the Jinn; most of them were believers in them.") (34:4)
+
+The Jinn will also disown the disbelievers who worshipped them, and they will reject that worship. Allah said:
+
+> وَمَنْ أَضَلُّ مِمَّن يَدْعُو مِن دُونِ اللَّهِ مَن لاَّ يَسْتَجِيبُ لَهُ إِلَى يَوْمِ الْقِيَـمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـفِلُونَ - وَإِذَا حُشِرَ النَّاسُ كَانُواْ لَهُمْ أَعْدَآءً وَكَانُواْ بِعِبَادَتِهِمْ كَـفِرِينَ
+
+(And who is more astray than one who calls on (invokes) besides Allah, such as will not answer him till the Day of Resurrection, and who are (even) unaware of their calls (invocations) to them And when mankind are gathered (on the Day of Resurrection), they (false deities) will become their enemies and will deny their worshipping.) (46:5, 6) Allah said:
+
+> وَاتَّخَذُواْ مِن دُونِ اللَّهِ ءالِهَةً لِّيَكُونُواْ لَهُمْ عِزّاً
+
+> كَلاَّ سَيَكْفُرُونَ بِعِبَـدَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدّاً
+
+(And they have taken (for worship) alihah (gods) besides Allah, that they might give them honor, power and glory (and also protect them from Allah' punishment). Nay, but they (the so-called gods) will deny their worship of them, and become opponents to them (on the Day of Resurrection).) (19:81, 82) Prophet Ibrahim said to his people:
+
+> إِنَّمَا اتَّخَذْتُمْ مِّن دُونِ اللَّهِ أَوْثَـناً مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوةِ الدُّنْيَا ثُمَّ يَوْمَ الْقِيَـمَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضاً وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِّن نَّـصِرِينَ
+
+(You have taken (for worship) idols instead of Allah. The love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper.) (29:25) Allah said:
+
+وَلَوْ تَرَى إِذِ الظَّـلِمُونَ مَوْقُوفُونَ عِندَ رَبّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَى بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ لَوْلاَ أَنتُمْ لَكُنَّا مُؤْمِنِينَ قَالَ الَّذِينَ اسْتَكْبَرُواْ لِلَّذِينَ اسْتُضْعِفُواْ أَنَحْنُ صَدَدنَـكُمْ عَنِ الْهُدَى بَعْدَ إِذْ جَآءكُمْ بَلْ كُنتُمْ مُّجْرِمِينَ وَقَالَ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ بَلْ مَكْرُ الَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَاداً وَأَسَرُّواْ النَّدَامَةَ لَمَّا رَأَوُاْ اْلَعَذَابَ وَجَعَلْنَا الاْغْلَـلَ فِى أَعْنَاقِ الَّذِينَ كَفَرُواْ هَلْ يُجْزَوْنَ إِلاَّ مَا كَانُواْ يَعْمَلُونَ
+
+(But if you could see when the Zalimun (polytheists and wrongdoers) will be made to stand before their Lord,how they will cast the (blaming) word one to another! Those who were deemed weak will say to those who were arrogant: "Had it not been for you, we should certainly have been believers!" And those who were arrogant will say to those who were deemed weak: "Did we keep you back from guidance after it had come to you Nay, but you were Mujrimin (polytheists, sinners, disbelievers, criminals)." Those who were deemed weak will say to those who were arrogant: "Nay, but it was your plotting by night and day, when you ordered us to disbelieve in Allah and set up rivals to Him!" And each of them (parties) will conceal their own regrets (for disobeying Allah during this worldly life), when they behold the torment. And We shall put iron collars round the necks of those who disbelieved. Are they requited aught except what they used to do) (34:31-33) Allah said:
+
+> وَقَالَ الشَّيْطَـنُ لَمَّا قُضِىَ الاٌّمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِىَ عَلَيْكُمْ مِّن سُلْطَـنٍ إِلاَّ أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِى فَلاَ تَلُومُونِى وَلُومُواْ أَنفُسَكُمْ مَّآ أَنَاْ بِمُصْرِخِكُمْ وَمَآ أَنتُمْ بِمُصْرِخِىَّ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ الظَّـلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+
+(And Shaytan (Satan) will say when the matter has been decided: "Verily, Allah promised you a promise of truth. And I too promised you, but I betrayed you. I had no authority over you except that I called you, and you responded to me. So blame me not, but blame yourselves. I cannot help you, nor can you help me. I deny your former act in associating me (Satan) as a partner with Allah (by obeying me in the life of the world). Verily, there is a painful torment for the Zalimin (polytheists and wrongdoers).) (14:22)
+
+Allah then said:
+
+> وَرَأَوُاْ الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(...and they see the torment, then all their relations will be cut off from them.) meaning, when they see Allah's torment, their power and means of salvation are all cut off, and they will have no way of making amends, nor will they find a way of escape from the Fire. `Ata' reported that Ibn `Abbas said about:
+
+> وَتَقَطَّعَتْ بِهِمُ الاٌّسْبَابُ
+
+(then all their relations will be cut off from them.) "meaning the friendship." Mujahid reported a similar statement in another narration by Ibn Abu Najih.
+
+Allah said:
+
+> وَقَالَ الَّذِينَ اتَّبَعُواْ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُواْ مِنَّا
+
+(And those who followed will say: "If only we had one more chance to return (to the worldly life), we would disown (declare ourselves as innocent from) them as they have disowned (declared themselves as innocent from) us.")
+
+This Ayah means: `If we only had a chance to go back to the life so that we could disown them (their idols, leaders, etc.) shun their worship, ignore them and worship Allah Alone instead.' But they utter a lie in this regard, because if they were given the chance to go back, they would only return to what they were prohibited from doing, just as Allah said. This is why Allah said:
+
+> كَذَلِكَ يُرِيهِمُ اللَّهُ أَعْمَـلَهُمْ حَسَرَتٍ عَلَيْهِمْ
+
+(Thus Allah will show them their deeds as regrets for them.) meaning, their works will vanish and disappear. Similarly, Allah said:
+
+> وَقَدِمْنَآ إِلَى مَا عَمِلُواْ مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَآءً مَّنثُوراً
+
+(And We shall turn to whatever deeds they (disbelievers, polytheists, sinners) did, and We shall make such deeds as scattered floating particles of dust.) (25:23)
+
+Allah also said:
+
+> مَّثَلُ الَّذِينَ كَفَرُواْ بِرَبِّهِمْ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ
+
+(The parable of those who disbelieved in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day.) (14:18), and:
+
+> وَالَّذِينَ كَفَرُواْ أَعْمَـلُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَآءً
+
+(As for those who disbelieved, their deeds are like a mirage in a desert. The thirsty one thinks it to be water.) (24:39)
+
+This is why Allah said ـ at the end of the Ayah 2:167 above
+
+> وَمَا هُم بِخَـرِجِينَ مِنَ النَّارِ
+
+(And they will never get out of the Fire.)
+
+**Tafsir Muyassar (المیسر):**
+
+> وقال التابعون: يا ليت لنا عودة إلى الدنيا، فنعلن براءتنا من هؤلاء الرؤساء، كما أعلنوا براءتهم مِنَّا. وكما أراهم الله شدة عذابه يوم القيامة يريهم أعمالهم الباطلة ندامات عليهم، وليسوا بخارجين من النار أبدًا.
+
+## Ayah 168
+
+
+> يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَـٰلًا طَيِّبًا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+### The Order to eat the Lawful Things, and the Prohibition of following the Footsteps of Shaytan
+
+After Allah stated that there is no deity worthy of worship except Him and that He Alone created the creation, He stated that He is the Sustainer for all His creation, and He mentioned a favor that He granted them; He has allowed them to eat any of the pure lawful things on the earth that do not cause harm to the body or the mind. He also forbade them from following the footsteps of Shaytan, meaning his ways and methods with which he misguides his followers, like prohibiting the Bahirah (a she-camel whose milk was spared for the idols and nobody was allowed to milk it), or Sa'ibah (a she-camel let loose for free pasture for the idols and nothing was allowed to be carried on it), or a Wasilah (a she-camel set free for idols because it has given birth to a she-camel at its first delivery and then again gives birth to a she-camel at its second delivery), and all of the other things that Shaytan made attractive to them during the time of Jahiliyyah. Muslim recorded `Iyad bin Himar saying that Allah's Messenger ﷺ said that Allah the Exalted says,
+
+> يَقُولُ اللهُ تَعَالَى:إِنَّ كُلَّ مَالٍ مَنَحْتُهُ عِبَادِي فَهُوَ لَهُمْ حَلَالٌ، وَفِيهِ وَإِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ، فَجَاءَتْهُمُ الشَّيَاطِينُ فَاجْتَالَتْهُمْ عَنْ دِينِهِمْ، وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُم»
+
+(`Every type of wealth I have endowed My servants is allowed for them...' (until), `I have created My servants Hunafa' (pure or upright), but the devils came to them and led them astray from their (true) religion and prohibited them from what I allowed for them. ')
+
+Allah said:
+
+> إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+(...he is to you an open enemy.)
+
+warning against Satan. Allah said in another instance:
+
+> إِنَّ الشَّيْطَـنَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوّاً إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُواْ مِنْ أَصْحَـبِ السَّعِيرِ
+
+(Surely, Shaytan is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.) (35:6), and:
+
+> أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّـلِمِينَ بَدَلاً
+
+(Will you then take him (Iblis) and his offspring as protectors and helpers rather than Me while they are enemies to you What an evil is the exchange for the Zalimin (polytheists, and wrongdoers, etc).) (18:50)
+
+Qatadah and As-Suddi commented on what Allah said:
+
+> وَلاَ تَتَّبِعُواْ خُطُوَتِ الشَّيْطَـنِ
+
+(...and follow not the footsteps of Shaytan (Satan)):
+
+Every act of disobedience to Allah is among the footsteps of Satan.
+
+`Abd bin Humayd reported that Ibn `Abbas said: "Any vow or oath that one makes while angry, is among the footsteps of Shaytan and its expiation is that of the vow. " Allah's statement:
+
+> إِنَّمَا يَأْمُرُكُم بِالسُّوءِ وَالْفَحْشَآءِ وَأَن تَقُولُواْ عَلَى اللَّهِ مَا لاَ تَعْلَمُونَ
+
+(He (Satan) commands you only what is evil and Fahsha (sinful), and that you should say about Allah what you know not.)
+
+The verse means: `Your enemy, Satan, commands you to commit evil acts and what is worse than that, such as adultery and so forth. He commands you to commit what is even worse, that is, saying about Allah without knowledge.' So this includes every innovator and disbeliever.
+
+**Tafsir Muyassar (المیسر):**
+
+> يا أيها الناس كلوا من رزق الله الذي أباحه لكم في الأرض، وهو الطاهر غير النجس، النافع غير الضار، ولا تتبعوا طرق الشيطان في التحليل والتحريم، والبدع والمعاصي. إنه عدو لكم ظاهر العداوة.
+
+## Ayah 169
+
+
+> إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+### The Order to eat the Lawful Things, and the Prohibition of following the Footsteps of Shaytan
+
+After Allah stated that there is no deity worthy of worship except Him and that He Alone created the creation, He stated that He is the Sustainer for all His creation, and He mentioned a favor that He granted them; He has allowed them to eat any of the pure lawful things on the earth that do not cause harm to the body or the mind. He also forbade them from following the footsteps of Shaytan, meaning his ways and methods with which he misguides his followers, like prohibiting the Bahirah (a she-camel whose milk was spared for the idols and nobody was allowed to milk it), or Sa'ibah (a she-camel let loose for free pasture for the idols and nothing was allowed to be carried on it), or a Wasilah (a she-camel set free for idols because it has given birth to a she-camel at its first delivery and then again gives birth to a she-camel at its second delivery), and all of the other things that Shaytan made attractive to them during the time of Jahiliyyah. Muslim recorded `Iyad bin Himar saying that Allah's Messenger ﷺ said that Allah the Exalted says,
+
+> يَقُولُ اللهُ تَعَالَى:إِنَّ كُلَّ مَالٍ مَنَحْتُهُ عِبَادِي فَهُوَ لَهُمْ حَلَالٌ، وَفِيهِ وَإِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ، فَجَاءَتْهُمُ الشَّيَاطِينُ فَاجْتَالَتْهُمْ عَنْ دِينِهِمْ، وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُم»
+
+(`Every type of wealth I have endowed My servants is allowed for them...' (until), `I have created My servants Hunafa' (pure or upright), but the devils came to them and led them astray from their (true) religion and prohibited them from what I allowed for them. ')
+
+Allah said:
+
+> إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+(...he is to you an open enemy.)
+
+warning against Satan. Allah said in another instance:
+
+> إِنَّ الشَّيْطَـنَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوّاً إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُواْ مِنْ أَصْحَـبِ السَّعِيرِ
+
+(Surely, Shaytan is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.) (35:6), and:
+
+> أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّـلِمِينَ بَدَلاً
+
+(Will you then take him (Iblis) and his offspring as protectors and helpers rather than Me while they are enemies to you What an evil is the exchange for the Zalimin (polytheists, and wrongdoers, etc).) (18:50)
+
+Qatadah and As-Suddi commented on what Allah said:
+
+> وَلاَ تَتَّبِعُواْ خُطُوَتِ الشَّيْطَـنِ
+
+(...and follow not the footsteps of Shaytan (Satan)):
+
+Every act of disobedience to Allah is among the footsteps of Satan.
+
+`Abd bin Humayd reported that Ibn `Abbas said: "Any vow or oath that one makes while angry, is among the footsteps of Shaytan and its expiation is that of the vow. " Allah's statement:
+
+> إِنَّمَا يَأْمُرُكُم بِالسُّوءِ وَالْفَحْشَآءِ وَأَن تَقُولُواْ عَلَى اللَّهِ مَا لاَ تَعْلَمُونَ
+
+(He (Satan) commands you only what is evil and Fahsha (sinful), and that you should say about Allah what you know not.)
+
+The verse means: `Your enemy, Satan, commands you to commit evil acts and what is worse than that, such as adultery and so forth. He commands you to commit what is even worse, that is, saying about Allah without knowledge.' So this includes every innovator and disbeliever.
+
+**Tafsir Muyassar (المیسر):**
+
+> إنما يأمركم الشيطان بكل ذنب قبيح يسوءُكم، وبكل معصية بالغة القبح، وبأن تفتروا على الله الكذب من تحريم الحلال وغيره بدون علم.
+
+## Ayah 170
+
+
+> وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ
+
+### The Polytheist imitates Other Polytheists
+
+Allah states that if the disbelievers and polytheists are called to follow what Allah has revealed to His Messenger and abandon the practices of misguidance and ignorance that they indulge in, they will say, "Rather. We shall follow what we found our fathers following," meaning, worshipping the idols and the false deities. Allah criticized their reasoning:
+
+> أَوَلَوْ كَانَ ءَابَاؤُهُمْ
+
+((Would they do that!) even though their fathers), meaning, those whom they follow and whose practices they imitate, and:
+
+> لاَ يَعْقِلُونَ شَيْئًا وَلاَ يَهْتَدُونَ
+
+(...did not understand anything nor were they guided) meaning, they had no sound understanding or guidance. Ibn Ishaq reported that Ibn `Abbas said that this was revealed about a group of Jews whom Allah's Messenger ﷺ called to Islam, but they refused, saying, "Rather, we shall follow what we found our forefathers following." So Allah revealed this Ayah (2:170) above."
+
+### The Disbeliever is just like an Animal
+
+Allah then made a parable of the disbelievers, just as He said in another Ayah:
+
+> لِلَّذِينَ لاَ يُؤْمِنُونَ بِالاٌّخِرَةِ مَثَلُ السَّوْءِ
+
+(For those who believe not in the Hereafter is an evil description.) (16:60)
+
+Similarly, Allah said here (2:171 above)
+
+> وَمَثَلُ الَّذِينَ كَفَرُواْ
+
+(And the example of those who disbelieve...) meaning, in their injustice, misguidance and ignorance, they are just like wandering animals, not understanding what they are told; if the shepherd heralds them or calls them to what benefits them, they would not understand what is actually being said to them, for they only hear unintelligible sounds. This is what is reported from Ibn `Abbas, Abu Al-`Aliyah, Mujahid, `Ikrimah, `Ata', Al-Hasan, Qatadah, `Ata' Al-Khurasani and Ar-Rabi` bin Anas.
+
+> صُمٌّ بُكْمٌ عُمْىٌ
+
+(They are deaf, dumb, and blind.) means, they are deaf, as they do not hear the truth; mute, as they do not utter it; and blind, as they do not see or recognize its path and way.
+
+> فَهُمْ لاَ يَعْقِلُونَ
+
+(So they do not understand.) means, they do not comprehend or understand anything.
+
+**Tafsir Muyassar (المیسر):**
+
+> وإذا قال المؤمنون ناصحين أهل الضلال: اتبعوا ما أنزل الله من القرآن والهدى، أصرُّوا على تقليد أسلافهم المشركين قائلين: لا نتبع دينكم، بل نتبع ما وجدنا عليه آباءنا. أيتبعون آباءهم ولو كانوا لا يعقلون عن الله شيئًا، ولا يدركون رشدًا؟
+
+## Ayah 171
+
+
+> وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءً وَنِدَآءً ۚ صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ
+
+### The Polytheist imitates Other Polytheists
+
+Allah states that if the disbelievers and polytheists are called to follow what Allah has revealed to His Messenger and abandon the practices of misguidance and ignorance that they indulge in, they will say, "Rather. We shall follow what we found our fathers following," meaning, worshipping the idols and the false deities. Allah criticized their reasoning:
+
+> أَوَلَوْ كَانَ ءَابَاؤُهُمْ
+
+((Would they do that!) even though their fathers), meaning, those whom they follow and whose practices they imitate, and:
+
+> لاَ يَعْقِلُونَ شَيْئًا وَلاَ يَهْتَدُونَ
+
+(...did not understand anything nor were they guided) meaning, they had no sound understanding or guidance. Ibn Ishaq reported that Ibn `Abbas said that this was revealed about a group of Jews whom Allah's Messenger ﷺ called to Islam, but they refused, saying, "Rather, we shall follow what we found our forefathers following." So Allah revealed this Ayah (2:170) above."
+
+### The Disbeliever is just like an Animal
+
+Allah then made a parable of the disbelievers, just as He said in another Ayah:
+
+> لِلَّذِينَ لاَ يُؤْمِنُونَ بِالاٌّخِرَةِ مَثَلُ السَّوْءِ
+
+(For those who believe not in the Hereafter is an evil description.) (16:60)
+
+Similarly, Allah said here (2:171 above)
+
+> وَمَثَلُ الَّذِينَ كَفَرُواْ
+
+(And the example of those who disbelieve...) meaning, in their injustice, misguidance and ignorance, they are just like wandering animals, not understanding what they are told; if the shepherd heralds them or calls them to what benefits them, they would not understand what is actually being said to them, for they only hear unintelligible sounds. This is what is reported from Ibn `Abbas, Abu Al-`Aliyah, Mujahid, `Ikrimah, `Ata', Al-Hasan, Qatadah, `Ata' Al-Khurasani and Ar-Rabi` bin Anas.
+
+> صُمٌّ بُكْمٌ عُمْىٌ
+
+(They are deaf, dumb, and blind.) means, they are deaf, as they do not hear the truth; mute, as they do not utter it; and blind, as they do not see or recognize its path and way.
+
+> فَهُمْ لاَ يَعْقِلُونَ
+
+(So they do not understand.) means, they do not comprehend or understand anything.
+
+**Tafsir Muyassar (المیسر):**
+
+> وصفة الذين كفروا ودَاعِيهم إلى الهدى والإيمان كصفة الرَّاعي الذي يصيح بالبهائم ويزجرها، وهي لا تفهم معاني كلامه، وإنما تسمع النداء ودَوِيَّ الصوت فقط. هؤلاء الكفار صُمٌّ سدُّوا أسماعهم عن الحق، بُكْم أخرسوا ألسنتهم عن النطق به، عُمْي لا ترى أعينهم براهينه الباهرة، فهم لا يعملون عقولهم فيما ينفعهم.
+
+## Ayah 172
+
+
+> يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
+
+### The Command to eat Pure Things and the Explanation of the Prohibited Things
+
+Allah commands His believing servants to eat from the pure things that He has created for them and to thank Him for it, if they are truly His servants. Eating from pure sources is a cause for the acceptance of supplications and acts of worship, just as eating from impure sources prevents the acceptance of supplications and acts of worship, as mentioned in a Hadith recorded by Imam Ahmad, that Abu Hurayrah said that Allah's Messenger ﷺ said:
+
+> «أَيُّهَا النَّاسُ إِنَّ اللهَ طَيِّبٌ، لَا يَقْبَلُ إِلَّا طَيِّـبًا، وَإنَّ اللهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ، فَقَالَ:
+
+> يأَيُّهَا الرُّسُلُ كُلُواْ مِنَ الطَّيِّبَـتِ وَاعْمَلُواْ صَـلِحاً إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ
+
+> ، وَقَالَ:
+
+> يـأَيُّهَا الَّذِينَ ءَامَنُواْ كُلُواْ مِن طَيِّبَاتِ مَا رَزَقْنَـكُمْ
+
+> ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَملْبَسُهُ حَرَامٌ، وَغُذِّيَ بالْحَرَامِ فَأَنَّى يُسْتَجَابُ لِذلِكَ؟»
+
+(O people! Allah is Tayyib (Pure and Good) and only accepts that which is Tayyib. Allah has indeed commanded the believers with what He has commanded the Messengers, for He said: (O (you) Messengers! Eat of the Tayyibat and do righteous deeds. Verily, I am well-acquainted with what you do) (23:51), and: (O you who believe! Eat of the lawful things that We have provided you with) He then mentioned a man, (who is engaged in a long journey, whose hair is untidy and who is covered in dust, he raises his hands to the sky, and says, `O Lord! O Lord!' Yet, his food is from the unlawful, his drink is from the unlawful, his clothes are from the unlawful, and he was nourished by the unlawful, so how can it (his supplication) be accepted") It was also recorded by Muslim and At-Tirmidhi
+
+After Allah mentioned how He has blessed His creatures by providing them with provisions, and after commanding them to eat from the pure things that He has provided them, He then stated that He has not prohibited anything for them, except dead animals. Dead animals are those that die before being slaughtered; whether they die by strangling, a violent blow, a headlong fall, the goring of horns or by being partly eaten by a wild animal. Dead animals of the sea are excluded from this ruling, as is explained later, Allah willing, as Allah said:
+
+> أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ
+
+(Lawful to you is (the pursuit of) watergame and its use for food) (5:96), and because of the Hadith about the whale recorded in the Sahih. The Musnad, Al-Muwatta' and the Sunan recorded the Prophet saying about the sea:
+
+> «هُوَ الطَّهُورُ مَاؤُهُ والْحِلُّ مَيْتَتُه»
+
+(Its water is pure and its dead are permissible.)
+
+Ash-Shafi`i, Ahmad, Ibn Majah, and Ad-Daraqutni reported that Ibn `Umar said that the Prophet said:
+
+> «أُحِلَّ لَنَا مَيْتتَانِ وَدَمَانِ،السَّمَكُ وَالْجَرَادُ وَالْكَبِدُ وَالطِّحَال»
+
+(We have been allowed two dead things and two bloody things: fish and locusts; and liver and spleen).
+
+We will mention this subject again in Surat Al-Ma'idah (chapter 5 in the Qur'an), In sha' Allah (if Allah wills).
+
+Issue: According to Ash-Shafi`i and other scholars, milk and eggs that are inside dead unslaughtered animals are not pure, because they are part of the dead animal. In one narration from him, Malik said that they are pure themselves, but become impure because of their location. Similarly, there is a difference of opinion over the cheeses (made with the milk) of dead animals. The popular view of the scholars is that it is impure, although they mentioned the fact that the Companions ate from the cheeses made by the Magians (fire worshippers). Hence, Al-Qurtubi commented: "Since only a small part of the dead animal is mixed with it, then it is permissible, because a minute amount of impurity does not matter if it is mixed with a large amount of liquid." Ibn Majah reported that Salman said that Allah's Messenger ﷺ was asked about butter, cheese and fur. He said:
+
+> «الْحَلَالُ مَا أَحَلَّ اللهُ فِي كِتَابِهِ، وَالْحَرَامُ مَا حَرَّمَ اللهُ فِي كِتَابِهِ، وَمَا سَكَتَ عَنْهُ فَهُوَ مِمَّا عَفَا عَنْه»
+
+(The allowed is what Allah has allowed in His Book and the prohibited is what Allah has prohibited in His Book. What He has not mentioned is a part of what He has pardoned.)
+
+Allah has prohibited eating the meat of swine, whether slaughtered or not, and this includes its fat, either because it is implied, or because the term Lahm includes that, or by analogy. Similarly prohibited are offerings to other than Allah, that is what was slaughtered in a name other than His, be it for monuments, idols, divination, or the other practices of the time of Jahiliyyah. Al-Qurtubi mentioned that `A'ishah was asked about what non-Muslims slaughter for their feasts and then offer some of it as gifts for Muslims. She said, "Do not eat from what has been slaughtered for that day, (or feast) but eat from their vegetables."
+
+### The Prohibited is Allowed in Cases of Emergency
+
+Then Allah permitted eating these things when needed for survival or when there are no permissible types of food available. Allah said:
+
+> فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ عَادٍ
+
+(But if one is forced by necessity without willful disobedience nor transgressing due limits), meaning, without transgression or overstepping the limits,
+
+> فَلاَ إِثْمَ عَلَيْهِ
+
+(...then there is no sin on him.) meaning, if one eats such items, for,
+
+> إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(Truly, Allah is Oft-Forgiving, Most Merciful.)
+
+Mujahid said, "If one is forced by necessity without willful disobedience nor transgressing the set limits. For example, if he didn't, then he would have to resort to highway robbery, rising against the rulers, or some other kinds of disobedience to Allah, then the permission applies to him. If one does so transgressing the limits, or continually, or out of disobedience to Allah, then the permission does not apply to him even if he is in dire need." The same was reported from Sa`id bin Jubayr. Sa`id and Muqatil bin Hayyan are reported to have said that without willful disobedience means, "Without believing that it is permissible." It was reported that Ibn `Abbas commented on the Ayah:
+
+> غَيْرَ بَاغٍ وَلاَ عَادٍ
+
+(. ..without willful disobedience nor transgressing) saying, "Without willful disobedience means eating the dead animal and not continuing to do so. Qatadah said:
+
+> غَيْرَ بَاغٍ
+
+(without willful disobedience) "Without transgressing by eating from the dead animals, that is when the lawful is available."
+
+Issue: When one in dire straits finds both ـ dead animals, and foods belong to other people which he could get without risking the loss of his hands or causing harm, then it is not allowed for him to eat the dead animals. Ibn Majah reported that `Abbad bin Shurahbil Al-Ghubari said, "One year we suffered from famine. I came to Al-Madinah and entered a garden. I took some grain that I cleaned, and ate, then I left some of it in my garment. The owner of the garden came, roughed me up and took possession of my garment. I then went to Allah's Messenger ﷺ and told him what had happened. He said to the man:
+
+> «مَا أَطْعَمْتَهُ إِذْ كَانَ جَائِعًا أَوْ سَاغِبًا وَلَا عَلَّمْتَهُ إِذْ كَانَ جَاهِلًا»
+
+> فَأَمَرَهُ فَرَدَّ إِلَيْهِ ثَوْبَهُ، فَأمَرَ لَهُ بِوَسْقٍ مِنْ طَعَامٍ أَوْ نِصْفِ وَسْقٍ.
+
+(You have not fed him when he was hungry - or he said starving - nor have you taught him if he was ignorant.)
+
+The Prophet commanded him to return `Abbad's garment to him, and to offer him a Wasq (around 180 kilograms) - or a half Wasq - of food
+
+This has a sufficiently strong chain of narrators and there are many other witnessing narrations to support it, such as the Hadith that `Amr bin Shu`ayb narrated from his father that his grandfather said: Allah's Messenger ﷺ was asked about the hanging clusters of dates. He said:
+
+> «مَنْ أَصَابَ مِنْهُ مِنْ ذِي حَاجَةٍ بِفِيهِ غَيْرَ مُتَّخِذٍ خُبْنَةً،فَلَا شَيْءَ عَلَيْه»
+
+(There is no harm for whoever takes some of it in his mouth for a necessity without putting it in his garment.)
+
+Muqatil bin Hayyan commented on:
+
+> فَلاَ إِثْمَ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(...then there is no sin on him. Truly, Allah is Oft-Forgiving, Most Merciful.) "For what is eaten out of necessity." Sa`id bin Jubayr said, "Allah is pardoning for what has been eaten of the unlawful, and Merciful' in that He allowed the prohibited during times of necessity." Masruq said, "Whoever is in dire need, but does not eat or drink until he dies, he will enter the Fire." This indicates that eating dead animals for those who are in need of it for survival is not only permissible but required.
+
+**Tafsir Muyassar (المیسر):**
+
+> يا أيها المؤمنون كلوا من الأطعمة المستلَذَّة الحلال التي رزقناكم، ولا تكونوا كالكفار الذين يحرمون الطيبات، ويستحِلُّون الخبائث، واشكروا لله نعمه العظيمة عليكم بقلوبكم وألسنتكم وجوارحكم، إن كنتم حقًا منقادين لأمره، سامعين مطيعين له، تعبدونه وحده لا شريك له.
+
+## Ayah 173
+
+
+> إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+### The Command to eat Pure Things and the Explanation of the Prohibited Things
+
+Allah commands His believing servants to eat from the pure things that He has created for them and to thank Him for it, if they are truly His servants. Eating from pure sources is a cause for the acceptance of supplications and acts of worship, just as eating from impure sources prevents the acceptance of supplications and acts of worship, as mentioned in a Hadith recorded by Imam Ahmad, that Abu Hurayrah said that Allah's Messenger ﷺ said:
+
+> «أَيُّهَا النَّاسُ إِنَّ اللهَ طَيِّبٌ، لَا يَقْبَلُ إِلَّا طَيِّـبًا، وَإنَّ اللهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ، فَقَالَ:
+
+> يأَيُّهَا الرُّسُلُ كُلُواْ مِنَ الطَّيِّبَـتِ وَاعْمَلُواْ صَـلِحاً إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ
+
+> ، وَقَالَ:
+
+> يـأَيُّهَا الَّذِينَ ءَامَنُواْ كُلُواْ مِن طَيِّبَاتِ مَا رَزَقْنَـكُمْ
+
+> ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَملْبَسُهُ حَرَامٌ، وَغُذِّيَ بالْحَرَامِ فَأَنَّى يُسْتَجَابُ لِذلِكَ؟»
+
+(O people! Allah is Tayyib (Pure and Good) and only accepts that which is Tayyib. Allah has indeed commanded the believers with what He has commanded the Messengers, for He said: (O (you) Messengers! Eat of the Tayyibat and do righteous deeds. Verily, I am well-acquainted with what you do) (23:51), and: (O you who believe! Eat of the lawful things that We have provided you with) He then mentioned a man, (who is engaged in a long journey, whose hair is untidy and who is covered in dust, he raises his hands to the sky, and says, `O Lord! O Lord!' Yet, his food is from the unlawful, his drink is from the unlawful, his clothes are from the unlawful, and he was nourished by the unlawful, so how can it (his supplication) be accepted") It was also recorded by Muslim and At-Tirmidhi
+
+After Allah mentioned how He has blessed His creatures by providing them with provisions, and after commanding them to eat from the pure things that He has provided them, He then stated that He has not prohibited anything for them, except dead animals. Dead animals are those that die before being slaughtered; whether they die by strangling, a violent blow, a headlong fall, the goring of horns or by being partly eaten by a wild animal. Dead animals of the sea are excluded from this ruling, as is explained later, Allah willing, as Allah said:
+
+> أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ
+
+(Lawful to you is (the pursuit of) watergame and its use for food) (5:96), and because of the Hadith about the whale recorded in the Sahih. The Musnad, Al-Muwatta' and the Sunan recorded the Prophet saying about the sea:
+
+> «هُوَ الطَّهُورُ مَاؤُهُ والْحِلُّ مَيْتَتُه»
+
+(Its water is pure and its dead are permissible.)
+
+Ash-Shafi`i, Ahmad, Ibn Majah, and Ad-Daraqutni reported that Ibn `Umar said that the Prophet said:
+
+> «أُحِلَّ لَنَا مَيْتتَانِ وَدَمَانِ،السَّمَكُ وَالْجَرَادُ وَالْكَبِدُ وَالطِّحَال»
+
+(We have been allowed two dead things and two bloody things: fish and locusts; and liver and spleen).
+
+We will mention this subject again in Surat Al-Ma'idah (chapter 5 in the Qur'an), In sha' Allah (if Allah wills).
+
+Issue: According to Ash-Shafi`i and other scholars, milk and eggs that are inside dead unslaughtered animals are not pure, because they are part of the dead animal. In one narration from him, Malik said that they are pure themselves, but become impure because of their location. Similarly, there is a difference of opinion over the cheeses (made with the milk) of dead animals. The popular view of the scholars is that it is impure, although they mentioned the fact that the Companions ate from the cheeses made by the Magians (fire worshippers). Hence, Al-Qurtubi commented: "Since only a small part of the dead animal is mixed with it, then it is permissible, because a minute amount of impurity does not matter if it is mixed with a large amount of liquid." Ibn Majah reported that Salman said that Allah's Messenger ﷺ was asked about butter, cheese and fur. He said:
+
+> «الْحَلَالُ مَا أَحَلَّ اللهُ فِي كِتَابِهِ، وَالْحَرَامُ مَا حَرَّمَ اللهُ فِي كِتَابِهِ، وَمَا سَكَتَ عَنْهُ فَهُوَ مِمَّا عَفَا عَنْه»
+
+(The allowed is what Allah has allowed in His Book and the prohibited is what Allah has prohibited in His Book. What He has not mentioned is a part of what He has pardoned.)
+
+Allah has prohibited eating the meat of swine, whether slaughtered or not, and this includes its fat, either because it is implied, or because the term Lahm includes that, or by analogy. Similarly prohibited are offerings to other than Allah, that is what was slaughtered in a name other than His, be it for monuments, idols, divination, or the other practices of the time of Jahiliyyah. Al-Qurtubi mentioned that `A'ishah was asked about what non-Muslims slaughter for their feasts and then offer some of it as gifts for Muslims. She said, "Do not eat from what has been slaughtered for that day, (or feast) but eat from their vegetables."
+
+### The Prohibited is Allowed in Cases of Emergency
+
+Then Allah permitted eating these things when needed for survival or when there are no permissible types of food available. Allah said:
+
+> فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلاَ عَادٍ
+
+(But if one is forced by necessity without willful disobedience nor transgressing due limits), meaning, without transgression or overstepping the limits,
+
+> فَلاَ إِثْمَ عَلَيْهِ
+
+(...then there is no sin on him.) meaning, if one eats such items, for,
+
+> إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(Truly, Allah is Oft-Forgiving, Most Merciful.)
+
+Mujahid said, "If one is forced by necessity without willful disobedience nor transgressing the set limits. For example, if he didn't, then he would have to resort to highway robbery, rising against the rulers, or some other kinds of disobedience to Allah, then the permission applies to him. If one does so transgressing the limits, or continually, or out of disobedience to Allah, then the permission does not apply to him even if he is in dire need." The same was reported from Sa`id bin Jubayr. Sa`id and Muqatil bin Hayyan are reported to have said that without willful disobedience means, "Without believing that it is permissible." It was reported that Ibn `Abbas commented on the Ayah:
+
+> غَيْرَ بَاغٍ وَلاَ عَادٍ
+
+(. ..without willful disobedience nor transgressing) saying, "Without willful disobedience means eating the dead animal and not continuing to do so. Qatadah said:
+
+> غَيْرَ بَاغٍ
+
+(without willful disobedience) "Without transgressing by eating from the dead animals, that is when the lawful is available."
+
+Issue: When one in dire straits finds both ـ dead animals, and foods belong to other people which he could get without risking the loss of his hands or causing harm, then it is not allowed for him to eat the dead animals. Ibn Majah reported that `Abbad bin Shurahbil Al-Ghubari said, "One year we suffered from famine. I came to Al-Madinah and entered a garden. I took some grain that I cleaned, and ate, then I left some of it in my garment. The owner of the garden came, roughed me up and took possession of my garment. I then went to Allah's Messenger ﷺ and told him what had happened. He said to the man:
+
+> «مَا أَطْعَمْتَهُ إِذْ كَانَ جَائِعًا أَوْ سَاغِبًا وَلَا عَلَّمْتَهُ إِذْ كَانَ جَاهِلًا»
+
+> فَأَمَرَهُ فَرَدَّ إِلَيْهِ ثَوْبَهُ، فَأمَرَ لَهُ بِوَسْقٍ مِنْ طَعَامٍ أَوْ نِصْفِ وَسْقٍ.
+
+(You have not fed him when he was hungry - or he said starving - nor have you taught him if he was ignorant.)
+
+The Prophet commanded him to return `Abbad's garment to him, and to offer him a Wasq (around 180 kilograms) - or a half Wasq - of food
+
+This has a sufficiently strong chain of narrators and there are many other witnessing narrations to support it, such as the Hadith that `Amr bin Shu`ayb narrated from his father that his grandfather said: Allah's Messenger ﷺ was asked about the hanging clusters of dates. He said:
+
+> «مَنْ أَصَابَ مِنْهُ مِنْ ذِي حَاجَةٍ بِفِيهِ غَيْرَ مُتَّخِذٍ خُبْنَةً،فَلَا شَيْءَ عَلَيْه»
+
+(There is no harm for whoever takes some of it in his mouth for a necessity without putting it in his garment.)
+
+Muqatil bin Hayyan commented on:
+
+> فَلاَ إِثْمَ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(...then there is no sin on him. Truly, Allah is Oft-Forgiving, Most Merciful.) "For what is eaten out of necessity." Sa`id bin Jubayr said, "Allah is pardoning for what has been eaten of the unlawful, and Merciful' in that He allowed the prohibited during times of necessity." Masruq said, "Whoever is in dire need, but does not eat or drink until he dies, he will enter the Fire." This indicates that eating dead animals for those who are in need of it for survival is not only permissible but required.
+
+**Tafsir Muyassar (المیسر):**
+
+> إنما حرم الله عليكم ما يضركم كالميتة التي لم تذبح بطريقة شرعية، والدم المسفوح، ولحم الخنزير، والذبائح التي ذبحت لغير الله. ومِنْ فَضْلِ الله عليكم وتيسيره أنه أباح لكم أكل هذه المحرمات عند الضرورة. فمن ألجأته الضرورة إلى أكل شيء منها، غير ظالم في أكله فوق حاجته، ولا متجاوز حدود الله فيما أُبيح له، فلا ذنب عليه في ذلك. إن الله غفور لعباده، رحيم بهم.
+
+## Ayah 174
+
+
+> إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَـٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا ۙ أُو۟لَـٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+### Criticizing the Jews for concealing what Allah revealed
+
+Allah said:
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ
+
+(Verily, those who conceal what Allah has sent down of the Book.) Meaning the Jews who concealed their Book's descriptions of Muhammad ﷺ, all of which testify to his truth as a Messenger and a Prophet. They concealed this information so that they would not lose authority and the position that they had with the Arabs, where they would bring them gifts, and honor them. The cursed Jews feared that if they announced what they know about Muhammad ﷺ, then the people would abandon them and follow him. So they hid the truth so that they may retain the little that they were getting, and they sold their souls for this little profit. They preferred the little that they gained over guidance and following the truth, believing in the Messenger and having faith in what Allah was sent him with. Therefore, they have profited failure and loss in this life and the Hereafter.
+
+As for this world, Allah made the truth about His Messenger known anyway, by the clear signs and the unequivocal proofs. Thereafter, those whom the Jews feared would follow the Prophet , believed in him and followed him anyway, and so they became his supporters against them. Thus, the Jews earned anger on top of the wrath that they already had earned before, and Allah criticized them again many times in His Book. For instance, Allah said in this Ayah (2:174 above):
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيًلا
+
+(Verily, those who conceal what Allah has sent down of the Book, and purchase a small gain therewith (of worldly things).) meaning, the joys and delights of this earthly life. Allah said:
+
+> أُولَـئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلاَّ النَّارَ
+
+(...they eat into their bellies nothing but fire,) meaning, whatever they eat in return for hiding the truth, will turn into a raging fire in their stomachs on the Day of Resurrection.
+
+Similarly, Allah said:
+
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَلَ الْيَتَـمَى ظُلْماً إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
+
+(Verily, those who unjustly eat up the property of orphans, they eat up only fire into their bellies, and they will be burnt in the blazing Fire!) (4:10)
+
+Also, reported in an authentic Hadith is that Allah's Messenger ﷺ said:
+
+> «الَّذِي يَأْكُلُ أَوْ يَشْرَبُ فِي آنِيةِ الذَّهَبِ وَالْفِضَّةِ إنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّم»
+
+(Those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam (Hell).)
+
+Allah said:
+
+> وَلاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَـمَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+(Allah will not speak to them on the Day of Resurrection, nor purify them, and theirs will be a painful torment.)
+
+This is because Allah is furious with them for concealing the truth. They thus deserve Allah's anger, so Allah will not look at them or purify them, meaning that He will not praise them but will cause them to taste a severe torment. Then, Allah said about them:
+
+> أُوْلَـئِكَ الَّذِينَ اشْتَرَوُاْ الضَّلَـلَةَ بِالْهُدَى
+
+(Those are they who have purchased error for guidance.)
+
+Hence, they opposed the guidance, that is, not announcing the Prophet's description they find in their Books, the news about his prophecy and the good news of his coming which the previous Prophets proclaimed, as well as following and believing in him. Instead, they preferred misguidance by denying him, rejecting him and concealing his descriptions that were mentioned in their Books. Allah said:
+
+> وَالْعَذَابَ بِالْمَغْفِرَةِ
+
+(...and torment at the price of forgiveness,) meaning, they preferred torment over forgiveness due to the sins they have committed. Allah then said:
+
+> فَمَآ أَصْبَرَهُمْ عَلَى النَّارِ
+
+(So how bold they are (for evil deeds which will push them) to the Fire.)
+
+Allah states that they will suffer such severe, painful torment that those who see them will be amazed at how they could bear the tremendous punishment, torture and pain that they will suffer. We seek refuge with Allah from this evil end. RAllah's Statement:
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. ) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelations bring about truth and expose falsehood. Yet, they took Allah's signs for mockery. Their Books ordered them to announce the truth and to spread the knowledge, but instead, they defied the knowledge and rejected it. This Final Messenger ـ Muhammad ـ called them to Allah, commanded them to work righteousness and forbade them from committing evil. Yet, they rejected, denied and defied him and hid the truth that they knew about him. They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment. This is why Allah said here (2:176):
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ وَإِنَّ الَّذِينَ اخْتَلَفُواْ فِى الْكِتَـبِ لَفِى شِقَاقٍ بَعِيدٍ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. And verily, those who disputed about the Book are far away in opposition.)
+
+**Tafsir Muyassar (المیسر):**
+
+> إن الذين يُخْفون ما أنزل الله في كتبه من صفة محمد صلى الله عليه وسلم وغير ذلك من الحق، ويحرصون على أخذ عوض قليل من عرض الحياة الدنيا مقابل هذا الإخفاء، هؤلاء ما يأكلون في مقابلة كتمان الحق إلا نار جهنم تتأجج في بطونهم، ولا يكلمهم الله يوم القيامة لغضبه وسخطه عليهم، ولا يطهرهم من دنس ذنوبهم وكفرهم، ولهم عذاب موجع.
+
+## Ayah 175
+
+
+> أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ
+
+### Criticizing the Jews for concealing what Allah revealed
+
+Allah said:
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ
+
+(Verily, those who conceal what Allah has sent down of the Book.) Meaning the Jews who concealed their Book's descriptions of Muhammad ﷺ, all of which testify to his truth as a Messenger and a Prophet. They concealed this information so that they would not lose authority and the position that they had with the Arabs, where they would bring them gifts, and honor them. The cursed Jews feared that if they announced what they know about Muhammad ﷺ, then the people would abandon them and follow him. So they hid the truth so that they may retain the little that they were getting, and they sold their souls for this little profit. They preferred the little that they gained over guidance and following the truth, believing in the Messenger and having faith in what Allah was sent him with. Therefore, they have profited failure and loss in this life and the Hereafter.
+
+As for this world, Allah made the truth about His Messenger known anyway, by the clear signs and the unequivocal proofs. Thereafter, those whom the Jews feared would follow the Prophet , believed in him and followed him anyway, and so they became his supporters against them. Thus, the Jews earned anger on top of the wrath that they already had earned before, and Allah criticized them again many times in His Book. For instance, Allah said in this Ayah (2:174 above):
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيًلا
+
+(Verily, those who conceal what Allah has sent down of the Book, and purchase a small gain therewith (of worldly things).) meaning, the joys and delights of this earthly life. Allah said:
+
+> أُولَـئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلاَّ النَّارَ
+
+(...they eat into their bellies nothing but fire,) meaning, whatever they eat in return for hiding the truth, will turn into a raging fire in their stomachs on the Day of Resurrection.
+
+Similarly, Allah said:
+
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَلَ الْيَتَـمَى ظُلْماً إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
+
+(Verily, those who unjustly eat up the property of orphans, they eat up only fire into their bellies, and they will be burnt in the blazing Fire!) (4:10)
+
+Also, reported in an authentic Hadith is that Allah's Messenger ﷺ said:
+
+> «الَّذِي يَأْكُلُ أَوْ يَشْرَبُ فِي آنِيةِ الذَّهَبِ وَالْفِضَّةِ إنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّم»
+
+(Those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam (Hell).)
+
+Allah said:
+
+> وَلاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَـمَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+(Allah will not speak to them on the Day of Resurrection, nor purify them, and theirs will be a painful torment.)
+
+This is because Allah is furious with them for concealing the truth. They thus deserve Allah's anger, so Allah will not look at them or purify them, meaning that He will not praise them but will cause them to taste a severe torment. Then, Allah said about them:
+
+> أُوْلَـئِكَ الَّذِينَ اشْتَرَوُاْ الضَّلَـلَةَ بِالْهُدَى
+
+(Those are they who have purchased error for guidance.)
+
+Hence, they opposed the guidance, that is, not announcing the Prophet's description they find in their Books, the news about his prophecy and the good news of his coming which the previous Prophets proclaimed, as well as following and believing in him. Instead, they preferred misguidance by denying him, rejecting him and concealing his descriptions that were mentioned in their Books. Allah said:
+
+> وَالْعَذَابَ بِالْمَغْفِرَةِ
+
+(...and torment at the price of forgiveness,) meaning, they preferred torment over forgiveness due to the sins they have committed. Allah then said:
+
+> فَمَآ أَصْبَرَهُمْ عَلَى النَّارِ
+
+(So how bold they are (for evil deeds which will push them) to the Fire.)
+
+Allah states that they will suffer such severe, painful torment that those who see them will be amazed at how they could bear the tremendous punishment, torture and pain that they will suffer. We seek refuge with Allah from this evil end. RAllah's Statement:
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. ) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelations bring about truth and expose falsehood. Yet, they took Allah's signs for mockery. Their Books ordered them to announce the truth and to spread the knowledge, but instead, they defied the knowledge and rejected it. This Final Messenger ـ Muhammad ـ called them to Allah, commanded them to work righteousness and forbade them from committing evil. Yet, they rejected, denied and defied him and hid the truth that they knew about him. They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment. This is why Allah said here (2:176):
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ وَإِنَّ الَّذِينَ اخْتَلَفُواْ فِى الْكِتَـبِ لَفِى شِقَاقٍ بَعِيدٍ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. And verily, those who disputed about the Book are far away in opposition.)
+
+**Tafsir Muyassar (المیسر):**
+
+> أولئك المتصفون بهذه الصفات استبدلوا الضلالة بالهدى وعذاب الله بمغفرته، فما أشد جراءتهم على النار بعملهم أعمال أهل النار!! يعجب الله من إقدامهم على ذلك، فاعجبوا -أيها الناس- من جراءتهم، ومن صبرهم على النار ومكثهم فيها. وهذا على وجه الاستهانة بهم، والاستخفاف بأمرهم.
+
+## Ayah 176
+
+
+> ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَـٰبِ لَفِى شِقَاقٍۭ بَعِيدٍ
+
+### Criticizing the Jews for concealing what Allah revealed
+
+Allah said:
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ
+
+(Verily, those who conceal what Allah has sent down of the Book.) Meaning the Jews who concealed their Book's descriptions of Muhammad ﷺ, all of which testify to his truth as a Messenger and a Prophet. They concealed this information so that they would not lose authority and the position that they had with the Arabs, where they would bring them gifts, and honor them. The cursed Jews feared that if they announced what they know about Muhammad ﷺ, then the people would abandon them and follow him. So they hid the truth so that they may retain the little that they were getting, and they sold their souls for this little profit. They preferred the little that they gained over guidance and following the truth, believing in the Messenger and having faith in what Allah was sent him with. Therefore, they have profited failure and loss in this life and the Hereafter.
+
+As for this world, Allah made the truth about His Messenger known anyway, by the clear signs and the unequivocal proofs. Thereafter, those whom the Jews feared would follow the Prophet , believed in him and followed him anyway, and so they became his supporters against them. Thus, the Jews earned anger on top of the wrath that they already had earned before, and Allah criticized them again many times in His Book. For instance, Allah said in this Ayah (2:174 above):
+
+> إِنَّ الَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ اللَّهُ مِنَ الْكِتَـبِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيًلا
+
+(Verily, those who conceal what Allah has sent down of the Book, and purchase a small gain therewith (of worldly things).) meaning, the joys and delights of this earthly life. Allah said:
+
+> أُولَـئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلاَّ النَّارَ
+
+(...they eat into their bellies nothing but fire,) meaning, whatever they eat in return for hiding the truth, will turn into a raging fire in their stomachs on the Day of Resurrection.
+
+Similarly, Allah said:
+
+> إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَلَ الْيَتَـمَى ظُلْماً إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَاراً وَسَيَصْلَوْنَ سَعِيراً
+
+(Verily, those who unjustly eat up the property of orphans, they eat up only fire into their bellies, and they will be burnt in the blazing Fire!) (4:10)
+
+Also, reported in an authentic Hadith is that Allah's Messenger ﷺ said:
+
+> «الَّذِي يَأْكُلُ أَوْ يَشْرَبُ فِي آنِيةِ الذَّهَبِ وَالْفِضَّةِ إنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّم»
+
+(Those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam (Hell).)
+
+Allah said:
+
+> وَلاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَـمَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+(Allah will not speak to them on the Day of Resurrection, nor purify them, and theirs will be a painful torment.)
+
+This is because Allah is furious with them for concealing the truth. They thus deserve Allah's anger, so Allah will not look at them or purify them, meaning that He will not praise them but will cause them to taste a severe torment. Then, Allah said about them:
+
+> أُوْلَـئِكَ الَّذِينَ اشْتَرَوُاْ الضَّلَـلَةَ بِالْهُدَى
+
+(Those are they who have purchased error for guidance.)
+
+Hence, they opposed the guidance, that is, not announcing the Prophet's description they find in their Books, the news about his prophecy and the good news of his coming which the previous Prophets proclaimed, as well as following and believing in him. Instead, they preferred misguidance by denying him, rejecting him and concealing his descriptions that were mentioned in their Books. Allah said:
+
+> وَالْعَذَابَ بِالْمَغْفِرَةِ
+
+(...and torment at the price of forgiveness,) meaning, they preferred torment over forgiveness due to the sins they have committed. Allah then said:
+
+> فَمَآ أَصْبَرَهُمْ عَلَى النَّارِ
+
+(So how bold they are (for evil deeds which will push them) to the Fire.)
+
+Allah states that they will suffer such severe, painful torment that those who see them will be amazed at how they could bear the tremendous punishment, torture and pain that they will suffer. We seek refuge with Allah from this evil end. RAllah's Statement:
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. ) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelations bring about truth and expose falsehood. Yet, they took Allah's signs for mockery. Their Books ordered them to announce the truth and to spread the knowledge, but instead, they defied the knowledge and rejected it. This Final Messenger ـ Muhammad ـ called them to Allah, commanded them to work righteousness and forbade them from committing evil. Yet, they rejected, denied and defied him and hid the truth that they knew about him. They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment. This is why Allah said here (2:176):
+
+> ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَـبَ بِالْحَقِّ وَإِنَّ الَّذِينَ اخْتَلَفُواْ فِى الْكِتَـبِ لَفِى شِقَاقٍ بَعِيدٍ
+
+(That is because Allah has sent down the Book (the Qur'an) in truth. And verily, those who disputed about the Book are far away in opposition.)
+
+**Tafsir Muyassar (المیسر):**
+
+> ذلك العذاب الذي استحقوه بسبب أن الله تعالى نزَّل كتبه على رسله مشتملة على الحق المبين، فكفروا به. وإن الذين اختلفوا في الكتاب فآمنوا ببعضه وكفروا ببعضه، لفي منازعة ومفارقة بعيدة عن الرشد والصواب.
+
+## Ayah 177
+
+
+> ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+### Al-Birr (Piety, Righteousness)
+
+This Ayah contains many great wisdoms, encompassing rulings and correct beliefs.
+
+As for the explanation of this Ayah, Allah first commanded the believers to face Bayt Al-Maqdis, and then to face the Ka`bah during the prayer. This change was difficult for some of the People of the Book, and even for some Muslims. Then Allah sent revelation which clarified the wisdom behind this command, that is, obedience to Allah, adhering to His commands, facing wherever He commands facing, and implementing whatever He legislates, that is the objective. This is Birr, Taqwa and complete faith. Facing the east or the west does not necessitate righteousness or obedience, unless it is legislated by Allah. This is why Allah said:
+
+> لَّيْسَ الْبِرَّ أَن تُوَلُّواْ وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَـكِنَّ الْبِرَّ مَنْ ءَامَنَ بِاللَّهِ وَالْيَوْمِ الاٌّخِرِ
+
+(It is not Birr that you turn your faces towards east and (or) west (in prayers); but Birr is the one who believes in Allah and the Last Day,)
+
+Similarly, Allah said about the sacrifices:
+
+> لَن يَنَالَ اللَّهَ لُحُومُهَا وَلاَ دِمَآؤُهَا وَلَـكِن يَنَالُهُ التَّقْوَى مِنكُمْ
+
+(It is neither their meat nor their blood that reaches Allah, but it is the piety from you that reaches Him.) (22:37)
+
+Abu Al-`Aliyah said, "The Jews used to face the west for their Qiblah, while the Christians used to face the east for their Qiblah. So Allah said:
+
+> لَّيْسَ الْبِرَّ أَن تُوَلُّواْ وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ
+
+(It is not Birr that you turn your faces towards east and (or) west (in prayers)) (2: 177) meaning, "this is faith, and its essence requires implementation." Similar was reported from Al-Hasan and Ar-Rabi` bin Anas. Ath-Thawri recited:
+
+> وَلَـكِنَّ الْبِرَّ مَنْ ءَامَنَ بِاللَّهِ
+
+(but Birr is the one who believes in Allah,) and said that what follows are the types of Birr. He has said the truth. Certainly, those who acquire the qualities mentioned in the Ayah will have indeed embraced all aspects of Islam and implemented all types of righteousness; believing in Allah, that He is the only God worthy of worship, and believing in the angels the emissaries between Allah and His Messengers.
+
+The `Books' are the Divinely revealed Books from Allah to the Prophets, which were finalized by the most honorable Book (the Qur'an). The Qur'an supercedes all previous Books, it mentions all types of righteousness, and the way to happiness in this life and the Hereafter. The Qur'an abrogates all previous Books and testfies to all of Allah's Prophets, from the first Prophet to the Final Prophet, Muhammad ﷺ, may Allah's peace and blessings be upon them all.
+
+Allah's statement:
+
+> وَءَاتَى الْمَالَ عَلَى حُبِّهِ
+
+(...and gives his wealth, in spite of love for it,) refers to those who give money away while desiring it and loving it. It is recorded in the Sahihayn that Abu Hurayrah narrated that the Prophet said:
+
+> «أَفْضَلُ الصَّدَقةِ أَنْ تَصَدَّقَ وَأَنْتَ صَحِيحٌ شَحِيحٌ، تَأْمُلُ الْغِنَى وتَخْشَى الْفقْر»
+
+(The best charity is when you give it away while still healthy and thrifty, hoping to get rich and fearing poverty.)
+
+Allah said:
+
+> وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِيناً وَيَتِيماً وَأَسِيراً - إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لاَ نُرِيدُ مِنكُمْ جَزَآءً وَلاَ شُكُوراً
+
+(And they give food, inspite of their love for it, to the Miskin (the poor), the orphan, and the captive (saying): "We feed you seeking Allah's Face only. We wish for no reward, nor thanks from you.") (76:8, 9)
+
+and:
+
+> لَن تَنَالُواْ الْبِرَّ حَتَّى تُنفِقُواْ مِمَّا تُحِبُّونَ
+
+(By no means shall you attain Birr unless you spend of that which you love.) (3:92) Allah's statement:
+
+> وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
+
+(...and give them preference over themselves even though they were in need of that) (59:9) refers to a higher category and status, as the people mentioned here give away what they need, while those mentioned in the previous Ayat give away what they covet (but not necessarily need).
+
+Allah's statement:
+
+> ذَوِى الْقُرْبَى
+
+(the kinsfolk) refers to man's relatives, who have more rights than anyone else to one's charity, as the Hadith supports:
+
+> «الصَّدَقَةُ عَلَى الْمَسَاكِينِ صَدَقَةٌ، وعَلَى ذِي الرَّحِمِ اثْنتَانِ: صَدَقَةٌ وَصِلَـةٌ، فَهُمْ أَوْلَى النَّاسِ بِكَ وَبِبِرِّكَ وَإِعْطَائِك»
+
+(Sadaqah (i. e., charity) given to the poor is a charity, while the Sadaqah given to the relatives is both Sadaqah and Silah (nurturing relations), for they are the most deserving of you and your kindness and charity).
+
+Allah has commanded kindness to the relatives in many places in the Qur'an.
+
+> وَالْيَتَـمَى
+
+(to the orphans) The orphans are children who have none to look after them, having lost their fathers while they are still young, weak and unable to find their own sustenance since they have not reached the age of work and adolescence. `Abdur-Razzaq reported that `Ali said that the Prophet said:
+
+> وَالْمَسَـكِينُ
+
+(and to Al-Masakin) The Miskin is the person who does not have enough food, clothing, or he has no dwelling. So the Miskin should be granted the provisions to sustain him enough so that he can acquire his needs. In the Sahihayn it is recorded that Abu Hurayrah said that Allah's Messenger ﷺ said:
+
+> «لَيْسَ الْمِسْكِينُ بِهذَا الطَّوَّافِ الَّذِي تَرُدُّه التَّمْرَةُ والتَّمْرَتَانِ، واللُّقْمَةُ واللُّقْمَتَانِ، وَلكِنِ الْمِسْكِينُ الَّذِي لَا يَجِدُ غِنىً يُغْنِيه وَلَا يُفْطَنُ لَهُ فَيُتصَدَّقَ عَلَيْه»
+
+(The Miskin is not the person who roams around, and whose need is met by one or two dates or one or two bites. Rather, the Miskin is he who does not have what is sufficient, and to whom the people do not pay attention and, thus, do not give him from the charity.)
+
+> وَابْنِ السَّبِيلِ
+
+(and to the wayfarer) is the needy traveler who runs out of money and should, thus, be granted whatever amount that helps him to go back to his land. Such is the case with whoever intends to go on a permissible journey, he is given what he needs for his journey and back. The guests are included in this category. `Ali bin Abu Talhah reported that Ibn `Abbas said, "Ibn As-Sabil (wayfarer) is the guest who is hosted by Muslims." Furthermore, Mujahid, Sa`id bin Jubayr, Abu Ja`far Al-Baqir, Al-Hasan, Qatadah, Ad-Dahhak, Az-Zuhri, Ar-Rabi` bin Anas and Muqatil bin Hayyan said similarly.
+
+> وَالسَّآئِلِينَ
+
+(and to those who ask) refers to those who beg people and are thus given a part of the Zakah and general charity.
+
+> وَفِي الرِّقَابِ
+
+(and to set servants free) These are the servants who seek to free themselves, but cannot find enough money to buy their freedom. We will mention several of these categories and types under the Tafsir of the Ayah on Sadaqah in Surat Bara'ah chapter 9 in the Qur'an, In sha' Allah.
+
+Allah's statement:
+
+> وَأَقَامَ الصَّلَوةَ
+
+(performs As-Salah (Iqamat-As-Salah)) means those who pray on time and give the prayer its due right; the bowing, prostration, and the necessary attention and humbleness required by Allah. Allah's statement:
+
+> وَءَاتَى الزَّكَوةَ
+
+(and gives the Zakah) means the required charity (Zakah) due on one's money, as Sa`id bin Jubayr and Muqatil bin Hayyan have stated.
+
+Allah's statement:
+
+> وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـهَدُواْ
+
+(and who fulfill their covenant when they make it,)
+
+is similar to:
+
+> الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلاَ يِنقُضُونَ الْمِيثَـقَ
+
+(Those who fulfill the covenant of Allah and break not the Mithaq (bond, treaty, covenant).) (13:20)
+
+The opposite of this characteristic is hypocrisy. As found in a Hadith:
+
+> «آيَةُ الْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ، وَإذَا وَعَدَ أَخْلَفَ، وَإذَا ائْتُمِنَ خَان»
+
+(The signs of a hypocrite are three: if he speaks, he lies; if he promises, he breaks his promise; and if he is entrusted, he breaches the trust.)
+
+In another version:
+
+> «إِذَا حَدَّثَ كَذَبَ، وَإذَا عَاهَدَ غَدَرَ،وَإذَا خَاصَمَ فَجَر»
+
+(If he speaks, he lies; if he vows, he breaks his vow; and if he disputes, he is lewd.)
+
+Allah's statement:
+
+> وَالصَّابِرِينَ فِى الْبَأْسَآءِ والضَّرَّاءِ وَحِينَ الْبَأْسِ
+
+(. ..and who are patient in extreme poverty and ailment (disease) and at the time of fighting (during the battles).) means, during the time of meekness and ailment.
+
+> وَحِينَ الْبَأْسِ
+
+(...and at the time of fighting (during the battles).) means on the battlefield while facing the enemy, as Ibn Mas`ud, Ibn `Abbas, Abu Al-`Aliyah, Murrah Al-Hamdani, Mujahid, Sa`id bin Jubayr, Al-Hasan, Qatadah, Ar-Rabi` bin Anas, As-Suddi, Muqatil bin Hayyan, Abu Malik, Ad-Dahhak and others have stated.
+
+And calling them the patient here, is a form of praise, because of the importance of patience in these circumstances, and the suffering and difficulties that accompany them. And Allah knows best, it is He Whom help is sought from, and upon Him we rely.
+
+Allah's statement:
+
+> أُولَـئِكَ الَّذِينَ صَدَقُوا
+
+(Such are the people of the truth) means, whoever acquires these qualities, these are truthful in their faith. This is because they have achieved faith in the heart and realized it in deed and upon the tongue. So they are the truthful,
+
+> وَأُولَـئِكَ هُمُ الْمُتَّقُونَ
+
+(and they are Al-Muttaqun (the pious).) because they avoided the prohibitions and performed the acts of obedience.
+
+**Tafsir Muyassar (المیسر):**
+
+> ليس الخير عند الله -تعالى- في التوجه في الصلاة إلى جهة المشرق والمغرب إن لم يكن عن أمر الله وشرعه، وإنما الخير كل الخير هو إيمان من آمن بالله وصدَّق به معبودًا وحدَه لا شريك له، وآمن بيوم البعث والجزاء، وبالملائكة جميعًا، وبالكتب المنزلة كافة، وبجميع النبيين من غير تفريق، وأعطى المال تطوُّعًا -مع شدة حبه- ذوي القربى، واليتامى المحتاجين الذين مات آباؤهم وهم دون سن البلوغ، والمساكين الذين أرهقهم الفقر، والمسافرين المحتاجين الذين بَعُدوا عن أهلهم ومالهم، والسائلين الذين اضطروا إلى السؤال لشدة حاجتهم، وأنفق في تحرير الرقيق والأسرى، وأقام الصلاة، وأدى الزكاة المفروضة، والذين يوفون بالعهود، ومن صبر في حال فقره ومرضه، وفي شدة القتال. أولئك المتصفون بهذه الصفات هم الذين صدقوا في إيمانهم، وأولئك هم الذين اتقَوا عقاب الله فتجنبوا معاصيه.
+
+## Ayah 178
+
+
+> يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـٰنٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ ۗ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
+
+### The Command and the Wisdom behind the Law of Equality
+
+Allah states: O believers! The Law of equality has been ordained on you (for cases of murder), the free for the free, the slave for the slave and the female for the female. Therefore, do not transgress the set limits, as others before you transgressed them, and thus changed what Allah has ordained for them. The reason behind this statement is that (the Jewish tribe of) Banu An-Nadir invaded Qurayzah (another Jewish tribe) during the time of Jahiliyyah (before Islam) and defeated them. Hence, (they made it a law that) when a person from Nadir kills a person from Quraizah, he is not killed in retaliation, but only pays a hundred Wasq of dates. However, when a person from Quraizah kills a Nadir man, he would be killed for him. If Nadir wanted (to forfeit the execution of the murderer and instead require him) to pay a ransom, the Quraizah man pays two hundred Wasq of dates double the amount Nadir pays in Diyah (blood money). So Allah commanded that justice be observed regarding the penal code, and that the path of the misguided and mischievous persons be avoided, who in disbelief and transgression, defy and alter what Allah has commanded them. Allah said:
+
+> كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ
+
+(Al-Qisas (the Law of equality in punishment) is prescribed for you in case of murder: the free for the free, the slave for the slave, and the female for the female.)
+
+Allah's statement:
+
+> الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ
+
+(the free for the free, the slave for the slave, and the female for the female.) was abrogated by the statement life for life (5:45). However, the majority of scholars agree that the Muslim is not killed for a disbeliever whom he kills. Al- Bukhari reported that `Ali narrated that Allah's Messenger ﷺ said:
+
+> «وَلَا يُقْتَلُ مُسْلِمٌ بِكَافِر»
+
+(The Muslim is not killed for the disbeliever (whom he kills).)
+
+No opinion that opposes this ruling could stand correct, nor is there an authentic Hadith to contradict it. However, Abu Hanifah thought that the Muslim could be killed for a disbeliever, following the general meaning of the Ayah (5:45) in Surat Al-Ma'idah (chapter 5 in the Qur'an).
+
+The Four Imams (Abu Hanifah, Malik, Shafi`i and Ahmad) and the majority of scholars stated that the group is killed for one person whom they murder. `Umar said, about a boy who was killed by seven men, "If all the residents of San`a' (capital of Yemen today) collaborated on killing him, I would kill them all." No opposing opinion was known by the Companions during that time which constitutes a near Ijma` (consensus). There is an opinion attributed to Imam Ahmad that a group of people is not killed for one person whom they kill, and that only one person is killed for one person. Ibn Al-Mundhir also attributed this opinion to Mu`adh, Ibn Az-Zubayr, `Abdul-Malik bin Marwan, Az-Zuhri, Ibn Sirin and Habib bin Abu Thabit. Allah's statement:
+
+> فَمَنْ عُفِىَ لَهُ مِنْ أَخِيهِ شَىْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـنٍ
+
+(But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money), then it should be sought in a good manner, and paid to him respectfully.) refers to accepting blood money (by the relatives of the victim in return for pardoning the killer) in cases of intentional murder. This opinion is attributed to Abu Al-`Aliyah, Abu Sha`tha', Mujahid, Sa`id bin Jubayr, `Ata' Al-Hasan, Qatadah and Muqatil bin Hayyan. Ad-Dahhak said that Ibn `Abbas said:
+
+> فَمَنْ عُفِىَ لَهُ مِنْ أَخِيهِ شَىْءٌ
+
+(But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money)) means the killer is pardoned by his brother (i.e., the relative of the victim) and accepting the Diyah after capital punishment becomes due (against the killer), this is the `Afw (pardon mentioned in the Ayah)." Allah's statement:
+
+> فَاتِّبَاعٌ بِالْمَعْرُوفِ
+
+(...then it should be sought in a good manner,) means, when the relative agrees to take the blood money, he should collect his rightful dues with kindness:
+
+> وَأَدَآءٌ إِلَيْهِ بِإِحْسَـنٍ
+
+( and paid to him respectfully.) means, the killer should accept the terms of settlement without causing further harm or resisting the payment.
+
+Allah's statement:
+
+> ذَلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ
+
+(This is an alleviation and a mercy from your Lord.) means the legislation that allows you to accept the blood money for intentional murder is an alleviation and a mercy from your Lord. It lightens what was required from those who were before you, either applying capital punishment or forgiving.
+
+Sa`id bin Mansur reported that Ibn `Abbas said, "The Children of Israel were required to apply the Law of equality in murder cases and were not allowed to offer pardons (in return for blood money). Allah said to this Ummah (the Muslim nation):
+
+> كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ
+
+(The Law of equality in punishment is prescribed for you in case of murder: the free for the free, the servant for the servant, and the female for the female. But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money),)
+
+Hence, `pardoning' or `forgiving' means accepting blood money in intentional murder cases." Ibn Hibban also recorded this in his Sahih. Qatadah said:
+
+> ذَلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ
+
+(This is an alleviation from your Lord)
+
+Allah had mercy on this Ummah by giving them the Diyah which was not allowed for any nation before it. The People of the Torah (Jews) were allowed to either apply the penal code (for murder, i.e., execution) or to pardon the killer, but they were not allowed to take blood money. The People of the Injil (the Gospel - the Christians) were required to pardon (the killer, but no Diyah was legislated). This Ummah (Muslims) is allowed to apply the penal code (execution) or to pardon and accept the blood money." Similar was reported from Sa`id bin Jubayr, Muqatil bin Hayyan and Ar-Rabi` bin Anas.
+
+Allah's statement:
+
+> فَمَنِ اعْتَدَى بَعْدَ ذَلِكَ فَلَهُ عَذَابٌ أَلِيمٌ
+
+(So after this whoever transgresses the limits, he shall have a painful torment.) means, those who kill in retaliation after taking the Diyah or accepting it, they will suffer a painful and severe torment from Allah. The same was reported from Ibn `Abbas, Mujahid, `Ata' `Ikrimah, Al-Hasan, Qatadah, Ar-Rabi` bin Anas, As-Suddi and Muqatil bin Hayyan.
+
+### The Benefits and Wisdom of the Law of Equality
+
+Allah's statement:
+
+> وَلَكُمْ فِي الْقِصَاصِ حَيَوةٌ
+
+(And there is life for you in Al-Qisas) legislating the Law of equality, i.e., killing the murderer, carries great benefits for you. This way, the sanctity of life will be preserved because the killer will refrain from killing, as he will be certain that if he kills, he would be killed. Hence life will be preserved. In previous Books, there is a statement that killing stops further killing! This meaning came in much clearer and eloquent terms in the Qur'an:
+
+> وَلَكُمْ فِي الْقِصَاصِ حَيَوةٌ
+
+(And there is (a saving of) life for you in Al-Qisas (the Law of equality in punishment).)
+
+Abu Al-`Aliyah said, "Allah made the Law of equality a `life'. Hence, how many a man who thought about killing, but this Law prevented him from killing for fear that he will be killed in turn." Similar statements were reported from Mujahid, Sa`id bin Jubayr, Abu Malik, Al-Hasan, Qatadah, Ar-Rabi` bin Anas and Muqatil bin Hayyan. Allah's statement:
+
+> يأُولِي الأَلْبَـبِ لَعَلَّكُمْ تَتَّقُونَ
+
+(O men of understanding, that you may acquire Taqwa.) means, `O you who have sound minds, comprehension and understanding! Perhaps by this you will be compelled to refrain from transgressing the prohibitions of Allah and what He considers sinful. ' Taqwa (mentioned in the Ayah) is a word that means doing all acts of obedience and refraining from all prohibitions.
+
+> كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَلِدَيْنِ وَالاٌّقْرَبِينَ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> يا أيها الذين صدقوا الله ورسوله وعملوا بشرعه فرض الله عليكم أن تقتصوا من القاتل عمدا بقتله، بشرط المساواة والمماثلة: يُقتل الحر بمثله، والعبد بمثله، والأنثى بمثلها. فمن سامحه ولي المقتول بالعفو عن الاقتصاص منه والاكتفاء بأخذ الدية -وهي قدر مالي محدد يدفعه الجاني مقابل العفو عنه- فليلتزم الطرفان بحسن الخلق، فيطالب الولي بالدية من غير عنف، ويدفع القاتل إليه حقه بإحسان، مِن غير تأخير ولا نقص. ذلك العفو مع أخذ الدية تخفيف من ربكم ورحمة بكم; لما فيه من التسهيل والانتفاع. فمَن قتل القاتل بعد العفو عنه وأَخْذِ الدية فله عذاب أليم بقتله قصاصًا في الدنيا، أو بالنار في الآخرة.
+
+## Ayah 179
+
+
+> وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تَتَّقُونَ
+
+### The Command and the Wisdom behind the Law of Equality
+
+Allah states: O believers! The Law of equality has been ordained on you (for cases of murder), the free for the free, the slave for the slave and the female for the female. Therefore, do not transgress the set limits, as others before you transgressed them, and thus changed what Allah has ordained for them. The reason behind this statement is that (the Jewish tribe of) Banu An-Nadir invaded Qurayzah (another Jewish tribe) during the time of Jahiliyyah (before Islam) and defeated them. Hence, (they made it a law that) when a person from Nadir kills a person from Quraizah, he is not killed in retaliation, but only pays a hundred Wasq of dates. However, when a person from Quraizah kills a Nadir man, he would be killed for him. If Nadir wanted (to forfeit the execution of the murderer and instead require him) to pay a ransom, the Quraizah man pays two hundred Wasq of dates double the amount Nadir pays in Diyah (blood money). So Allah commanded that justice be observed regarding the penal code, and that the path of the misguided and mischievous persons be avoided, who in disbelief and transgression, defy and alter what Allah has commanded them. Allah said:
+
+> كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ
+
+(Al-Qisas (the Law of equality in punishment) is prescribed for you in case of murder: the free for the free, the slave for the slave, and the female for the female.)
+
+Allah's statement:
+
+> الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ
+
+(the free for the free, the slave for the slave, and the female for the female.) was abrogated by the statement life for life (5:45). However, the majority of scholars agree that the Muslim is not killed for a disbeliever whom he kills. Al- Bukhari reported that `Ali narrated that Allah's Messenger ﷺ said:
+
+> «وَلَا يُقْتَلُ مُسْلِمٌ بِكَافِر»
+
+(The Muslim is not killed for the disbeliever (whom he kills).)
+
+No opinion that opposes this ruling could stand correct, nor is there an authentic Hadith to contradict it. However, Abu Hanifah thought that the Muslim could be killed for a disbeliever, following the general meaning of the Ayah (5:45) in Surat Al-Ma'idah (chapter 5 in the Qur'an).
+
+The Four Imams (Abu Hanifah, Malik, Shafi`i and Ahmad) and the majority of scholars stated that the group is killed for one person whom they murder. `Umar said, about a boy who was killed by seven men, "If all the residents of San`a' (capital of Yemen today) collaborated on killing him, I would kill them all." No opposing opinion was known by the Companions during that time which constitutes a near Ijma` (consensus). There is an opinion attributed to Imam Ahmad that a group of people is not killed for one person whom they kill, and that only one person is killed for one person. Ibn Al-Mundhir also attributed this opinion to Mu`adh, Ibn Az-Zubayr, `Abdul-Malik bin Marwan, Az-Zuhri, Ibn Sirin and Habib bin Abu Thabit. Allah's statement:
+
+> فَمَنْ عُفِىَ لَهُ مِنْ أَخِيهِ شَىْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـنٍ
+
+(But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money), then it should be sought in a good manner, and paid to him respectfully.) refers to accepting blood money (by the relatives of the victim in return for pardoning the killer) in cases of intentional murder. This opinion is attributed to Abu Al-`Aliyah, Abu Sha`tha', Mujahid, Sa`id bin Jubayr, `Ata' Al-Hasan, Qatadah and Muqatil bin Hayyan. Ad-Dahhak said that Ibn `Abbas said:
+
+> فَمَنْ عُفِىَ لَهُ مِنْ أَخِيهِ شَىْءٌ
+
+(But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money)) means the killer is pardoned by his brother (i.e., the relative of the victim) and accepting the Diyah after capital punishment becomes due (against the killer), this is the `Afw (pardon mentioned in the Ayah)." Allah's statement:
+
+> فَاتِّبَاعٌ بِالْمَعْرُوفِ
+
+(...then it should be sought in a good manner,) means, when the relative agrees to take the blood money, he should collect his rightful dues with kindness:
+
+> وَأَدَآءٌ إِلَيْهِ بِإِحْسَـنٍ
+
+( and paid to him respectfully.) means, the killer should accept the terms of settlement without causing further harm or resisting the payment.
+
+Allah's statement:
+
+> ذَلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ
+
+(This is an alleviation and a mercy from your Lord.) means the legislation that allows you to accept the blood money for intentional murder is an alleviation and a mercy from your Lord. It lightens what was required from those who were before you, either applying capital punishment or forgiving.
+
+Sa`id bin Mansur reported that Ibn `Abbas said, "The Children of Israel were required to apply the Law of equality in murder cases and were not allowed to offer pardons (in return for blood money). Allah said to this Ummah (the Muslim nation):
+
+> كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنثَىٰ بِالْأُنثَىٰ ۚ فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ
+
+(The Law of equality in punishment is prescribed for you in case of murder: the free for the free, the servant for the servant, and the female for the female. But if the killer is forgiven by the brother (or the relatives) of the killed (against blood money),)
+
+Hence, `pardoning' or `forgiving' means accepting blood money in intentional murder cases." Ibn Hibban also recorded this in his Sahih. Qatadah said:
+
+> ذَلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ
+
+(This is an alleviation from your Lord)
+
+Allah had mercy on this Ummah by giving them the Diyah which was not allowed for any nation before it. The People of the Torah (Jews) were allowed to either apply the penal code (for murder, i.e., execution) or to pardon the killer, but they were not allowed to take blood money. The People of the Injil (the Gospel - the Christians) were required to pardon (the killer, but no Diyah was legislated). This Ummah (Muslims) is allowed to apply the penal code (execution) or to pardon and accept the blood money." Similar was reported from Sa`id bin Jubayr, Muqatil bin Hayyan and Ar-Rabi` bin Anas.
+
+Allah's statement:
+
+> فَمَنِ اعْتَدَى بَعْدَ ذَلِكَ فَلَهُ عَذَابٌ أَلِيمٌ
+
+(So after this whoever transgresses the limits, he shall have a painful torment.) means, those who kill in retaliation after taking the Diyah or accepting it, they will suffer a painful and severe torment from Allah. The same was reported from Ibn `Abbas, Mujahid, `Ata' `Ikrimah, Al-Hasan, Qatadah, Ar-Rabi` bin Anas, As-Suddi and Muqatil bin Hayyan.
+
+### The Benefits and Wisdom of the Law of Equality
+
+Allah's statement:
+
+> وَلَكُمْ فِي الْقِصَاصِ حَيَوةٌ
+
+(And there is life for you in Al-Qisas) legislating the Law of equality, i.e., killing the murderer, carries great benefits for you. This way, the sanctity of life will be preserved because the killer will refrain from killing, as he will be certain that if he kills, he would be killed. Hence life will be preserved. In previous Books, there is a statement that killing stops further killing! This meaning came in much clearer and eloquent terms in the Qur'an:
+
+> وَلَكُمْ فِي الْقِصَاصِ حَيَوةٌ
+
+(And there is (a saving of) life for you in Al-Qisas (the Law of equality in punishment).)
+
+Abu Al-`Aliyah said, "Allah made the Law of equality a `life'. Hence, how many a man who thought about killing, but this Law prevented him from killing for fear that he will be killed in turn." Similar statements were reported from Mujahid, Sa`id bin Jubayr, Abu Malik, Al-Hasan, Qatadah, Ar-Rabi` bin Anas and Muqatil bin Hayyan. Allah's statement:
+
+> يأُولِي الأَلْبَـبِ لَعَلَّكُمْ تَتَّقُونَ
+
+(O men of understanding, that you may acquire Taqwa.) means, `O you who have sound minds, comprehension and understanding! Perhaps by this you will be compelled to refrain from transgressing the prohibitions of Allah and what He considers sinful. ' Taqwa (mentioned in the Ayah) is a word that means doing all acts of obedience and refraining from all prohibitions.
+
+> كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَلِدَيْنِ وَالاٌّقْرَبِينَ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> ولكم في تشريع القصاص وتنفيذه حياة آمنة -يا أصحاب العقول السليمة-; رجاء تقوى الله وخشيته بطاعته دائمًا.
+
+## Ayah 180
+
+
+> كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ
+
+### Including Parents and Relatives in the Will was later abrogated
+
+This Ayah contains the command to include parents and relatives in the will, which was obligatory, according to the most correct view, before the Ayah about inheritance was revealed. When the Ayah of inheritance was revealed, this Ayah was abrogated, so fixed shares of the inheritance for deserving recipients were legislated by Allah. Therefore, deserving inheritors take their fixed inheritance without the need to be included in the will or to be reminded of the favor of the inherited person. For this reason we see the Hadith narrated in the Sunan and other books that `Amr bin Kharijah said: I heard Allah's Messenger ﷺ saying in a speech:
+
+> «إِنَّ اللهَ قَدْ أَعْطَى كُلَّ ذِي حَقَ حَقَّهُ، فَلَا وَصِيَّــةَ لِوَارِث»
+
+(Allah has given each heir his fixed share. So there is no will for a deserving heir.)
+
+Imam Ahmad recorded that Muhammad bin Sirin said: Ibn `Abbas recited Surat Al-Baqarah (chapter 2 in the Qur'an) until he reached the Ayah:
+
+> إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَلِدَيْنِ وَالاٌّقْرَبِينَ
+
+(...if he leaves wealth, that he makes a bequest to parents and next of kin.)
+
+He then said, "This Ayah was abrogated." This was recorded by Sa`id bin Mansur and Al-Hakim in his Mustadrak Al-Hakim Said, "It is Sahih according to their criteria (Al-Bukhari and Muslim)". Ibn Abu Hatim reported that Ibn `Abbas said that Allah's statement:
+
+> الْوَصِيَّةُ لِلْوَلِدَيْنِ وَالاٌّقْرَبِينَ
+
+(a bequest to parents and next of kin)
+
+was abrogated by the Ayah:
+
+> لِّلرِّجَالِ نَصيِبٌ مِّمَّا تَرَكَ الْوَلِدَنِ وَالاٌّقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ الْوَلِدَنِ وَالاٌّقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيباً مَّفْرُوضاً
+
+(There is a share for men and a share for women from what is left by parents and those nearest related, whether the property be small or large ـ a legal share.) (4:7)
+
+Ibn Abu Hatim then said, "It was reported from Ibn `Umar, Abu Musa, Sa`id bin Musayyib, Al-Hasan, Mujahid, `Ata' Sa`id bin Jubayr, Muhammad bin Sirin, `Ikrimah, Zayd bin Aslam and Ar-Rabi` bin Anas. Qatadah, As-Suddi, Muqatil bin Hayyan, Tawus, Ibrahim An-Nakha`i, Shurayh, Ad-Dahhak and Az-Zuhri said that this Ayah (2:180 above) was abrogated by the Ayah about the inheritors (4:7)."
+
+### The Will for the Relatives that do not qualify as Inheritors
+
+It is recommended that the remaining relatives who do not have a designated fixed share of the inheritance, be willed up to a third, due to the general meaning of the Ayah about the will. It is recorded in the Sahihayn that Ibn `Umar said that Allah's Messenger ﷺ said:
+
+> «مَا حَقُّ امْرِىءٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصِي فِيه يَبِيتُ لَيْلَتَيْنِ إلَّا وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَه»
+
+(It is not permissible for any Muslim who has something to will to stay for two nights without having his last will and testament written and kept ready with him.)
+
+Ibn `Umar commented, "Ever since I heard this statement from Allah's Messenger ﷺ , no night has passed, but my will is kept ready with me." There are many other Ayat and Ahadith ordering kindness and generosity to one's relatives.
+
+### The Will should observe Justice
+
+The will should be fair, in that one designates a part of the inheritance to his relatives without committing injustice against his qualified inheritors and without extravagance or stinginess. It is recorded in the Sahihayn that Sa`d bin Abu Waqqas said, "O Allah's Messenger ﷺ! I have some money and only a daughter inherits from me, should I will all my remaining property (to others)" He said, "No." Sa`d said, "Then may I will half of it" He said, "No." Sa`d said, "One-third" He said, "Yes, one-third, yet even one-third is too much. It is better for you to leave your inheritors wealthy than to leave them poor, begging from others." Al-Bukhari mentioned in his Sahih that Ibn `Abbas said, "I recommend that people reduce the proportion of what they bequeath by will to a fourth (of the whole legacy) rather than a third, for Allah's Messenger ﷺ said:
+
+> «الثُّلُثُ وَالثُّلُثُ كَثِير»
+
+(One-third, yet even one-third is too much.)"
+
+Allah's statement:
+
+> فَمَن بَدَّلَهُ بَعْدَمَا سَمِعَهُ فَإِنَّمَآ إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهُ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+
+(Then whoever changes it after hearing it, the sin shall be on those who make the change. Truly, Allah is All-Hearer, All-Knower.) means, whoever changed the will and testament or altered it by addition or deletion, including hiding the will as is obvious, then
+
+> فَإِنَّمَآ إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهُ
+
+(the sin shall be on those who make the change. )
+
+Ibn `Abbas and others said, "The dead person's reward will be preserved for him by Allah, while the sin is acquired by those who change the will."
+
+> إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+
+(Truly, Allah is All-Hearer, All-Knower.) means, Allah knows what the dead person has bequeathed and what the beneficiaries (or others) have changed in the will.
+
+Allah's statement:
+
+> فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا
+
+(But he who fears from a testator some unjust act or wrongdoing,)
+
+Ibn `Abbas, Abu Al-`Aliyah, Mujahid, Ad-Dahhak, Ar-Rabi` bin Anas and As-Suddi said, "Error." These errors include such cases as when the inheritor indirectly acquires more than his fair share, such as by being allocated that a certain item mentioned in the legacy be sold to him. Or, the testator might include his daughter's son in the legacy to increase his daughter's share in the inheritance, and so forth. Such errors might occur out of the kindness of the heart without thinking about the consequences of these actions, or by sinful intention. In such cases, the executive of the will and testament is allowed to correct the errors and to replace the unjust items in the will with a better solution, so that both the Islamic law and what the dead person had wished for are respected and observed. This act would not constitute an alteration in the will and this is why Allah mentioned it specifically, so that it is excluded from the prohibition (that prohibits altering the will and testament) mentioned in the previous Ayah. And Allah knows best.
+
+`Abdur-Razzaq reported that Abu Hurayrah said that Allah's Messenger ﷺ said:
+
+> «إِنَّ الرَّجُلَ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْخَيْرِ سَبْعِينَ سَنَةً، فَإِذَا أَوْصَى حَافَ فِي وَصِيَّتِهِ، فَيُخْتَمُ لَه بِشَرِّ عَمَلِهِ، فَيَدْخُلُ النَّارَ. وَإِنَّ الرَّجُلَ لَيَعْمَلُ بِعَمَلِ أَهْلِ الشَّرِّ سَبْعِينَ سَنَةً، فَيَعْدِلُ فِي وَصِيَّتِهِ، فَيُخْتَمُ لَهُ بِخَيْرِ عَمَلِهِ، فَيَدْخُلُ الْجَنَّــة»
+
+(A man might perform the works of righteous people for seventy years, but when he dictates his will, he commits injustice and thus his works end with the worst of his deeds and he enters the Fire. A man might perform the works of evil people for seventy years, but then dictates a just will and thus ends with the best of his deeds and then enters Paradise.)
+
+Abu Hurayrah then said, "Read if you wish:
+
+> تِلْكَ حُدُودُ اللَّهِ فَلاَ تَعْتَدُوهَا
+
+(These are the limits ordained by Allah, so do not transgress them.)" (2:229)
+
+**Tafsir Muyassar (المیسر):**
+
+> فرض الله عليكم إذا حضر أحدكم علامات الموت ومقدماته -إن ترك مالا- الوصية بجزء من ماله للوالدين والأقربين مع مراعاة العدل; فلا يدع الفقير ويوصي للغني، ولا يتجاوز الثلث، وذلك حق ثابت يعمل به أهل التقوى الذين يخافون الله. وكان هذا قبل نزول آيات المواريث التي حدَّد الله فيها نصيب كل وارث.

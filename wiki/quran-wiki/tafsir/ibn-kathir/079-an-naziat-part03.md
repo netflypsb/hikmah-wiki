@@ -1,0 +1,277 @@
+---
+title: Tafsir Ibn Kathir — Surah An-Nazi'at (79) Part 3
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 79
+surah_name: An-Nazi'at
+ayah_range: [44, 46]
+part: 3
+total_parts: 3
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-079, makki]
+sources: [raw/tafsir/079.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah An-Nazi'at (79), Ayat 44-46
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 79, Ayat 44–46 (part 3 of 3)
+
+
+## Ayah 44
+
+
+> إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ
+
+### The Day of Judgement, its Pleasures and Hell, and that its Time is not known
+
+Allah says,
+
+> فَإِذَا جَآءَتِ الطَّآمَّةُ الْكُبْرَى
+
+(But when there comes the Great Catastrophe) This refers to the Day of Judgement. This has been said by Ibn `Abbas. It has been called this because it will overcome every matter. It will be frightful and horrifying. As Allah says,
+
+> وَالسَّاعَةُ أَدْهَى وَأَمَرُّ
+
+(And the Hour will be more grievous and more bitter.) (54:46) Then Allah says,
+
+> يَوْمَ يَتَذَكَّرُ الإِنسَـنُ مَا سَعَى
+
+(The Day when man shall remember what he strove for.) meaning, at that time the Son of Adam will reflect upon all of his deeds, both the good and the evil. This is as Allah says,
+
+> يَوْمَئِذٍ يَتَذَكَّرُ الإِنسَـنُ وَأَنَّى لَهُ الذِّكْرَى
+
+(On the Day will man remember, but how will that remembrance avail him) (89:23) Then Allah says,
+
+> وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَى
+
+(And Hell shall be made apparent for whoever sees.) meaning, it will become apparent for the onlookers, so the people will see it with their own eyes.
+
+> فَأَمَّا مَن طَغَى
+
+(Then for him who transgressed) meaning, who rebels and behaves arrogantly.
+
+> وَءاثَرَ الْحَيَوةَ الدُّنْيَا
+
+(And preferred the life of this world,) meaning, he gives it precedence over the matters of his religion and his Hereafter.
+
+> فَإِنَّ الْجَحِيمَ هِىَ الْمَأْوَى
+
+(Verily his abode will be the Hell;) meaning, his final destination will be Hell, his food will be from the tree of Zaqqum, and his drink will be from Hamim.
+
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
+
+(But as for him who feared standing before his Lord and forbade himself from desire.) meaning, he fears the standing before Allah, he fears Allah's judgement of him, he prevents his soul from following its desires, and he compels it to obey its Master.
+
+> فَإِنَّ الْجَنَّةَ هِىَ الْمَأْوَى
+
+(Verily Paradise will be his abode.) meaning, his final abode, his destination, and his place of return will be the spacious Paradise. Then Allah says,
+
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَـهَا - فِيمَ أَنتَ مِن ذِكْرَاهَا - إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(They ask you about the Hour -- when will be its appointed time What do you have to mention of it. To your Lord it is limited.) meaning, its knowledge is not with you, nor with any creature. Rather the knowledge of it is with Allah. He is the One Who knows the exact time of its occurrence.
+
+> ثَقُلَتْ فِى السَّمَـوَتِ وَالاٌّرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَةً يَسْـَلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّهِ
+
+(Heavy is its burden through the heavens and the earth. It shall not come upon you except all of a sudden. They ask you as if you have a good knowledge of it. Say: "The knowledge thereof is with Allah.") (7:187) Allah says here,
+
+> إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(To your Lord it is limited.) Thus, when Jibril asked the Messenger of Allah ﷺ about the time of the last Hour he said,
+
+> «مَا الْمَسْؤُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِل»
+
+(The one questioned about it knows no more than the questioner.) Allah said,
+
+> إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَـهَا
+
+(You are only a warner for those who fear it,) meaning, `I sent you to warn mankind and caution them to beware of the torment and punishment of Allah. So whoever fears Allah, fears standing before Him, and His threat, then he will follow you, and thus be successful and victorious. However, whoever denies you and opposes you, then he will only suffer loss and failure.' Allah then says,
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) meaning, when they stand up from their graves to go to the place of Gathering, they will feel that the period of the worldy life was short, it will seem to them that it was only the afternoon of one day. Juwaybir reported from Ad-Dahhak from Ibn `Abbas:
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) "As for `Ashiyyah, it is the time between noon until the setting of the sun.
+
+> أَوْ ضُحَـهَا
+
+(Or its (Duha) morning) what is between sunrise and midday (noon)." Qatadah said, "This refers to the time period of the worldly life in the eyes of the people when they see the Hereafter." This is the end of the Tafsir of Surat An-Nazi`at. And to Allah belongs all praise and thanks.
+
+**Tafsir Muyassar (المیسر):**
+
+> يسألك المشركون أيها الرسول- استخفافا- عن وقت حلول الساعة التي تتوعدهم بها. لستَ في شيء مِن علمها، بل مرد ذلك إلى الله عز وجل، وإنما شأنك في أمر الساعة أن تحذر منها مَن يخافها. كأنهم يوم يرون قيام الساعة لم يلبثوا في الحياة الدنيا؛ لهول الساعة إلا ما بين الظهر إلى غروب الشمس، أو ما بين طلوع الشمس إلى نصف النهار.
+
+## Ayah 45
+
+
+> إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا
+
+### The Day of Judgement, its Pleasures and Hell, and that its Time is not known
+
+Allah says,
+
+> فَإِذَا جَآءَتِ الطَّآمَّةُ الْكُبْرَى
+
+(But when there comes the Great Catastrophe) This refers to the Day of Judgement. This has been said by Ibn `Abbas. It has been called this because it will overcome every matter. It will be frightful and horrifying. As Allah says,
+
+> وَالسَّاعَةُ أَدْهَى وَأَمَرُّ
+
+(And the Hour will be more grievous and more bitter.) (54:46) Then Allah says,
+
+> يَوْمَ يَتَذَكَّرُ الإِنسَـنُ مَا سَعَى
+
+(The Day when man shall remember what he strove for.) meaning, at that time the Son of Adam will reflect upon all of his deeds, both the good and the evil. This is as Allah says,
+
+> يَوْمَئِذٍ يَتَذَكَّرُ الإِنسَـنُ وَأَنَّى لَهُ الذِّكْرَى
+
+(On the Day will man remember, but how will that remembrance avail him) (89:23) Then Allah says,
+
+> وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَى
+
+(And Hell shall be made apparent for whoever sees.) meaning, it will become apparent for the onlookers, so the people will see it with their own eyes.
+
+> فَأَمَّا مَن طَغَى
+
+(Then for him who transgressed) meaning, who rebels and behaves arrogantly.
+
+> وَءاثَرَ الْحَيَوةَ الدُّنْيَا
+
+(And preferred the life of this world,) meaning, he gives it precedence over the matters of his religion and his Hereafter.
+
+> فَإِنَّ الْجَحِيمَ هِىَ الْمَأْوَى
+
+(Verily his abode will be the Hell;) meaning, his final destination will be Hell, his food will be from the tree of Zaqqum, and his drink will be from Hamim.
+
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
+
+(But as for him who feared standing before his Lord and forbade himself from desire.) meaning, he fears the standing before Allah, he fears Allah's judgement of him, he prevents his soul from following its desires, and he compels it to obey its Master.
+
+> فَإِنَّ الْجَنَّةَ هِىَ الْمَأْوَى
+
+(Verily Paradise will be his abode.) meaning, his final abode, his destination, and his place of return will be the spacious Paradise. Then Allah says,
+
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَـهَا - فِيمَ أَنتَ مِن ذِكْرَاهَا - إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(They ask you about the Hour -- when will be its appointed time What do you have to mention of it. To your Lord it is limited.) meaning, its knowledge is not with you, nor with any creature. Rather the knowledge of it is with Allah. He is the One Who knows the exact time of its occurrence.
+
+> ثَقُلَتْ فِى السَّمَـوَتِ وَالاٌّرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَةً يَسْـَلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّهِ
+
+(Heavy is its burden through the heavens and the earth. It shall not come upon you except all of a sudden. They ask you as if you have a good knowledge of it. Say: "The knowledge thereof is with Allah.") (7:187) Allah says here,
+
+> إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(To your Lord it is limited.) Thus, when Jibril asked the Messenger of Allah ﷺ about the time of the last Hour he said,
+
+> «مَا الْمَسْؤُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِل»
+
+(The one questioned about it knows no more than the questioner.) Allah said,
+
+> إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَـهَا
+
+(You are only a warner for those who fear it,) meaning, `I sent you to warn mankind and caution them to beware of the torment and punishment of Allah. So whoever fears Allah, fears standing before Him, and His threat, then he will follow you, and thus be successful and victorious. However, whoever denies you and opposes you, then he will only suffer loss and failure.' Allah then says,
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) meaning, when they stand up from their graves to go to the place of Gathering, they will feel that the period of the worldy life was short, it will seem to them that it was only the afternoon of one day. Juwaybir reported from Ad-Dahhak from Ibn `Abbas:
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) "As for `Ashiyyah, it is the time between noon until the setting of the sun.
+
+> أَوْ ضُحَـهَا
+
+(Or its (Duha) morning) what is between sunrise and midday (noon)." Qatadah said, "This refers to the time period of the worldly life in the eyes of the people when they see the Hereafter." This is the end of the Tafsir of Surat An-Nazi`at. And to Allah belongs all praise and thanks.
+
+**Tafsir Muyassar (المیسر):**
+
+> يسألك المشركون أيها الرسول- استخفافا- عن وقت حلول الساعة التي تتوعدهم بها. لستَ في شيء مِن علمها، بل مرد ذلك إلى الله عز وجل، وإنما شأنك في أمر الساعة أن تحذر منها مَن يخافها. كأنهم يوم يرون قيام الساعة لم يلبثوا في الحياة الدنيا؛ لهول الساعة إلا ما بين الظهر إلى غروب الشمس، أو ما بين طلوع الشمس إلى نصف النهار.
+
+## Ayah 46
+
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا
+
+### The Day of Judgement, its Pleasures and Hell, and that its Time is not known
+
+Allah says,
+
+> فَإِذَا جَآءَتِ الطَّآمَّةُ الْكُبْرَى
+
+(But when there comes the Great Catastrophe) This refers to the Day of Judgement. This has been said by Ibn `Abbas. It has been called this because it will overcome every matter. It will be frightful and horrifying. As Allah says,
+
+> وَالسَّاعَةُ أَدْهَى وَأَمَرُّ
+
+(And the Hour will be more grievous and more bitter.) (54:46) Then Allah says,
+
+> يَوْمَ يَتَذَكَّرُ الإِنسَـنُ مَا سَعَى
+
+(The Day when man shall remember what he strove for.) meaning, at that time the Son of Adam will reflect upon all of his deeds, both the good and the evil. This is as Allah says,
+
+> يَوْمَئِذٍ يَتَذَكَّرُ الإِنسَـنُ وَأَنَّى لَهُ الذِّكْرَى
+
+(On the Day will man remember, but how will that remembrance avail him) (89:23) Then Allah says,
+
+> وَبُرِّزَتِ الْجَحِيمُ لِمَن يَرَى
+
+(And Hell shall be made apparent for whoever sees.) meaning, it will become apparent for the onlookers, so the people will see it with their own eyes.
+
+> فَأَمَّا مَن طَغَى
+
+(Then for him who transgressed) meaning, who rebels and behaves arrogantly.
+
+> وَءاثَرَ الْحَيَوةَ الدُّنْيَا
+
+(And preferred the life of this world,) meaning, he gives it precedence over the matters of his religion and his Hereafter.
+
+> فَإِنَّ الْجَحِيمَ هِىَ الْمَأْوَى
+
+(Verily his abode will be the Hell;) meaning, his final destination will be Hell, his food will be from the tree of Zaqqum, and his drink will be from Hamim.
+
+> وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
+
+(But as for him who feared standing before his Lord and forbade himself from desire.) meaning, he fears the standing before Allah, he fears Allah's judgement of him, he prevents his soul from following its desires, and he compels it to obey its Master.
+
+> فَإِنَّ الْجَنَّةَ هِىَ الْمَأْوَى
+
+(Verily Paradise will be his abode.) meaning, his final abode, his destination, and his place of return will be the spacious Paradise. Then Allah says,
+
+> يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَـهَا - فِيمَ أَنتَ مِن ذِكْرَاهَا - إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(They ask you about the Hour -- when will be its appointed time What do you have to mention of it. To your Lord it is limited.) meaning, its knowledge is not with you, nor with any creature. Rather the knowledge of it is with Allah. He is the One Who knows the exact time of its occurrence.
+
+> ثَقُلَتْ فِى السَّمَـوَتِ وَالاٌّرْضِ لاَ تَأْتِيكُمْ إِلاَّ بَغْتَةً يَسْـَلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّهِ
+
+(Heavy is its burden through the heavens and the earth. It shall not come upon you except all of a sudden. They ask you as if you have a good knowledge of it. Say: "The knowledge thereof is with Allah.") (7:187) Allah says here,
+
+> إِلَى رَبِّكَ مُنتَهَـهَآ
+
+(To your Lord it is limited.) Thus, when Jibril asked the Messenger of Allah ﷺ about the time of the last Hour he said,
+
+> «مَا الْمَسْؤُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِل»
+
+(The one questioned about it knows no more than the questioner.) Allah said,
+
+> إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَـهَا
+
+(You are only a warner for those who fear it,) meaning, `I sent you to warn mankind and caution them to beware of the torment and punishment of Allah. So whoever fears Allah, fears standing before Him, and His threat, then he will follow you, and thus be successful and victorious. However, whoever denies you and opposes you, then he will only suffer loss and failure.' Allah then says,
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) meaning, when they stand up from their graves to go to the place of Gathering, they will feel that the period of the worldy life was short, it will seem to them that it was only the afternoon of one day. Juwaybir reported from Ad-Dahhak from Ibn `Abbas:
+
+> كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+(The Day they see it (it will be) as if they had not tarried (in this world) except an (`Ashiyyah) afternoon or its (Duha) morning.) "As for `Ashiyyah, it is the time between noon until the setting of the sun.
+
+> أَوْ ضُحَـهَا
+
+(Or its (Duha) morning) what is between sunrise and midday (noon)." Qatadah said, "This refers to the time period of the worldly life in the eyes of the people when they see the Hereafter." This is the end of the Tafsir of Surat An-Nazi`at. And to Allah belongs all praise and thanks.
+
+**Tafsir Muyassar (المیسر):**
+
+> يسألك المشركون أيها الرسول- استخفافا- عن وقت حلول الساعة التي تتوعدهم بها. لستَ في شيء مِن علمها، بل مرد ذلك إلى الله عز وجل، وإنما شأنك في أمر الساعة أن تحذر منها مَن يخافها. كأنهم يوم يرون قيام الساعة لم يلبثوا في الحياة الدنيا؛ لهول الساعة إلا ما بين الظهر إلى غروب الشمس، أو ما بين طلوع الشمس إلى نصف النهار.

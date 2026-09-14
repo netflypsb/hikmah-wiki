@@ -1,0 +1,1206 @@
+---
+title: Tafsir Ibn Kathir — Surah Ash-Shu'ara (26) Part 7
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 26
+surah_name: Ash-Shu'ara
+ayah_range: [185, 206]
+part: 7
+total_parts: 9
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-026, makki]
+sources: [raw/tafsir/026.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah Ash-Shu'ara (26), Ayat 185-206
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 26, Ayat 185–206 (part 7 of 9)
+
+
+## Ayah 185
+
+
+> قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> قالوا: إنما أنت -يا شعيب- مِنَ الذين أصابهم السحر إصابة شديدة، فذهب بعقولهم، وما أنت إلا واحد مثلنا في البشرية، فكيف تختص دوننا بالرسالة؟ وإن أكبر ظننا أنك من الكاذبين فيما تدَّعيه من الرسالة. فإن كنت صادقًا في دعوى النبوة، فادع الله أن يسقط علينا قطع عذاب من السماء تستأصلنا.
+
+## Ayah 186
+
+
+> وَمَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَـٰذِبِينَ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> قالوا: إنما أنت- يا شعيب- مِنَ الذين أصابهم السحر إصابة شديدة، فذهب بعقولهم، وما أنت إلا واحد مثلنا في البشرية، فكيف تختص دوننا بالرسالة؟ وإن أكبر ظننا أنك من الكاذبين فيما تدَّعيه من الرسالة. فإن كنت صادقًا في دعوى النبوة، فادع الله أن يسقط علينا قطع عذاب من السماء تستأصلنا.
+
+## Ayah 187
+
+
+> فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> قالوا: إنما أنت- يا شعيب- مِنَ الذين أصابهم السحر إصابة شديدة، فذهب بعقولهم، وما أنت إلا واحد مثلنا في البشرية، فكيف تختص دوننا بالرسالة؟ وإن أكبر ظننا أنك من الكاذبين فيما تدَّعيه من الرسالة. فإن كنت صادقًا في دعوى النبوة، فادع الله أن يسقط علينا قطع عذاب من السماء تستأصلنا.
+
+## Ayah 188
+
+
+> قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> قال لهم شعيب: ربي أعلم بما تعملونه مِنَ الشرك والمعاصي، وبما تستوجبونه من العقاب.
+
+## Ayah 189
+
+
+> فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ ۚ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> فاستمَرُّوا على تكذيبه، فأصابهم الحر الشديد، وصاروا يبحثون عن ملاذ يستظلون به، فأظلتهم سحابة، وجدوا لها بردًا ونسيمًا، فلما اجتمعوا تحتها، التهبت عليهم نارًا فأحرقتهم، فكان هلاكهم جميعًا في يوم شديد الهول.
+
+## Ayah 190
+
+
+> إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> إن في ذلك العقاب الذي نزل بهم، لَدلالة واضحة على قدرة الله في مؤاخذة المكذبين، وعبرة لمن يعتبر، وما كان أكثرهم مؤمنين متعظين بذلك.
+
+## Ayah 191
+
+
+> وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+
+### The Response of Shu`ayb's People, Their Disbelief in Him and the coming of the Punishment upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger -- for they were of like mind -- when they said:إِنَّمَآ أَنتَ مِنَ الْمُسَحَّرِينَ
+
+> (You are only one of those bewitched!) meaning, `you are one of those who are affected by witchcraft.'وَمَآ أَنتَ إِلاَّ بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَـذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, `we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:وَقَالُواْ لَن نُّؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الاٌّرْضِ يَنْبُوعًا
+
+> (And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us) until:أَوْ تُسْقِطَ السَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِاللَّهِ وَالْمَلَـئِكَةِ قَبِيلاً
+
+> (Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.") (17:90-92)وَإِذْ قَالُواْ اللَّهُمَّ إِن كَانَ هَـذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....") (8:32). Similarly, these ignorant disbelievers said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)قَالَ رَبِّى أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, `Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them -- as they asked for -- an exact recompense. Allah says:فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A`raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:لَنُخْرِجَنَّكَ يـشُعَيْبُ وَالَّذِينَ ءَامَنُواْ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu`ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.") (7:88). They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Sayhah seized the wrongdoers) (11:94). This was because they mocked the Allah's Prophet when they said:أَصَلَوَتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءابَاؤُنَآ أَوْ أَن نَّفْعَلَ فِى أَمْوَالِنَا مَا نَشَؤُا إِنَّكَ لاّنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!") (11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+> (So As-Saihah overtook them) (15:73).وَأَخَذَتِ الَّذِينَ ظَلَمُواْ الصَّيْحَةُ
+
+> (And As-Saihah seized the wrongdoers) (11:94). And here, they said:فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ السَّمَآءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn `Abbas about this Ayah:فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them. ) He said: `Allah sent upon them thunder and intense heat, and it terrified them so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further, and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn `Abbas said, `That was the torment of the Day of Shadow, indeed that was the torment of a Great Day."'إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.) (26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+**Tafsir Muyassar (المیسر):**
+
+> وإن ربك - أيها الرسول - لهو العزيز في نقمته ممن انتقم منه من أعدائه، الرحيم بعباده الموحدين.
+
+## Ayah 192
+
+
+> وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ
+
+### The Qur'an was revealed by Allah
+
+Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ.
+
+> وَأَنَّهُ
+
+(And truly, this) refers to the Qur'an, which at the beginning of the Surah was described as
+
+> وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَـنِ مُحْدَثٍ
+
+(and never comes there unto them a Reminder as a recent revelation from the Most Gracious...) (26:5).
+
+> لَتَنزِيلُ رَبِّ الْعَـلَمِينَ
+
+(is a revelation from the Lord of Al-`Alamin.) means, Allah has sent it down to you and revealed it to you.
+
+> نَزَلَ بِهِ الرُّوحُ الاٌّمِينُ
+
+(Which the trustworthy Ruh has brought down.) This refers to Jibril, peace be upon him. This was the view of more than one of the Salaf: Ibn `Abbas, Muhammad bin Ka`b, Qatadah, `Atiyyah Al-`Awfi, As-Suddi, Ad-Dahhak, Az-Zuhri and Ibn Jurayj. This is an issue concerning which there is no dispute. Az-Zuhri said, "This is like the Ayah:
+
+> قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ
+
+(Say: "Whoever is an enemy to Jibril -- for indeed he has brought it down to your heart by Allah's permission, confirming what came before it...") (2:97).
+
+> عَلَى قَلْبِكَ
+
+(Upon your heart) `O Muhammad, free from any contamination, with nothing added or taken away.'
+
+> لِتَكُونَ مِنَ الْمُنْذِرِينَ
+
+(that you may be of the warners,) means, `so that you may warn people with it of the punishment of Allah for those who go against it and disbelieve in it, and so that you may give glad tidings with it to the believers who follow it.'
+
+> بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ
+
+(In the plain Arabic language.) meaning, `this Qur'an which We have revealed to you, We have revealed in perfect and eloquent Arabic, so that it may be quite clear, leaving no room for excuses and establishing clear proof, showing the straight path.'
+
+> وَإِنَّهُ لَفِى زُبُرِ الاٌّوَّلِينَ أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَوَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> وإن هذا القرآن الذي ذُكِرَتْ فيه هذه القصص الصادقة، لَمنزَّل مِن خالق الخلق، ومالك الأمر كله، نزل به جبريل الأمين، فتلاه عليك - أيها الرسول - حتى وعيته بقلبك حفظًا وفهمًا؛ لتكون مِن رسل الله الذين يخوِّفون قومهم عقاب الله، فتنذر بهذا التنزيل الإنس والجن أجمعين. نزل به جبريل عليك بلغة عربية واضحة المعنى، ظاهرة الدلالة، فيما يحتاجون إليه في إصلاح شؤون دينهم ودنياهم.
+
+## Ayah 193
+
+
+> نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
+
+### The Qur'an was revealed by Allah
+
+Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ.
+
+> وَأَنَّهُ
+
+(And truly, this) refers to the Qur'an, which at the beginning of the Surah was described as
+
+> وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَـنِ مُحْدَثٍ
+
+(and never comes there unto them a Reminder as a recent revelation from the Most Gracious...) (26:5).
+
+> لَتَنزِيلُ رَبِّ الْعَـلَمِينَ
+
+(is a revelation from the Lord of Al-`Alamin.) means, Allah has sent it down to you and revealed it to you.
+
+> نَزَلَ بِهِ الرُّوحُ الاٌّمِينُ
+
+(Which the trustworthy Ruh has brought down.) This refers to Jibril, peace be upon him. This was the view of more than one of the Salaf: Ibn `Abbas, Muhammad bin Ka`b, Qatadah, `Atiyyah Al-`Awfi, As-Suddi, Ad-Dahhak, Az-Zuhri and Ibn Jurayj. This is an issue concerning which there is no dispute. Az-Zuhri said, "This is like the Ayah:
+
+> قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ
+
+(Say: "Whoever is an enemy to Jibril -- for indeed he has brought it down to your heart by Allah's permission, confirming what came before it...") (2:97).
+
+> عَلَى قَلْبِكَ
+
+(Upon your heart) `O Muhammad, free from any contamination, with nothing added or taken away.'
+
+> لِتَكُونَ مِنَ الْمُنْذِرِينَ
+
+(that you may be of the warners,) means, `so that you may warn people with it of the punishment of Allah for those who go against it and disbelieve in it, and so that you may give glad tidings with it to the believers who follow it.'
+
+> بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ
+
+(In the plain Arabic language.) meaning, `this Qur'an which We have revealed to you, We have revealed in perfect and eloquent Arabic, so that it may be quite clear, leaving no room for excuses and establishing clear proof, showing the straight path.'
+
+> وَإِنَّهُ لَفِى زُبُرِ الاٌّوَّلِينَ أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَوَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> وإن هذا القرآن الذي ذُكِرَتْ فيه هذه القصص الصادقة، لَمنزَّل مِن خالق الخلق، ومالك الأمر كله، نزل به جبريل الأمين، فتلاه عليك - أيها الرسول - حتى وعيته بقلبك حفظًا وفهمًا؛ لتكون مِن رسل الله الذين يخوِّفون قومهم عقاب الله، فتنذر بهذا التنزيل الإنس والجن أجمعين. نزل به جبريل عليك بلغة عربية واضحة المعنى، ظاهرة الدلالة، فيما يحتاجون إليه في إصلاح شؤون دينهم ودنياهم.
+
+## Ayah 194
+
+
+> عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ
+
+### The Qur'an was revealed by Allah
+
+Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ.
+
+> وَأَنَّهُ
+
+(And truly, this) refers to the Qur'an, which at the beginning of the Surah was described as
+
+> وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَـنِ مُحْدَثٍ
+
+(and never comes there unto them a Reminder as a recent revelation from the Most Gracious...) (26:5).
+
+> لَتَنزِيلُ رَبِّ الْعَـلَمِينَ
+
+(is a revelation from the Lord of Al-`Alamin.) means, Allah has sent it down to you and revealed it to you.
+
+> نَزَلَ بِهِ الرُّوحُ الاٌّمِينُ
+
+(Which the trustworthy Ruh has brought down.) This refers to Jibril, peace be upon him. This was the view of more than one of the Salaf: Ibn `Abbas, Muhammad bin Ka`b, Qatadah, `Atiyyah Al-`Awfi, As-Suddi, Ad-Dahhak, Az-Zuhri and Ibn Jurayj. This is an issue concerning which there is no dispute. Az-Zuhri said, "This is like the Ayah:
+
+> قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ
+
+(Say: "Whoever is an enemy to Jibril -- for indeed he has brought it down to your heart by Allah's permission, confirming what came before it...") (2:97).
+
+> عَلَى قَلْبِكَ
+
+(Upon your heart) `O Muhammad, free from any contamination, with nothing added or taken away.'
+
+> لِتَكُونَ مِنَ الْمُنْذِرِينَ
+
+(that you may be of the warners,) means, `so that you may warn people with it of the punishment of Allah for those who go against it and disbelieve in it, and so that you may give glad tidings with it to the believers who follow it.'
+
+> بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ
+
+(In the plain Arabic language.) meaning, `this Qur'an which We have revealed to you, We have revealed in perfect and eloquent Arabic, so that it may be quite clear, leaving no room for excuses and establishing clear proof, showing the straight path.'
+
+> وَإِنَّهُ لَفِى زُبُرِ الاٌّوَّلِينَ أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَوَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> وإن هذا القرآن الذي ذُكِرَتْ فيه هذه القصص الصادقة، لَمنزَّل مِن خالق الخلق، ومالك الأمر كله، نزل به جبريل الأمين، فتلاه عليك - أيها الرسول - حتى وعيته بقلبك حفظًا وفهمًا؛ لتكون مِن رسل الله الذين يخوِّفون قومهم عقاب الله، فتنذر بهذا التنزيل الإنس والجن أجمعين. نزل به جبريل عليك بلغة عربية واضحة المعنى، ظاهرة الدلالة، فيما يحتاجون إليه في إصلاح شؤون دينهم ودنياهم.
+
+## Ayah 195
+
+
+> بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ
+
+### The Qur'an was revealed by Allah
+
+Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ.
+
+> وَأَنَّهُ
+
+(And truly, this) refers to the Qur'an, which at the beginning of the Surah was described as
+
+> وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَـنِ مُحْدَثٍ
+
+(and never comes there unto them a Reminder as a recent revelation from the Most Gracious...) (26:5).
+
+> لَتَنزِيلُ رَبِّ الْعَـلَمِينَ
+
+(is a revelation from the Lord of Al-`Alamin.) means, Allah has sent it down to you and revealed it to you.
+
+> نَزَلَ بِهِ الرُّوحُ الاٌّمِينُ
+
+(Which the trustworthy Ruh has brought down.) This refers to Jibril, peace be upon him. This was the view of more than one of the Salaf: Ibn `Abbas, Muhammad bin Ka`b, Qatadah, `Atiyyah Al-`Awfi, As-Suddi, Ad-Dahhak, Az-Zuhri and Ibn Jurayj. This is an issue concerning which there is no dispute. Az-Zuhri said, "This is like the Ayah:
+
+> قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ
+
+(Say: "Whoever is an enemy to Jibril -- for indeed he has brought it down to your heart by Allah's permission, confirming what came before it...") (2:97).
+
+> عَلَى قَلْبِكَ
+
+(Upon your heart) `O Muhammad, free from any contamination, with nothing added or taken away.'
+
+> لِتَكُونَ مِنَ الْمُنْذِرِينَ
+
+(that you may be of the warners,) means, `so that you may warn people with it of the punishment of Allah for those who go against it and disbelieve in it, and so that you may give glad tidings with it to the believers who follow it.'
+
+> بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ
+
+(In the plain Arabic language.) meaning, `this Qur'an which We have revealed to you, We have revealed in perfect and eloquent Arabic, so that it may be quite clear, leaving no room for excuses and establishing clear proof, showing the straight path.'
+
+> وَإِنَّهُ لَفِى زُبُرِ الاٌّوَّلِينَ أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَوَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+**Tafsir Muyassar (المیسر):**
+
+> وإن هذا القرآن الذي ذُكِرَتْ فيه هذه القصص الصادقة، لَمنزَّل مِن خالق الخلق، ومالك الأمر كله، نزل به جبريل الأمين، فتلاه عليك - أيها الرسول - حتى وعيته بقلبك حفظًا وفهمًا؛ لتكون مِن رسل الله الذين يخوِّفون قومهم عقاب الله، فتنذر بهذا التنزيل الإنس والجن أجمعين. نزل به جبريل عليك بلغة عربية واضحة المعنى، ظاهرة الدلالة، فيما يحتاجون إليه في إصلاح شؤون دينهم ودنياهم.
+
+## Ayah 196
+
+
+> وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ
+
+### The Qur'an was mentioned in the Previous Scriptures
+
+Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently. Allah took a covenant from them that they would follow it, and the last of them stood and addressed his people with the good news of Ahmad:
+
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يبَنِى إِسْرَءِيلَ إِنِّى رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ أَحْمَدُ
+
+(And (remember) when `Isa, son of Maryam, said: "O Children of Israel! I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.) (61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to Dawud. Allah says:
+
+> وَكُلُّ شَىْءٍ فَعَلُوهُ فِى الزُّبُرِ
+
+(And everything they have done is noted in the Az-Zubur.) (54:52), meaning, it is recorded against them in the books of the angels. Then Allah says:
+
+> أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَ
+
+(Is it not a sign to them that the learned scholars of the Children of Israel knew it) meaning, is it not sufficient witness to the truth for them that the scholars of the Children of Israel found this Qur'an mentioned in the Scriptures which they study The meaning is: the fair-minded among them admitted that the attributes of Muhammad ﷺ and his mission and his Ummah were mentioned in their Books, as was stated by those among them who believed, such as `Abdullah bin Salam, Salman Al-Farisi and others who met the Prophet . Allah said:
+
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِىَّ الأُمِّىَّ
+
+(Those who follow the Messenger, the Prophet who can neither read nor write ...) (7:157)
+
+### The Intense Disbelief of Quraysh
+
+Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they still would not have believed in him. Allah says:
+
+> وَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+> فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ-
+
+(And if We had revealed it unto any of the non-Arabs, And he had recited it unto them, they would not have believed in it.) And Allah says:
+
+> وَلَوْ فَتَحْنَا عَلَيْهِم بَاباً مِّنَ السَّمَاءِ فَظَلُّواْ فِيهِ يَعْرُجُونَ لَقَالُواْ إِنَّمَا سُكِّرَتْ أَبْصَـرُنَا
+
+(And even if We opened to them a gate from the heaven and they were to keep on ascending thereto. They would surely say: "Our eyes have been dazzled...") (15:14-15)
+
+> وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ الْمَلَـئِكَةَ وَكَلَّمَهُمُ الْمَوْتَى
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them...) (6:111)
+
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لاَ يُؤْمِنُونَ
+
+(Truly, those, against whom the Word of your Lord has been justified, will not believe.) (10:96)
+
+> كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ - لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ - فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ - فَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ - أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ - أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ - وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
+
+**Tafsir Muyassar (المیسر):**
+
+> وإنَّ ذِكْرَ هذا القرآن لَمثبتٌ في كتب الأنبياء السابقين، قد بَشَّرَتْ به وصَدَّقَتْه.
+
+## Ayah 197
+
+
+> أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ
+
+### The Qur'an was mentioned in the Previous Scriptures
+
+Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently. Allah took a covenant from them that they would follow it, and the last of them stood and addressed his people with the good news of Ahmad:
+
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يبَنِى إِسْرَءِيلَ إِنِّى رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ أَحْمَدُ
+
+(And (remember) when `Isa, son of Maryam, said: "O Children of Israel! I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.) (61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to Dawud. Allah says:
+
+> وَكُلُّ شَىْءٍ فَعَلُوهُ فِى الزُّبُرِ
+
+(And everything they have done is noted in the Az-Zubur.) (54:52), meaning, it is recorded against them in the books of the angels. Then Allah says:
+
+> أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَ
+
+(Is it not a sign to them that the learned scholars of the Children of Israel knew it) meaning, is it not sufficient witness to the truth for them that the scholars of the Children of Israel found this Qur'an mentioned in the Scriptures which they study The meaning is: the fair-minded among them admitted that the attributes of Muhammad ﷺ and his mission and his Ummah were mentioned in their Books, as was stated by those among them who believed, such as `Abdullah bin Salam, Salman Al-Farisi and others who met the Prophet . Allah said:
+
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِىَّ الأُمِّىَّ
+
+(Those who follow the Messenger, the Prophet who can neither read nor write ...) (7:157)
+
+### The Intense Disbelief of Quraysh
+
+Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they still would not have believed in him. Allah says:
+
+> وَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+> فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ-
+
+(And if We had revealed it unto any of the non-Arabs, And he had recited it unto them, they would not have believed in it.) And Allah says:
+
+> وَلَوْ فَتَحْنَا عَلَيْهِم بَاباً مِّنَ السَّمَاءِ فَظَلُّواْ فِيهِ يَعْرُجُونَ لَقَالُواْ إِنَّمَا سُكِّرَتْ أَبْصَـرُنَا
+
+(And even if We opened to them a gate from the heaven and they were to keep on ascending thereto. They would surely say: "Our eyes have been dazzled...") (15:14-15)
+
+> وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ الْمَلَـئِكَةَ وَكَلَّمَهُمُ الْمَوْتَى
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them...) (6:111)
+
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لاَ يُؤْمِنُونَ
+
+(Truly, those, against whom the Word of your Lord has been justified, will not believe.) (10:96)
+
+> كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ - لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ - فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ - فَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ - أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ - أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ - وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
+
+**Tafsir Muyassar (المیسر):**
+
+> أو لم يَكْفِ هؤلاء -في الدلالة على أنك رسول الله، وأن القرآن حق- عِلْمُ علماء بني إسرائيل صحة ذلك، ومَن آمن منهم كعبد الله بن سلام؟
+
+## Ayah 198
+
+
+> وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ
+
+### The Qur'an was mentioned in the Previous Scriptures
+
+Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently. Allah took a covenant from them that they would follow it, and the last of them stood and addressed his people with the good news of Ahmad:
+
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يبَنِى إِسْرَءِيلَ إِنِّى رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ أَحْمَدُ
+
+(And (remember) when `Isa, son of Maryam, said: "O Children of Israel! I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.) (61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to Dawud. Allah says:
+
+> وَكُلُّ شَىْءٍ فَعَلُوهُ فِى الزُّبُرِ
+
+(And everything they have done is noted in the Az-Zubur.) (54:52), meaning, it is recorded against them in the books of the angels. Then Allah says:
+
+> أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَ
+
+(Is it not a sign to them that the learned scholars of the Children of Israel knew it) meaning, is it not sufficient witness to the truth for them that the scholars of the Children of Israel found this Qur'an mentioned in the Scriptures which they study The meaning is: the fair-minded among them admitted that the attributes of Muhammad ﷺ and his mission and his Ummah were mentioned in their Books, as was stated by those among them who believed, such as `Abdullah bin Salam, Salman Al-Farisi and others who met the Prophet . Allah said:
+
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِىَّ الأُمِّىَّ
+
+(Those who follow the Messenger, the Prophet who can neither read nor write ...) (7:157)
+
+### The Intense Disbelief of Quraysh
+
+Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they still would not have believed in him. Allah says:
+
+> وَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+> فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ-
+
+(And if We had revealed it unto any of the non-Arabs, And he had recited it unto them, they would not have believed in it.) And Allah says:
+
+> وَلَوْ فَتَحْنَا عَلَيْهِم بَاباً مِّنَ السَّمَاءِ فَظَلُّواْ فِيهِ يَعْرُجُونَ لَقَالُواْ إِنَّمَا سُكِّرَتْ أَبْصَـرُنَا
+
+(And even if We opened to them a gate from the heaven and they were to keep on ascending thereto. They would surely say: "Our eyes have been dazzled...") (15:14-15)
+
+> وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ الْمَلَـئِكَةَ وَكَلَّمَهُمُ الْمَوْتَى
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them...) (6:111)
+
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لاَ يُؤْمِنُونَ
+
+(Truly, those, against whom the Word of your Lord has been justified, will not believe.) (10:96)
+
+> كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ - لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ - فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ - فَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ - أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ - أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ - وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
+
+**Tafsir Muyassar (المیسر):**
+
+> ولو نَزَّلنا القرآن على بعض الذين لا يتكلمون بالعربية، فقرأه على كفار قريش قراءة عربية صحيحة، لكفروا به أيضًا، وانتحلوا لجحودهم عذرًا. كذلك أدخلنا في قلوب المجرمين جحود القرآن، وصار متمكنًا فيها؛ وذلك بسبب ظلمهم وإجرامهم، فلا سبيل إلى أن يتغيروا عمَّا هم عليه من إنكار القرآن، حتى يعاينوا العذاب الشديد الذي وُعِدوا به.
+
+## Ayah 199
+
+
+> فَقَرَأَهُۥ عَلَيْهِم مَّا كَانُوا۟ بِهِۦ مُؤْمِنِينَ
+
+### The Qur'an was mentioned in the Previous Scriptures
+
+Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently. Allah took a covenant from them that they would follow it, and the last of them stood and addressed his people with the good news of Ahmad:
+
+> وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يبَنِى إِسْرَءِيلَ إِنِّى رَسُولُ اللَّهِ إِلَيْكُم مُّصَدِّقاً لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَاةِ وَمُبَشِّراً بِرَسُولٍ يَأْتِى مِن بَعْدِى اسْمُهُ أَحْمَدُ
+
+(And (remember) when `Isa, son of Maryam, said: "O Children of Israel! I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.) (61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to Dawud. Allah says:
+
+> وَكُلُّ شَىْءٍ فَعَلُوهُ فِى الزُّبُرِ
+
+(And everything they have done is noted in the Az-Zubur.) (54:52), meaning, it is recorded against them in the books of the angels. Then Allah says:
+
+> أَوَلَمْيَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِى إِسْرَءِيلَ
+
+(Is it not a sign to them that the learned scholars of the Children of Israel knew it) meaning, is it not sufficient witness to the truth for them that the scholars of the Children of Israel found this Qur'an mentioned in the Scriptures which they study The meaning is: the fair-minded among them admitted that the attributes of Muhammad ﷺ and his mission and his Ummah were mentioned in their Books, as was stated by those among them who believed, such as `Abdullah bin Salam, Salman Al-Farisi and others who met the Prophet . Allah said:
+
+> الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِىَّ الأُمِّىَّ
+
+(Those who follow the Messenger, the Prophet who can neither read nor write ...) (7:157)
+
+### The Intense Disbelief of Quraysh
+
+Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they still would not have believed in him. Allah says:
+
+> وَلَوْ نَزَّلْنَـهُ عَلَى بَعْضِ الاٌّعْجَمِينَ
+
+> فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ-
+
+(And if We had revealed it unto any of the non-Arabs, And he had recited it unto them, they would not have believed in it.) And Allah says:
+
+> وَلَوْ فَتَحْنَا عَلَيْهِم بَاباً مِّنَ السَّمَاءِ فَظَلُّواْ فِيهِ يَعْرُجُونَ لَقَالُواْ إِنَّمَا سُكِّرَتْ أَبْصَـرُنَا
+
+(And even if We opened to them a gate from the heaven and they were to keep on ascending thereto. They would surely say: "Our eyes have been dazzled...") (15:14-15)
+
+> وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ الْمَلَـئِكَةَ وَكَلَّمَهُمُ الْمَوْتَى
+
+(And even if We had sent down unto them angels, and the dead had spoken unto them...) (6:111)
+
+> إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَةُ رَبِّكَ لاَ يُؤْمِنُونَ
+
+(Truly, those, against whom the Word of your Lord has been justified, will not believe.) (10:96)
+
+> كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ - لاَ يُؤْمِنُونَ بِهِ حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ - فَيَأْتِيَهُم بَغْتَةً وَهُمْ لاَ يَشْعُرُونَ - فَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ - أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ - أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ - وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ
+
+**Tafsir Muyassar (المیسر):**
+
+> ولو نَزَّلنا القرآن على بعض الذين لا يتكلمون بالعربية، فقرأه على كفار قريش قراءة عربية صحيحة، لكفروا به أيضًا، وانتحلوا لجحودهم عذرًا. كذلك أدخلنا في قلوب المجرمين جحود القرآن، وصار متمكنًا فيها؛ وذلك بسبب ظلمهم وإجرامهم، فلا سبيل إلى أن يتغيروا عمَّا هم عليه من إنكار القرآن، حتى يعاينوا العذاب الشديد الذي وُعِدوا به.
+
+## Ayah 200
+
+
+> كَذَٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ ٱلْمُجْرِمِينَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> ولو نَزَّلنا القرآن على بعض الذين لا يتكلمون بالعربية، فقرأه على كفار قريش قراءة عربية صحيحة، لكفروا به أيضًا، وانتحلوا لجحودهم عذرًا. كذلك أدخلنا في قلوب المجرمين جحود القرآن، وصار متمكنًا فيها؛ وذلك بسبب ظلمهم وإجرامهم، فلا سبيل إلى أن يتغيروا عمَّا هم عليه من إنكار القرآن، حتى يعاينوا العذاب الشديد الذي وُعِدوا به.
+
+## Ayah 201
+
+
+> لَا يُؤْمِنُونَ بِهِۦ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> ولو نَزَّلنا القرآن على بعض الذين لا يتكلمون بالعربية، فقرأه على كفار قريش قراءة عربية صحيحة، لكفروا به أيضًا، وانتحلوا لجحودهم عذرًا. كذلك أدخلنا في قلوب المجرمين جحود القرآن، وصار متمكنًا فيها؛ وذلك بسبب ظلمهم وإجرامهم، فلا سبيل إلى أن يتغيروا عمَّا هم عليه من إنكار القرآن، حتى يعاينوا العذاب الشديد الذي وُعِدوا به.
+
+## Ayah 202
+
+
+> فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> فينزل بهم العذاب فجأة، وهم لا يعلمون قبل ذلك بمجيئه، فيقولون عند مفاجأتهم به تحسُّرًا على ما فاتهم من الإيمان: هل نحن مُمْهَلون مُؤخَّرون؛ لنتوب إلى الله مِن شركنا، ونستدرك ما فاتنا؟
+
+## Ayah 203
+
+
+> فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> فينزل بهم العذاب فجأة، وهم لا يعلمون قبل ذلك بمجيئه، فيقولون عند مفاجأتهم به تحسُّرًا على ما فاتهم من الإيمان: هل نحن مُمْهَلون مُؤخَّرون؛ لنتوب إلى الله مِن شركنا، ونستدرك ما فاتنا؟
+
+## Ayah 204
+
+
+> أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> أَغَرَّ هؤلاء إمهالي، فيستعجلون نزول العذاب عليهم من السماء؟
+
+## Ayah 205
+
+
+> أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ سِنِينَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> أفعلمت - أيها الرسول - إن مَتَّعناهم بالحياة سنين طويلة بتأخير آجالهم، ثم نزل بهم العذاب الموعود؟
+
+## Ayah 206
+
+
+> ثُمَّ جَآءَهُم مَّا كَانُوا۟ يُوعَدُونَ
+
+### The Deniers will never believe until They see the Torment
+
+Allah says: `thus We caused denial, disbelief, rejection and stubbornness to enter the hearts of the sinners.'لاَ يُؤْمِنُونَ بِهِ
+
+> (They will not believe in it), i.e., the truth,حَتَّى يَرَوُاْ الْعَذَابَ الاٌّلِيمَ
+
+(until they see the painful torment.) means, when their excuses will be of no avail, and the curse will be upon them, and theirs will be an evil abode.فَيَأْتِيَهُم بَغْتَةً
+
+(It shall come to them of a sudden,) means, the punishment of Allah will come upon them suddenly,وَهُمْ لاَ يَشْعُرُونَفَيَقُولُواْ هَلْ نَحْنُ مُنظَرُونَ
+
+(while they perceive it not. Then they will say: "Can we be respited") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah -- or so they claim. This is like the Ayah:وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them) until:مَا لَكُمْ مِّن زَوَالٍ
+
+(that you would not leave) (14: 44). When every sinner and evildoer sees his punishment, he will feel intense regret. Such was the case of Fir`awn, when Musa prayed against him:رَبَّنَآ إِنَّكَ ءاتَيْتَ فِرْعَوْنَ وَمَلاّهُ زِينَةً وَأَمْوَالاً فِى الْحَيَوةِ الدُّنْيَا
+
+(Our Lord! "You have indeed bestowed on Fir`awn and his chiefs splendor and wealth in the life of this world) until:قَالَ قَدْ أُجِيبَتْ دَّعْوَتُكُمَا
+
+> ((Allah) said: "Verily, the invocation of you both is accepted.") (10:88-89). This supplication had an effect on Fir`awn: he did not believe until he saw the painful torment:حَتَّى إِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ ءَامَنتُ أَنَّهُ لا إِلِـهَ إِلاَّ الَّذِى ءَامَنَتْ بِهِ بَنواْ إِسْرَءِيلَ
+
+(till when drowning overtook him, he said: "I believe that none has the right to be worshipped but He in Whom the Children of Israel believe.") until:وَكُنتَ مِنَ الْمُفْسِدِينَ
+
+> (and you were one of the mischief-makers) (10:90-91). And Allah says:فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ
+
+(so when they saw Our punishment, they said: "We believe in Allah Alone...") (40:84-85).أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+(Would they then wish for Our torment to be hastened on) This is a denunciation and a threat, because they used to say to the Messenger, by way of denial, thinking it unlikely ever to happen:ائْتِنَا بِعَذَابِ اللَّهِ
+
+> (Bring Allah's torment upon us) (29:29). This is as Allah said:وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ
+
+> (And they ask you to hasten on the torment...) (29:53-55). Then Allah says:أَفَرَأَيْتَ إِن مَّتَّعْنَـهُمْ سِنِينَ - ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ - مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+(Think, if We do let them enjoy for years, and afterwards comes to them that which they had been promised, all that with which they used to enjoy shall not avail them.) meaning, `even if We delay the matter and give them respite for a short while or for a long time, then the punishment of Allah comes upon them, what good will their life of luxury do them then'كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُواْ إِلاَّ عَشِيَّةً أَوْ ضُحَـهَا
+
+> (The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning) (79:46). And Allah says:يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ
+
+(Everyone of them wishes that he could be given a life of a thousand years. But the grant of such life will not save him even a little from punishment) (2:96).وَمَا يُغْنِى عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+> (And what will his wealth avail him when he goes down) (92:11) Allah says here:مَآ أَغْنَى عَنْهُمْ مَّا كَانُواْ يُمَتَّعُونَ
+
+> (All that with which they used to enjoy shall not avail them.) According to an authentic Hadith:«يُؤْتَى بِالْكَافِرِ فَيُغْمَسُ فِي النَّارِ غَمْسَةً ثُمَّ يُقَالُ لَهُ: هَلْ رَأَيْتَ خَيْرًا قَطُّ؟ هَلْ رَأَيْتَ نَعِيمًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَبِّ، وَيُؤتَى بِأَشَدِّ النَّاسِ بُؤْسًا كَانَ فِي الدُّنْيَا، فَيُصْبَغُ فِي الْجَنَّةِ صَبْغَةً، ثُمَّ يُقَالُ لَهُ::َهلْ رَأَيْتَ بُؤْسًا قَطُّ؟ فَيَقُولُ: لَا وَاللهِ يَا رَب»
+
+(The disbelievers will be brought and once dipped into the Fire, then it will be said to him: "Did you ever see anything good Did you ever see anything good" He will say, "No, O Lord!" Then the most miserable person who ever lived on earth will be brought, and he will be put in Paradise for a brief spell, then it will be said to him, "Did you ever see anything bad" He will say, "No, O Lord.") meaning: as if nothing ever happened. Then Allah tells us of His justice towards His creation, in that He does not destroy any nation until after He has left them with no excuse, by warning them, sending Messengers to them and establishing proof against them. He says:وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلاَّ لَهَا مُنذِرُونَ ذِكْرَى وَمَا كُنَّا ظَـلِمِينَ
+
+(And never did We destroy a township but it had its warners by way of reminder, and We have never been unjust.) This is like the Ayat:وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولاً
+
+> (And We never punish until We have sent a Messenger) (17:15).وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَى حَتَّى يَبْعَثَ فِى أُمِّهَا رَسُولاً يَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And never will your Lord destroy the towns until He sends to their mother town a Messenger reciting to them Our Ayat.) until;وَأَهْلُهَا ظَـلِمُونَ
+
+(the people thereof are wrongdoers) (28:59).
+
+**Tafsir Muyassar (المیسر):**
+
+> أفعلمت - أيها الرسول - إن مَتَّعناهم بالحياة سنين طويلة بتأخير آجالهم، ثم نزل بهم العذاب الموعود؟

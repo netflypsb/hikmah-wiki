@@ -44,9 +44,9 @@
     "quran-wiki": {
       "path": "wiki/quran-wiki/",
       "source_path": "sources/quran/",
-      "page_count": 406,
+      "page_count": 780,
       "v1_pages": 406,
-      "v2_pages": 0,
+      "v2_pages": 374,
       "lint_status": "pending",
       "method": "manual"
     },
@@ -60,7 +60,7 @@
       "method": "manual"
     }
   },
-  "total_curated_pages": 742,
+  "total_curated_pages": 1074,
   "v2_enrichment": {
     "rubric_run": {
       "date": "2026-09-14",
@@ -135,6 +135,17 @@
       "bridge-akhlaq.md",
       "bridge-haram.md",
       "bridge-taqwa.md"
-    ]
+    ],
+    "tafsir_pipeline": {
+      "mufassir": "ibn-kathir-abridged",
+      "source": "sources/quran/tafsir/ (Quran.com API v4)",
+      "pages_generated": 373,
+      "ayat_covered": 6236,
+      "total_surahs": 114,
+      "location": "wiki/quran-wiki/tafsir/ibn-kathir/",
+      "generated_date": "2026-09-14",
+      "page_design": "one page per surah chunk (~120KB, split by ayah ranges); each ayah section: Arabic ayah quote + Ibn Kathir commentary + Muyassar Arabic summary",
+      "rubric_status": "373/373 ALL PASS"
+    }
   }
 }

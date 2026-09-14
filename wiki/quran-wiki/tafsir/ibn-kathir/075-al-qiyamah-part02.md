@@ -1,0 +1,1147 @@
+---
+title: Tafsir Ibn Kathir — Surah Al-Qiyamah (75) Part 2
+type: tafsir-entry
+mufassir: ibn-kathir
+surah_number: 75
+surah_name: Al-Qiyamah
+ayah_range: [11, 20]
+part: 2
+total_parts: 4
+tafsir_tier: 1
+created: 2026-09-14
+updated: 2026-09-14
+tags: [tafsir, ibn-kathir, tafsir-entry, quran, surah-075, makki]
+sources: [raw/tafsir/075.jsonl]
+confidence: high
+---
+
+# Tafsir Ibn Kathir — Surah Al-Qiyamah (75), Ayat 11-20
+
+
+> Mufassir: **Hafiz Ibn Kathir** (Abridged English) · Source: Quran.com API v4 · Surah 75, Ayat 11–20 (part 2 of 4)
+
+
+## Ayah 11
+
+
+> كَلَّا لَا وَزَرَ
+
+> ### Which was revealed in Makkah
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,لاَ أُقْسِمُ بِيَوْمِ الْقِيَـمَةِ - وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn `Abbas and Sa`id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), `What did I intend by my statement What did I intend by my eating What did I intend in what I said to myself' However, the sinner proceeds ahead and he does not blame himself." Ibn Jarir recorded from Sa`id bin Jubayr that he said concerning Allah's statement,وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from `Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;أَيَحْسَبُ الإِنسَـنُ أَلَّن نَّجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones) meaning, `on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places'بَلَى قَـدِرِينَ عَلَى أَن نُّسَوِّىَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, `does man think that We will not gather his bones Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,بَلْ يُرِيدُ الإِنسَـنُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa`id reported from Ibn `Abbas that he said, "This means to proceed forward." Mujahid said about,لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." `Ali bin Abi Talhah reported from Ibn `Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,يَسْـَلُ أَيَّانَ يَوْمُ الْقِيَـمَةِ
+
+> (He asks: "When will be this Day of Resurrection") meaning, he says when will the Day of Judgement be His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.") (34:29-30) Here Allah says,فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu `Amr bin Al-`Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu `Amr) has said resembles the statement of Allah,لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.) (14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day. Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.) (81:1,2) It has been reported from Ibn Mas`ud that he recited the Ayah as, (وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ) (and the sun and the moon will be joined between each other.) Allah said,يَقُولُ الإِنسَـنُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to" This means, where is the escape or refuge Allah then says,كَلاَّ لاَ وَزَرَ - إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas`ud, Ibn `Abbas, Sa`id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,مَا لَكُمْ مِّن مَّلْجَأٍ يَوْمَئِذٍ وَمَا لَكُمْ مِّن نَّكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.) (42:47) meaning, `there will be no place for you to hide.' This is like what Allah says here,لاَ وَزَرَ
+
+(There is no refuge.) meaning, `there will be no place for you to seek shelter.' Thus, Allah says,إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination. The Deeds of Man will be placed before Him on the Day of Judgement Then Allah says,يُنَبَّأُ الإِنسَـنُ يَوْمَئِذِ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًا وَلاَ يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.) (18:49) Likewise, Allah says here,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,اقْرَأْ كَتَـبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.") `Ali bin Abi Talhah reported that Ibn `Abbas said,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs." Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: `O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it"' Mujahid said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+> (Though he may put forth his excuses.) "This means his argument." This is as Allah says,ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+> (There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.") (6:23) Allah also says,يَوْمَ يَبْعَثُهُمُ اللَّهِ جَمِيعاً فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَى شَىْءٍ أَلاَ إِنَّهُمْ هُمُ الْكَـذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!) (58:18) Al-`Awfi reported from Ibn `Abbas:وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ
+
+> (The Day when their excuses will be of no profit to wrongdoers.) (40:52) and He says,وَأَلْقَوْاْ إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+> (And they will offer submision to Allah on that Day.) (16:87) and He says,فَأَلْقَوُاْ السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.") (16:28) and their statement,وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.) (6:23)"
+
+**Tafsir Muyassar (المیسر):**
+
+> ليس الأمر كما تتمناه -أيها الإنسان- مِن طلب الفرار، لا ملجأ لك ولا منجى. إلى الله وحده مصير الخلائق يوم القيامة ومستقرهم، فيجازي كلا بما يستحق.
+
+## Ayah 12
+
+
+> إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ
+
+> ### Which was revealed in Makkah
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,لاَ أُقْسِمُ بِيَوْمِ الْقِيَـمَةِ - وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn `Abbas and Sa`id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), `What did I intend by my statement What did I intend by my eating What did I intend in what I said to myself' However, the sinner proceeds ahead and he does not blame himself." Ibn Jarir recorded from Sa`id bin Jubayr that he said concerning Allah's statement,وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from `Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;أَيَحْسَبُ الإِنسَـنُ أَلَّن نَّجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones) meaning, `on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places'بَلَى قَـدِرِينَ عَلَى أَن نُّسَوِّىَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, `does man think that We will not gather his bones Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,بَلْ يُرِيدُ الإِنسَـنُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa`id reported from Ibn `Abbas that he said, "This means to proceed forward." Mujahid said about,لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." `Ali bin Abi Talhah reported from Ibn `Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,يَسْـَلُ أَيَّانَ يَوْمُ الْقِيَـمَةِ
+
+> (He asks: "When will be this Day of Resurrection") meaning, he says when will the Day of Judgement be His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.") (34:29-30) Here Allah says,فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu `Amr bin Al-`Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu `Amr) has said resembles the statement of Allah,لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.) (14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day. Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.) (81:1,2) It has been reported from Ibn Mas`ud that he recited the Ayah as, (وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ) (and the sun and the moon will be joined between each other.) Allah said,يَقُولُ الإِنسَـنُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to" This means, where is the escape or refuge Allah then says,كَلاَّ لاَ وَزَرَ - إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas`ud, Ibn `Abbas, Sa`id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,مَا لَكُمْ مِّن مَّلْجَأٍ يَوْمَئِذٍ وَمَا لَكُمْ مِّن نَّكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.) (42:47) meaning, `there will be no place for you to hide.' This is like what Allah says here,لاَ وَزَرَ
+
+(There is no refuge.) meaning, `there will be no place for you to seek shelter.' Thus, Allah says,إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination. The Deeds of Man will be placed before Him on the Day of Judgement Then Allah says,يُنَبَّأُ الإِنسَـنُ يَوْمَئِذِ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًا وَلاَ يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.) (18:49) Likewise, Allah says here,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,اقْرَأْ كَتَـبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.") `Ali bin Abi Talhah reported that Ibn `Abbas said,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs." Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: `O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it"' Mujahid said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+> (Though he may put forth his excuses.) "This means his argument." This is as Allah says,ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+> (There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.") (6:23) Allah also says,يَوْمَ يَبْعَثُهُمُ اللَّهِ جَمِيعاً فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَى شَىْءٍ أَلاَ إِنَّهُمْ هُمُ الْكَـذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!) (58:18) Al-`Awfi reported from Ibn `Abbas:وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ
+
+> (The Day when their excuses will be of no profit to wrongdoers.) (40:52) and He says,وَأَلْقَوْاْ إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+> (And they will offer submision to Allah on that Day.) (16:87) and He says,فَأَلْقَوُاْ السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.") (16:28) and their statement,وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.) (6:23)"
+
+**Tafsir Muyassar (المیسر):**
+
+> ليس الأمر كما تتمناه- أيها الإنسان- مِن طلب الفرار، لا ملجأ لك ولا منجى. إلى الله وحده مصير الخلائق يوم القيامة ومستقرهم، فيجازي كلا بما يستحق.
+
+## Ayah 13
+
+
+> يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ
+
+> ### Which was revealed in Makkah
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,لاَ أُقْسِمُ بِيَوْمِ الْقِيَـمَةِ - وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn `Abbas and Sa`id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), `What did I intend by my statement What did I intend by my eating What did I intend in what I said to myself' However, the sinner proceeds ahead and he does not blame himself." Ibn Jarir recorded from Sa`id bin Jubayr that he said concerning Allah's statement,وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from `Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;أَيَحْسَبُ الإِنسَـنُ أَلَّن نَّجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones) meaning, `on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places'بَلَى قَـدِرِينَ عَلَى أَن نُّسَوِّىَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, `does man think that We will not gather his bones Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,بَلْ يُرِيدُ الإِنسَـنُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa`id reported from Ibn `Abbas that he said, "This means to proceed forward." Mujahid said about,لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." `Ali bin Abi Talhah reported from Ibn `Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,يَسْـَلُ أَيَّانَ يَوْمُ الْقِيَـمَةِ
+
+> (He asks: "When will be this Day of Resurrection") meaning, he says when will the Day of Judgement be His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.") (34:29-30) Here Allah says,فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu `Amr bin Al-`Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu `Amr) has said resembles the statement of Allah,لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.) (14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day. Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.) (81:1,2) It has been reported from Ibn Mas`ud that he recited the Ayah as, (وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ) (and the sun and the moon will be joined between each other.) Allah said,يَقُولُ الإِنسَـنُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to" This means, where is the escape or refuge Allah then says,كَلاَّ لاَ وَزَرَ - إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas`ud, Ibn `Abbas, Sa`id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,مَا لَكُمْ مِّن مَّلْجَأٍ يَوْمَئِذٍ وَمَا لَكُمْ مِّن نَّكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.) (42:47) meaning, `there will be no place for you to hide.' This is like what Allah says here,لاَ وَزَرَ
+
+(There is no refuge.) meaning, `there will be no place for you to seek shelter.' Thus, Allah says,إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination. The Deeds of Man will be placed before Him on the Day of Judgement Then Allah says,يُنَبَّأُ الإِنسَـنُ يَوْمَئِذِ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًا وَلاَ يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.) (18:49) Likewise, Allah says here,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,اقْرَأْ كَتَـبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.") `Ali bin Abi Talhah reported that Ibn `Abbas said,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs." Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: `O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it"' Mujahid said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+> (Though he may put forth his excuses.) "This means his argument." This is as Allah says,ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+> (There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.") (6:23) Allah also says,يَوْمَ يَبْعَثُهُمُ اللَّهِ جَمِيعاً فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَى شَىْءٍ أَلاَ إِنَّهُمْ هُمُ الْكَـذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!) (58:18) Al-`Awfi reported from Ibn `Abbas:وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ
+
+> (The Day when their excuses will be of no profit to wrongdoers.) (40:52) and He says,وَأَلْقَوْاْ إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+> (And they will offer submision to Allah on that Day.) (16:87) and He says,فَأَلْقَوُاْ السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.") (16:28) and their statement,وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.) (6:23)"
+
+**Tafsir Muyassar (المیسر):**
+
+> يُخَبَّر الإنسان في ذلك اليوم بجميع أعماله: من خير وشر، ما قدَّمه منها في حياته وما أخَّره.
+
+## Ayah 14
+
+
+> بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ
+
+> ### Which was revealed in Makkah
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,لاَ أُقْسِمُ بِيَوْمِ الْقِيَـمَةِ - وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn `Abbas and Sa`id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), `What did I intend by my statement What did I intend by my eating What did I intend in what I said to myself' However, the sinner proceeds ahead and he does not blame himself." Ibn Jarir recorded from Sa`id bin Jubayr that he said concerning Allah's statement,وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from `Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;أَيَحْسَبُ الإِنسَـنُ أَلَّن نَّجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones) meaning, `on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places'بَلَى قَـدِرِينَ عَلَى أَن نُّسَوِّىَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, `does man think that We will not gather his bones Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,بَلْ يُرِيدُ الإِنسَـنُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa`id reported from Ibn `Abbas that he said, "This means to proceed forward." Mujahid said about,لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." `Ali bin Abi Talhah reported from Ibn `Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,يَسْـَلُ أَيَّانَ يَوْمُ الْقِيَـمَةِ
+
+> (He asks: "When will be this Day of Resurrection") meaning, he says when will the Day of Judgement be His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.") (34:29-30) Here Allah says,فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu `Amr bin Al-`Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu `Amr) has said resembles the statement of Allah,لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.) (14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day. Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.) (81:1,2) It has been reported from Ibn Mas`ud that he recited the Ayah as, (وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ) (and the sun and the moon will be joined between each other.) Allah said,يَقُولُ الإِنسَـنُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to" This means, where is the escape or refuge Allah then says,كَلاَّ لاَ وَزَرَ - إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas`ud, Ibn `Abbas, Sa`id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,مَا لَكُمْ مِّن مَّلْجَأٍ يَوْمَئِذٍ وَمَا لَكُمْ مِّن نَّكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.) (42:47) meaning, `there will be no place for you to hide.' This is like what Allah says here,لاَ وَزَرَ
+
+(There is no refuge.) meaning, `there will be no place for you to seek shelter.' Thus, Allah says,إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination. The Deeds of Man will be placed before Him on the Day of Judgement Then Allah says,يُنَبَّأُ الإِنسَـنُ يَوْمَئِذِ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًا وَلاَ يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.) (18:49) Likewise, Allah says here,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,اقْرَأْ كَتَـبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.") `Ali bin Abi Talhah reported that Ibn `Abbas said,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs." Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: `O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it"' Mujahid said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+> (Though he may put forth his excuses.) "This means his argument." This is as Allah says,ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+> (There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.") (6:23) Allah also says,يَوْمَ يَبْعَثُهُمُ اللَّهِ جَمِيعاً فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَى شَىْءٍ أَلاَ إِنَّهُمْ هُمُ الْكَـذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!) (58:18) Al-`Awfi reported from Ibn `Abbas:وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ
+
+> (The Day when their excuses will be of no profit to wrongdoers.) (40:52) and He says,وَأَلْقَوْاْ إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+> (And they will offer submision to Allah on that Day.) (16:87) and He says,فَأَلْقَوُاْ السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.") (16:28) and their statement,وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.) (6:23)"
+
+**Tafsir Muyassar (المیسر):**
+
+> بل الإنسان حجة واضحة على نفسه تلزمه بما فعل أو ترك، ولو جاء بكل معذرة يعتذر بها عن إجرامه، فإنه لا ينفعه ذلك.
+
+## Ayah 15
+
+
+> وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ
+
+> ### Which was revealed in Makkah
+> بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,لاَ أُقْسِمُ بِيَوْمِ الْقِيَـمَةِ - وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn `Abbas and Sa`id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), `What did I intend by my statement What did I intend by my eating What did I intend in what I said to myself' However, the sinner proceeds ahead and he does not blame himself." Ibn Jarir recorded from Sa`id bin Jubayr that he said concerning Allah's statement,وَلاَ أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from `Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;أَيَحْسَبُ الإِنسَـنُ أَلَّن نَّجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones) meaning, `on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places'بَلَى قَـدِرِينَ عَلَى أَن نُّسَوِّىَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, `does man think that We will not gather his bones Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,بَلْ يُرِيدُ الإِنسَـنُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa`id reported from Ibn `Abbas that he said, "This means to proceed forward." Mujahid said about,لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." `Ali bin Abi Talhah reported from Ibn `Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,يَسْـَلُ أَيَّانَ يَوْمُ الْقِيَـمَةِ
+
+> (He asks: "When will be this Day of Resurrection") meaning, he says when will the Day of Judgement be His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.") (34:29-30) Here Allah says,فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu `Amr bin Al-`Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu `Amr) has said resembles the statement of Allah,لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.) (14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day. Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.) (81:1,2) It has been reported from Ibn Mas`ud that he recited the Ayah as, (وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ) (and the sun and the moon will be joined between each other.) Allah said,يَقُولُ الإِنسَـنُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to" This means, where is the escape or refuge Allah then says,كَلاَّ لاَ وَزَرَ - إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas`ud, Ibn `Abbas, Sa`id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,مَا لَكُمْ مِّن مَّلْجَأٍ يَوْمَئِذٍ وَمَا لَكُمْ مِّن نَّكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.) (42:47) meaning, `there will be no place for you to hide.' This is like what Allah says here,لاَ وَزَرَ
+
+(There is no refuge.) meaning, `there will be no place for you to seek shelter.' Thus, Allah says,إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination. The Deeds of Man will be placed before Him on the Day of Judgement Then Allah says,يُنَبَّأُ الإِنسَـنُ يَوْمَئِذِ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًا وَلاَ يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.) (18:49) Likewise, Allah says here,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,اقْرَأْ كَتَـبَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.") `Ali bin Abi Talhah reported that Ibn `Abbas said,بَلِ الإِنسَـنُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs." Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: `O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it"' Mujahid said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+> (Though he may put forth his excuses.) "This means his argument." This is as Allah says,ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلاَّ أَن قَالُواْ وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+> (There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.") (6:23) Allah also says,يَوْمَ يَبْعَثُهُمُ اللَّهِ جَمِيعاً فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَى شَىْءٍ أَلاَ إِنَّهُمْ هُمُ الْكَـذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!) (58:18) Al-`Awfi reported from Ibn `Abbas:وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ
+
+> (The Day when their excuses will be of no profit to wrongdoers.) (40:52) and He says,وَأَلْقَوْاْ إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+> (And they will offer submision to Allah on that Day.) (16:87) and He says,فَأَلْقَوُاْ السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.") (16:28) and their statement,وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.) (6:23)"
+
+**Tafsir Muyassar (المیسر):**
+
+> بل الإنسان حجة واضحة على نفسه تلزمه بما فعل أو ترك، ولو جاء بكل معذرة يعتذر بها عن إجرامه، فإنه لا ينفعه ذلك.
+
+## Ayah 16
+
+
+> لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ
+
+### How the Prophet received the Revelation
+
+This is Allah teaching His Messenger how to receive the revelation from the angel. For verily, he (the Prophet ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+(Move not your tongue concerning to make haste therewith.) meaning, with the Qur'an. This is as Allah says,
+
+> وَلاَ تَعْجَلْ بِالْقُرْءانِ مِن قَبْلِ إَن يُقْضَى إِلَيْكَ وَحْيُهُ وَقُل رَّبِّ زِدْنِى عِلْماً
+
+(And be not in haste with the Qur'an before its revelation is completed to you, and say: "My Lord! Increase me in knowledge.") (20:114) Then Allah says,
+
+> إِنَّ عَلَيْنَا جَمْعَهُ
+
+(It is for Us to collect it) meaning, `in your chest.'
+
+> وَقُرْءَانَهُ
+
+(and that it be recited.) meaning, `that you recite it.'
+
+> فَإِذَا قَرَأْنَـهُ
+
+(And when We have recited it to you,) meaning, `when the angel has recited it to you from Allah,'
+
+> فَاتَّبِعْ قُرْءَانَهُ
+
+(then follow its recitation.) meaning, `listen to it then recite it as he taught you to recite it.'
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear.) meaning, `after memorizing it and reciting it, We will explain it to you, clarify it and inspire you with its meaning according to what We intended and legislated.' Imam Ahmad recorded from Ibn `Abbas that he said that the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited.) Ibn `Abbas said, "This means He will collect it in his chest to recite it.
+
+> فَإِذَا قَرَأْنَـهُ فَاتَّبِعْ قُرْءَانَهُ
+
+(And when We have recited it to you, then follow its recitation.) meaning, listen to it and pay attention.
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear (to you).) So after this, when Jibril would leave, he would recite it as Jibril had taught him to recite it." This has also been recorded by Al-Bukhari and Muslim. Al-Bukhari's wording says, "So whenever Jibril would come to him he would be silent, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him."
+
+### The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter
+
+Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter. nt, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him." sed to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited. rec?kA ? The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
+
+### Seeing Allah in the Hereafter
+
+Then Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+
+(Some faces that Day shall be Nadirah.) which comes from the word Nadarah, which means splendid, radiant, glowing, delighted with goodness.
+
+> إِلَى رَبِّهَا نَاظِرَةٌ
+
+(Looking at their Lord.) meaning, they will see Him with their very eyes. This is just as was recorded by Al-Bukhari in his Sahih,
+
+> «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ عِيَانًا»
+
+(Verily, you all will see your Lord with your own eyes.) The believers seeing Allah in the abode of the Hereafter has been confirmed in the authentic Hadiths from numerous routes of transmission with the scholars of Hadith. It is not possible to deny this or refuse it. Examples would be the Hadiths of Abu Sa`id and Abu Hurayrah, and they are both recorded in the Two Sahihs. They both mentioned that some people said, "O Messenger of Allah! Will we see our Lord on the Day of Judgement" The Prophet said,
+
+> «هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ وَالْقَمَرِ لَيْسَ دُونَهُمَا سَحَابٌ؟»
+
+(Are you harmed by seeing the sun and the moon when there are no clouds beneath them) They replied, "No." The Prophet then said,
+
+> «فَإِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَذَلِك»
+
+(Then you will surely see your Lord like that.) In the Two Sahihs it is recorded from Jabir that he said, "The Messenger of Allah ﷺ looked at the moon on a night when it was full, and he said,
+
+> «إِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَلَا قَبْلَ غُرُوبِهَا، فَافْعَلُوا»
+
+(Verily, you will see your Lord just as you see this moon! So if you are able to avoid missing a prayer before the rising of the sun (Fajr prayer) or before its setting (`Asr prayer) then do so.)" Among the Hadiths, which Muslim was alone in recording, is a narration from Suhayb that the Prophet said,
+
+> «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ قَالَ يَقُولُ اللهُ تَعَالى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ، وَهِيَ الزِّيَادَة»
+
+(When the people of Paradise enter the Paradise, Allah will say, `Do you want me to give you anything extra' They will say, `Haven't you whitened our faces Haven't you entered us into Paradise and saved us from the Fire' Then He will remove the veil and they will not be given anything more beloved to them than looking at their Lord, and that will be the extra (Ziyadah).) Then he recited this Ayah,
+
+> لِّلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ
+
+(For those who have done good is the best and extra (Ziyadah).) (10:26) Also among the Hadiths, which Muslim was alone in recording, is the Hadith of Jabir in which the Prophet said,
+
+> «إِنَّ اللهَ يَتَجَلَّى لِلْمُؤْمِنِينَ يَضْحَك»
+
+(Verily, Allah will appear before the believers while He is laughing.) This will take place on the open plains of the Resurrection place. In some of these Hadiths, it mentions that the believers will be looking at their Lord on the open plains and some mention that this will occur in the Gardens of Paradise. If it were not due to fear of taking up a lot of space, we would present all of these Hadiths with their routes of transmission and wordings from those that are in the Sahih collections, the collections of good narrations, the Musnad collections and the Sunan collections. However, we have mentioned this in separate places in this Tafsir, and Allah is the Giver of success. This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah. It is something that is agreed upon between the Imams of Islam and the guides of all mankind.
+
+### Blackening of the Faces of the Disobedient People on the Day of Judgement
+
+Allah says,
+
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ - تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(And some faces that Day will be Basirah. Thinking that some calamity is about to fall on them.) These are the faces of the sinners that will be Basirah on the Day of Judgement. Qatadah said, "This means gloomy." As-Suddi said, "Their (the faces) color will change."
+
+> تَظُنُّ
+
+(Thinking) meaning, they will be certain.
+
+> أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(that some calamity is about to fall on them.) Mujahid said, "A disaster." Qatadah said, "An evil." As-Suddi said, "They will be certain that they are going to be destroyed." Ibn Zayd said, "They will think that they are going to enter into the Hellfire." This situation is similar to Allah's statement,
+
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ
+
+(On the Day when some faces will become white and some faces will become black.) (3:106) Similarly Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ - ضَـحِكَةٌ مُّسْتَبْشِرَةٌ - وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ - تَرْهَقُهَا قَتَرَةٌ - أُوْلَـئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+(Some faces that Day will be bright. Laughing, rejoicing at the good news. And other faces, that Day will be dust-stained; darkness will cover them, such will be the disbelieving, wicked.) (80:38-42) Allah also says,
+
+> وُجُوهٌ يَوْمَئِذٍ خَـشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَى نَاراً حَامِيَةً
+
+(Some faces, that Day will be humiliated. Laboring, weary. They will enter in the hot blazing Fire.) (88:2-4) until Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ - لِّسَعْيِهَا رَاضِيَةٌ فِى جَنَّةٍ عَالِيَةٍ
+
+((Other) faces that Day will be joyful. Happy with their endeavor. In a lofty Paradise.) (88:8-10) And there are other similar Ayat and discussions (in the Qur'an).
+
+**Tafsir Muyassar (المیسر):**
+
+> لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه.
+
+## Ayah 17
+
+
+> إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ
+
+### How the Prophet received the Revelation
+
+This is Allah teaching His Messenger how to receive the revelation from the angel. For verily, he (the Prophet ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+(Move not your tongue concerning to make haste therewith.) meaning, with the Qur'an. This is as Allah says,
+
+> وَلاَ تَعْجَلْ بِالْقُرْءانِ مِن قَبْلِ إَن يُقْضَى إِلَيْكَ وَحْيُهُ وَقُل رَّبِّ زِدْنِى عِلْماً
+
+(And be not in haste with the Qur'an before its revelation is completed to you, and say: "My Lord! Increase me in knowledge.") (20:114) Then Allah says,
+
+> إِنَّ عَلَيْنَا جَمْعَهُ
+
+(It is for Us to collect it) meaning, `in your chest.'
+
+> وَقُرْءَانَهُ
+
+(and that it be recited.) meaning, `that you recite it.'
+
+> فَإِذَا قَرَأْنَـهُ
+
+(And when We have recited it to you,) meaning, `when the angel has recited it to you from Allah,'
+
+> فَاتَّبِعْ قُرْءَانَهُ
+
+(then follow its recitation.) meaning, `listen to it then recite it as he taught you to recite it.'
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear.) meaning, `after memorizing it and reciting it, We will explain it to you, clarify it and inspire you with its meaning according to what We intended and legislated.' Imam Ahmad recorded from Ibn `Abbas that he said that the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited.) Ibn `Abbas said, "This means He will collect it in his chest to recite it.
+
+> فَإِذَا قَرَأْنَـهُ فَاتَّبِعْ قُرْءَانَهُ
+
+(And when We have recited it to you, then follow its recitation.) meaning, listen to it and pay attention.
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear (to you).) So after this, when Jibril would leave, he would recite it as Jibril had taught him to recite it." This has also been recorded by Al-Bukhari and Muslim. Al-Bukhari's wording says, "So whenever Jibril would come to him he would be silent, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him."
+
+### The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter
+
+Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter. nt, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him." sed to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited. rec?kA ? The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
+
+### Seeing Allah in the Hereafter
+
+Then Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+
+(Some faces that Day shall be Nadirah.) which comes from the word Nadarah, which means splendid, radiant, glowing, delighted with goodness.
+
+> إِلَى رَبِّهَا نَاظِرَةٌ
+
+(Looking at their Lord.) meaning, they will see Him with their very eyes. This is just as was recorded by Al-Bukhari in his Sahih,
+
+> «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ عِيَانًا»
+
+(Verily, you all will see your Lord with your own eyes.) The believers seeing Allah in the abode of the Hereafter has been confirmed in the authentic Hadiths from numerous routes of transmission with the scholars of Hadith. It is not possible to deny this or refuse it. Examples would be the Hadiths of Abu Sa`id and Abu Hurayrah, and they are both recorded in the Two Sahihs. They both mentioned that some people said, "O Messenger of Allah! Will we see our Lord on the Day of Judgement" The Prophet said,
+
+> «هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ وَالْقَمَرِ لَيْسَ دُونَهُمَا سَحَابٌ؟»
+
+(Are you harmed by seeing the sun and the moon when there are no clouds beneath them) They replied, "No." The Prophet then said,
+
+> «فَإِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَذَلِك»
+
+(Then you will surely see your Lord like that.) In the Two Sahihs it is recorded from Jabir that he said, "The Messenger of Allah ﷺ looked at the moon on a night when it was full, and he said,
+
+> «إِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَلَا قَبْلَ غُرُوبِهَا، فَافْعَلُوا»
+
+(Verily, you will see your Lord just as you see this moon! So if you are able to avoid missing a prayer before the rising of the sun (Fajr prayer) or before its setting (`Asr prayer) then do so.)" Among the Hadiths, which Muslim was alone in recording, is a narration from Suhayb that the Prophet said,
+
+> «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ قَالَ يَقُولُ اللهُ تَعَالى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ، وَهِيَ الزِّيَادَة»
+
+(When the people of Paradise enter the Paradise, Allah will say, `Do you want me to give you anything extra' They will say, `Haven't you whitened our faces Haven't you entered us into Paradise and saved us from the Fire' Then He will remove the veil and they will not be given anything more beloved to them than looking at their Lord, and that will be the extra (Ziyadah).) Then he recited this Ayah,
+
+> لِّلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ
+
+(For those who have done good is the best and extra (Ziyadah).) (10:26) Also among the Hadiths, which Muslim was alone in recording, is the Hadith of Jabir in which the Prophet said,
+
+> «إِنَّ اللهَ يَتَجَلَّى لِلْمُؤْمِنِينَ يَضْحَك»
+
+(Verily, Allah will appear before the believers while He is laughing.) This will take place on the open plains of the Resurrection place. In some of these Hadiths, it mentions that the believers will be looking at their Lord on the open plains and some mention that this will occur in the Gardens of Paradise. If it were not due to fear of taking up a lot of space, we would present all of these Hadiths with their routes of transmission and wordings from those that are in the Sahih collections, the collections of good narrations, the Musnad collections and the Sunan collections. However, we have mentioned this in separate places in this Tafsir, and Allah is the Giver of success. This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah. It is something that is agreed upon between the Imams of Islam and the guides of all mankind.
+
+### Blackening of the Faces of the Disobedient People on the Day of Judgement
+
+Allah says,
+
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ - تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(And some faces that Day will be Basirah. Thinking that some calamity is about to fall on them.) These are the faces of the sinners that will be Basirah on the Day of Judgement. Qatadah said, "This means gloomy." As-Suddi said, "Their (the faces) color will change."
+
+> تَظُنُّ
+
+(Thinking) meaning, they will be certain.
+
+> أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(that some calamity is about to fall on them.) Mujahid said, "A disaster." Qatadah said, "An evil." As-Suddi said, "They will be certain that they are going to be destroyed." Ibn Zayd said, "They will think that they are going to enter into the Hellfire." This situation is similar to Allah's statement,
+
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ
+
+(On the Day when some faces will become white and some faces will become black.) (3:106) Similarly Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ - ضَـحِكَةٌ مُّسْتَبْشِرَةٌ - وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ - تَرْهَقُهَا قَتَرَةٌ - أُوْلَـئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+(Some faces that Day will be bright. Laughing, rejoicing at the good news. And other faces, that Day will be dust-stained; darkness will cover them, such will be the disbelieving, wicked.) (80:38-42) Allah also says,
+
+> وُجُوهٌ يَوْمَئِذٍ خَـشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَى نَاراً حَامِيَةً
+
+(Some faces, that Day will be humiliated. Laboring, weary. They will enter in the hot blazing Fire.) (88:2-4) until Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ - لِّسَعْيِهَا رَاضِيَةٌ فِى جَنَّةٍ عَالِيَةٍ
+
+((Other) faces that Day will be joyful. Happy with their endeavor. In a lofty Paradise.) (88:8-10) And there are other similar Ayat and discussions (in the Qur'an).
+
+**Tafsir Muyassar (المیسر):**
+
+> لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه.
+
+## Ayah 18
+
+
+> فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ
+
+### How the Prophet received the Revelation
+
+This is Allah teaching His Messenger how to receive the revelation from the angel. For verily, he (the Prophet ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+(Move not your tongue concerning to make haste therewith.) meaning, with the Qur'an. This is as Allah says,
+
+> وَلاَ تَعْجَلْ بِالْقُرْءانِ مِن قَبْلِ إَن يُقْضَى إِلَيْكَ وَحْيُهُ وَقُل رَّبِّ زِدْنِى عِلْماً
+
+(And be not in haste with the Qur'an before its revelation is completed to you, and say: "My Lord! Increase me in knowledge.") (20:114) Then Allah says,
+
+> إِنَّ عَلَيْنَا جَمْعَهُ
+
+(It is for Us to collect it) meaning, `in your chest.'
+
+> وَقُرْءَانَهُ
+
+(and that it be recited.) meaning, `that you recite it.'
+
+> فَإِذَا قَرَأْنَـهُ
+
+(And when We have recited it to you,) meaning, `when the angel has recited it to you from Allah,'
+
+> فَاتَّبِعْ قُرْءَانَهُ
+
+(then follow its recitation.) meaning, `listen to it then recite it as he taught you to recite it.'
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear.) meaning, `after memorizing it and reciting it, We will explain it to you, clarify it and inspire you with its meaning according to what We intended and legislated.' Imam Ahmad recorded from Ibn `Abbas that he said that the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited.) Ibn `Abbas said, "This means He will collect it in his chest to recite it.
+
+> فَإِذَا قَرَأْنَـهُ فَاتَّبِعْ قُرْءَانَهُ
+
+(And when We have recited it to you, then follow its recitation.) meaning, listen to it and pay attention.
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear (to you).) So after this, when Jibril would leave, he would recite it as Jibril had taught him to recite it." This has also been recorded by Al-Bukhari and Muslim. Al-Bukhari's wording says, "So whenever Jibril would come to him he would be silent, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him."
+
+### The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter
+
+Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter. nt, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him." sed to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited. rec?kA ? The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
+
+### Seeing Allah in the Hereafter
+
+Then Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+
+(Some faces that Day shall be Nadirah.) which comes from the word Nadarah, which means splendid, radiant, glowing, delighted with goodness.
+
+> إِلَى رَبِّهَا نَاظِرَةٌ
+
+(Looking at their Lord.) meaning, they will see Him with their very eyes. This is just as was recorded by Al-Bukhari in his Sahih,
+
+> «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ عِيَانًا»
+
+(Verily, you all will see your Lord with your own eyes.) The believers seeing Allah in the abode of the Hereafter has been confirmed in the authentic Hadiths from numerous routes of transmission with the scholars of Hadith. It is not possible to deny this or refuse it. Examples would be the Hadiths of Abu Sa`id and Abu Hurayrah, and they are both recorded in the Two Sahihs. They both mentioned that some people said, "O Messenger of Allah! Will we see our Lord on the Day of Judgement" The Prophet said,
+
+> «هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ وَالْقَمَرِ لَيْسَ دُونَهُمَا سَحَابٌ؟»
+
+(Are you harmed by seeing the sun and the moon when there are no clouds beneath them) They replied, "No." The Prophet then said,
+
+> «فَإِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَذَلِك»
+
+(Then you will surely see your Lord like that.) In the Two Sahihs it is recorded from Jabir that he said, "The Messenger of Allah ﷺ looked at the moon on a night when it was full, and he said,
+
+> «إِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَلَا قَبْلَ غُرُوبِهَا، فَافْعَلُوا»
+
+(Verily, you will see your Lord just as you see this moon! So if you are able to avoid missing a prayer before the rising of the sun (Fajr prayer) or before its setting (`Asr prayer) then do so.)" Among the Hadiths, which Muslim was alone in recording, is a narration from Suhayb that the Prophet said,
+
+> «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ قَالَ يَقُولُ اللهُ تَعَالى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ، وَهِيَ الزِّيَادَة»
+
+(When the people of Paradise enter the Paradise, Allah will say, `Do you want me to give you anything extra' They will say, `Haven't you whitened our faces Haven't you entered us into Paradise and saved us from the Fire' Then He will remove the veil and they will not be given anything more beloved to them than looking at their Lord, and that will be the extra (Ziyadah).) Then he recited this Ayah,
+
+> لِّلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ
+
+(For those who have done good is the best and extra (Ziyadah).) (10:26) Also among the Hadiths, which Muslim was alone in recording, is the Hadith of Jabir in which the Prophet said,
+
+> «إِنَّ اللهَ يَتَجَلَّى لِلْمُؤْمِنِينَ يَضْحَك»
+
+(Verily, Allah will appear before the believers while He is laughing.) This will take place on the open plains of the Resurrection place. In some of these Hadiths, it mentions that the believers will be looking at their Lord on the open plains and some mention that this will occur in the Gardens of Paradise. If it were not due to fear of taking up a lot of space, we would present all of these Hadiths with their routes of transmission and wordings from those that are in the Sahih collections, the collections of good narrations, the Musnad collections and the Sunan collections. However, we have mentioned this in separate places in this Tafsir, and Allah is the Giver of success. This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah. It is something that is agreed upon between the Imams of Islam and the guides of all mankind.
+
+### Blackening of the Faces of the Disobedient People on the Day of Judgement
+
+Allah says,
+
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ - تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(And some faces that Day will be Basirah. Thinking that some calamity is about to fall on them.) These are the faces of the sinners that will be Basirah on the Day of Judgement. Qatadah said, "This means gloomy." As-Suddi said, "Their (the faces) color will change."
+
+> تَظُنُّ
+
+(Thinking) meaning, they will be certain.
+
+> أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(that some calamity is about to fall on them.) Mujahid said, "A disaster." Qatadah said, "An evil." As-Suddi said, "They will be certain that they are going to be destroyed." Ibn Zayd said, "They will think that they are going to enter into the Hellfire." This situation is similar to Allah's statement,
+
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ
+
+(On the Day when some faces will become white and some faces will become black.) (3:106) Similarly Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ - ضَـحِكَةٌ مُّسْتَبْشِرَةٌ - وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ - تَرْهَقُهَا قَتَرَةٌ - أُوْلَـئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+(Some faces that Day will be bright. Laughing, rejoicing at the good news. And other faces, that Day will be dust-stained; darkness will cover them, such will be the disbelieving, wicked.) (80:38-42) Allah also says,
+
+> وُجُوهٌ يَوْمَئِذٍ خَـشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَى نَاراً حَامِيَةً
+
+(Some faces, that Day will be humiliated. Laboring, weary. They will enter in the hot blazing Fire.) (88:2-4) until Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ - لِّسَعْيِهَا رَاضِيَةٌ فِى جَنَّةٍ عَالِيَةٍ
+
+((Other) faces that Day will be joyful. Happy with their endeavor. In a lofty Paradise.) (88:8-10) And there are other similar Ayat and discussions (in the Qur'an).
+
+**Tafsir Muyassar (المیسر):**
+
+> لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه.
+
+## Ayah 19
+
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ
+
+### How the Prophet received the Revelation
+
+This is Allah teaching His Messenger how to receive the revelation from the angel. For verily, he (the Prophet ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+(Move not your tongue concerning to make haste therewith.) meaning, with the Qur'an. This is as Allah says,
+
+> وَلاَ تَعْجَلْ بِالْقُرْءانِ مِن قَبْلِ إَن يُقْضَى إِلَيْكَ وَحْيُهُ وَقُل رَّبِّ زِدْنِى عِلْماً
+
+(And be not in haste with the Qur'an before its revelation is completed to you, and say: "My Lord! Increase me in knowledge.") (20:114) Then Allah says,
+
+> إِنَّ عَلَيْنَا جَمْعَهُ
+
+(It is for Us to collect it) meaning, `in your chest.'
+
+> وَقُرْءَانَهُ
+
+(and that it be recited.) meaning, `that you recite it.'
+
+> فَإِذَا قَرَأْنَـهُ
+
+(And when We have recited it to you,) meaning, `when the angel has recited it to you from Allah,'
+
+> فَاتَّبِعْ قُرْءَانَهُ
+
+(then follow its recitation.) meaning, `listen to it then recite it as he taught you to recite it.'
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear.) meaning, `after memorizing it and reciting it, We will explain it to you, clarify it and inspire you with its meaning according to what We intended and legislated.' Imam Ahmad recorded from Ibn `Abbas that he said that the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited.) Ibn `Abbas said, "This means He will collect it in his chest to recite it.
+
+> فَإِذَا قَرَأْنَـهُ فَاتَّبِعْ قُرْءَانَهُ
+
+(And when We have recited it to you, then follow its recitation.) meaning, listen to it and pay attention.
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear (to you).) So after this, when Jibril would leave, he would recite it as Jibril had taught him to recite it." This has also been recorded by Al-Bukhari and Muslim. Al-Bukhari's wording says, "So whenever Jibril would come to him he would be silent, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him."
+
+### The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter
+
+Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter. nt, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him." sed to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited. rec?kA ? The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
+
+### Seeing Allah in the Hereafter
+
+Then Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+
+(Some faces that Day shall be Nadirah.) which comes from the word Nadarah, which means splendid, radiant, glowing, delighted with goodness.
+
+> إِلَى رَبِّهَا نَاظِرَةٌ
+
+(Looking at their Lord.) meaning, they will see Him with their very eyes. This is just as was recorded by Al-Bukhari in his Sahih,
+
+> «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ عِيَانًا»
+
+(Verily, you all will see your Lord with your own eyes.) The believers seeing Allah in the abode of the Hereafter has been confirmed in the authentic Hadiths from numerous routes of transmission with the scholars of Hadith. It is not possible to deny this or refuse it. Examples would be the Hadiths of Abu Sa`id and Abu Hurayrah, and they are both recorded in the Two Sahihs. They both mentioned that some people said, "O Messenger of Allah! Will we see our Lord on the Day of Judgement" The Prophet said,
+
+> «هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ وَالْقَمَرِ لَيْسَ دُونَهُمَا سَحَابٌ؟»
+
+(Are you harmed by seeing the sun and the moon when there are no clouds beneath them) They replied, "No." The Prophet then said,
+
+> «فَإِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَذَلِك»
+
+(Then you will surely see your Lord like that.) In the Two Sahihs it is recorded from Jabir that he said, "The Messenger of Allah ﷺ looked at the moon on a night when it was full, and he said,
+
+> «إِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَلَا قَبْلَ غُرُوبِهَا، فَافْعَلُوا»
+
+(Verily, you will see your Lord just as you see this moon! So if you are able to avoid missing a prayer before the rising of the sun (Fajr prayer) or before its setting (`Asr prayer) then do so.)" Among the Hadiths, which Muslim was alone in recording, is a narration from Suhayb that the Prophet said,
+
+> «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ قَالَ يَقُولُ اللهُ تَعَالى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ، وَهِيَ الزِّيَادَة»
+
+(When the people of Paradise enter the Paradise, Allah will say, `Do you want me to give you anything extra' They will say, `Haven't you whitened our faces Haven't you entered us into Paradise and saved us from the Fire' Then He will remove the veil and they will not be given anything more beloved to them than looking at their Lord, and that will be the extra (Ziyadah).) Then he recited this Ayah,
+
+> لِّلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ
+
+(For those who have done good is the best and extra (Ziyadah).) (10:26) Also among the Hadiths, which Muslim was alone in recording, is the Hadith of Jabir in which the Prophet said,
+
+> «إِنَّ اللهَ يَتَجَلَّى لِلْمُؤْمِنِينَ يَضْحَك»
+
+(Verily, Allah will appear before the believers while He is laughing.) This will take place on the open plains of the Resurrection place. In some of these Hadiths, it mentions that the believers will be looking at their Lord on the open plains and some mention that this will occur in the Gardens of Paradise. If it were not due to fear of taking up a lot of space, we would present all of these Hadiths with their routes of transmission and wordings from those that are in the Sahih collections, the collections of good narrations, the Musnad collections and the Sunan collections. However, we have mentioned this in separate places in this Tafsir, and Allah is the Giver of success. This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah. It is something that is agreed upon between the Imams of Islam and the guides of all mankind.
+
+### Blackening of the Faces of the Disobedient People on the Day of Judgement
+
+Allah says,
+
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ - تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(And some faces that Day will be Basirah. Thinking that some calamity is about to fall on them.) These are the faces of the sinners that will be Basirah on the Day of Judgement. Qatadah said, "This means gloomy." As-Suddi said, "Their (the faces) color will change."
+
+> تَظُنُّ
+
+(Thinking) meaning, they will be certain.
+
+> أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(that some calamity is about to fall on them.) Mujahid said, "A disaster." Qatadah said, "An evil." As-Suddi said, "They will be certain that they are going to be destroyed." Ibn Zayd said, "They will think that they are going to enter into the Hellfire." This situation is similar to Allah's statement,
+
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ
+
+(On the Day when some faces will become white and some faces will become black.) (3:106) Similarly Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ - ضَـحِكَةٌ مُّسْتَبْشِرَةٌ - وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ - تَرْهَقُهَا قَتَرَةٌ - أُوْلَـئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+(Some faces that Day will be bright. Laughing, rejoicing at the good news. And other faces, that Day will be dust-stained; darkness will cover them, such will be the disbelieving, wicked.) (80:38-42) Allah also says,
+
+> وُجُوهٌ يَوْمَئِذٍ خَـشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَى نَاراً حَامِيَةً
+
+(Some faces, that Day will be humiliated. Laboring, weary. They will enter in the hot blazing Fire.) (88:2-4) until Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ - لِّسَعْيِهَا رَاضِيَةٌ فِى جَنَّةٍ عَالِيَةٍ
+
+((Other) faces that Day will be joyful. Happy with their endeavor. In a lofty Paradise.) (88:8-10) And there are other similar Ayat and discussions (in the Qur'an).
+
+**Tafsir Muyassar (المیسر):**
+
+> لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه.
+
+## Ayah 20
+
+
+> كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ
+
+### How the Prophet received the Revelation
+
+This is Allah teaching His Messenger how to receive the revelation from the angel. For verily, he (the Prophet ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+(Move not your tongue concerning to make haste therewith.) meaning, with the Qur'an. This is as Allah says,
+
+> وَلاَ تَعْجَلْ بِالْقُرْءانِ مِن قَبْلِ إَن يُقْضَى إِلَيْكَ وَحْيُهُ وَقُل رَّبِّ زِدْنِى عِلْماً
+
+(And be not in haste with the Qur'an before its revelation is completed to you, and say: "My Lord! Increase me in knowledge.") (20:114) Then Allah says,
+
+> إِنَّ عَلَيْنَا جَمْعَهُ
+
+(It is for Us to collect it) meaning, `in your chest.'
+
+> وَقُرْءَانَهُ
+
+(and that it be recited.) meaning, `that you recite it.'
+
+> فَإِذَا قَرَأْنَـهُ
+
+(And when We have recited it to you,) meaning, `when the angel has recited it to you from Allah,'
+
+> فَاتَّبِعْ قُرْءَانَهُ
+
+(then follow its recitation.) meaning, `listen to it then recite it as he taught you to recite it.'
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear.) meaning, `after memorizing it and reciting it, We will explain it to you, clarify it and inspire you with its meaning according to what We intended and legislated.' Imam Ahmad recorded from Ibn `Abbas that he said that the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited.) Ibn `Abbas said, "This means He will collect it in his chest to recite it.
+
+> فَإِذَا قَرَأْنَـهُ فَاتَّبِعْ قُرْءَانَهُ
+
+(And when We have recited it to you, then follow its recitation.) meaning, listen to it and pay attention.
+
+> ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+(Then it is for Us to make it clear (to you).) So after this, when Jibril would leave, he would recite it as Jibril had taught him to recite it." This has also been recorded by Al-Bukhari and Muslim. Al-Bukhari's wording says, "So whenever Jibril would come to him he would be silent, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him."
+
+### The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter
+
+Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter. nt, and when Jibril had left he would recite it just as Allah, the Mighty and Sublime had promised him." sed to move his lips (rapidly with the recitation). The narrator, Sa`id, then said, "Ibn `Abbas said to me, `I will move my lips like the Messenger of Allah ﷺ used to move his lips (in order to show you)."' Then, the subnarrator said, "And Sa`id said to me, `I will move my lips like I saw Ibn `Abbas moving his lips (in order to show you)."' Then Allah revealed,
+
+> لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ - إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ
+
+(Move not your tongue concerning to make haste therewith. It is for Us to collect it and that it be recited. rec?kA ? The Cause of rejecting the Day of Judgement is Love of the World and Heedlessness of the Hereafter Concerning Allah's statement,
+
+> كَلاَّ بَلْ تُحِبُّونَ الْعَاجِلَةَ - وَتَذَرُونَ الاٌّخِرَةَ
+
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
+
+### Seeing Allah in the Hereafter
+
+Then Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+
+(Some faces that Day shall be Nadirah.) which comes from the word Nadarah, which means splendid, radiant, glowing, delighted with goodness.
+
+> إِلَى رَبِّهَا نَاظِرَةٌ
+
+(Looking at their Lord.) meaning, they will see Him with their very eyes. This is just as was recorded by Al-Bukhari in his Sahih,
+
+> «إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ عِيَانًا»
+
+(Verily, you all will see your Lord with your own eyes.) The believers seeing Allah in the abode of the Hereafter has been confirmed in the authentic Hadiths from numerous routes of transmission with the scholars of Hadith. It is not possible to deny this or refuse it. Examples would be the Hadiths of Abu Sa`id and Abu Hurayrah, and they are both recorded in the Two Sahihs. They both mentioned that some people said, "O Messenger of Allah! Will we see our Lord on the Day of Judgement" The Prophet said,
+
+> «هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ وَالْقَمَرِ لَيْسَ دُونَهُمَا سَحَابٌ؟»
+
+(Are you harmed by seeing the sun and the moon when there are no clouds beneath them) They replied, "No." The Prophet then said,
+
+> «فَإِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَذَلِك»
+
+(Then you will surely see your Lord like that.) In the Two Sahihs it is recorded from Jabir that he said, "The Messenger of Allah ﷺ looked at the moon on a night when it was full, and he said,
+
+> «إِنَّكُمْ تَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا الْقَمَرَ، فَإِنِ اسْتَطَعْتُمْ أَنْ لَا تُغْلَبُوا عَلَى صَلَاةٍ قَبْلَ طُلُوعِ الشَّمْسِ وَلَا قَبْلَ غُرُوبِهَا، فَافْعَلُوا»
+
+(Verily, you will see your Lord just as you see this moon! So if you are able to avoid missing a prayer before the rising of the sun (Fajr prayer) or before its setting (`Asr prayer) then do so.)" Among the Hadiths, which Muslim was alone in recording, is a narration from Suhayb that the Prophet said,
+
+> «إِذَا دَخَلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ قَالَ يَقُولُ اللهُ تَعَالى: تُرِيدُونَ شَيْئًا أَزِيدُكُمْ؟ فَيَقُولُونَ: أَلَمْ تُبَيِّضْ وُجُوهَنَا؟ أَلَمْ تُدْخِلْنَا الْجَنَّةَ وَتُنَجِّنَا مِنَ النَّارِ؟ قَالَ: فَيَكْشِفُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ، وَهِيَ الزِّيَادَة»
+
+(When the people of Paradise enter the Paradise, Allah will say, `Do you want me to give you anything extra' They will say, `Haven't you whitened our faces Haven't you entered us into Paradise and saved us from the Fire' Then He will remove the veil and they will not be given anything more beloved to them than looking at their Lord, and that will be the extra (Ziyadah).) Then he recited this Ayah,
+
+> لِّلَّذِينَ أَحْسَنُواْ الْحُسْنَى وَزِيَادَةٌ
+
+(For those who have done good is the best and extra (Ziyadah).) (10:26) Also among the Hadiths, which Muslim was alone in recording, is the Hadith of Jabir in which the Prophet said,
+
+> «إِنَّ اللهَ يَتَجَلَّى لِلْمُؤْمِنِينَ يَضْحَك»
+
+(Verily, Allah will appear before the believers while He is laughing.) This will take place on the open plains of the Resurrection place. In some of these Hadiths, it mentions that the believers will be looking at their Lord on the open plains and some mention that this will occur in the Gardens of Paradise. If it were not due to fear of taking up a lot of space, we would present all of these Hadiths with their routes of transmission and wordings from those that are in the Sahih collections, the collections of good narrations, the Musnad collections and the Sunan collections. However, we have mentioned this in separate places in this Tafsir, and Allah is the Giver of success. This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah. It is something that is agreed upon between the Imams of Islam and the guides of all mankind.
+
+### Blackening of the Faces of the Disobedient People on the Day of Judgement
+
+Allah says,
+
+> وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ - تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(And some faces that Day will be Basirah. Thinking that some calamity is about to fall on them.) These are the faces of the sinners that will be Basirah on the Day of Judgement. Qatadah said, "This means gloomy." As-Suddi said, "Their (the faces) color will change."
+
+> تَظُنُّ
+
+(Thinking) meaning, they will be certain.
+
+> أَن يُفْعَلَ بِهَا فَاقِرَةٌ
+
+(that some calamity is about to fall on them.) Mujahid said, "A disaster." Qatadah said, "An evil." As-Suddi said, "They will be certain that they are going to be destroyed." Ibn Zayd said, "They will think that they are going to enter into the Hellfire." This situation is similar to Allah's statement,
+
+> يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ
+
+(On the Day when some faces will become white and some faces will become black.) (3:106) Similarly Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ - ضَـحِكَةٌ مُّسْتَبْشِرَةٌ - وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ - تَرْهَقُهَا قَتَرَةٌ - أُوْلَـئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+(Some faces that Day will be bright. Laughing, rejoicing at the good news. And other faces, that Day will be dust-stained; darkness will cover them, such will be the disbelieving, wicked.) (80:38-42) Allah also says,
+
+> وُجُوهٌ يَوْمَئِذٍ خَـشِعَةٌ - عَامِلَةٌ نَّاصِبَةٌ - تَصْلَى نَاراً حَامِيَةً
+
+(Some faces, that Day will be humiliated. Laboring, weary. They will enter in the hot blazing Fire.) (88:2-4) until Allah says,
+
+> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ - لِّسَعْيِهَا رَاضِيَةٌ فِى جَنَّةٍ عَالِيَةٍ
+
+((Other) faces that Day will be joyful. Happy with their endeavor. In a lofty Paradise.) (88:8-10) And there are other similar Ayat and discussions (in the Qur'an).
+
+**Tafsir Muyassar (المیسر):**
+
+> ليس الأمر كما زعمتم -يا معشر المشركين- أن لا بعث ولا جزاء، بل أنتم قوم تحبون الدنيا وزينتها، وتتركون الآخرة ونعيمها.
