@@ -1,0 +1,251 @@
+{
+  "report_date": "2026-09-14",
+  "engine_version": "v2.0.0-alpha.4",
+  "total_pages": 742,
+  "wikis": [
+    {
+      "name": "fi-zilal-wiki",
+      "page_count": 32
+    },
+    {
+      "name": "jeel-mawoud-wiki",
+      "page_count": 67
+    },
+    {
+      "name": "meta",
+      "page_count": 52
+    },
+    {
+      "name": "qaradawi-library",
+      "page_count": 168
+    },
+    {
+      "name": "quran-wiki",
+      "page_count": 406
+    },
+    {
+      "name": "to-be-a-muslim",
+      "page_count": 17
+    }
+  ],
+  "graph": {
+    "total_pages": 742,
+    "total_edges": 5629,
+    "cross_wiki_links": 2955,
+    "orphan_pages": 282,
+    "top_hubs": [
+      {
+        "page": "quran-wiki/index",
+        "title": "Quran Wiki Index\ncreated: 2026-05-10\nupdated: 2026-05-10\ntype: index",
+        "out_degree": 201
+      },
+      {
+        "page": "meta/concepts/bridge-tawhid",
+        "title": "Cross-Wiki Bridge — Tawhid (توحيد)",
+        "out_degree": 164
+      },
+      {
+        "page": "quran-wiki/entities/names-of-allah/index",
+        "title": "Asma ul-Husna — The 99 Names of Allah\ncreated: 2026-05-10\nupdated: 2026-05-10\ntype: index\ntags: [",
+        "out_degree": 101
+      },
+      {
+        "page": "meta/concepts/bridge-akhirah",
+        "title": "Cross-Wiki Bridge — Akhirah (آخرة)",
+        "out_degree": 72
+      },
+      {
+        "page": "meta/concepts/bridge-iman",
+        "title": "Cross-Wiki Bridge — Iman (إيمان)",
+        "out_degree": 68
+      }
+    ],
+    "top_orphans": [
+      {
+        "page": "jeel-mawoud-wiki/AGENTS",
+        "title": "Jeel Mawoud Wiki — Agent Context"
+      },
+      {
+        "page": "qaradawi-library/AGENTS",
+        "title": "Qaradawi Library — Agent Context"
+      },
+      {
+        "page": "jeel-mawoud-wiki/BUILD-PLAN",
+        "title": "Jeel Mawoud LLM Wiki — Build Plan"
+      },
+      {
+        "page": "qaradawi-library/CLAUDE",
+        "title": "Qaradawi Library — Operational Guide"
+      },
+      {
+        "page": "qaradawi-library/QARADAWI-LIBRARY-PRESENTATION",
+        "title": "The Qaradawi Library LLM Wiki"
+      },
+      {
+        "page": "jeel-mawoud-wiki/README",
+        "title": "Jeel Mawoud Wiki (الجيل الموعود بالنصر والتمكين)"
+      },
+      {
+        "page": "qaradawi-library/README",
+        "title": "قَرَضَاوِيّ مَكْتَبَة — Qaradawi Library"
+      },
+      {
+        "page": "fi-zilal-wiki/SCHEMA",
+        "title": "Wiki Schema — Fi Zilal al-Qur'an"
+      },
+      {
+        "page": "jeel-mawoud-wiki/SCHEMA",
+        "title": "Jeel Mawoud Wiki — Schema"
+      },
+      {
+        "page": "meta/SCHEMA",
+        "title": "Meta-Wiki Schema — Tarbiyyah Knowledge Federation"
+      }
+    ]
+  },
+  "concept_bridges": {
+    "total": 42,
+    "top_10": [
+      {
+        "concept": "tawhid",
+        "arabic": "توحيد",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 166
+      },
+      {
+        "concept": "dawah",
+        "arabic": "دعوة",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 16
+      },
+      {
+        "concept": "jihad",
+        "arabic": "جهاد",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 25
+      },
+      {
+        "concept": "akhirah",
+        "arabic": "آخرة",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 75
+      },
+      {
+        "concept": "iman",
+        "arabic": "إيمان",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki"
+        ],
+        "pages": 70
+      },
+      {
+        "concept": "aqeedah",
+        "arabic": "عقيدة",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki"
+        ],
+        "pages": 21
+      },
+      {
+        "concept": "sabr",
+        "arabic": "صبر",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki"
+        ],
+        "pages": 41
+      },
+      {
+        "concept": "tazkiyah",
+        "arabic": "تزكية",
+        "wikis": [
+          "fi-zilal-wiki",
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki"
+        ],
+        "pages": 23
+      },
+      {
+        "concept": "islam",
+        "arabic": "إسلام",
+        "wikis": [
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 56
+      },
+      {
+        "concept": "prayer",
+        "arabic": "صلاة",
+        "wikis": [
+          "jeel-mawoud-wiki",
+          "meta",
+          "qaradawi-library",
+          "quran-wiki",
+          "to-be-a-muslim"
+        ],
+        "pages": 15
+      }
+    ]
+  },
+  "rubric": {
+    "total": 742,
+    "passed": 219,
+    "failed": 523,
+    "fail_by_check": {
+      "citation_completeness": 316,
+      "provenance_markers": 5,
+      "wikilink_integrity": 64,
+      "arabic_text_integrity": 3,
+      "islamic_tags": 281
+    }
+  },
+  "quran_references": {
+    "total_found": 973,
+    "valid": 971,
+    "invalid": 2
+  }
+}

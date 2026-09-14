@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "engine_version": "v1.0",
+  "engine_version": "v2.0.0-alpha.4",
   "engine_description": "Manual curation workflow (per-tafsir-wiki-building, islamic-wiki-curation, islamic-literature-wiki-curation skills)",
   "last_updated": "2026-09-14",
   "note": "All existing content was created using v1.0 manual curation. v2.0 (hikmah-engine) will enrich without overwriting.",
@@ -26,7 +26,7 @@
     "meta": {
       "path": "wiki/meta/",
       "source_path": null,
-      "page_count": 10,
+      "page_count": 52,
       "v1_pages": 10,
       "v2_pages": 0,
       "lint_status": "pending",
@@ -60,5 +60,81 @@
       "method": "manual"
     }
   },
-  "total_curated_pages": 700
+  "total_curated_pages": 742,
+  "v2_enrichment": {
+    "rubric_run": {
+      "date": "2026-09-14",
+      "total_pages": 742,
+      "passed": 219,
+      "failed": 523,
+      "fail_by_check": {
+        "citation_completeness": 456,
+        "arabic_text_integrity": 8,
+        "provenance_markers": 3,
+        "wikilink_integrity": 2,
+        "source_tier_compliance": 0,
+        "islamic_tags": 0
+      }
+    },
+    "federation_graph": {
+      "total_nodes": 742,
+      "total_edges": 5629,
+      "cross_wiki_links": 2091,
+      "orphan_pages": 240
+    },
+    "concept_bridges": {
+      "total_discovered": 42,
+      "bridge_files_generated": 42,
+      "location": "wiki/meta/concepts/"
+    },
+    "quran_references": {
+      "total_found": 973,
+      "valid": 971,
+      "invalid": 2
+    },
+    "bridge_files": [
+      "bridge-tawhid.md",
+      "bridge-jihad.md",
+      "bridge-dawah.md",
+      "bridge-aqeedah.md",
+      "bridge-sabr.md",
+      "bridge-tazkiyah.md",
+      "bridge-prayer.md",
+      "bridge-akhirah.md",
+      "bridge-iman.md",
+      "bridge-risalah.md",
+      "bridge-patience.md",
+      "bridge-islam.md",
+      "bridge-riba.md",
+      "bridge-usury.md",
+      "bridge-salah.md",
+      "bridge-hadith.md",
+      "bridge-marriage.md",
+      "bridge-intention.md",
+      "bridge-niyyah.md",
+      "bridge-fiqh.md",
+      "bridge-tawakkul.md",
+      "bridge-character.md",
+      "bridge-sunnah.md",
+      "bridge-zakah.md",
+      "bridge-pilgrimage.md",
+      "bridge-fasting.md",
+      "bridge-divorce.md",
+      "bridge-hajj.md",
+      "bridge-zakat.md",
+      "bridge-gratitude.md",
+      "bridge-shukr.md",
+      "bridge-adab.md",
+      "bridge-aqidah.md",
+      "bridge-nikah.md",
+      "bridge-sharia.md",
+      "bridge-sawm.md",
+      "bridge-talaq.md",
+      "bridge-shariah.md",
+      "bridge-halal.md",
+      "bridge-akhlaq.md",
+      "bridge-haram.md",
+      "bridge-taqwa.md"
+    ]
+  }
 }

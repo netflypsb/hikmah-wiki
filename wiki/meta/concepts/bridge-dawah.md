@@ -1,0 +1,97 @@
+---
+title: "Cross-Wiki Bridge — Dawah (دعوة)"
+type: meta
+tags: [meta, cross-wiki, concept, dawah]
+---
+
+# Cross-Wiki Bridge: Dawah (دعوة)
+
+> This concept appears across 5 wikis in the Hikmah corpus.
+
+## Pages by Wiki
+
+### fi-zilal-wiki (4 page(s))
+
+- [[fi-zilal-wiki/concepts/tawhid-as-complete-way-of-life|Tawhid as Complete Way of Life — Not Abstract Doctrine
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+tags: []]
+- [[fi-zilal-wiki/surahs/surah-008-al-anfal|Surah Al-Anfal (8) — Fi Zilal al-Qur]]
+- [[fi-zilal-wiki/surahs/surah-009-at-tawbah|Surah At-Tawbah (9) — Fi Zilal al-Qur]]
+- [[fi-zilal-wiki/surahs/surah-109-al-kafirun|Surah Al-Kafirun (109) — Fi Zilal al-Qur]]
+
+### jeel-mawoud-wiki (3 page(s))
+
+- [[jeel-mawoud-wiki/concepts/concept-mahabbah|Love of Allah (Maḥabbatullāh)]]
+- [[jeel-mawoud-wiki/english-translation/ch01-why-the-promised-generation/ch01-complete-translation|English Translation — Chapter 1: Why the Promised Generation?]]
+- [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
+
+### qaradawi-library (2 page(s))
+
+- [[qaradawi-library/concepts/concept-dawah|Dawah / Islamic Propagation (دَعْوَة)]]
+- [[qaradawi-library/halaqah-modules/module-5-4-dawah-character|Module 5.4 — Dawah Through Character: Being a Light]]
+
+### quran-wiki (3 page(s))
+
+- [[quran-wiki/surah-048-al-fath|Al-Fath (48)
+created: 2026-05-10
+updated: 2026-05-10
+type: surah
+tags: []]
+- [[quran-wiki/surah-080-abasa|Abasa (80)
+created: 2026-05-10
+updated: 2026-05-10
+type: surah
+tags: []]
+- [[quran-wiki/surah-094-ash-sharh|Ash-Sharh (94)
+created: 2026-05-10
+updated: 2026-05-10
+type: surah
+tags: []]
+
+### to-be-a-muslim (3 page(s))
+
+- [[to-be-a-muslim/concepts/islamic-activism|Islamic Activism
+created: 2026-06-08
+updated: 2026-06-08
+type: concept
+tags:
+  - dawah
+  - islamic-movement
+  - activism
+  - quran-verse
+  - hadith
+sources:
+  - raw/book.md]]
+- [[to-be-a-muslim/concepts/islamic-movement|Islamic Movement
+created: 2026-06-08
+updated: 2026-06-08
+type: concept
+tags:
+  - islamic-movement
+  - dawah
+  - activism
+  - quran-verse
+  - hadith
+sources:
+  - raw/book.md]]
+- [[to-be-a-muslim/concepts/man-vs-materialism|Man vs Materialism
+created: 2026-06-08
+updated: 2026-06-08
+type: concept
+tags:
+  - dawah
+  - aqidah
+  - islamic-movement
+  - quran-verse
+  - hadith
+sources:
+  - raw/book.md]]
+
+## Concept Details
+
+**Arabic:** دعوة
+**Concept:** dawah
+**Wikis:** fi-zilal-wiki, jeel-mawoud-wiki, qaradawi-library, quran-wiki, to-be-a-muslim
+**Total pages:** 15
