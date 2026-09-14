@@ -25,22 +25,17 @@ tags: [meta, cross-wiki, concept, tazkiyah]
 - [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
 - [[jeel-mawoud-wiki/index|Jeel Mawoud Wiki — Index]]
 
-### meta (1 page(s))
+### meta (2 page(s))
 
-- [[meta/cross-syntheses/mercy-in-revelation-and-spirituality|Mercy in Revelation and Spirituality
-created: 2026-05-10
-updated: 2026-05-10
-type: cross-synthesis
-tags: []]
+- [[meta/concepts/bridge-tazkiyah|Cross-Wiki Bridge — Tazkiyah (تزكية)]]
+- [[meta/cross-syntheses/mercy-in-revelation-and-spirituality|Mercy in Revelation and Spirituality]]
 
 ### qaradawi-library (9 page(s))
 
 - [[qaradawi-library/concepts/concept-dawah|Dawah / Islamic Propagation (دَعْوَة)]]
-- [[qaradawi-library/concepts/concept-fasting|Fasting (صَوْم)
-created:]]
+- [[qaradawi-library/concepts/concept-fasting|Fasting (صَوْم)]]
 - [[qaradawi-library/concepts/concept-ikhlas|Ikhlas / Sincerity in Worship (إِخْلَاص)]]
-- [[qaradawi-library/concepts/concept-purity|Purity (طَهَارَة)
-created:]]
+- [[qaradawi-library/concepts/concept-purity|Purity (طَهَارَة)]]
 - [[qaradawi-library/concepts/concept-riya|Riya / Showing Off and Ostentation (رِيَاء)]]
 - [[qaradawi-library/concepts/concept-sabr|Sabr / Patience and Perseverance (صَبْر)]]
 - [[qaradawi-library/concepts/concept-tawhid|Tawhid / Monotheism (تَوْحِيد)]]
@@ -49,25 +44,13 @@ created:]]
 
 ### quran-wiki (3 page(s))
 
-- [[quran-wiki/entities/themes/dhikr|Dhikr — Remembrance of Allah
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/shukr|Shukr — Gratitude
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
+- [[quran-wiki/entities/themes/dhikr|Dhikr — Remembrance of Allah]]
+- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness]]
+- [[quran-wiki/entities/themes/shukr|Shukr — Gratitude]]
 
 ## Concept Details
 
 **Arabic:** تزكية
 **Concept:** tazkiyah
 **Wikis:** fi-zilal-wiki, jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
-**Total pages:** 22
+**Total pages:** 23

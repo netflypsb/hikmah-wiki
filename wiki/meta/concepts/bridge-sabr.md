@@ -32,115 +32,43 @@ tags: [meta, cross-wiki, concept, sabr]
 - [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
 - [[jeel-mawoud-wiki/index|Jeel Mawoud Wiki — Index]]
 
-### meta (1 page(s))
+### meta (3 page(s))
 
-- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library
-created:]]
+- [[meta/concepts/bridge-patience|Cross-Wiki Bridge — Patience (صبر)]]
+- [[meta/concepts/bridge-sabr|Cross-Wiki Bridge — Sabr (صبر)]]
+- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library]]
 
 ### qaradawi-library (3 page(s))
 
-- [[qaradawi-library/concepts/concept-patience|Patience (صبر)
-created:]]
+- [[qaradawi-library/concepts/concept-patience|Patience (صبر)]]
 - [[qaradawi-library/concepts/concept-sabr|Sabr / Patience and Perseverance (صَبْر)]]
 - [[qaradawi-library/halaqah-modules/module-4-1-sabr|Module 4.1 — Sabr: The Three Dimensions of Patience]]
 
 ### quran-wiki (19 page(s))
 
-- [[quran-wiki/entities/prophets/nuh|Nuh (AS) — Noah
-created: 2026-05-10
-updated: 2026-05-10
-type: prophet
-tags: []]
-- [[quran-wiki/entities/stories/ashab-al-kahf|Ashab al-Kahf — The Companions of the Cave
-created: 2026-05-10
-updated: 2026-05-10
-type: story
-tags: []]
-- [[quran-wiki/entities/stories/musa-and-khidr|Musa and Khidr — The Journey of Knowledge
-created: 2026-05-10
-updated: 2026-05-10
-type: story
-tags: []]
-- [[quran-wiki/entities/stories/yusuf|Yusuf (AS) — The Most Detailed Narrative
-created: 2026-05-10
-updated: 2026-05-10
-type: story
-tags: []]
-- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/trial|Trial — Ibtida / Fitna
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/linguistics/sabr|Word Study — Sabr (صَبْر)
-created: 2026-05-10
-updated: 2026-05-10
-type: linguistics
-tags: []]
-- [[quran-wiki/surah-011-hud|Hud (11)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-012-yusuf|Yusuf (12)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-028-al-qasas|Al-Qasas (28)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-029-al-ankabut|Al-Ankabut (29)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-038-sad|Sad (38)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-073-al-muzzammil|Al-Muzzammil (73)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-074-al-muddaththir|Al-Muddaththir (74)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-094-ash-sharh|Ash-Sharh (94)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/entities/prophets/nuh|Nuh (AS) — Noah]]
+- [[quran-wiki/entities/stories/ashab-al-kahf|Ashab al-Kahf — The Companions of the Cave]]
+- [[quran-wiki/entities/stories/musa-and-khidr|Musa and Khidr — The Journey of Knowledge]]
+- [[quran-wiki/entities/stories/yusuf|Yusuf (AS) — The Most Detailed Narrative]]
+- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness]]
+- [[quran-wiki/entities/themes/trial|Trial — Ibtida / Fitna]]
+- [[quran-wiki/linguistics/sabr|Word Study — Sabr (صَبْر)]]
+- [[quran-wiki/surah-011-hud|Hud (11)]]
+- [[quran-wiki/surah-012-yusuf|Yusuf (12)]]
+- [[quran-wiki/surah-028-al-qasas|Al-Qasas (28)]]
+- [[quran-wiki/surah-029-al-ankabut|Al-Ankabut (29)]]
+- [[quran-wiki/surah-038-sad|Sad (38)]]
+- [[quran-wiki/surah-073-al-muzzammil|Al-Muzzammil (73)]]
+- [[quran-wiki/surah-074-al-muddaththir|Al-Muddaththir (74)]]
+- [[quran-wiki/surah-094-ash-sharh|Ash-Sharh (94)]]
 - [[quran-wiki/surah-103-al-'asr|Al-]]
-- [[quran-wiki/verses/al-asr|Al-Asr — By Time, Indeed Mankind Is in Loss — 103:1-3
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
-- [[quran-wiki/verses/do-not-grieve|Do Not Grieve, Allah Is with Us — 9:40
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
-- [[quran-wiki/verses/sabr-and-salah|Seek Help in Patience and Prayer — 2:153
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
+- [[quran-wiki/verses/al-asr|Al-Asr — By Time, Indeed Mankind Is in Loss — 103:1-3]]
+- [[quran-wiki/verses/do-not-grieve|Do Not Grieve, Allah Is with Us — 9:40]]
+- [[quran-wiki/verses/sabr-and-salah|Seek Help in Patience and Prayer — 2:153]]
 
 ## Concept Details
 
 **Arabic:** صبر
 **Concept:** sabr
 **Wikis:** fi-zilal-wiki, jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
-**Total pages:** 39
+**Total pages:** 41

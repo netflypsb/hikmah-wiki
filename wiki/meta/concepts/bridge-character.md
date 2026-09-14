@@ -6,7 +6,7 @@ tags: [meta, cross-wiki, concept, character]
 
 # Cross-Wiki Bridge: Character (أخلاق)
 
-> This concept appears across 3 wikis in the Hikmah corpus.
+> This concept appears across 4 wikis in the Hikmah corpus.
 
 ## Pages by Wiki
 
@@ -14,25 +14,22 @@ tags: [meta, cross-wiki, concept, character]
 
 - [[jeel-mawoud-wiki/concepts/concept-tawadu|Humility (at-Tawāḍu]]
 
+### meta (2 page(s))
+
+- [[meta/concepts/bridge-akhlaq|Cross-Wiki Bridge — Akhlaq (أخلاق)]]
+- [[meta/concepts/bridge-character|Cross-Wiki Bridge — Character (أخلاق)]]
+
 ### qaradawi-library (38 page(s))
 
 - [[qaradawi-library/QARADAWI-LIBRARY-PRESENTATION|The Qaradawi Library LLM Wiki]]
-- [[qaradawi-library/concepts/concept-akhlaq|Akhlaq (أخلاق)
-created:]]
-- [[qaradawi-library/concepts/concept-art|Art / Fann (فَنّ)
-created:]]
-- [[qaradawi-library/concepts/concept-character|Character (أَخْلَاق)
-created:]]
-- [[qaradawi-library/concepts/concept-ethics|Ethics / Akhlaq (أَخْلَاق) → Character
-created:]]
-- [[qaradawi-library/concepts/concept-justice|Justice / Adalah (عَدْل)
-created:]]
-- [[qaradawi-library/concepts/concept-punishment|Punishment / Uqubah (عُقُوبَة)
-created:]]
-- [[qaradawi-library/entities/ethics-in-islam-overview|Ethics in Islam
-created:]]
-- [[qaradawi-library/entities/scholar-qaradawi|Shaykh Yusuf al-Qaradawi
-created:]]
+- [[qaradawi-library/concepts/concept-akhlaq|Akhlaq (أخلاق)]]
+- [[qaradawi-library/concepts/concept-art|Art / Fann (فَنّ)]]
+- [[qaradawi-library/concepts/concept-character|Character (أَخْلَاق)]]
+- [[qaradawi-library/concepts/concept-ethics|Ethics / Akhlaq (أَخْلَاق) → Character]]
+- [[qaradawi-library/concepts/concept-justice|Justice / Adalah (عَدْل)]]
+- [[qaradawi-library/concepts/concept-punishment|Punishment / Uqubah (عُقُوبَة)]]
+- [[qaradawi-library/entities/ethics-in-islam-overview|Ethics in Islam]]
+- [[qaradawi-library/entities/scholar-qaradawi|Shaykh Yusuf al-Qaradawi]]
 - [[qaradawi-library/family-halaqah-course|Family Halaqah Course — Structured Curriculum]]
 - [[qaradawi-library/halaqah-modules/module-1-1-iman-and-human-dignity|Module 1.1 — Iman and Human Dignity]]
 - [[qaradawi-library/halaqah-modules/module-1-2-iman-and-happiness|Module 1.2 — Iman and Happiness]]
@@ -61,29 +58,17 @@ created:]]
 - [[qaradawi-library/halaqah-modules/module-5-3-jihad-al-nafs|Module 5.3 — Jihad al-Nafs: The Greater Struggle]]
 - [[qaradawi-library/halaqah-modules/module-5-4-dawah-character|Module 5.4 — Dawah Through Character: Being a Light]]
 - [[qaradawi-library/halaqah-modules/module-5-5-hereafter|Module 5.5 — The Hereafter: Living with Eternal Vision]]
-- [[qaradawi-library/log|Wiki Log
-created: 2026-05-16
-updated: 2026-06-09T16:00
-type: log
-tags: [meta, log]]]
+- [[qaradawi-library/log|Wiki Log]]
 
 ### quran-wiki (3 page(s))
 
 - [[quran-wiki/surah-062-al-jumu'ah|Al-Jumu]]
-- [[quran-wiki/surah-068-al-qalam|Al-Qalam (68)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-094-ash-sharh|Ash-Sharh (94)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/surah-068-al-qalam|Al-Qalam (68)]]
+- [[quran-wiki/surah-094-ash-sharh|Ash-Sharh (94)]]
 
 ## Concept Details
 
 **Arabic:** أخلاق
 **Concept:** character
-**Wikis:** jeel-mawoud-wiki, qaradawi-library, quran-wiki
-**Total pages:** 42
+**Wikis:** jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
+**Total pages:** 44

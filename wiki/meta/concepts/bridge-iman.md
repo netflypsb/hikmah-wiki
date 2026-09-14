@@ -6,22 +6,14 @@ tags: [meta, cross-wiki, concept, iman]
 
 # Cross-Wiki Bridge: Iman (إيمان)
 
-> This concept appears across 4 wikis in the Hikmah corpus.
+> This concept appears across 5 wikis in the Hikmah corpus.
 
 ## Pages by Wiki
 
 ### fi-zilal-wiki (12 page(s))
 
-- [[fi-zilal-wiki/concepts/iman-and-dignified-humanity|Iman and Dignified Humanity
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
-tags: []]
-- [[fi-zilal-wiki/concepts/tawhid-as-complete-way-of-life|Tawhid as Complete Way of Life — Not Abstract Doctrine
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
-tags: []]
+- [[fi-zilal-wiki/concepts/iman-and-dignified-humanity|Iman and Dignified Humanity]]
+- [[fi-zilal-wiki/concepts/tawhid-as-complete-way-of-life|Tawhid as Complete Way of Life — Not Abstract Doctrine]]
 - [[fi-zilal-wiki/surahs/surah-008-al-anfal|Surah Al-Anfal (8) — Fi Zilal al-Qur]]
 - [[fi-zilal-wiki/surahs/surah-009-at-tawbah|Surah At-Tawbah (9) — Fi Zilal al-Qur]]
 - [[fi-zilal-wiki/surahs/surah-018-al-kahf|Surah Al-Kahf (18) — Fi Zilal al-Qur]]
@@ -48,24 +40,22 @@ tags: []]
 - [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
 - [[jeel-mawoud-wiki/index|Jeel Mawoud Wiki — Index]]
 
+### meta (2 page(s))
+
+- [[meta/concepts/bridge-akhirah|Cross-Wiki Bridge — Akhirah (آخرة)]]
+- [[meta/concepts/bridge-iman|Cross-Wiki Bridge — Iman (إيمان)]]
+
 ### qaradawi-library (20 page(s))
 
 - [[qaradawi-library/QARADAWI-LIBRARY-PRESENTATION|The Qaradawi Library LLM Wiki]]
 - [[qaradawi-library/README|قَرَضَاوِيّ مَكْتَبَة — Qaradawi Library]]
-- [[qaradawi-library/concepts/concept-faith|Faith / Iman (إِيمَان)
-created:]]
-- [[qaradawi-library/entities/faith-and-life-ch-01|Iman and the Dignity of Man
-created:]]
-- [[qaradawi-library/entities/faith-and-life-ch-02|Iman and Happiness
-created:]]
-- [[qaradawi-library/entities/faith-and-life-ch-03|Iman and Love
-created:]]
-- [[qaradawi-library/entities/faith-and-life-ch-04|Iman and Hope
-created:]]
-- [[qaradawi-library/entities/faith-and-life-overview|Faith and Life
-created:]]
-- [[qaradawi-library/entities/scholar-qaradawi|Shaykh Yusuf al-Qaradawi
-created:]]
+- [[qaradawi-library/concepts/concept-faith|Faith / Iman (إِيمَان)]]
+- [[qaradawi-library/entities/faith-and-life-ch-01|Iman and the Dignity of Man]]
+- [[qaradawi-library/entities/faith-and-life-ch-02|Iman and Happiness]]
+- [[qaradawi-library/entities/faith-and-life-ch-03|Iman and Love]]
+- [[qaradawi-library/entities/faith-and-life-ch-04|Iman and Hope]]
+- [[qaradawi-library/entities/faith-and-life-overview|Faith and Life]]
+- [[qaradawi-library/entities/scholar-qaradawi|Shaykh Yusuf al-Qaradawi]]
 - [[qaradawi-library/family-halaqah-course|Family Halaqah Course — Structured Curriculum]]
 - [[qaradawi-library/halaqah-modules/module-1-1-iman-and-human-dignity|Module 1.1 — Iman and Human Dignity]]
 - [[qaradawi-library/halaqah-modules/module-1-2-iman-and-happiness|Module 1.2 — Iman and Happiness]]
@@ -76,130 +66,38 @@ created:]]
 - [[qaradawi-library/halaqah-modules/module-5-1-surrender-trust|Module 5.1 — Surrender and Trust: The Fruit of Faith]]
 - [[qaradawi-library/halaqah-modules/module-5-4-dawah-character|Module 5.4 — Dawah Through Character: Being a Light]]
 - [[qaradawi-library/halaqah-modules/module-5-5-hereafter|Module 5.5 — The Hereafter: Living with Eternal Vision]]
-- [[qaradawi-library/log|Wiki Log
-created: 2026-05-16
-updated: 2026-06-09T16:00
-type: log
-tags: [meta, log]]]
+- [[qaradawi-library/log|Wiki Log]]
 
 ### quran-wiki (24 page(s))
 
-- [[quran-wiki/entities/stories/ashab-al-kahf|Ashab al-Kahf — The Companions of the Cave
-created: 2026-05-10
-updated: 2026-05-10
-type: story
-tags: []]
-- [[quran-wiki/entities/themes/iman|Iman — Faith and Belief
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/kufr|Kufr — Disbelief
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/nur|Nur — Divine Light
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/qadr|Qadr — Divine Decree
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/entities/themes/risalah|Risalah — Messengership
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/surah-001-al-fatihah|Al-Fatihah (1)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-002-al-baqarah|Al-Baqarah (2)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-003-aali-imran|Aali Imran (3)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/entities/stories/ashab-al-kahf|Ashab al-Kahf — The Companions of the Cave]]
+- [[quran-wiki/entities/themes/iman|Iman — Faith and Belief]]
+- [[quran-wiki/entities/themes/kufr|Kufr — Disbelief]]
+- [[quran-wiki/entities/themes/nur|Nur — Divine Light]]
+- [[quran-wiki/entities/themes/qadr|Qadr — Divine Decree]]
+- [[quran-wiki/entities/themes/risalah|Risalah — Messengership]]
+- [[quran-wiki/surah-001-al-fatihah|Al-Fatihah (1)]]
+- [[quran-wiki/surah-002-al-baqarah|Al-Baqarah (2)]]
+- [[quran-wiki/surah-003-aali-imran|Aali Imran (3)]]
 - [[quran-wiki/surah-005-al-ma'idah|Al-Ma]]
-- [[quran-wiki/surah-008-al-anfal|Al-Anfal (8)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-021-al-anbiya|Al-Anbiya (21)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-024-an-nur|An-Nur (24)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-029-al-ankabut|Al-Ankabut (29)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-047-muhammad|Muhammad (47)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-048-al-fath|Al-Fath (48)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-049-al-hujurat|Al-Hujurat (49)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-054-al-qamar|Al-Qamar (54)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-057-al-hadid|Al-Hadid (57)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-060-al-mumtahanah|Al-Mumtahanah (60)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
-- [[quran-wiki/surah-064-at-taghabun|At-Taghabun (64)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/surah-008-al-anfal|Al-Anfal (8)]]
+- [[quran-wiki/surah-021-al-anbiya|Al-Anbiya (21)]]
+- [[quran-wiki/surah-024-an-nur|An-Nur (24)]]
+- [[quran-wiki/surah-029-al-ankabut|Al-Ankabut (29)]]
+- [[quran-wiki/surah-047-muhammad|Muhammad (47)]]
+- [[quran-wiki/surah-048-al-fath|Al-Fath (48)]]
+- [[quran-wiki/surah-049-al-hujurat|Al-Hujurat (49)]]
+- [[quran-wiki/surah-054-al-qamar|Al-Qamar (54)]]
+- [[quran-wiki/surah-057-al-hadid|Al-Hadid (57)]]
+- [[quran-wiki/surah-060-al-mumtahanah|Al-Mumtahanah (60)]]
+- [[quran-wiki/surah-064-at-taghabun|At-Taghabun (64)]]
 - [[quran-wiki/surah-103-al-'asr|Al-]]
-- [[quran-wiki/verses/last-ayah-baqarah|The Last Ayah of Al-Baqarah — 2:286
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
-- [[quran-wiki/verses/righteousness|Righteousness Is Not Turning Your Faces — 2:177
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
+- [[quran-wiki/verses/last-ayah-baqarah|The Last Ayah of Al-Baqarah — 2:286]]
+- [[quran-wiki/verses/righteousness|Righteousness Is Not Turning Your Faces — 2:177]]
 
 ## Concept Details
 
 **Arabic:** إيمان
 **Concept:** iman
-**Wikis:** fi-zilal-wiki, jeel-mawoud-wiki, qaradawi-library, quran-wiki
-**Total pages:** 68
+**Wikis:** fi-zilal-wiki, jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
+**Total pages:** 70

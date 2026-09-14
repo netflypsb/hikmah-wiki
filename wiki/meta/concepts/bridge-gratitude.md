@@ -6,7 +6,7 @@ tags: [meta, cross-wiki, concept, gratitude]
 
 # Cross-Wiki Bridge: Gratitude (شكر)
 
-> This concept appears across 2 wikis in the Hikmah corpus.
+> This concept appears across 3 wikis in the Hikmah corpus.
 
 ## Pages by Wiki
 
@@ -14,22 +14,19 @@ tags: [meta, cross-wiki, concept, gratitude]
 
 - [[fi-zilal-wiki/surahs/surah-031-luqman|Surah Luqman (31) -- Fi Zilal al-Qur]]
 
+### meta (2 page(s))
+
+- [[meta/concepts/bridge-gratitude|Cross-Wiki Bridge — Gratitude (شكر)]]
+- [[meta/concepts/bridge-shukr|Cross-Wiki Bridge — Shukr (شكر)]]
+
 ### quran-wiki (2 page(s))
 
-- [[quran-wiki/entities/themes/shukr|Shukr — Gratitude
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/surah-106-quraysh|Quraysh (106)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/entities/themes/shukr|Shukr — Gratitude]]
+- [[quran-wiki/surah-106-quraysh|Quraysh (106)]]
 
 ## Concept Details
 
 **Arabic:** شكر
 **Concept:** gratitude
-**Wikis:** fi-zilal-wiki, quran-wiki
-**Total pages:** 3
+**Wikis:** fi-zilal-wiki, meta, quran-wiki
+**Total pages:** 5

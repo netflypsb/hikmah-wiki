@@ -10,18 +10,17 @@ tags: [meta, cross-wiki, concept, shariah]
 
 ## Pages by Wiki
 
-### meta (1 page(s))
+### meta (3 page(s))
 
-- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library
-created:]]
+- [[meta/concepts/bridge-sharia|Cross-Wiki Bridge — Sharia (شريعة)]]
+- [[meta/concepts/bridge-shariah|Cross-Wiki Bridge — Shariah (شريعة)]]
+- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library]]
 
 ### qaradawi-library (4 page(s))
 
-- [[qaradawi-library/concepts/concept-ijtihad|Ijtihad (اجْتِهَاد)
-created:]]
+- [[qaradawi-library/concepts/concept-ijtihad|Ijtihad (اجْتِهَاد)]]
 - [[qaradawi-library/concepts/concept-qiyas|Qiyas / Analogical Reasoning (قِيَاس)]]
-- [[qaradawi-library/concepts/concept-shariah|Shariah (شريعة)
-created:]]
+- [[qaradawi-library/concepts/concept-shariah|Shariah (شريعة)]]
 - [[qaradawi-library/concepts/concept-usul-al-fiqh|Usul al-Fiqh / Principles of Islamic Jurisprudence (أُصُول الفِقْه)]]
 
 ## Concept Details
@@ -29,4 +28,4 @@ created:]]
 **Arabic:** شريعة
 **Concept:** shariah
 **Wikis:** meta, qaradawi-library
-**Total pages:** 5
+**Total pages:** 7

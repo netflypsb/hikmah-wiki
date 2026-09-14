@@ -21,40 +21,28 @@ tags: [meta, cross-wiki, concept, patience]
 - [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
 - [[jeel-mawoud-wiki/index|Jeel Mawoud Wiki — Index]]
 
-### meta (1 page(s))
+### meta (3 page(s))
 
-- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library
-created:]]
+- [[meta/concepts/bridge-patience|Cross-Wiki Bridge — Patience (صبر)]]
+- [[meta/concepts/bridge-sabr|Cross-Wiki Bridge — Sabr (صبر)]]
+- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library]]
 
 ### qaradawi-library (3 page(s))
 
-- [[qaradawi-library/concepts/concept-patience|Patience (صبر)
-created:]]
+- [[qaradawi-library/concepts/concept-patience|Patience (صبر)]]
 - [[qaradawi-library/concepts/concept-sabr|Sabr / Patience and Perseverance (صَبْر)]]
 - [[qaradawi-library/halaqah-modules/module-4-1-sabr|Module 4.1 — Sabr: The Three Dimensions of Patience]]
 
 ### quran-wiki (4 page(s))
 
-- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness
-created: 2026-05-10
-updated: 2026-05-10
-type: theme
-tags: []]
-- [[quran-wiki/surah-074-al-muddaththir|Al-Muddaththir (74)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/entities/themes/sabr|Sabr — Patience and Steadfastness]]
+- [[quran-wiki/surah-074-al-muddaththir|Al-Muddaththir (74)]]
 - [[quran-wiki/surah-103-al-'asr|Al-]]
-- [[quran-wiki/verses/sabr-and-salah|Seek Help in Patience and Prayer — 2:153
-created: 2026-05-10
-updated: 2026-05-10
-type: verse
-tags: []]
+- [[quran-wiki/verses/sabr-and-salah|Seek Help in Patience and Prayer — 2:153]]
 
 ## Concept Details
 
 **Arabic:** صبر
 **Concept:** patience
 **Wikis:** jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
-**Total pages:** 16
+**Total pages:** 18

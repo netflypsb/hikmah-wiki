@@ -10,22 +10,19 @@ tags: [meta, cross-wiki, concept, talaq]
 
 ## Pages by Wiki
 
-### meta (1 page(s))
+### meta (3 page(s))
 
-- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library
-created:]]
+- [[meta/concepts/bridge-divorce|Cross-Wiki Bridge — Divorce (طلاق)]]
+- [[meta/concepts/bridge-talaq|Cross-Wiki Bridge — Talaq (طلاق)]]
+- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library]]
 
 ### quran-wiki (1 page(s))
 
-- [[quran-wiki/surah-065-at-talaq|At-Talaq (65)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/surah-065-at-talaq|At-Talaq (65)]]
 
 ## Concept Details
 
 **Arabic:** طلاق
 **Concept:** talaq
 **Wikis:** meta, quran-wiki
-**Total pages:** 2
+**Total pages:** 4

@@ -15,29 +15,24 @@ tags: [meta, cross-wiki, concept, usury]
 - [[jeel-mawoud-wiki/concepts/concept-ukhuwwah|Cohesion & Brotherhood (at-Tarābuṭ wa al-Ukhuwwah)]]
 - [[jeel-mawoud-wiki/entities/scholar-majdi-al-hilali|Dr. Majdi al-Hilali (مجدي الهلالي)]]
 
-### meta (1 page(s))
+### meta (3 page(s))
 
-- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library
-created:]]
+- [[meta/concepts/bridge-riba|Cross-Wiki Bridge — Riba (ربا)]]
+- [[meta/concepts/bridge-usury|Cross-Wiki Bridge — Usury (ربا)]]
+- [[meta/concepts/cross-wiki-bridge-qaradawi-quran|Cross-Wiki Bridge — Quran Wiki ↔ Qaradawi Library]]
 
 ### qaradawi-library (2 page(s))
 
-- [[qaradawi-library/concepts/concept-riba|Riba (ربا)
-created:]]
-- [[qaradawi-library/concepts/concept-usury|Usury (رِبَا)
-created:]]
+- [[qaradawi-library/concepts/concept-riba|Riba (ربا)]]
+- [[qaradawi-library/concepts/concept-usury|Usury (رِبَا)]]
 
 ### quran-wiki (1 page(s))
 
-- [[quran-wiki/surah-035-fatir|Fatir (35)
-created: 2026-05-10
-updated: 2026-05-10
-type: surah
-tags: []]
+- [[quran-wiki/surah-035-fatir|Fatir (35)]]
 
 ## Concept Details
 
 **Arabic:** ربا
 **Concept:** usury
 **Wikis:** jeel-mawoud-wiki, meta, qaradawi-library, quran-wiki
-**Total pages:** 6
+**Total pages:** 8
